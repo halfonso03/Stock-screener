@@ -1,0 +1,501 @@
+ticker,company_name,sector_name
+BRK.B,Berkshire Hathaway Inc.,financials
+JPM,JPMorgan Chase & Co.,financials
+V,Visa Inc.,financials
+MA,Mastercard Incorporated,financials
+BAC,Bank of America Corporation,financials
+HSBC,HSBC Holdings plc,financials
+MS,Morgan Stanley,financials
+GS,"The Goldman Sachs Group, Inc.",financials
+WFC,Wells Fargo & Company,financials
+RY,Royal Bank of Canada,financials
+C,Citigroup Inc.,financials
+AXP,American Express Company,financials
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",financials
+TD,The Toronto-Dominion Bank,financials
+SAN,"Banco Santander, S.A.",financials
+BLK,"BlackRock, Inc.",financials
+SCHW,The Charles Schwab Corporation,financials
+BX,Blackstone Inc.,financials
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",financials
+UBS,UBS Group AG,financials
+CB,Chubb Limited,financials
+SPGI,S&P Global Inc.,financials
+HDB,HDFC Bank Limited,financials
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",financials
+COF,Capital One Financial Corporation,financials
+PGR,The Progressive Corporation,financials
+BMO,Bank of Montreal,financials
+MFG,"Mizuho Financial Group, Inc.",financials
+CME,CME Group Inc.,financials
+CM,Canadian Imperial Bank of Commerce,financials
+BN,Brookfield Corporation,financials
+IBN,ICICI Bank Limited,financials
+ITUB,ItaÃº Unibanco Holding S.A.,financials
+BNS,The Bank of Nova Scotia,financials
+BK,The Bank of New York Mellon Corporation,financials
+KKR,KKR & Co. Inc.,financials
+PNC,"The PNC Financial Services Group, Inc.",financials
+ICE,"Intercontinental Exchange, Inc.",financials
+USB,U.S. Bancorp,financials
+MRSH,"Marsh & McLennan Companies, Inc.",financials
+ING,ING Groep N.V.,financials
+MCO,Moody's Corporation,financials
+BCS,Barclays PLC,financials
+LYG,Lloyds Banking Group plc,financials
+BAM,Brookfield Asset Management Ltd.,financials
+HOOD,"Robinhood Markets, Inc.",financials
+APO,"Apollo Global Management, Inc.",financials
+NU,Nu Holdings Ltd.,financials
+AON,Aon plc,financials
+TRV,"The Travelers Companies, Inc.",financials
+MFC,Manulife Financial Corporation,financials
+TFC,Truist Financial Corporation,financials
+NWG,NatWest Group plc,financials
+DB,Deutsche Bank Aktiengesellschaft,financials
+AFL,Aflac Incorporated,financials
+ALL,The Allstate Corporation,financials
+AJG,Arthur J. Gallagher & Co.,financials
+NDAQ,"Nasdaq, Inc.",financials
+COIN,"Coinbase Global, Inc.",financials
+MET,"MetLife, Inc.",financials
+FITB,Fifth Third Bancorp,financials
+PYPL,"PayPal Holdings, Inc.",financials
+MSCI,MSCI Inc.,financials
+RKT,"Rocket Companies, Inc.",financials
+AMP,"Ameriprise Financial, Inc.",financials
+STT,State Street Corporation,financials
+AIG,"American International Group, Inc.",financials
+SLF,Sun Life Financial Inc.,financials
+BBD,Banco Bradesco S.A.,financials
+KB,KB Financial Group Inc.,financials
+HIG,"The Hartford Insurance Group, Inc.",financials
+PUK,Prudential plc,financials
+ARES,Ares Management Corporation,financials
+IX,ORIX Corporation,financials
+IBKR,"Interactive Brokers Group, Inc.",financials
+ACGL,Arch Capital Group Ltd.,financials
+PRU,"Prudential Financial, Inc.",financials
+HBAN,Huntington Bancshares Incorporated,financials
+SHG,"Shinhan Financial Group Co., Ltd.",financials
+MTB,M&T Bank Corporation,financials
+CBOE,"Cboe Global Markets, Inc.",financials
+NTRS,Northern Trust Corporation,financials
+RJF,"Raymond James Financial, Inc.",financials
+CFG,"Citizens Financial Group, Inc.",financials
+WTW,Willis Towers Watson Public Limited Company,financials
+LPLA,LPL Financial Holdings Inc.,financials
+TW,Tradeweb Markets Inc.,financials
+WRB,W. R. Berkley Corporation,financials
+SYF,Synchrony Financial,financials
+CINF,Cincinnati Financial Corporation,financials
+BAP,Credicorp Ltd.,financials
+FCNCA,"First Citizens BancShares, Inc.",financials
+RF,Regions Financial Corporation,financials
+MKL,Markel Group Inc.,financials
+KEY,KeyCorp,financials
+SOFI,"SoFi Technologies, Inc.",financials
+L,Loews Corporation,financials
+NMR,"Nomura Holdings, Inc.",financials
+CRCL,"Circle Internet Group, Inc.",financials
+BSBR,Banco Santander (Brasil) S.A.,financials
+TROW,"T. Rowe Price Group, Inc.",financials
+FUTU,Futu Holdings Limited,financials
+PFG,"Principal Financial Group, Inc.",financials
+BRO,"Brown & Brown, Inc.",financials
+AFRM,"Affirm Holdings, Inc.",financials
+BCH,Banco de Chile,financials
+CIB,Grupo Cibest S.A.,financials
+CG,The Carlyle Group Inc.,financials
+EWBC,"East West Bancorp, Inc.",financials
+WF,Woori Financial Group Inc.,financials
+TPG,TPG Inc.,financials
+BSAC,Banco Santander-Chile,financials
+EG,"Everest Group, Ltd.",financials
+BEN,"Franklin Resources, Inc.",financials
+PNFP,"Pinnacle Financial Partners, Inc.",financials
+IREN,IREN Limited,financials
+BNT,Brookfield Wealth Solutions Ltd.,financials
+EVR,Evercore Inc.,financials
+FNF,"Fidelity National Financial, Inc.",financials
+OWL,Blue Owl Capital Inc.,financials
+RGA,"Reinsurance Group of America, Incorporated",financials
+PAYP,PayPay Corporation,financials
+ALLY,Ally Financial Inc.,financials
+ARCC,Ares Capital Corporation,financials
+TRU,TransUnion,financials
+RNR,RenaissanceRe Holdings Ltd.,financials
+CNA,CNA Financial Corporation,financials
+CRBG,"Corebridge Financial, Inc.",financials
+UNM,Unum Group,financials
+AEG,Aegon Ltd.,financials
+ERIE,Erie Indemnity Company,financials
+SF,Stifel Financial Corp.,financials
+GL,Globe Life Inc.,financials
+FHN,First Horizon Corporation,financials
+EQH,"Equitable Holdings, Inc.",financials
+AIZ,"Assurant, Inc.",financials
+WBS,Webster Financial Corporation,financials
+BMNR,"Bitmine Immersion Technologies, Inc.",financials
+IVZ,Invesco Ltd.,financials
+HLI,"Houlihan Lokey, Inc.",financials
+SEIC,SEI Investments Company,financials
+AFG,"American Financial Group, Inc.",financials
+GLXY,Galaxy Digital Inc.,financials
+WULF,TeraWulf Inc.,financials
+WTFC,Wintrust Financial Corporation,financials
+XP,XP Inc.,financials
+JEF,Jefferies Financial Group Inc.,financials
+BPOP,"Popular, Inc.",financials
+ORI,Old Republic International Corporation,financials
+SSB,SouthState Bank Corporation,financials
+UMBF,UMB Financial Corporation,financials
+FCFS,"FirstCash Holdings, Inc.",financials
+ZION,"Zions Bancorporation, National Association",financials
+ONB,Old National Bancorp,financials
+FRHC,Freedom Holding Corp.,financials
+RYAN,"Ryan Specialty Holdings, Inc.",financials
+CFR,"Cullen/Frost Bankers, Inc.",financials
+PRI,"Primerica, Inc.",financials
+WAL,Western Alliance Bancorporation,financials
+COLB,"Columbia Banking System, Inc.",financials
+FDS,FactSet Research Systems Inc.,financials
+SNEX,StoneX Group Inc.,financials
+BOKF,BOK Financial Corporation,financials
+JXN,Jackson Financial Inc.,financials
+HUT,Hut 8 Corp.,financials
+JHG,Janus Henderson Group plc,financials
+AMG,"Affiliated Managers Group, Inc.",financials
+KNSL,"Kinsale Capital Group, Inc.",financials
+CBSH,"Commerce Bancshares, Inc.",financials
+FIGR,"Figure Technology Solutions, Inc.",financials
+VIRT,"Virtu Financial, Inc.",financials
+VLY,Valley National Bancorp,financials
+VOYA,"Voya Financial, Inc.",financials
+GGAL,Grupo Financiero Galicia S.A.,financials
+AXS,AXIS Capital Holdings Limited,financials
+FAF,First American Financial Corporation,financials
+LNC,Lincoln National Corporation,financials
+MORN,"Morningstar, Inc.",financials
+PB,"Prosperity Bancshares, Inc.",financials
+OMF,"OneMain Holdings, Inc.",financials
+GBCI,"Glacier Bancorp, Inc.",financials
+THG,"The Hanover Insurance Group, Inc.",financials
+FNB,F.N.B. Corporation,financials
+RIOT,"Riot Platforms, Inc.",financials
+PIPR,Piper Sandler Companies,financials
+PJT,PJT Partners Inc.,financials
+MTG,MGIC Investment Corporation,financials
+CBC,"Central Bancompany, Inc.",financials
+ACT,"Enact Holdings, Inc.",financials
+STEP,StepStone Group Inc.,financials
+UBSI,"United Bankshares, Inc.",financials
+ESNT,Essent Group Ltd.,financials
+UWMC,UWM Holdings Corporation,financials
+FLG,"Flagstar Bank, National Association",financials
+ABCB,Ameris Bancorp,financials
+OBDC,Blue Owl Capital Corporation,financials
+MKTX,MarketAxess Holdings Inc.,financials
+AX,"Axos Financial, Inc.",financials
+MC,Moelis & Company,financials
+BXSL,Blackstone Secured Lending Fund,financials
+CACC,Credit Acceptance Corporation,financials
+WTM,"White Mountains Insurance Group, Ltd.",financials
+HWC,Hancock Whitney Corporation,financials
+HOMB,"Home BancShares, Inc.",financials
+MCY,Mercury General Corporation,financials
+AUB,Atlantic Union Bankshares Corporation,financials
+BGC,"BGC Group, Inc.",financials
+OZK,Bank OZK,financials
+HASI,"HA Sustainable Infrastructure Capital, Inc.",financials
+AVAL,Grupo Aval Acciones y Valores S.A.,financials
+ASB,Associated Banc-Corp,financials
+NNI,"Nelnet, Inc.",financials
+BMA,Banco Macro S.A.,financials
+SIGI,"Selective Insurance Group, Inc.",financials
+HLNE,Hamilton Lane Incorporated,financials
+LMND,"Lemonade, Inc.",financials
+OTF,Blue Owl Technology Finance Corp.,financials
+IFS,Intercorp Financial Services Inc.,financials
+MAIN,Main Street Capital Corporation,financials
+RDN,Radian Group Inc.,financials
+RLI,RLI Corp.,financials
+VCTR,"Victory Capital Holdings, Inc.",financials
+PFSI,"PennyMac Financial Services, Inc.",financials
+MAAS,Maase Inc.,financials
+FFIN,"First Financial Bankshares, Inc.",financials
+LAZ,"Lazard, Inc.",financials
+IBOC,International Bancshares Corporation,financials
+MIAX,"Miami International Holdings, Inc.",financials
+EBC,"Eastern Bankshares, Inc.",financials
+SLM,SLM Corporation,financials
+TCBI,"Texas Capital Bancshares, Inc.",financials
+SFBS,"ServisFirst Bancshares, Inc.",financials
+ENVA,"Enova International, Inc.",financials
+TFSL,TFS Financial Corporation,financials
+MARA,"MARA Holdings, Inc.",financials
+CNO,"CNO Financial Group, Inc.",financials
+FULT,Fulton Financial Corporation,financials
+FHI,"Federated Hermes, Inc.",financials
+UCB,"United Community Banks, Inc.",financials
+FG,"F&G Annuities & Life, Inc.",financials
+BANF,BancFirst Corporation,financials
+INDB,Independent Bank Corp.,financials
+MRX,Marex Group plc,financials
+WSFS,WSFS Financial Corporation,financials
+AGO,Assured Guaranty Ltd.,financials
+CATY,Cathay General Bancorp,financials
+FBP,First BanCorp.,financials
+RNST,Renasant Corporation,financials
+NP,Neptune Insurance Holdings Inc.,financials
+HGTY,"Hagerty, Inc.",financials
+AB,AllianceBernstein Holding L.P.,financials
+BHF,"Brighthouse Financial, Inc.",financials
+CNS,"Cohen & Steers, Inc.",financials
+GBDC,"Golub Capital BDC, Inc.",financials
+GNW,"Genworth Financial, Inc.",financials
+BFH,"Bread Financial Holdings, Inc.",financials
+FIBK,"First Interstate BancSystem, Inc.",financials
+BKU,"BankUnited, Inc.",financials
+MCHB,Mechanics Bancorp,financials
+INTR,"Inter & Co, Inc.",financials
+BWIN,"The Baldwin Insurance Group, Inc.",financials
+PLMR,"Palomar Holdings, Inc.",financials
+WSBC,"WesBanco, Inc.",financials
+CBU,"Community Financial System, Inc.",financials
+FHB,"First Hawaiian, Inc.",financials
+SII,Sprott Inc.,financials
+TOWN,TowneBank,financials
+BBAR,Banco BBVA Argentina S.A.,financials
+HG,"Hamilton Insurance Group, Ltd.",financials
+FFBC,First Financial Bancorp.,financials
+PRK,Park National Corporation,financials
+NMIH,"NMI Holdings, Inc.",financials
+NIC,"Nicolet Bankshares, Inc.",financials
+UPST,"Upstart Holdings, Inc.",financials
+SFNC,Simmons First National Corporation,financials
+BOH,Bank of Hawaii Corporation,financials
+SBCF,Seacoast Banking Corporation of Florida,financials
+APAM,Artisan Partners Asset Management Inc.,financials
+FSK,FS KKR Capital Corp.,financials
+CLSK,"CleanSpark, Inc.",financials
+PFS,"Provident Financial Services, Inc.",financials
+ARX,Accelerant Holdings,financials
+CRVL,CorVel Corporation,financials
+DBRG,"DigitalBridge Group, Inc.",financials
+BANC,"Banc of California, Inc.",financials
+ETOR,eToro Group Ltd.,financials
+HTGC,"Hercules Capital, Inc.",financials
+FBK,FB Financial Corporation,financials
+WU,The Western Union Company,financials
+CVBF,CVB Financial Corp.,financials
+SPNT,SiriusPoint Ltd.,financials
+XXI,"Twenty One Capital, Inc.",financials
+SEZL,Sezzle Inc.,financials
+TRMK,Trustmark Corporation,financials
+BBT,Beacon Financial Corporation,financials
+WAFD,"WaFd, Inc.",financials
+CUBI,"Customers Bancorp, Inc.",financials
+TBBK,"The Bancorp, Inc.",financials
+FRME,First Merchants Corporation,financials
+FBNC,First Bancorp,financials
+AAMI,Acadian Asset Management Inc.,financials
+SLDE,"Slide Insurance Holdings, Inc.",financials
+NBTB,NBT Bancorp Inc.,financials
+WT,"WisdomTree, Inc.",financials
+BANR,Banner Corporation,financials
+MBIN,Merchants Bancorp,financials
+BUSE,First Busey Corporation,financials
+HTH,Hilltop Holdings Inc.,financials
+NTB,The Bank of N.T. Butterfield & Son Limited,financials
+GCMG,GCM Grosvenor Inc.,financials
+EFSC,Enterprise Financial Services Corp,financials
+STC,Stewart Information Services Corporation,financials
+SYBT,"Stock Yards Bancorp, Inc.",financials
+NWBI,"Northwest Bancshares, Inc.",financials
+HCI,"HCI Group, Inc.",financials
+PWP,Perella Weinberg Partners,financials
+SKWD,"Skyward Specialty Insurance Group, Inc.",financials
+PAX,Patria Investments Limited,financials
+BLX,"Banco Latinoamericano de Comercio Exterior, S. A.",financials
+EZPW,"EZCORP, Inc.",financials
+CLBK,"Columbia Financial, Inc.",financials
+KMPR,Kemper Corporation,financials
+LC,LendingClub Corporation,financials
+OFG,OFG Bancorp,financials
+FCF,First Commonwealth Financial Corporation,financials
+NBHC,National Bank Holdings Corporation,financials
+STEL,"Stellar Bancorp, Inc.",financials
+CASH,"Pathward Financial, Inc.",financials
+AGM,Federal Agricultural Mortgage Corporation,financials
+HMN,Horace Mann Educators Corporation,financials
+AGM.A,Federal Agricultural Mortgage Corporation,financials
+FIHL,Fidelis Insurance Holdings Limited,financials
+TSLX,"Sixth Street Specialty Lending, Inc.",financials
+ECPG,"Encore Capital Group, Inc.",financials
+LOB,"Live Oak Bancshares, Inc.",financials
+SRCE,1st Source Corporation,financials
+CHCO,City Holding Company,financials
+WD,"Walker & Dunlop, Inc.",financials
+GSHD,"Goosehead Insurance, Inc.",financials
+BFC,Bank First Corporation,financials
+HOPE,"Hope Bancorp, Inc.",financials
+LU,Lufax Holding Ltd,financials
+BTX,BlackRock Innovation and Growth Term Trust,financials
+TCBK,TriCo Bancshares,financials
+GABC,"German American Bancorp, Inc.",financials
+STBA,"S&T Bancorp, Inc.",financials
+TFIN,"Triumph Financial, Inc.",financials
+DCOM,"Dime Community Bancshares, Inc.",financials
+QFIN,"Qfin Holdings, Inc.",financials
+CET,Central Securities Corporation,financials
+LKFN,Lakeland Financial Corporation,financials
+QCRH,"QCR Holdings, Inc.",financials
+XZO,"Exzeo Group, Inc.",financials
+BY,"Byline Bancorp, Inc.",financials
+PICS,PicS N.V.,financials
+CNOB,"ConnectOne Bancorp, Inc.",financials
+RBCAA,"Republic Bancorp, Inc.",financials
+BST,BlackRock Science and Technology Trust,financials
+OBK,"Origin Bancorp, Inc.",financials
+SBET,"Sharplink, Inc.",financials
+CSWC,Capital Southwest Corporation,financials
+TRIN,Trinity Capital Inc.,financials
+PSEC,Prospect Capital Corporation,financials
+CCB,Coastal Financial Corporation,financials
+MSDL,Morgan Stanley Direct Lending Fund,financials
+WABC,Westamerica Bancorporation,financials
+JCAP,"Jefferson Capital, Inc.",financials
+GOLD,"Gold.com, Inc.",financials
+PRA,ProAssurance Corporation,financials
+FINV,FinVolution Group,financials
+DSL,DoubleLine Income Solutions Fund,financials
+ABTC,American Bitcoin Corp.,financials
+AMAL,Amalgamated Financial Corp.,financials
+PEBO,Peoples Bancorp Inc.,financials
+TMP,Tompkins Financial Corporation,financials
+CTBI,"Community Trust Bancorp, Inc.",financials
+AGBK,AGI Inc,financials
+OPY,Oppenheimer Holdings Inc.,financials
+ASA,ASA Gold and Precious Metals Limited,financials
+TIGR,UP Fintech Holding Limited,financials
+ATLC,Atlanticus Holdings Corporation,financials
+FMBH,"First Mid Bancshares, Inc.",financials
+BTGO,"Bitgo Holdings, Inc.",financials
+UVE,"Universal Insurance Holdings, Inc.",financials
+HFWA,Heritage Financial Corporation,financials
+PFBC,Preferred Bank,financials
+SAFT,"Safety Insurance Group, Inc.",financials
+LIFE,Ethos Technologies Inc.,financials
+MCB,Metropolitan Bank Holding Corp.,financials
+IGIC,International General Insurance Holdings Ltd.,financials
+OCSL,Oaktree Specialty Lending Corporation,financials
+ASST,"Strive Asset Management, LLC",financials
+OCFC,OceanFirst Financial Corp.,financials
+NBN,Northeast Bank,financials
+TWFG,"TWFG, Inc.",financials
+GSBD,"Goldman Sachs BDC, Inc.",financials
+TRUP,"Trupanion, Inc.",financials
+OSBC,"Old Second Bancorp, Inc.",financials
+UVSP,Univest Financial Corporation,financials
+MFIC,MidCap Financial Investment Corporation,financials
+UFCS,"United Fire Group, Inc.",financials
+BUR,Burford Capital Limited,financials
+HBT,"HBT Financial, Inc.",financials
+FSUN,FirstSun Capital Bancorp,financials
+KBDC,"Kayne Anderson BDC, Inc.",financials
+TYG,Tortoise Energy Infrastructure Corporation,financials
+CFFN,"Capitol Federal Financial, Inc.",financials
+SBSI,"Southside Bancshares, Inc.",financials
+BHRB,Burke & Herbert Financial Services Corp.,financials
+ASIC,Ategrity Specialty Insurance Company Holdings,financials
+VRTS,"Virtus Investment Partners, Inc.",financials
+EQBK,"Equity Bancshares, Inc.",financials
+MCBS,"MetroCity Bankshares, Inc.",financials
+BBDC,"Barings BDC, Inc.",financials
+HBNC,"Horizon Bancorp, Inc.",financials
+PRCH,"Porch Group, Inc.",financials
+HAFC,Hanmi Financial Corporation,financials
+CCNE,CNB Financial Corporation,financials
+CPF,Central Pacific Financial Corp.,financials
+AMTB,Amerant Bancorp Inc.,financials
+ABX,"Abacus Global Management, Inc.",financials
+MBWM,Mercantile Bank Corporation,financials
+BFST,"Business First Bancshares, Inc.",financials
+HRTG,"Heritage Insurance Holdings, Inc.",financials
+ESQ,"Esquire Financial Holdings, Inc.",financials
+PFLT,PennantPark Floating Rate Capital Ltd.,financials
+BCSF,"Bain Capital Specialty Finance, Inc.",financials
+RPC,"Ridgepost Capital, Inc",financials
+MPB,"Mid Penn Bancorp, Inc.",financials
+NAVI,Navient Corporation,financials
+FSBC,Five Star Bancorp,financials
+CAC,Camden National Corporation,financials
+PRAA,"PRA Group, Inc.",financials
+FMNB,Farmers National Banc Corp.,financials
+SLRC,SLR Investment Corp.,financials
+ROOT,"Root, Inc.",financials
+NBBK,"NB Bancorp, Inc.",financials
+SPFI,"South Plains Financial, Inc.",financials
+FCBC,"First Community Bankshares, Inc.",financials
+TRST,TrustCo Bank Corp NY,financials
+SUPV,Grupo Supervielle S.A.,financials
+NMFC,New Mountain Finance Corporation,financials
+CCBG,"Capital City Bank Group, Inc.",financials
+CGBD,"Carlyle Secured Lending, Inc.",financials
+EIG,"Employers Holdings, Inc.",financials
+EGBN,"Eagle Bancorp, Inc.",financials
+THFF,First Financial Corporation,financials
+BOW,Bowhead Specialty Holdings Inc.,financials
+BETR,Better Home & Finance Holding Company,financials
+AXG,Solowin Holdings,financials
+VEL,"Velocity Financial, Inc.",financials
+HTB,"HomeTrust Bancshares, Inc.",financials
+SMBC,"Southern Missouri Bancorp, Inc.",financials
+OPFI,OppFi Inc.,financials
+PGC,Peapack-Gladstone Financial Corporation,financials
+CSHR,CoinShares PLC,financials
+HIPO,Hippo Holdings Inc.,financials
+GSBC,"Great Southern Bancorp, Inc.",financials
+WRLD,World Acceptance Corporation,financials
+ORRF,"Orrstown Financial Services, Inc.",financials
+PURR,Hyperliquid Strategies Inc.,financials
+SMBK,"SmartFinancial, Inc.",financials
+VINP,Vinci Compass Investments Ltd.,financials
+NCDL,Nuveen Churchill Direct Lending Corp.,financials
+FDUS,Fidus Investment Corporation,financials
+IBCP,Independent Bank Corporation,financials
+NOAH,Noah Holdings Limited,financials
+TREE,"LendingTree, Inc.",financials
+TBLD,Thornburg Income Builder Opportunities Trust,financials
+DGICB,Donegal Group Inc.,financials
+FISI,"Financial Institutions, Inc.",financials
+GDOT,Green Dot Corporation,financials
+ALRS,Alerus Financial Corporation,financials
+DGICA,Donegal Group Inc.,financials
+SHBI,"Shore Bancshares, Inc.",financials
+TIPT,Tiptree Inc.,financials
+GAIN,Gladstone Investment Corporation,financials
+HIFS,Hingham Institution for Savings,financials
+DMII,Drugs Made In America Acquisition II Corp.,financials
+TCBX,"Third Coast Bancshares, Inc.",financials
+GLRE,"Greenlight Capital Re, Ltd.",financials
+RRBI,"Red River Bancshares, Inc.",financials
+AROW,Arrow Financial Corporation,financials
+WDH,Waterdrop Inc.,financials
+NPB,"Northpointe Bancshares, Inc.",financials
+WASH,"Washington Trust Bancorp, Inc.",financials
+BCAL,California BanCorp,financials
+BCSS,Bain Capital GSS Investment Corp.,financials
+AMSF,"AMERISAFE, Inc.",financials
+EVAC,EQV Ventures Acquisition Corp. II,financials
+NFBK,"Northfield Bancorp, Inc.",financials
+VBNK,VersaBank,financials
+PFIS,Peoples Financial Services Corp.,financials
+BHB,Bar Harbor Bankshares,financials
+CEPF,"Cantor Equity Partners IV, Inc.",financials
+ACIC,American Coastal Insurance Corporation,financials
+HIVE,HIVE Digital Technologies Ltd.,financials
+MSIF,"MSC Income Fund, Inc.",financials
+CCXI,Churchill Capital Corp XI,financials
+NRIM,"Northrim BanCorp, Inc.",financials

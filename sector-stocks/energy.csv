@@ -1,0 +1,253 @@
+ticker,company_name,sector_name
+XOM,Exxon Mobil Corporation,energy
+CVX,Chevron Corporation,energy
+SHEL,Shell plc,energy
+TTE,TotalEnergies SE,energy
+COP,ConocoPhillips,energy
+PBR,PetrÃ³leo Brasileiro S.A. - Petrobras,energy
+PBR.A,PetrÃ³leo Brasileiro S.A. - Petrobras,energy
+BP,BP p.l.c.,energy
+ENB,Enbridge Inc.,energy
+CNQ,Canadian Natural Resources Limited,energy
+EQNR,Equinor ASA,energy
+WMB,"The Williams Companies, Inc.",energy
+SLB,SLB N.V.,energy
+EPD,Enterprise Products Partners L.P.,energy
+E,Eni S.p.A.,energy
+SU,Suncor Energy Inc.,energy
+EOG,"EOG Resources, Inc.",energy
+VLO,Valero Energy Corporation,energy
+KMI,"Kinder Morgan, Inc.",energy
+MPC,Marathon Petroleum Corporation,energy
+BKR,Baker Hughes Company,energy
+ET,Energy Transfer LP,energy
+PSX,Phillips 66,energy
+TRP,TC Energy Corporation,energy
+IMO,Imperial Oil Limited,energy
+OXY,Occidental Petroleum Corporation,energy
+OKE,"ONEOK, Inc.",energy
+FANG,"Diamondback Energy, Inc.",energy
+MPLX,MPLX LP,energy
+LNG,"Cheniere Energy, Inc.",energy
+TRGP,Targa Resources Corp.,energy
+CCJ,Cameco Corporation,energy
+CVE,Cenovus Energy Inc.,energy
+WDS,Woodside Energy Group Ltd,energy
+EQT,EQT Corporation,energy
+HAL,Halliburton Company,energy
+TS,Tenaris S.A.,energy
+CQP,"Cheniere Energy Partners, L.P.",energy
+DVN,Devon Energy Corporation,energy
+VG,"Venture Global, Inc.",energy
+FTI,TechnipFMC plc,energy
+TPL,Texas Pacific Land Corporation,energy
+EC,Ecopetrol S.A.,energy
+CTRA,Coterra Energy Inc.,energy
+PBA,Pembina Pipeline Corporation,energy
+EXE,Expand Energy Corporation,energy
+YPF,YPF Sociedad AnÃ³nima,energy
+PR,Permian Resources Corporation,energy
+VNOM,"Viper Energy, Inc.",energy
+OVV,Ovintiv Inc.,energy
+WES,"Western Midstream Partners, LP",energy
+PAA,"Plains All American Pipeline, L.P.",energy
+DTM,"DT Midstream, Inc.",energy
+APA,APA Corporation,energy
+AR,Antero Resources Corporation,energy
+DINO,HF Sinclair Corporation,energy
+AM,Antero Midstream Corporation,energy
+RRC,Range Resources Corporation,energy
+SUN,Sunoco LP,energy
+NFG,National Fuel Gas Company,energy
+NXE,NexGen Energy Ltd.,energy
+NE,Noble Corporation plc,energy
+FRO,Frontline plc,energy
+CHRD,Chord Energy Corporation,energy
+KNTK,Kinetik Holdings Inc.,energy
+WFRD,Weatherford International plc,energy
+HESM,Hess Midstream LP,energy
+VIST,"Vista Energy, S.A.B. de C.V.",energy
+MTDR,Matador Resources Company,energy
+RIG,Transocean Ltd.,energy
+NOV,NOV Inc.,energy
+UEC,Uranium Energy Corp.,energy
+VAL,Valaris Limited,energy
+SM,SM Energy Company,energy
+SOBO,South Bow Corporation,energy
+AROC,"Archrock, Inc.",energy
+UGP,Ultrapar ParticipaÃ§Ãµes S.A.,energy
+CRC,California Resources Corporation,energy
+KGS,"Kodiak Gas Services, Inc.",energy
+MUR,Murphy Oil Corporation,energy
+MGY,Magnolia Oil & Gas Corporation,energy
+CNX,CNX Resources Corporation,energy
+PAGP,"Plains GP Holdings, L.P.",energy
+LBRT,Liberty Energy Inc.,energy
+GLNG,Golar LNG Limited,energy
+SEI,"Solaris Energy Infrastructure, Inc.",energy
+LB,LandBridge Company LLC,energy
+IEP,Icahn Enterprises L.P.,energy
+UUUU,Energy Fuels Inc.,energy
+CRK,"Comstock Resources, Inc.",energy
+TGS,Transportadora de Gas del Sur S.A.,energy
+PBF,PBF Energy Inc.,energy
+CNR,"Core Natural Resources, Inc.",energy
+WHD,"Cactus, Inc.",energy
+PTEN,"Patterson-UTI Energy, Inc.",energy
+TDW,Tidewater Inc.,energy
+CRGY,Crescent Energy Company,energy
+CSAN,Cosan S.A.,energy
+INSW,"International Seaways, Inc.",energy
+LEU,Centrus Energy Corp.,energy
+USAC,"USA Compression Partners, LP",energy
+HP,"Helmerich & Payne, Inc.",energy
+CMBT,Cmb.Tech NV,energy
+STNG,Scorpio Tankers Inc.,energy
+EE,"Excelerate Energy, Inc.",energy
+OII,"Oceaneering International, Inc.",energy
+BTE,Baytex Energy Corp.,energy
+WBI,WaterBridge Infrastructure LLC,energy
+GPOR,Gulfport Energy Corporation,energy
+ARLP,"Alliance Resource Partners, L.P.",energy
+DNN,Denison Mines Corp.,energy
+BKV,BKV Corporation,energy
+SUNC,SunocoCorp LLC,energy
+CVI,"CVR Energy, Inc.",energy
+BTU,Peabody Energy Corporation,energy
+TRMD,TORM plc,energy
+SDRL,Seadrill Limited,energy
+PARR,"Par Pacific Holdings, Inc.",energy
+EFXT,Enerflex Ltd.,energy
+BSM,"Black Stone Minerals, L.P.",energy
+DHT,"DHT Holdings, Inc.",energy
+NOG,"Northern Oil and Gas, Inc.",energy
+DKL,"Delek Logistics Partners, LP",energy
+TNK,Teekay Tankers Ltd.,energy
+TALO,Talos Energy Inc.,energy
+NESR,National Energy Services Reunited Corp.,energy
+DK,"Delek US Holdings, Inc.",energy
+WTTR,"Select Water Solutions, Inc.",energy
+MNR,Mach Natural Resources LP,energy
+FLOC,Flowco Holdings Inc.,energy
+PUMP,ProPetro Holding Corp.,energy
+AESI,Atlas Energy Solutions Inc.,energy
+GEL,"Genesis Energy, L.P.",energy
+XPRO,Expro Group Holdings N.V.,energy
+NEXT,NextDecade Corporation,energy
+NGL,NGL Energy Partners LP,energy
+SOC,Sable Offshore Corp.,energy
+INVX,"Innovex International, Inc.",energy
+VET,Vermilion Energy Inc.,energy
+BORR,Borr Drilling Limited,energy
+KOS,Kosmos Energy Ltd.,energy
+RES,"RPC, Inc.",energy
+FLNG,FLEX LNG Ltd.,energy
+LPG,Dorian LPG Ltd.,energy
+KRP,"Kimbell Royalty Partners, LP",energy
+GLP,Global Partners LP,energy
+NRP,Natural Resource Partners L.P.,energy
+HLX,"Helix Energy Solutions Group, Inc.",energy
+VTOL,Bristow Group Inc.,energy
+NVGS,Navigator Holdings Ltd.,energy
+NBR,Nabors Industries Ltd.,energy
+WKC,World Kinect Corporation,energy
+DMLP,"Dorchester Minerals, L.P.",energy
+NPKI,NPK International Inc.,energy
+ACDC,ProFrac Holding Corp.,energy
+PDS,Precision Drilling Corporation,energy
+TEN,Tsakos Energy Navigation Limited,energy
+NAT,Nordic American Tankers Limited,energy
+DEC,Diversified Energy Company,energy
+TK,Teekay Corporation Ltd.,energy
+SBR,Sabine Royalty Trust,energy
+PBT,Permian Basin Royalty Trust,energy
+INR,"Infinity Natural Resources, Inc.",energy
+TBN,Tamboran Resources Corporation,energy
+OBE,Obsidian Energy Ltd.,energy
+HMH,HMH Holding Inc.,energy
+APC,ARKO Petroleum Corp.,energy
+HPK,"HighPeak Energy, Inc.",energy
+CAPL,CrossAmerica Partners LP,energy
+VTS,"Vitesse Energy, Inc.",energy
+GFR,Greenfire Resources Ltd.,energy
+REPX,"Riley Exploration Permian, Inc.",energy
+CLB,Core Laboratories Inc.,energy
+GRNT,"Granite Ridge Resources, Inc.",energy
+HNRG,Hallador Energy Company,energy
+FET,"Forum Energy Technologies, Inc.",energy
+ISOU,IsoEnergy Ltd.,energy
+OIS,"Oil States International, Inc.",energy
+EGY,"VAALCO Energy, Inc.",energy
+URG,Ur-Energy Inc.,energy
+TXO,"TXO Partners, L.P.",energy
+FTK,"Flotek Industries, Inc.",energy
+GPRK,GeoPark Limited,energy
+WTI,"W&T Offshore, Inc.",energy
+SD,"SandRidge Energy, Inc.",energy
+UROY,Uranium Royalty Corp.,energy
+NGS,"Natural Gas Services Group, Inc.",energy
+CLNE,Clean Energy Fuels Corp.,energy
+SMC,Summit Midstream Corporation,energy
+SGU,"Star Group, L.P.",energy
+RNGR,"Ranger Energy Services, Inc.",energy
+NINE,"Nine Energy Service, Inc.",energy
+NOA,North American Construction Group Ltd.,energy
+EU,enCore Energy Corp.,energy
+NC,"NACCO Industries, Inc.",energy
+KNOP,KNOT Offshore Partners LP,energy
+REI,"Ring Energy, Inc.",energy
+PNRG,PrimeEnergy Resources Corporation,energy
+NUCL,Eagle Nuclear Energy Corp.,energy
+GTE,Gran Tierra Energy Inc.,energy
+FTW,Presidio Production Company,energy
+AMPY,Amplify Energy Corp.,energy
+ANNA,"AleAnna, Inc.",energy
+SND,"Smart Sand, Inc.",energy
+PED,PEDEVCO Corp.,energy
+IMPP,Imperial Petroleum Inc.,energy
+OMSE,OMS Energy Technologies Inc.,energy
+NCSM,"NCS Multistage Holdings, Inc.",energy
+KGEI,Kolibri Global Energy Inc.,energy
+SJT,San Juan Basin Royalty Trust,energy
+EPSN,Epsilon Energy Ltd.,energy
+NFE,New Fortress Energy Inc.,energy
+TORO,Toro Corp.,energy
+EPM,Evolution Petroleum Corporation,energy
+DLNG,Dynagas LNG Partners LP,energy
+GEOS,Geospace Technologies Corporation,energy
+PROP,Prairie Operating Co.,energy
+DTI,Drilling Tools International Corporation,energy
+DWSN,Dawson Geophysical Company,energy
+MMLP,Martin Midstream Partners L.P.,energy
+EP,Empire Petroleum Corporation,energy
+AEC,Anfield Energy Inc.,energy
+RCON,"Recon Technology, Ltd.",energy
+LSE,"Leishen Energy Holding Co., Ltd.",energy
+GLND,Greenland Energy Company,energy
+BATL,Battalion Oil Corporation,energy
+NRT,North European Oil Royalty Trust,energy
+SLNG,"Stabilis Solutions, Inc.",energy
+KLXE,"KLX Energy Services Holdings, Inc.",energy
+CRT,Cross Timbers Royalty Trust,energy
+PVL,Permianville Royalty Trust,energy
+VOC,VOC Energy Trust,energy
+JAGU,Jaguar Uranium Corp.,energy
+USEG,U.S. Energy Corp.,energy
+INDO,Indonesia Energy Corporation Limited,energy
+PXS,Pyxis Tankers Inc.,energy
+EONR,EON Resources Inc.,energy
+PRT,PermRock Royalty Trust,energy
+TMDE,TMD Energy Limited,energy
+CKX,"CKX Lands, Inc.",energy
+SKYQ,Sky Quarry Inc.,energy
+MXC,Mexco Energy Corporation,energy
+TPET,Trio Petroleum Corp.,energy
+STAK,STAK Inc.,energy
+BRN,"Barnwell Industries, Inc.",energy
+RBNE,Robin Energy Ltd.,energy
+BANL,CBL International Limited,energy
+DLXY,Delixy Holdings Limited,energy
+TOPS,Top Ships Inc.,energy
+MARPS,Marine Petroleum Trust,energy
+MTR,Mesa Royalty Trust,energy
+VIVK,"Vivakor, Inc.",energy

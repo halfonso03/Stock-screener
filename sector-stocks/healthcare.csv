@@ -1,0 +1,501 @@
+ticker,company_name,sector_name
+LLY,Eli Lilly and Company,healthcare
+JNJ,Johnson & Johnson,healthcare
+ABBV,AbbVie Inc.,healthcare
+UNH,UnitedHealth Group Incorporated,healthcare
+AZN,AstraZeneca PLC,healthcare
+NVS,Novartis AG,healthcare
+MRK,"Merck & Co., Inc.",healthcare
+NVO,Novo Nordisk A/S,healthcare
+AMGN,Amgen Inc.,healthcare
+TMO,Thermo Fisher Scientific Inc.,healthcare
+ISRG,"Intuitive Surgical, Inc.",healthcare
+ABT,Abbott Laboratories,healthcare
+GILD,"Gilead Sciences, Inc.",healthcare
+PFE,Pfizer Inc.,healthcare
+DHR,Danaher Corporation,healthcare
+SYK,Stryker Corporation,healthcare
+BMY,Bristol-Myers Squibb Company,healthcare
+SNY,Sanofi,healthcare
+VRTX,Vertex Pharmaceuticals Incorporated,healthcare
+GSK,GSK plc,healthcare
+MDT,Medtronic plc,healthcare
+CVS,CVS Health Corporation,healthcare
+MCK,McKesson Corporation,healthcare
+HCA,"HCA Healthcare, Inc.",healthcare
+BSX,Boston Scientific Corporation,healthcare
+ELV,"Elevance Health, Inc.",healthcare
+CI,The Cigna Group,healthcare
+REGN,"Regeneron Pharmaceuticals, Inc.",healthcare
+COR,"Cencora, Inc.",healthcare
+MDLN,Medline Inc.,healthcare
+TAK,Takeda Pharmaceutical Company Limited,healthcare
+ZTS,Zoetis Inc.,healthcare
+ARGX,argenx SE,healthcare
+CAH,"Cardinal Health, Inc.",healthcare
+EW,Edwards Lifesciences Corporation,healthcare
+IDXX,"IDEXX Laboratories, Inc.",healthcare
+BDX,"Becton, Dickinson and Company",healthcare
+HLN,Haleon plc,healthcare
+ALNY,"Alnylam Pharmaceuticals, Inc.",healthcare
+TEVA,Teva Pharmaceutical Industries Limited,healthcare
+ALC,Alcon Inc.,healthcare
+ONC,BeOne Medicines AG,healthcare
+A,"Agilent Technologies, Inc.",healthcare
+RMD,ResMed Inc.,healthcare
+GEHC,GE HealthCare Technologies Inc.,healthcare
+RVMD,"Revolution Medicines, Inc.",healthcare
+WAT,Waters Corporation,healthcare
+RPRX,Royalty Pharma plc,healthcare
+INSM,Insmed Incorporated,healthcare
+NTRA,"Natera, Inc.",healthcare
+HUM,Humana Inc.,healthcare
+BIIB,Biogen Inc.,healthcare
+IQV,IQVIA Holdings Inc.,healthcare
+VEEV,Veeva Systems Inc.,healthcare
+BNTX,BioNTech SE,healthcare
+PHG,Koninklijke Philips N.V.,healthcare
+MTD,Mettler-Toledo International Inc.,healthcare
+UTHR,United Therapeutics Corporation,healthcare
+CNC,Centene Corporation,healthcare
+DXCM,"DexCom, Inc.",healthcare
+DGX,Quest Diagnostics Incorporated,healthcare
+STE,STERIS plc,healthcare
+LH,Labcorp Holdings Inc.,healthcare
+WST,"West Pharmaceutical Services, Inc.",healthcare
+ROIV,Roivant Sciences Ltd.,healthcare
+INCY,Incyte Corporation,healthcare
+ILMN,"Illumina, Inc.",healthcare
+MRNA,"Moderna, Inc.",healthcare
+VTRS,Viatris Inc.,healthcare
+SMMT,Summit Therapeutics Inc.,healthcare
+GMAB,Genmab A/S,healthcare
+ZBH,"Zimmer Biomet Holdings, Inc.",healthcare
+THC,Tenet Healthcare Corporation,healthcare
+RGC,Regencell Bioscience Holdings Limited,healthcare
+ASND,Ascendis Pharma A/S,healthcare
+BBIO,"BridgeBio Pharma, Inc.",healthcare
+SNN,Smith & Nephew plc,healthcare
+NBIX,"Neurocrine Biosciences, Inc.",healthcare
+PEN,"Penumbra, Inc.",healthcare
+ALGN,"Align Technology, Inc.",healthcare
+PODD,Insulet Corporation,healthcare
+JAZZ,Jazz Pharmaceuticals plc,healthcare
+GMED,"Globus Medical, Inc.",healthcare
+COO,"The Cooper Companies, Inc.",healthcare
+FMS,Fresenius Medical Care AG,healthcare
+RDY,Dr. Reddy's Laboratories Limited,healthcare
+IONS,"Ionis Pharmaceuticals, Inc.",healthcare
+MDGL,"Madrigal Pharmaceuticals, Inc.",healthcare
+SOLV,Solventum Corporation,healthcare
+MEDP,"Medpace Holdings, Inc.",healthcare
+EXEL,"Exelixis, Inc.",healthcare
+ELAN,Elanco Animal Health Incorporated,healthcare
+ENSG,"The Ensign Group, Inc.",healthcare
+GH,"Guardant Health, Inc.",healthcare
+BMRN,BioMarin Pharmaceutical Inc.,healthcare
+EHC,Encompass Health Corporation,healthcare
+UHS,"Universal Health Services, Inc.",healthcare
+DVA,DaVita Inc.,healthcare
+ARWR,"Arrowhead Pharmaceuticals, Inc.",healthcare
+BTSG,"BrightSpring Health Services, Inc.",healthcare
+MOH,"Molina Healthcare, Inc.",healthcare
+RVTY,"Revvity, Inc.",healthcare
+AXSM,"Axsome Therapeutics, Inc.",healthcare
+MASI,Masimo Corporation,healthcare
+BAX,Baxter International Inc.,healthcare
+TEM,"Tempus AI, Inc.",healthcare
+PRAX,"Praxis Precision Medicines, Inc.",healthcare
+ABVX,ABIVAX SociÃ©tÃ© Anonyme,healthcare
+HSIC,"Henry Schein, Inc.",healthcare
+PCVX,"Vaxcyte, Inc.",healthcare
+TECH,Bio-Techne Corporation,healthcare
+CRL,"Charles River Laboratories International, Inc.",healthcare
+ATR,"AptarGroup, Inc.",healthcare
+NUVL,"Nuvalent, Inc.",healthcare
+KRYS,"Krystal Biotech, Inc.",healthcare
+ICLR,ICON Public Limited Company,healthcare
+HALO,"Halozyme Therapeutics, Inc.",healthcare
+CYTK,"Cytokinetics, Incorporated",healthcare
+BIO,"Bio-Rad Laboratories, Inc.",healthcare
+IBRX,"ImmunityBio, Inc.",healthcare
+QGEN,Qiagen N.V.,healthcare
+GKOS,Glaukos Corporation,healthcare
+HQY,"HealthEquity, Inc.",healthcare
+KYMR,"Kymera Therapeutics, Inc.",healthcare
+ACLX,"Arcellx, Inc.",healthcare
+RGEN,Repligen Corporation,healthcare
+GRFS,"Grifols, S.A.",healthcare
+PTGX,"Protagonist Therapeutics, Inc.",healthcare
+HIMS,"Hims & Hers Health, Inc.",healthcare
+APGE,"Apogee Therapeutics, Inc.",healthcare
+BLTE,"Belite Bio, Inc",healthcare
+TERN,"Terns Pharmaceuticals, Inc.",healthcare
+CNTA,Centessa Pharmaceuticals plc,healthcare
+TFX,Teleflex Incorporated,healthcare
+SYRE,"Spyre Therapeutics, Inc.",healthcare
+COGT,"Cogent Biosciences, Inc.",healthcare
+PTCT,"PTC Therapeutics, Inc.",healthcare
+CELC,Celcuity Inc.,healthcare
+RYTM,"Rhythm Pharmaceuticals, Inc.",healthcare
+MIRM,"Mirum Pharmaceuticals, Inc.",healthcare
+ALKS,Alkermes plc,healthcare
+CHE,Chemed Corporation,healthcare
+BLCO,Bausch + Lomb Corporation,healthcare
+CGON,"CG Oncology, Inc.",healthcare
+BRKR,Bruker Corporation,healthcare
+IMVT,"Immunovant, Inc.",healthcare
+LNTH,"Lantheus Holdings, Inc.",healthcare
+OSCR,"Oscar Health, Inc.",healthcare
+SRRK,Scholar Rock Holding Corporation,healthcare
+AVTR,"Avantor, Inc.",healthcare
+XENE,Xenon Pharmaceuticals Inc.,healthcare
+APLS,"Apellis Pharmaceuticals, Inc.",healthcare
+CAI,"Caris Life Sciences, Inc.",healthcare
+PACS,"PACS Group, Inc.",healthcare
+TGTX,"TG Therapeutics, Inc.",healthcare
+CRSP,CRISPR Therapeutics AG,healthcare
+CORT,Corcept Therapeutics Incorporated,healthcare
+WAY,Waystar Holding Corp.,healthcare
+LGND,Ligand Pharmaceuticals Incorporated,healthcare
+DNTH,"Dianthus Therapeutics, Inc.",healthcare
+FOLD,"Amicus Therapeutics, Inc.",healthcare
+DOCS,"Doximity, Inc.",healthcare
+RDNT,"RadNet, Inc.",healthcare
+ALHC,"Alignment Healthcare, Inc.",healthcare
+SHC,Sotera Health Company,healthcare
+STVN,Stevanato Group S.p.A.,healthcare
+OPCH,"Option Care Health, Inc.",healthcare
+LEGN,Legend Biotech Corporation,healthcare
+NVST,Envista Holdings Corporation,healthcare
+KNSA,"Kiniksa Pharmaceuticals International, plc",healthcare
+IRTC,"iRhythm Holdings, Inc.",healthcare
+AMRX,"Amneal Pharmaceuticals, Inc.",healthcare
+CRNX,"Crinetics Pharmaceuticals, Inc.",healthcare
+MMSI,"Merit Medical Systems, Inc.",healthcare
+ACAD,ACADIA Pharmaceuticals Inc.,healthcare
+MANE,"Veradermics, Incorporated",healthcare
+TVTX,"Travere Therapeutics, Inc.",healthcare
+VKTX,"Viking Therapeutics, Inc.",healthcare
+ORKA,"Oruka Therapeutics, Inc.",healthcare
+MMED,"MiniMed Group, Inc.",healthcare
+TWST,Twist Bioscience Corporation,healthcare
+TNGX,"Tango Therapeutics, Inc.",healthcare
+BLLN,"BillionToOne, Inc.",healthcare
+CPRX,"Catalyst Pharmaceuticals, Inc.",healthcare
+TLX,Telix Pharmaceuticals Limited,healthcare
+TMDX,"TransMedics Group, Inc.",healthcare
+OGN,Organon & Co.,healthcare
+HNGE,"Hinge Health, Inc.",healthcare
+BKD,Brookdale Senior Living Inc.,healthcare
+LIVN,LivaNova PLC,healthcare
+EWTX,"Edgewise Therapeutics, Inc.",healthcare
+LQDA,Liquidia Corporation,healthcare
+NAMS,NewAmsterdam Pharma Company N.V.,healthcare
+DNLI,Denali Therapeutics Inc.,healthcare
+PRVA,"Privia Health Group, Inc.",healthcare
+RCUS,"Arcus Biosciences, Inc.",healthcare
+GPCR,Structure Therapeutics Inc.,healthcare
+ERAS,"Erasca, Inc.",healthcare
+BEAM,Beam Therapeutics Inc.,healthcare
+ALMS,Alumis Inc.,healthcare
+ICUI,"ICU Medical, Inc.",healthcare
+DYN,"Dyne Therapeutics, Inc.",healthcare
+LFST,"LifeStance Health Group, Inc.",healthcare
+KLRA,"Kailera Therapeutics, Inc.",healthcare
+ARQT,"Arcutis Biotherapeutics, Inc.",healthcare
+CON,"Concentra Group Holdings Parent, Inc.",healthcare
+ITGR,Integer Holdings Corporation,healthcare
+NKTR,Nektar Therapeutics,healthcare
+KOD,Kodiak Sciences Inc.,healthcare
+SUPN,"Supernus Pharmaceuticals, Inc.",healthcare
+HAE,Haemonetics Corporation,healthcare
+PBH,Prestige Consumer Healthcare Inc.,healthcare
+WRBY,Warby Parker Inc.,healthcare
+TXG,"10x Genomics, Inc.",healthcare
+SLNO,"Soleno Therapeutics, Inc.",healthcare
+NHC,National HealthCare Corporation,healthcare
+IMNM,"Immunome, Inc.",healthcare
+VERA,"Vera Therapeutics, Inc.",healthcare
+VCYT,"Veracyte, Inc.",healthcare
+TARS,"Tarsus Pharmaceuticals, Inc.",healthcare
+HTFL,"HeartFlow, Inc.",healthcare
+CLDX,"Celldex Therapeutics, Inc.",healthcare
+ELVN,"Enliven Therapeutics, Inc.",healthcare
+LMAT,"LeMaitre Vascular, Inc.",healthcare
+IRON,"Disc Medicine, Inc.",healthcare
+IDYA,"IDEAYA Biosciences, Inc.",healthcare
+ACHC,"Acadia Healthcare Company, Inc.",healthcare
+ADMA,"ADMA Biologics, Inc.",healthcare
+ZLAB,Zai Lab Limited,healthcare
+RLAY,"Relay Therapeutics, Inc.",healthcare
+RARE,Ultragenyx Pharmaceutical Inc.,healthcare
+GRDN,"Guardian Pharmacy Services, Inc.",healthcare
+XRAY,DENTSPLY SIRONA Inc.,healthcare
+HCM,HUTCHMED (China) Limited,healthcare
+BCRX,"BioCryst Pharmaceuticals, Inc.",healthcare
+SRPT,"Sarepta Therapeutics, Inc.",healthcare
+PAHC,Phibro Animal Health Corporation,healthcare
+AXGN,"Axogen, Inc.",healthcare
+ADPT,Adaptive Biotechnologies Corporation,healthcare
+AAPG,Ascentage Pharma Group International,healthcare
+GRAL,"GRAIL, Inc.",healthcare
+MLYS,"Mineralys Therapeutics, Inc.",healthcare
+DFTX,"Definium Therapeutics, Inc.",healthcare
+BHC,Bausch Health Companies Inc.,healthcare
+TYRA,"Tyra Biosciences, Inc.",healthcare
+AUPH,Aurinia Pharmaceuticals Inc.,healthcare
+STOK,"Stoke Therapeutics, Inc.",healthcare
+OMCL,"Omnicell, Inc.",healthcare
+ZYME,Zymeworks Inc.,healthcare
+SEM,Select Medical Holdings Corporation,healthcare
+NEOG,Neogen Corporation,healthcare
+OCUL,"Ocular Therapeutix, Inc.",healthcare
+MESO,Mesoblast Limited,healthcare
+AHG,Akso Health Group,healthcare
+CAPR,"Capricor Therapeutics, Inc.",healthcare
+TRVI,"Trevi Therapeutics, Inc.",healthcare
+WGS,GeneDx Holdings Corp.,healthcare
+INBX,"Inhibrx Biosciences, Inc.",healthcare
+ANAB,"AnaptysBio, Inc.",healthcare
+ESTA,Establishment Labs Holdings Inc.,healthcare
+GLPG,Galapagos NV,healthcare
+MD,"Pediatrix Medical Group, Inc.",healthcare
+SNDX,"Syndax Pharmaceuticals, Inc.",healthcare
+PHVS,Pharvaris N.V.,healthcare
+SGRY,"Surgery Partners, Inc.",healthcare
+AHCO,AdaptHealth Corp.,healthcare
+VCEL,Vericel Corporation,healthcare
+TSHA,"Taysha Gene Therapies, Inc.",healthcare
+HRMY,"Harmony Biosciences Holdings, Inc.",healthcare
+PVLA,"Palvella Therapeutics, Inc.",healthcare
+AMLX,"Amylyx Pharmaceuticals, Inc.",healthcare
+RXRX,"Recursion Pharmaceuticals, Inc.",healthcare
+ADUS,Addus HomeCare Corporation,healthcare
+SION,"Sionna Therapeutics, Inc.",healthcare
+ANIP,"ANI Pharmaceuticals, Inc.",healthcare
+ALMR,"Alamar Biosciences, Inc.",healthcare
+NRIX,"Nurix Therapeutics, Inc.",healthcare
+SNDA,"Sonida Senior Living, Inc.",healthcare
+AORT,"Artivion, Inc.",healthcare
+INVA,"Innoviva, Inc.",healthcare
+ASTH,"Astrana Health, Inc.",healthcare
+VIR,"Vir Biotechnology, Inc.",healthcare
+RAPP,"Rapport Therapeutics, Inc.",healthcare
+NBTX,Nanobiotix S.A.,healthcare
+GENB,"Generate Biomedicines, Inc.",healthcare
+INSP,"Inspire Medical Systems, Inc.",healthcare
+NUVB,Nuvation Bio Inc.,healthcare
+PRGO,Perrigo Company plc,healthcare
+OCS,Oculis Holding AG,healthcare
+ATAI,AtaiBeckley Inc.,healthcare
+NTLA,"Intellia Therapeutics, Inc.",healthcare
+IMTX,Immatics N.V.,healthcare
+GLUE,"Monte Rosa Therapeutics, Inc.",healthcare
+HROW,"Harrow, Inc.",healthcare
+UFPT,"UFP Technologies, Inc.",healthcare
+PLSE,"Pulse Biosciences, Inc.",healthcare
+HCSG,"Healthcare Services Group, Inc.",healthcare
+ARDX,"Ardelyx, Inc.",healthcare
+IMCR,Immunocore Holdings plc,healthcare
+DMRA,"Damora Therapeutics, Inc.",healthcare
+AVAH,Aveanna Healthcare Holdings Inc.,healthcare
+AGIO,"Agios Pharmaceuticals, Inc.",healthcare
+WVE,Wave Life Sciences Ltd.,healthcare
+BHVN,Biohaven Ltd.,healthcare
+ATRC,"AtriCure, Inc.",healthcare
+PGNY,"Progyny, Inc.",healthcare
+BCAX,Bicara Therapeutics Inc.,healthcare
+MAZE,"Maze Therapeutics, Inc.",healthcare
+PGEN,"Precigen, Inc.",healthcare
+ATEC,"Alphatec Holdings, Inc.",healthcare
+NVCR,NovoCure Limited,healthcare
+VRDN,"Viridian Therapeutics, Inc.",healthcare
+IOVA,"Iovance Biotherapeutics, Inc.",healthcare
+ARDT,"Ardent Health, Inc.",healthcare
+CLOV,"Clover Health Investments, Corp.",healthcare
+MBX,"MBX Biosciences, Inc.",healthcare
+ENOV,Enovis Corporation,healthcare
+MPLT,"MapLight Therapeutics, Inc.",healthcare
+AVBP,"ArriVent BioPharma, Inc.",healthcare
+STAA,STAAR Surgical Company,healthcare
+BFLY,"Butterfly Network, Inc.",healthcare
+CRVS,"Corvus Pharmaceuticals, Inc.",healthcare
+PRCT,PROCEPT BioRobotics Corporation,healthcare
+JBIO,"Jade Biosciences, Inc.",healthcare
+NVAX,"Novavax, Inc.",healthcare
+TNDM,"Tandem Diabetes Care, Inc.",healthcare
+SVRA,Savara Inc.,healthcare
+OLMA,"Olema Pharmaceuticals, Inc.",healthcare
+KMTS,"Kestra Medical Technologies, Ltd.",healthcare
+ABCL,AbCellera Biologics Inc.,healthcare
+DBVT,DBV Technologies S.A.,healthcare
+GHRS,GH Research PLC,healthcare
+NNNN,Anbio Biotechnology,healthcare
+MLTX,MoonLake Immunotherapeutics,healthcare
+URGN,UroGen Pharma Ltd.,healthcare
+NEO,"NeoGenomics, Inc.",healthcare
+PHAR,Pharming Group N.V.,healthcare
+AVNS,"Avanos Medical, Inc.",healthcare
+CMPS,COMPASS Pathways plc,healthcare
+QURE,uniQure N.V.,healthcare
+EYPT,"EyePoint, Inc.",healthcare
+INNV,InnovAge Holding Corp.,healthcare
+CDNA,"CareDx, Inc.",healthcare
+AZTA,"Azenta, Inc.",healthcare
+CNMD,CONMED Corporation,healthcare
+ALVO,Alvotech,healthcare
+USPH,"U.S. Physical Therapy, Inc.",healthcare
+SEPN,"Septerna, Inc.",healthcare
+TDOC,"Teladoc Health, Inc.",healthcare
+IRMD,IRADIMED CORPORATION,healthcare
+PNTG,"The Pennant Group, Inc.",healthcare
+ZBIO,"Zenas BioPharma, Inc.",healthcare
+EVO,Evotec SE,healthcare
+COLL,"Collegium Pharmaceutical, Inc.",healthcare
+OMER,Omeros Corporation,healthcare
+XERS,"Xeris Biopharma Holdings, Inc.",healthcare
+IVA,Inventiva S.A.,healthcare
+PCRX,"Pacira BioSciences, Inc.",healthcare
+AKTS,"Aktis Oncology, Inc.",healthcare
+BLFS,"BioLife Solutions, Inc.",healthcare
+FTRE,Fortrea Holdings Inc.,healthcare
+CRON,Cronos Group Inc.,healthcare
+KALV,"KalVista Pharmaceuticals, Inc.",healthcare
+ANNX,"Annexon, Inc.",healthcare
+AMPH,"Amphastar Pharmaceuticals, Inc.",healthcare
+ORIC,"ORIC Pharmaceuticals, Inc.",healthcare
+GERN,Geron Corporation,healthcare
+CERT,"Certara, Inc.",healthcare
+EVMN,"Evommune, Inc.",healthcare
+SANA,"Sana Biotechnology, Inc.",healthcare
+OPK,"OPKO Health, Inc.",healthcare
+MRVI,"Maravai LifeSciences Holdings, Inc.",healthcare
+SDGR,"SchrÃ¶dinger, Inc.",healthcare
+INMD,InMode Ltd.,healthcare
+PHAT,"Phathom Pharmaceuticals, Inc.",healthcare
+LBRX,LB Pharmaceuticals Inc,healthcare
+CTMX,"CytomX Therapeutics, Inc.",healthcare
+LMRI,"Lumexa Imaging Holdings, Inc.",healthcare
+XNCR,"Xencor, Inc.",healthcare
+JANX,"Janux Therapeutics, Inc.",healthcare
+SLS,"SELLAS Life Sciences Group, Inc.",healthcare
+TALK,"Talkspace, Inc.",healthcare
+TBPH,"Theravance Biopharma, Inc.",healthcare
+SSII,"SS Innovations International, Inc.",healthcare
+MNKD,MannKind Corporation,healthcare
+OMDA,"Omada Health, Inc.",healthcare
+TENX,"Tenax Therapeutics, Inc.",healthcare
+ANRO,"Alto Neuroscience, Inc.",healthcare
+DRUG,Bright Minds Biosciences Inc.,healthcare
+MGTX,MeiraGTx Holdings plc,healthcare
+IART,Integra LifeSciences Holdings Corporation,healthcare
+BVS,Bioventus Inc.,healthcare
+QDEL,QuidelOrtho Corporation,healthcare
+ABUS,Arbutus Biopharma Corporation,healthcare
+AMN,"AMN Healthcare Services, Inc.",healthcare
+NUTX,Nutex Health Inc.,healthcare
+CBIO,"Crescent Biopharma, Inc.",healthcare
+GDRX,"GoodRx Holdings, Inc.",healthcare
+DSGN,"Design Therapeutics, Inc.",healthcare
+SPRY,"ARS Pharmaceuticals, Inc.",healthcare
+CBLL,"CeriBell, Inc.",healthcare
+KURA,"Kura Oncology, Inc.",healthcare
+TLRY,"Tilray Brands, Inc.",healthcare
+VOR,Vor Biopharma Inc.,healthcare
+CGEM,"Cullinan Therapeutics, Inc.",healthcare
+BIOA,"BioAge Labs, Inc.",healthcare
+SGP,"SpyGlass Pharma, Inc.",healthcare
+RLMD,"Relmada Therapeutics, Inc.",healthcare
+ABSI,Absci Corporation,healthcare
+ALLO,"Allogene Therapeutics, Inc.",healthcare
+CSTL,"Castle Biosciences, Inc.",healthcare
+SLDB,Solid Biosciences Inc.,healthcare
+BBOT,"BridgeBio Oncology Therapeutics, Inc.",healthcare
+GYRE,"Gyre Therapeutics, Inc.",healthcare
+LXRX,"Lexicon Pharmaceuticals, Inc.",healthcare
+EHAB,"Enhabit, Inc.",healthcare
+TRAX,"First Tracks Biotherapeutics, Inc.",healthcare
+IRWD,"Ironwood Pharmaceuticals, Inc.",healthcare
+ETON,"Eton Pharmaceuticals, Inc.",healthcare
+ARVN,"Arvinas, Inc.",healthcare
+PRME,"Prime Medicine, Inc.",healthcare
+BWAY,BrainsWay Ltd.,healthcare
+FBRX,"Forte Biosciences, Inc.",healthcare
+DRTS,Alpha Tau Medical Ltd.,healthcare
+HSTM,"HealthStream, Inc.",healthcare
+PRTA,Prothena Corporation plc,healthcare
+CRMD,CorMedix Inc.,healthcare
+CTKB,"Cytek Biosciences, Inc.",healthcare
+ACRS,"Aclaris Therapeutics, Inc.",healthcare
+ZVRA,"Zevra Therapeutics, Inc.",healthcare
+STRO,"Sutro Biopharma, Inc.",healthcare
+PSNL,"Personalis, Inc.",healthcare
+NPCE,"NeuroPace, Inc.",healthcare
+PHR,"Phreesia, Inc.",healthcare
+STTK,"Shattuck Labs, Inc.",healthcare
+RIGL,"Rigel Pharmaceuticals, Inc.",healthcare
+OCGN,"Ocugen, Inc.",healthcare
+PROK,ProKidney Corp.,healthcare
+SIBN,"SI-BONE, Inc.",healthcare
+TCMD,"Tactile Systems Technology, Inc.",healthcare
+EMBC,Embecta Corp.,healthcare
+ALT,"Altimmune, Inc.",healthcare
+AVR,Anteris Technologies Global Corp.,healthcare
+KYTX,"Kyverna Therapeutics, Inc.",healthcare
+AGMB,AgomAb Therapeutics NV,healthcare
+UPB,"Upstream Bio, Inc.",healthcare
+TECX,"Tectonic Therapeutic, Inc.",healthcare
+VREX,Varex Imaging Corporation,healthcare
+MDXG,"MiMedx Group, Inc.",healthcare
+MCTA,Charming Medical Limited,healthcare
+ZURA,Zura Bio Limited,healthcare
+LYEL,"Lyell Immunopharma, Inc.",healthcare
+AQST,"Aquestive Therapeutics, Inc.",healthcare
+FULC,"Fulcrum Therapeutics, Inc.",healthcare
+ESPR,"Esperion Therapeutics, Inc.",healthcare
+VALN,Valneva SE,healthcare
+XOMA,XOMA Royalty Corporation,healthcare
+ANL,Adlai Nortye Ltd.,healthcare
+FDMT,"4D Molecular Therapeutics, Inc.",healthcare
+VSTM,"Verastem, Inc.",healthcare
+ADCT,ADC Therapeutics SA,healthcare
+OFIX,Orthofix Medical Inc.,healthcare
+PACB,"Pacific Biosciences of California, Inc.",healthcare
+KMDA,Kamada Ltd.,healthcare
+CTNM,"Contineum Therapeutics, Inc.",healthcare
+OVID,Ovid Therapeutics Inc.,healthcare
+ENGN,enGene Therapeutics Inc.,healthcare
+TRDA,"Entrada Therapeutics, Inc.",healthcare
+EIKN,"Eikon Therapeutics, Inc.",healthcare
+AGL,"agilon health, inc.",healthcare
+ANGO,"AngioDynamics, Inc.",healthcare
+MYGN,"Myriad Genetics, Inc.",healthcare
+LRMR,"Larimar Therapeutics, Inc.",healthcare
+DNA,"Ginkgo Bioworks Holdings, Inc.",healthcare
+IMMX,"Immix Biopharma, Inc.",healthcare
+CADL,"Candel Therapeutics, Inc.",healthcare
+CATX,"Perspective Therapeutics, Inc.",healthcare
+BBNX,"Beta Bionics, Inc.",healthcare
+RGNX,REGENXBIO Inc.,healthcare
+AURA,"Aura Biosciences, Inc.",healthcare
+AVIR,"Atea Pharmaceuticals, Inc.",healthcare
+CLYM,"Climb Bio, Inc.",healthcare
+PRLD,Prelude Therapeutics Incorporated,healthcare
+FLGT,"Fulgent Genetics, Inc.",healthcare
+CGC,Canopy Growth Corporation,healthcare
+EPRX,Eupraxia Pharmaceuticals Inc.,healthcare
+SRTA,"Strata Critical Medical, Inc.",healthcare
+LXEO,"Lexeo Therapeutics, Inc.",healthcare
+ASMB,"Assembly Biosciences, Inc.",healthcare
+NGNE,Neurogene Inc.,healthcare
+PRTC,PureTech Health plc,healthcare
+EBS,Emergent BioSolutions Inc.,healthcare
+BNTC,Benitec Biopharma Inc.,healthcare
+NMRA,"Neumora Therapeutics, Inc.",healthcare
+VNDA,Vanda Pharmaceuticals Inc.,healthcare
+EVH,"Evolent Health, Inc.",healthcare
+ENTA,"Enanta Pharmaceuticals, Inc.",healthcare
+VTVT,vTv Therapeutics Inc.,healthcare
+IPSC,"Century Therapeutics, Inc.",healthcare
+CERS,Cerus Corporation,healthcare

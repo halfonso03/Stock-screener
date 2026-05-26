@@ -1,0 +1,253 @@
+ANNA,"AleAnna, Inc.",upstream
+ARLP,"Alliance Resource Partners, L.P.",midstream
+AMPY,Amplify Energy Corp.,upstream
+AEC,Anfield Energy Inc.,upstream
+AM,Antero Midstream Corporation,midstream
+AR,Antero Resources Corporation,upstream
+APA,APA Corporation,upstream
+AROC,"Archrock, Inc.",upstream
+APC,ARKO Petroleum Corp.,refining
+AESI,Atlas Energy Solutions Inc.,upstream
+BKR,Baker Hughes Company,oil_services
+BRN,"Barnwell Industries, Inc.",upstream
+BATL,Battalion Oil Corporation,upstream
+BTE,Baytex Energy Corp.,upstream
+BKV,BKV Corporation,upstream
+BSM,"Black Stone Minerals, L.P.",upstream
+BORR,Borr Drilling Limited,oil_services
+BP,BP p.l.c.,integrated
+VTOL,Bristow Group Inc.,upstream
+WHD,"Cactus, Inc.",upstream
+CRC,California Resources Corporation,upstream
+CCJ,Cameco Corporation,upstream
+CNQ,Canadian Natural Resources Limited,upstream
+BANL,CBL International Limited,upstream
+CVE,Cenovus Energy Inc.,upstream
+LEU,Centrus Energy Corp.,upstream
+CQP,"Cheniere Energy Partners, L.P.",midstream
+LNG,"Cheniere Energy, Inc.",lng
+CVX,Chevron Corporation,integrated
+CHRD,Chord Energy Corporation,upstream
+CKX,"CKX Lands, Inc.",upstream
+CLNE,Clean Energy Fuels Corp.,upstream
+CMBT,Cmb.Tech NV,upstream
+CNX,CNX Resources Corporation,upstream
+ticker,company_name,classification
+CRK,"Comstock Resources, Inc.",upstream
+COP,ConocoPhillips,upstream
+CLB,Core Laboratories Inc.,upstream
+CNR,"Core Natural Resources, Inc.",upstream
+CSAN,Cosan S.A.,upstream
+CTRA,Coterra Energy Inc.,upstream
+CRGY,Crescent Energy Company,upstream
+CRT,Cross Timbers Royalty Trust,upstream
+CAPL,CrossAmerica Partners LP,midstream
+CVI,"CVR Energy, Inc.",upstream
+DWSN,Dawson Geophysical Company,upstream
+DKL,"Delek Logistics Partners, LP",midstream
+DK,"Delek US Holdings, Inc.",upstream
+DLXY,Delixy Holdings Limited,upstream
+DNN,Denison Mines Corp.,integrated
+DVN,Devon Energy Corporation,upstream
+DHT,"DHT Holdings, Inc.",upstream
+FANG,"Diamondback Energy, Inc.",upstream
+DEC,Diversified Energy Company,upstream
+DMLP,"Dorchester Minerals, L.P.",upstream
+LPG,Dorian LPG Ltd.,upstream
+DTI,Drilling Tools International Corporation,oil_services
+DTM,"DT Midstream, Inc.",midstream
+DLNG,Dynagas LNG Partners LP,midstream
+NUCL,Eagle Nuclear Energy Corp.,upstream
+EC,Ecopetrol S.A.,upstream
+EP,Empire Petroleum Corporation,refining
+ENB,Enbridge Inc.,midstream
+EU,enCore Energy Corp.,upstream
+EFXT,Enerflex Ltd.,upstream
+UUUU,Energy Fuels Inc.,upstream
+ET,Energy Transfer LP,midstream
+E,Eni S.p.A.,integrated
+EPD,Enterprise Products Partners L.P.,midstream
+EOG,"EOG Resources, Inc.",upstream
+EONR,EON Resources Inc.,upstream
+EPSN,Epsilon Energy Ltd.,upstream
+EQT,EQT Corporation,upstream
+EQNR,Equinor ASA,integrated
+EPM,Evolution Petroleum Corporation,refining
+EE,"Excelerate Energy, Inc.",upstream
+EXE,Expand Energy Corporation,upstream
+XPRO,Expro Group Holdings N.V.,upstream
+XOM,Exxon Mobil Corporation,integrated
+FLNG,FLEX LNG Ltd.,lng
+FTK,"Flotek Industries, Inc.",upstream
+FLOC,Flowco Holdings Inc.,upstream
+FET,"Forum Energy Technologies, Inc.",upstream
+FRO,Frontline plc,upstream
+GEL,"Genesis Energy, L.P.",upstream
+GPRK,GeoPark Limited,upstream
+GEOS,Geospace Technologies Corporation,upstream
+GLP,Global Partners LP,midstream
+GLNG,Golar LNG Limited,lng
+GTE,Gran Tierra Energy Inc.,upstream
+GRNT,"Granite Ridge Resources, Inc.",upstream
+GFR,Greenfire Resources Ltd.,upstream
+GLND,Greenland Energy Company,upstream
+GPOR,Gulfport Energy Corporation,upstream
+HNRG,Hallador Energy Company,upstream
+HAL,Halliburton Company,oil_services
+HLX,"Helix Energy Solutions Group, Inc.",upstream
+HP,"Helmerich & Payne, Inc.",upstream
+HESM,Hess Midstream LP,midstream
+DINO,HF Sinclair Corporation,refining
+HPK,"HighPeak Energy, Inc.",upstream
+HMH,HMH Holding Inc.,upstream
+IEP,Icahn Enterprises L.P.,upstream
+IMO,Imperial Oil Limited,upstream
+IMPP,Imperial Petroleum Inc.,refining
+INDO,Indonesia Energy Corporation Limited,upstream
+INR,"Infinity Natural Resources, Inc.",upstream
+INVX,"Innovex International, Inc.",upstream
+INSW,"International Seaways, Inc.",upstream
+ISOU,IsoEnergy Ltd.,upstream
+JAGU,Jaguar Uranium Corp.,upstream
+KRP,"Kimbell Royalty Partners, LP",midstream
+KMI,"Kinder Morgan, Inc.",upstream
+KNTK,Kinetik Holdings Inc.,upstream
+KLXE,"KLX Energy Services Holdings, Inc.",oil_services
+KNOP,KNOT Offshore Partners LP,midstream
+KGS,"Kodiak Gas Services, Inc.",oil_services
+KGEI,Kolibri Global Energy Inc.,upstream
+KOS,Kosmos Energy Ltd.,upstream
+LB,LandBridge Company LLC,upstream
+LSE,"Leishen Energy Holding Co., Ltd.",upstream
+LBRT,Liberty Energy Inc.,upstream
+MNR,Mach Natural Resources LP,upstream
+MGY,Magnolia Oil & Gas Corporation,upstream
+MPC,Marathon Petroleum Corporation,refining
+MARPS,Marine Petroleum Trust,refining
+MMLP,Martin Midstream Partners L.P.,midstream
+MTDR,Matador Resources Company,upstream
+MTR,Mesa Royalty Trust,upstream
+MXC,Mexco Energy Corporation,upstream
+MPLX,MPLX LP,midstream
+MUR,Murphy Oil Corporation,upstream
+NBR,Nabors Industries Ltd.,oil_services
+NC,"NACCO Industries, Inc.",upstream
+NESR,National Energy Services Reunited Corp.,oil_services
+NFG,National Fuel Gas Company,upstream
+NGS,"Natural Gas Services Group, Inc.",oil_services
+NRP,Natural Resource Partners L.P.,midstream
+NVGS,Navigator Holdings Ltd.,upstream
+NCSM,"NCS Multistage Holdings, Inc.",upstream
+NFE,New Fortress Energy Inc.,upstream
+NXE,NexGen Energy Ltd.,upstream
+NEXT,NextDecade Corporation,upstream
+NGL,NGL Energy Partners LP,midstream
+NINE,"Nine Energy Service, Inc.",upstream
+NE,Noble Corporation plc,upstream
+NAT,Nordic American Tankers Limited,upstream
+NOA,North American Construction Group Ltd.,upstream
+NRT,North European Oil Royalty Trust,upstream
+NOG,"Northern Oil and Gas, Inc.",upstream
+NOV,NOV Inc.,upstream
+NPKI,NPK International Inc.,upstream
+OBE,Obsidian Energy Ltd.,upstream
+OXY,Occidental Petroleum Corporation,refining
+OII,"Oceaneering International, Inc.",upstream
+OIS,"Oil States International, Inc.",upstream
+OMSE,OMS Energy Technologies Inc.,upstream
+OKE,"ONEOK, Inc.",midstream
+OVV,Ovintiv Inc.,upstream
+PARR,"Par Pacific Holdings, Inc.",upstream
+PTEN,"Patterson-UTI Energy, Inc.",upstream
+PBF,PBF Energy Inc.,refining
+BTU,Peabody Energy Corporation,upstream
+PED,PEDEVCO Corp.,upstream
+PBA,Pembina Pipeline Corporation,midstream
+PBT,Permian Basin Royalty Trust,upstream
+PR,Permian Resources Corporation,upstream
+PVL,Permianville Royalty Trust,upstream
+PRT,PermRock Royalty Trust,upstream
+PBR,PetrÃƒÂ³leo Brasileiro S.A. - Petrobras,upstream
+PBR.A,PetrÃƒÂ³leo Brasileiro S.A. - Petrobras,upstream
+PSX,Phillips 66,refining
+PAA,"Plains All American Pipeline, L.P.",midstream
+PAGP,"Plains GP Holdings, L.P.",upstream
+PROP,Prairie Operating Co.,upstream
+PDS,Precision Drilling Corporation,oil_services
+FTW,Presidio Production Company,upstream
+PNRG,PrimeEnergy Resources Corporation,upstream
+ACDC,ProFrac Holding Corp.,upstream
+PUMP,ProPetro Holding Corp.,upstream
+PXS,Pyxis Tankers Inc.,upstream
+RRC,Range Resources Corporation,upstream
+RNGR,"Ranger Energy Services, Inc.",oil_services
+RCON,"Recon Technology, Ltd.",upstream
+REPX,"Riley Exploration Permian, Inc.",upstream
+REI,"Ring Energy, Inc.",upstream
+RBNE,Robin Energy Ltd.,upstream
+RES,"RPC, Inc.",upstream
+SBR,Sabine Royalty Trust,upstream
+SOC,Sable Offshore Corp.,upstream
+SJT,San Juan Basin Royalty Trust,upstream
+SD,"SandRidge Energy, Inc.",upstream
+STNG,Scorpio Tankers Inc.,upstream
+SDRL,Seadrill Limited,upstream
+WTTR,"Select Water Solutions, Inc.",upstream
+SHEL,Shell plc,integrated
+SKYQ,Sky Quarry Inc.,upstream
+SLB,SLB N.V.,upstream
+SM,SM Energy Company,upstream
+SND,"Smart Sand, Inc.",upstream
+SEI,"Solaris Energy Infrastructure, Inc.",renewables_utility
+SOBO,South Bow Corporation,upstream
+SLNG,"Stabilis Solutions, Inc.",upstream
+STAK,STAK Inc.,upstream
+SGU,"Star Group, L.P.",upstream
+SMC,Summit Midstream Corporation,midstream
+SU,Suncor Energy Inc.,upstream
+SUN,Sunoco LP,upstream
+SUNC,SunocoCorp LLC,upstream
+TALO,Talos Energy Inc.,upstream
+TBN,Tamboran Resources Corporation,upstream
+TRGP,Targa Resources Corp.,upstream
+TRP,TC Energy Corporation,upstream
+FTI,TechnipFMC plc,upstream
+TK,Teekay Corporation Ltd.,upstream
+TNK,Teekay Tankers Ltd.,upstream
+TS,Tenaris S.A.,upstream
+TPL,Texas Pacific Land Corporation,upstream
+WMB,"The Williams Companies, Inc.",midstream
+TDW,Tidewater Inc.,upstream
+TMDE,TMD Energy Limited,upstream
+TOPS,Top Ships Inc.,upstream
+TRMD,TORM plc,upstream
+TORO,Toro Corp.,upstream
+TTE,TotalEnergies SE,integrated
+RIG,Transocean Ltd.,oil_services
+TGS,Transportadora de Gas del Sur S.A.,upstream
+TPET,Trio Petroleum Corp.,refining
+TEN,Tsakos Energy Navigation Limited,upstream
+TXO,"TXO Partners, L.P.",midstream
+USEG,U.S. Energy Corp.,upstream
+UGP,Ultrapar ParticipaÃƒÂ§ÃƒÂµes S.A.,upstream
+UEC,Uranium Energy Corp.,upstream
+UROY,Uranium Royalty Corp.,upstream
+URG,Ur-Energy Inc.,upstream
+USAC,"USA Compression Partners, LP",midstream
+EGY,"VAALCO Energy, Inc.",upstream
+VAL,Valaris Limited,upstream
+VLO,Valero Energy Corporation,refining
+VG,"Venture Global, Inc.",upstream
+VET,Vermilion Energy Inc.,upstream
+VNOM,"Viper Energy, Inc.",upstream
+VIST,"Vista Energy, S.A.B. de C.V.",upstream
+VTS,"Vitesse Energy, Inc.",upstream
+VIVK,"Vivakor, Inc.",upstream
+VOC,VOC Energy Trust,upstream
+WTI,"W&T Offshore, Inc.",upstream
+WBI,WaterBridge Infrastructure LLC,upstream
+WFRD,Weatherford International plc,upstream
+WES,"Western Midstream Partners, LP",midstream
+WDS,Woodside Energy Group Ltd,upstream
+WKC,World Kinect Corporation,upstream
+YPF,YPF Sociedad AnÃƒÂ³nima,upstream

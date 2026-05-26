@@ -1,0 +1,267 @@
+ticker,company_name,sector_name
+GOOGL,Alphabet Inc.,communication-services
+META,"Meta Platforms, Inc.",communication-services
+NFLX,"Netflix, Inc.",communication-services
+TMUS,"T-Mobile US, Inc.",communication-services
+VZ,Verizon Communications Inc.,communication-services
+T,AT&T Inc.,communication-services
+DIS,The Walt Disney Company,communication-services
+APP,AppLovin Corporation,communication-services
+CMCSA,Comcast Corporation,communication-services
+SPOT,Spotify Technology S.A.,communication-services
+AMX,"AmÃ©rica MÃ³vil, S.A.B. de C.V.",communication-services
+NTES,"NetEase, Inc.",communication-services
+WBD,"Warner Bros. Discovery, Inc.",communication-services
+EA,Electronic Arts Inc.,communication-services
+BIDU,"Baidu, Inc.",communication-services
+RBLX,Roblox Corporation,communication-services
+TTWO,"Take-Two Interactive Software, Inc.",communication-services
+LYV,"Live Nation Entertainment, Inc.",communication-services
+VOD,Vodafone Group Public Limited Company,communication-services
+SATS,EchoStar Corporation,communication-services
+TKO,"TKO Group Holdings, Inc.",communication-services
+NBIS,Nebius Group N.V.,communication-services
+CHT,"Chunghwa Telecom Co., Ltd.",communication-services
+RDDT,"Reddit, Inc.",communication-services
+FOXA,Fox Corporation,communication-services
+FOX,Fox Corporation,communication-services
+VIV,TelefÃ´nica Brasil S.A.,communication-services
+CHTR,"Charter Communications, Inc.",communication-services
+FWONA,Formula One Group,communication-services
+BCE,BCE Inc.,communication-services
+OMC,Omnicom Group Inc.,communication-services
+RCI,Rogers Communications Inc.,communication-services
+TU,TELUS Corporation,communication-services
+ROKU,"Roku, Inc.",communication-services
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,communication-services
+WMG,Warner Music Group Corp.,communication-services
+TME,Tencent Music Entertainment Group,communication-services
+NWSA,News Corporation,communication-services
+SKM,"SK Telecom Co., Ltd.",communication-services
+TIGO,Millicom International Cellular S.A.,communication-services
+NYT,The New York Times Company,communication-services
+TIMB,TIM S.A.,communication-services
+PSKY,Paramount Skydance Corporation,communication-services
+PINS,"Pinterest, Inc.",communication-services
+TTD,"The Trade Desk, Inc.",communication-services
+GSAT,"Globalstar, Inc.",communication-services
+Z,"Zillow Group, Inc.",communication-services
+SNAP,Snap Inc.,communication-services
+KT,KT Corporation,communication-services
+LUMN,"Lumen Technologies, Inc.",communication-services
+BILI,Bilibili Inc.,communication-services
+SIRI,Sirius XM Holdings Inc.,communication-services
+PSO,Pearson plc,communication-services
+MTCH,"Match Group, Inc.",communication-services
+MSGS,Madison Square Garden Sports Corp.,communication-services
+LLYVA,"Liberty Live Holdings, Inc.",communication-services
+QMMM,QMMM Holdings Limited,communication-services
+LBRDA,Liberty Broadband Corporation,communication-services
+BZ,Kanzhun Limited,communication-services
+NXST,"Nexstar Media Group, Inc.",communication-services
+LBRDK,Liberty Broadband Corporation,communication-services
+VSNT,"Versant Media Group, Inc.",communication-services
+TKC,Turkcell Iletisim Hizmetleri A.S.,communication-services
+TEO,Telecom Argentina S.A.,communication-services
+TDS,"Telephone and Data Systems, Inc.",communication-services
+SPHR,Sphere Entertainment Co.,communication-services
+PHI,PLDT Inc.,communication-services
+AD,"Array Digital Infrastructure, Inc.",communication-services
+IRDM,Iridium Communications Inc.,communication-services
+LBTYA,Liberty Global Ltd.,communication-services
+WPP,WPP plc,communication-services
+LBTYB,Liberty Global Ltd.,communication-services
+LBTYK,Liberty Global Ltd.,communication-services
+LION,Lionsgate Studios Corp.,communication-services
+VEON,VEON Ltd.,communication-services
+CNK,"Cinemark Holdings, Inc.",communication-services
+IAC,IAC Inc.,communication-services
+MANU,Manchester United plc,communication-services
+JOYY,JOYY Inc.,communication-services
+KYIV,Kyivstar Group Ltd.,communication-services
+STUB,"StubHub Holdings, Inc.",communication-services
+BATRA,"Atlanta Braves Holdings, Inc.",communication-services
+DJT,Trump Media & Technology Group Corp.,communication-services
+RUM,Rumble Inc.,communication-services
+ATHM,Autohome Inc.,communication-services
+WLY,"John Wiley & Sons, Inc.",communication-services
+WB,Weibo Corporation,communication-services
+IMAX,IMAX Corporation,communication-services
+MGNI,"Magnite, Inc.",communication-services
+ZD,"Ziff Davis, Inc.",communication-services
+DV,"DoubleVerify Holdings, Inc.",communication-services
+STGW,Stagwell Inc.,communication-services
+LILA,Liberty Latin America Ltd.,communication-services
+WBTN,WEBTOON Entertainment Inc.,communication-services
+OPRA,Opera Limited,communication-services
+YELP,Yelp Inc.,communication-services
+TV,"Grupo Televisa, S.A.B.",communication-services
+GLIBK,"GCI Liberty, Inc.",communication-services
+LILAK,Liberty Latin America Ltd.,communication-services
+GLIBA,"GCI Liberty, Inc.",communication-services
+UPWK,Upwork Inc.,communication-services
+PLTK,Playtika Holding Corp.,communication-services
+IDT,IDT Corporation,communication-services
+FUBO,FuboTV Inc.,communication-services
+CCO,"Clear Channel Outdoor Holdings, Inc.",communication-services
+CCOI,"Cogent Communications Holdings, Inc.",communication-services
+SBGI,"Sinclair, Inc.",communication-services
+SIFY,Sify Technologies Limited,communication-services
+TDAY,"USA TODAY Co., Inc.",communication-services
+IQ,"iQIYI, Inc.",communication-services
+GENI,Genius Sports Limited,communication-services
+TBLA,Taboola.com Ltd.,communication-services
+EEX,"Emerald Holding, Inc.",communication-services
+CRTO,Criteo S.A.,communication-services
+AMC,"AMC Entertainment Holdings, Inc.",communication-services
+MOMO,Hello Group Inc.,communication-services
+SHEN,Shenandoah Telecommunications Company,communication-services
+ATEX,Anterix Inc.,communication-services
+SCHL,Scholastic Corporation,communication-services
+IHRT,"iHeartMedia, Inc.",communication-services
+NMAX,Newsmax Inc.,communication-services
+QNST,"QuinStreet, Inc.",communication-services
+OPTU,"Optimum Communications, Inc.",communication-services
+NRDS,"NerdWallet, Inc.",communication-services
+HUYA,HUYA Inc.,communication-services
+RSVR,"Reservoir Media, Inc.",communication-services
+GTN.A,"Gray Media, Inc.",communication-services
+BMBL,Bumble Inc.,communication-services
+CARS,Cars.com Inc.,communication-services
+MAX,"MediaAlpha, Inc.",communication-services
+SSTK,"Shutterstock, Inc.",communication-services
+NXDR,"Nextdoor Holdings, Inc.",communication-services
+GTN,"Gray Media, Inc.",communication-services
+MCS,The Marcus Corporation,communication-services
+EVER,"EverQuote, Inc.",communication-services
+GRPN,"Groupon, Inc.",communication-services
+CABO,"Cable One, Inc.",communication-services
+GOGO,Gogo Inc.,communication-services
+DDI,"DoubleDown Interactive Co., Ltd.",communication-services
+ADV,Advantage Solutions Inc.,communication-services
+ANGX,"Angel Studios, Inc.",communication-services
+GRVY,"Gravity Co., Ltd.",communication-services
+ATNI,"ATN International, Inc.",communication-services
+SSP,The E.W. Scripps Company,communication-services
+PERI,Perion Network Ltd.,communication-services
+NEXN,Nexxen International Ltd.,communication-services
+SOHU,Sohu.com Limited,communication-services
+PLAY,"Dave & Buster's Entertainment, Inc.",communication-services
+AENT,Alliance Entertainment Holding Corporation,communication-services
+FVRR,Fiverr International Ltd.,communication-services
+AMCX,AMC Global Media Inc.,communication-services
+GETY,"Getty Images Holdings, Inc.",communication-services
+EVC,Entravision Communications Corporation,communication-services
+NCMI,"National CineMedia, Inc.",communication-services
+STRZ,Starz Entertainment Corp.,communication-services
+ANGI,Angi Inc.,communication-services
+GDEV,GDEV Inc.,communication-services
+RDCM,RADCOM Ltd.,communication-services
+ZH,Zhihu Inc.,communication-services
+ZIP,"ZipRecruiter, Inc.",communication-services
+JFIN,Jiayin Group Inc.,communication-services
+GDC,GD Culture Group Limited,communication-services
+WSHP,WeShop Holdings Limited,communication-services
+UONEK,"Urban One, Inc.",communication-services
+CXDO,"Crexendo, Inc.",communication-services
+TC,Token Cat Limited,communication-services
+TRVG,trivago N.V.,communication-services
+CURI,CuriosityStream Inc.,communication-services
+LEE,"Lee Enterprises, Incorporated",communication-services
+KVHI,"KVH Industries, Inc.",communication-services
+DIBS,"1stdibs.Com, Inc.",communication-services
+CTW,CTW Cayman,communication-services
+CMCM,Cheetah Mobile Inc.,communication-services
+KORE,"KORE Group Holdings, Inc.",communication-services
+NIPG,NIP Group Inc.,communication-services
+DOYU,DouYu International Holdings Limited,communication-services
+BODI,"The Beachbody Company, Inc.",communication-services
+TZOO,Travelzoo,communication-services
+AREN,"The Arena Group Holdings, Inc.",communication-services
+TSQ,"Townsquare Media, Inc.",communication-services
+CAST,"FreeCast, Inc.",communication-services
+SKLZ,Skillz Inc.,communication-services
+FLNT,"Fluent, Inc.",communication-services
+MRDN,Meridian Holdings Inc.,communication-services
+UPXI,"Upexi, Inc.",communication-services
+PODC,"PodcastOne, Inc.",communication-services
+TEAD,Teads Holding Co.,communication-services
+GAIA,"Gaia, Inc.",communication-services
+MDIA,MediaCo Holding Inc.,communication-services
+MCHX,"Marchex, Inc.",communication-services
+IZEA,"IZEA Worldwide, Inc.",communication-services
+SEAT,Vivid Seats Inc.,communication-services
+SGA,"Saga Communications, Inc.",communication-services
+LVO,"LiveOne, Inc.",communication-services
+HAO,Haoxi Health Technology Limited,communication-services
+FNGR,"FingerMotion, Inc.",communication-services
+GCL,GCL Global Holdings Ltd,communication-services
+SLMT,Brera Holdings PLC,communication-services
+SOGP,Sound Group Inc.,communication-services
+CCG,Cheche Group Inc.,communication-services
+MNY,MoneyHero Limited,communication-services
+GAME,"GameSquare Holdings, Inc.",communication-services
+MYPS,"PLAYSTUDIOS, Inc.",communication-services
+CNVS,Cineverse Corp.,communication-services
+LFS,"Leifras Co., Ltd.",communication-services
+GMHS,Gamehaus Holdings Inc.,communication-services
+CDLX,"Cardlytics, Inc.",communication-services
+SDM,Smart Digital Group Limited,communication-services
+ELWT,"Elauwit Connection, Inc.",communication-services
+SJ,Scienjoy Holding Corporation,communication-services
+UCL,uCloudlink Group Inc.,communication-services
+ZDGE,"Zedge, Inc.",communication-services
+MPU,Mega Matrix Inc.,communication-services
+VBIX,Viewbix Inc.,communication-services
+BBGI,"Beasley Broadcast Group, Inc.",communication-services
+TJGC,TJGC Group Limited,communication-services
+RDIB,"Reading International, Inc.",communication-services
+GIFT,"Giftify, Inc.",communication-services
+TOON,Kartoon Studios Inc.,communication-services
+ANGH,Anghami Inc.,communication-services
+NAMI,Jinxin Technology Holding Company,communication-services
+ACCS,ACCESS Newswire Inc.,communication-services
+SWAG,"Stran & Company, Inc.",communication-services
+BZFD,"BuzzFeed, Inc.",communication-services
+SNAL,"Snail, Inc.",communication-services
+CPOP,"Pop Culture Group Co., Ltd",communication-services
+RDI,"Reading International, Inc.",communication-services
+MSGM,Motorsport Games Inc.,communication-services
+UONE,"Urban One, Inc.",communication-services
+WIMI,WiMi Hologram Cloud Inc.,communication-services
+KWM,K Wave Media Ltd.,communication-services
+FENG,Phoenix New Media Limited,communication-services
+CHAI,"Core AI Holdings, Inc.",communication-services
+AGAE,Allied Gaming & Entertainment Inc.,communication-services
+TBH,"Brag House Holdings, Inc.",communication-services
+DLPN,"Dolphin Entertainment, Inc.",communication-services
+GIGM,GigaMedia Limited,communication-services
+SURG,"SurgePays, Inc.",communication-services
+EDUC,Educational Development Corporation,communication-services
+DKI,Darkiris Inc.,communication-services
+GXAI,Gaxos.ai Inc.,communication-services
+FTRK,Fast Track Group,communication-services
+TDIC,Dreamland Limited,communication-services
+LCFY,Locafy Limited,communication-services
+ONFO,"Onfolio Holdings, Inc.",communication-services
+IOTR,iOThree Limited,communication-services
+IQST,iQSTEL Inc.,communication-services
+TULP,"Bloomia Holdings, Inc.",communication-services
+KRKR,36Kr Holdings Inc.,communication-services
+XHLD,"TEN Holdings, Inc.",communication-services
+SLE,"Super League Enterprise, Inc.",communication-services
+SOPA,Society Pass Incorporated,communication-services
+GITS,"Global Interactive Technologies, Inc.",communication-services
+GIBO,GIBO Holdings Limited,communication-services
+YDKG,Yueda Digital Holding,communication-services
+STFS,Star Fashion Culture Holdings Limited,communication-services
+EDHL,Everbright Digital Holding Limited,communication-services
+BAOS,Baosheng Media Group Holdings Limited,communication-services
+CHR,"Cheer Holding, Inc.",communication-services
+VSME,VS MEDIA Holdings Limited,communication-services
+TNMG,TNL Mediagene,communication-services
+ZNB,Zeta Network Group,communication-services
+CNET,ZW Data Action Technologies Inc.,communication-services
+PCLA,PicoCELA Inc.,communication-services
+DRCT,"Direct Digital Holdings, Inc.",communication-services
+KUST,"Kustom Entertainment, Inc.",communication-services

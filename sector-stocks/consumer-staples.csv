@@ -1,0 +1,245 @@
+ticker,company_name,sector_name
+WMT,Walmart Inc.,consumer-staples
+COST,Costco Wholesale Corporation,consumer-staples
+PG,The Procter & Gamble Company,consumer-staples
+KO,The Coca-Cola Company,consumer-staples
+PM,Philip Morris International Inc.,consumer-staples
+PEP,"PepsiCo, Inc.",consumer-staples
+BUD,Anheuser-Busch InBev SA/NV,consumer-staples
+BTI,British American Tobacco p.l.c.,consumer-staples
+UL,Unilever PLC,consumer-staples
+MO,"Altria Group, Inc.",consumer-staples
+MNST,Monster Beverage Corporation,consumer-staples
+MDLZ,"Mondelez International, Inc.",consumer-staples
+CL,Colgate-Palmolive Company,consumer-staples
+TGT,Target Corporation,consumer-staples
+ABEV,Ambev S.A.,consumer-staples
+DEO,Diageo plc,consumer-staples
+CCEP,Coca-Cola Europacific Partners PLC,consumer-staples
+KR,The Kroger Co.,consumer-staples
+KDP,Keurig Dr Pepper Inc.,consumer-staples
+HSY,The Hershey Company,consumer-staples
+FMX,"Fomento EconÃ³mico Mexicano, S.A.B. de C.V.",consumer-staples
+SYY,Sysco Corporation,consumer-staples
+ADM,Archer-Daniels-Midland Company,consumer-staples
+KVUE,Kenvue Inc.,consumer-staples
+KMB,Kimberly-Clark Corporation,consumer-staples
+EL,The EstÃ©e Lauder Companies Inc.,consumer-staples
+STZ,"Constellation Brands, Inc.",consumer-staples
+KHC,The Kraft Heinz Company,consumer-staples
+DG,Dollar General Corporation,consumer-staples
+BG,Bunge Global SA,consumer-staples
+CHD,"Church & Dwight Co., Inc.",consumer-staples
+TSN,"Tyson Foods, Inc.",consumer-staples
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",consumer-staples
+USFD,US Foods Holding Corp.,consumer-staples
+DLTR,"Dollar Tree, Inc.",consumer-staples
+GIS,"General Mills, Inc.",consumer-staples
+JBS,JBS N.V.,consumer-staples
+PFGC,Performance Food Group Company,consumer-staples
+MKC,"McCormick & Company, Incorporated",consumer-staples
+COKE,"Coca-Cola Consolidated, Inc.",consumer-staples
+BF.A,Brown-Forman Corporation,consumer-staples
+BF.B,Brown-Forman Corporation,consumer-staples
+BJ,"BJ's Wholesale Club Holdings, Inc.",consumer-staples
+HRL,Hormel Foods Corporation,consumer-staples
+CLX,The Clorox Company,consumer-staples
+SFD,"Smithfield Foods, Inc.",consumer-staples
+SJM,The J. M. Smucker Company,consumer-staples
+DAR,Darling Ingredients Inc.,consumer-staples
+ACI,"Albertsons Companies, Inc.",consumer-staples
+EDU,New Oriental Education & Technology Group Inc.,consumer-staples
+CELH,"Celsius Holdings, Inc.",consumer-staples
+MICC,The Magnum Ice Cream Company N.V.,consumer-staples
+TAP,Molson Coors Beverage Company,consumer-staples
+PPC,Pilgrim's Pride Corporation,consumer-staples
+PRMB,Primo Brands Corporation,consumer-staples
+INGR,Ingredion Incorporated,consumer-staples
+CAG,"Conagra Brands, Inc.",consumer-staples
+SFM,"Sprouts Farmers Market, Inc.",consumer-staples
+TAL,TAL Education Group,consumer-staples
+CPB,The Campbell's Company,consumer-staples
+LW,"Lamb Weston Holdings, Inc.",consumer-staples
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",consumer-staples
+GHC,Graham Holdings Company,consumer-staples
+POST,"Post Holdings, Inc.",consumer-staples
+PSMT,"PriceSmart, Inc.",consumer-staples
+LOPE,"Grand Canyon Education, Inc.",consumer-staples
+LAUR,"Laureate Education, Inc.",consumer-staples
+TBBB,BBB Foods Inc.,consumer-staples
+AKO.A,Embotelladora Andina S.A.,consumer-staples
+AKO.B,Embotelladora Andina S.A.,consumer-staples
+CVSA,Covista Inc.,consumer-staples
+LRN,"Stride, Inc.",consumer-staples
+ELF,"e.l.f. Beauty, Inc.",consumer-staples
+CALM,"Cal-Maine Foods, Inc.",consumer-staples
+MZTI,The Marzetti Company,consumer-staples
+FIZZ,National Beverage Corp.,consumer-staples
+FRPT,"Freshpet, Inc.",consumer-staples
+TR,"Tootsie Roll Industries, Inc.",consumer-staples
+IPAR,"Interparfums, Inc.",consumer-staples
+COCO,"The Vita Coco Company, Inc.",consumer-staples
+UNFI,"United Natural Foods, Inc.",consumer-staples
+RLX,RLX Technology Inc.,consumer-staples
+CHEF,"The Chefs' Warehouse, Inc.",consumer-staples
+ANDE,"The Andersons, Inc.",consumer-staples
+SAM,"The Boston Beer Company, Inc.",consumer-staples
+CENT,Central Garden & Pet Company,consumer-staples
+MH,"McGraw Hill, Inc.",consumer-staples
+COTY,Coty Inc.,consumer-staples
+PRDO,Perdoceo Education Corporation,consumer-staples
+CCU,CompaÃ±Ã­a CervecerÃ­as Unidas S.A.,consumer-staples
+FDP,Fresh Del Monte Produce Inc.,consumer-staples
+BRBR,"BellRing Brands, Inc.",consumer-staples
+UTI,"Universal Technical Institute, Inc.",consumer-staples
+AGRO,Adecoagro S.A.,consumer-staples
+SPB,"Spectrum Brands Holdings, Inc.",consumer-staples
+FLO,"Flowers Foods, Inc.",consumer-staples
+CENTA,Central Garden & Pet Company,consumer-staples
+STRA,"Strategic Education, Inc.",consumer-staples
+IMKTA,"Ingles Markets, Incorporated",consumer-staples
+WMK,"Weis Markets, Inc.",consumer-staples
+HLF,Herbalife Ltd.,consumer-staples
+NWL,Newell Brands Inc.,consumer-staples
+JJSF,J&J Snack Foods Corp.,consumer-staples
+TPB,"Turning Point Brands, Inc.",consumer-staples
+YSWY,"Yesway, Inc.",consumer-staples
+DOLE,Dole plc,consumer-staples
+NOMD,Nomad Foods Limited,consumer-staples
+DAO,"Youdao, Inc.",consumer-staples
+UVV,Universal Corporation,consumer-staples
+AFYA,Afya Limited,consumer-staples
+LINC,Lincoln Educational Services Corporation,consumer-staples
+SMPL,The Simply Good Foods Company,consumer-staples
+UTZ,"Utz Brands, Inc.",consumer-staples
+COUR,"Coursera, Inc.",consumer-staples
+EPC,Edgewell Personal Care Company,consumer-staples
+APEI,"American Public Education, Inc.",consumer-staples
+PXED,"Phoenix Education Partners, Inc.",consumer-staples
+AVO,"Mission Produce, Inc.",consumer-staples
+SENEA,Seneca Foods Corporation,consumer-staples
+JBSS,"John B. Sanfilippo & Son, Inc.",consumer-staples
+ODD,Oddity Tech Ltd.,consumer-staples
+GO,Grocery Outlet Holding Corp.,consumer-staples
+SENEB,Seneca Foods Corporation,consumer-staples
+STKL,SunOpta Inc.,consumer-staples
+UDMY,"Udemy, Inc.",consumer-staples
+DNUT,"Krispy Kreme, Inc.",consumer-staples
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",consumer-staples
+VLGEA,"Village Super Market, Inc.",consumer-staples
+OFRM,"Once Upon A Farm, PBC",consumer-staples
+VITL,"Vital Farms, Inc.",consumer-staples
+MAMA,"Mama's Creations, Inc.",consumer-staples
+DDL,Dingdong (Cayman) Limited,consumer-staples
+HELE,Helen of Troy Limited,consumer-staples
+WEST,Westrock Coffee Company,consumer-staples
+CVGW,"Calavo Growers, Inc.",consumer-staples
+NATR,"Nature's Sunshine Products, Inc.",consumer-staples
+GOTU,Gaotu Techedu Inc.,consumer-staples
+KLC,"KinderCare Learning Companies, Inc.",consumer-staples
+BGS,"B&G Foods, Inc.",consumer-staples
+MGPI,"MGP Ingredients, Inc.",consumer-staples
+WILC,G. Willi-Food International Ltd.,consumer-staples
+LWAY,"Lifeway Foods, Inc.",consumer-staples
+BYND,"Beyond Meat, Inc.",consumer-staples
+HNST,"The Honest Company, Inc.",consumer-staples
+SNDL,SNDL Inc.,consumer-staples
+MAGN,Magnera Corporation,consumer-staples
+LND,BrasilAgro - Companhia Brasileira de Propriedades AgrÃ­colas,consumer-staples
+AGCC,Agencia Comercial Spirits Ltd,consumer-staples
+NUS,"Nu Skin Enterprises, Inc.",consumer-staples
+OTLY,Oatly Group AB,consumer-staples
+USNA,"USANA Health Sciences, Inc.",consumer-staples
+VFF,"Village Farms International, Inc.",consumer-staples
+ALCO,"Alico, Inc.",consumer-staples
+EWCZ,"European Wax Center, Inc.",consumer-staples
+AFRI,Forafric Global PLC,consumer-staples
+BRCC,BRC Inc.,consumer-staples
+YSG,Yatsen Holding Limited,consumer-staples
+FC,Franklin Covey Co.,consumer-staples
+PTNM,Pitanium Limited,consumer-staples
+LMNR,Limoneira Company,consumer-staples
+COE,51Talk Online Education Group,consumer-staples
+ACU,Acme United Corporation,consumer-staples
+LGCY,Legacy Education Inc.,consumer-staples
+BUDA,"Buda Juice, Inc.",consumer-staples
+CHGG,"Chegg, Inc.",consumer-staples
+SKIN,SkinHealth Systems Inc.,consumer-staples
+HFFG,HF Foods Group Inc.,consumer-staples
+BHST,BioHarvest Sciences Inc.,consumer-staples
+SLSN,"Solesence, Inc.",consumer-staples
+ZVIA,Zevia PBC,consumer-staples
+TWG,Top Wealth Group Holding Limited,consumer-staples
+IH,iHuman Inc.,consumer-staples
+DIT,AMCON Distributing Company,consumer-staples
+FTLF,"FitLife Brands, Inc.",consumer-staples
+ISPR,Ispire Technology Inc.,consumer-staples
+DDC,DDC Enterprise Limited,consumer-staples
+YOUL,Youlife Group Inc.,consumer-staples
+RYM,"RYTHM, Inc.",consumer-staples
+CLNN,Clene Inc.,consumer-staples
+HAIN,"The Hain Celestial Group, Inc.",consumer-staples
+BRID,Bridgford Foods Corporation,consumer-staples
+LFVN,LifeVantage Corporation,consumer-staples
+SKIL,Skillsoft Corp.,consumer-staples
+LOCL,Local Bounti Corporation,consumer-staples
+VHUB,"VenHub Global, Inc.",consumer-staples
+BOF,BranchOut Food Inc.,consumer-staples
+AACG,ATA Creativity Global,consumer-staples
+GNS,Genius Group Limited,consumer-staples
+PFAI,Pinnacle Food Group Limited,consumer-staples
+GROV,"Grove Collaborative Holdings, Inc.",consumer-staples
+STG,Sunlands Technology Group,consumer-staples
+REED,"Reed's, Inc.",consumer-staples
+SRXH,SRx Health Solutions Inc.,consumer-staples
+RYET,Ruanyun Edai Technology Inc.,consumer-staples
+BRFH,"Barfresh Food Group, Inc.",consumer-staples
+LSF,"Laird Superfood, Inc.",consumer-staples
+SOWG,Sow Good Inc.,consumer-staples
+UG,"United-Guardian, Inc.",consumer-staples
+JVA,"Coffee Holding Co., Inc.",consumer-staples
+FARM,Farmer Bros. Co.,consumer-staples
+ABVE,Above Food Ingredients Inc.,consumer-staples
+WYHG,Wing Yip Food Holdings Group Limited,consumer-staples
+BRLS,Borealis Foods Inc.,consumer-staples
+FEDU,Four Seasons Education (Cayman) Inc.,consumer-staples
+YQ,17 Education & Technology Group Inc.,consumer-staples
+RMCF,"Rocky Mountain Chocolate Factory, Inc.",consumer-staples
+EPSM,Epsium Enterprise Limited,consumer-staples
+COOT,Australian Oilseeds Holdings Limited,consumer-staples
+YHC,LQR House Inc.,consumer-staples
+FAMI,"Farmmi, Inc.",consumer-staples
+NAII,"Natural Alternatives International, Inc.",consumer-staples
+EDTK,Skillful Craftsman Education Technology Limited,consumer-staples
+MYND,"Mynd.ai, Inc.",consumer-staples
+WVVI,"Willamette Valley Vineyards, Inc.",consumer-staples
+DSY,Big Tree Cloud Holdings Limited,consumer-staples
+MTEX,"Mannatech, Incorporated",consumer-staples
+VSA,VisionSys AI Inc.,consumer-staples
+AGRZ,Agroz Inc.,consumer-staples
+WAFU,Wah Fu Education Group Limited,consumer-staples
+AMBO,Ambow Education Holding Ltd.,consumer-staples
+RAY,Raytech Holding Limited,consumer-staples
+GSUN,Golden Sun Technology Group Limited,consumer-staples
+STKH,Steakholder Foods Ltd.,consumer-staples
+TANH,Tantech Holdings Ltd,consumer-staples
+EEIQ,EpicQuest Education Group International Limited,consumer-staples
+AQB,"AquaBounty Technologies, Inc.",consumer-staples
+MSS,Maison Solutions Inc.,consumer-staples
+NCRA,"Nocera, Inc.",consumer-staples
+SBEV,"Splash Beverage Group, Inc.",consumer-staples
+SDOT,Sadot Group Inc.,consumer-staples
+ORIS,Oriental Rise Holdings Limited,consumer-staples
+LXEH,"Lixiang Education Holding Co., Ltd.",consumer-staples
+ATPC,Agape ATP Corporation,consumer-staples
+BYAH,"Park Ha Biological Technology Co., Ltd.",consumer-staples
+RKDA,"Arcadia Biosciences, Inc.",consumer-staples
+MEHA,Functional Brands Inc.,consumer-staples
+IBG,Innovation Beverage Group Limited,consumer-staples
+PAVS,Paranovus Entertainment Technology Ltd.,consumer-staples
+KIDZ,"Classover Holdings, Inc.",consumer-staples
+XXII,"22nd Century Group, Inc.",consumer-staples
+GV,Visionary Holdings Inc.,consumer-staples
+GNLN,"Greenlane Holdings, Inc.",consumer-staples
+EDBL,Edible Garden AG Incorporated,consumer-staples
+FCHL,Fitness Champs Holdings Limited,consumer-staples
