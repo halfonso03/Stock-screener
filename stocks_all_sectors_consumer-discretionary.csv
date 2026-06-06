@@ -1,0 +1,543 @@
+ticker,company_name,sector_name,sub_sector_name
+ORLY,"O'Reilly Automotive, Inc.",consumer-discretionary,auto-parts
+AZO,"AutoZone, Inc.",consumer-discretionary,auto-parts
+MGA,Magna International Inc.,consumer-discretionary,auto-parts
+BWA,BorgWarner Inc.,consumer-discretionary,auto-parts
+MOD,Modine Manufacturing Company,consumer-discretionary,auto-parts
+APTV,Aptiv PLC,consumer-discretionary,auto-parts
+GPC,Genuine Parts Company,consumer-discretionary,auto-parts
+AUR,"Aurora Innovation, Inc.",consumer-discretionary,auto-parts
+ALSN,"Allison Transmission Holdings, Inc.",consumer-discretionary,auto-parts
+ALV,"Autoliv, Inc.",consumer-discretionary,auto-parts
+MBLY,Mobileye Global Inc.,consumer-discretionary,auto-parts
+LEA,Lear Corporation,consumer-discretionary,auto-parts
+LKQ,LKQ Corporation,consumer-discretionary,auto-parts
+GTX,Garrett Motion Inc.,consumer-discretionary,auto-parts
+GNTX,Gentex Corporation,consumer-discretionary,auto-parts
+QS,QuantumScape Corporation,consumer-discretionary,auto-parts
+DAN,Dana Incorporated,consumer-discretionary,auto-parts
+DORM,"Dorman Products, Inc.",consumer-discretionary,auto-parts
+ATMU,Atmus Filtration Technologies Inc.,consumer-discretionary,auto-parts
+AAP,"Advance Auto Parts, Inc.",consumer-discretionary,auto-parts
+VGNT,Versigent PLC,consumer-discretionary,auto-parts
+VC,Visteon Corporation,consumer-discretionary,auto-parts
+PHIN,PHINIA Inc.,consumer-discretionary,auto-parts
+HSAI,Hesai Group,consumer-discretionary,auto-parts
+ADNT,Adient plc,consumer-discretionary,auto-parts
+GT,The Goodyear Tire & Rubber Company,consumer-discretionary,auto-parts
+DCH,Dauch Corporation,consumer-discretionary,auto-parts
+HYLN,Hyliion Holdings Corp.,consumer-discretionary,auto-parts
+XPEL,"XPEL, Inc.",consumer-discretionary,auto-parts
+THRM,Gentherm Incorporated,consumer-discretionary,auto-parts
+PLOW,"Douglas Dynamics, Inc.",consumer-discretionary,auto-parts
+SMP,"Standard Motor Products, Inc.",consumer-discretionary,auto-parts
+FOXF,Fox Factory Holding Corp.,consumer-discretionary,auto-parts
+SLDP,"Solid Power, Inc.",consumer-discretionary,auto-parts
+MLR,"Miller Industries, Inc.",consumer-discretionary,auto-parts
+CPS,Cooper-Standard Holdings Inc.,consumer-discretionary,auto-parts
+ECX,ECARX Holdings Inc.,consumer-discretionary,auto-parts
+MNRO,"Monro, Inc.",consumer-discretionary,auto-parts
+SES,SES AI Corporation,consumer-discretionary,auto-parts
+MVST,"Microvast Holdings, Inc.",consumer-discretionary,auto-parts
+STRT,Strattec Security Corporation,consumer-discretionary,auto-parts
+HLLY,Holley Inc.,consumer-discretionary,auto-parts
+MPAA,"Motorcar Parts of America, Inc.",consumer-discretionary,auto-parts
+SRI,"Stoneridge, Inc.",consumer-discretionary,auto-parts
+CVGI,"Commercial Vehicle Group, Inc.",consumer-discretionary,auto-parts
+INVZ,Innoviz Technologies Ltd.,consumer-discretionary,auto-parts
+CAAS,"China Automotive Systems, Inc.",consumer-discretionary,auto-parts
+SYPR,"Sypris Solutions, Inc.",consumer-discretionary,auto-parts
+PRTS,"CarParts.com, Inc.",consumer-discretionary,auto-parts
+MKDW,MKDWELL Tech Inc.,consumer-discretionary,auto-parts
+WPRT,Westport Fuel Systems Inc.,consumer-discretionary,auto-parts
+GTEC,Greenland Technologies Holding Corporation,consumer-discretionary,auto-parts
+REE,REE Automotive Ltd.,consumer-discretionary,auto-parts
+INEO,INNEOVA Holdings Limited,consumer-discretionary,auto-parts
+WKSP,Worksport Ltd.,consumer-discretionary,auto-parts
+FRSX,Foresight Autonomous Holdings Ltd.,consumer-discretionary,auto-parts
+MCD,McDonald's Corporation,consumer-discretionary,restaurants
+SBUX,Starbucks Corporation,consumer-discretionary,restaurants
+YUM,"Yum! Brands, Inc.",consumer-discretionary,restaurants
+CMG,"Chipotle Mexican Grill, Inc.",consumer-discretionary,restaurants
+QSR,Restaurant Brands International Inc.,consumer-discretionary,restaurants
+DRI,"Darden Restaurants, Inc.",consumer-discretionary,restaurants
+YUMC,"Yum China Holdings, Inc.",consumer-discretionary,restaurants
+TXRH,"Texas Roadhouse, Inc.",consumer-discretionary,restaurants
+DPZ,"Domino's Pizza, Inc.",consumer-discretionary,restaurants
+BROS,Dutch Bros Inc.,consumer-discretionary,restaurants
+CAVA,"CAVA Group, Inc.",consumer-discretionary,restaurants
+EAT,"Brinker International, Inc.",consumer-discretionary,restaurants
+WING,Wingstop Inc.,consumer-discretionary,restaurants
+CAKE,The Cheesecake Factory Incorporated,consumer-discretionary,restaurants
+SHAK,Shake Shack Inc.,consumer-discretionary,restaurants
+CHA,Chagee Holdings Limited,consumer-discretionary,restaurants
+ARCO,Arcos Dorados Holdings Inc.,consumer-discretionary,restaurants
+WEN,The Wendy's Company,consumer-discretionary,restaurants
+PZZA,"Papa John's International, Inc.",consumer-discretionary,restaurants
+BH.A,Biglari Holdings Inc.,consumer-discretionary,restaurants
+BH,Biglari Holdings Inc.,consumer-discretionary,restaurants
+BJRI,"BJ's Restaurants, Inc.",consumer-discretionary,restaurants
+SG,"Sweetgreen, Inc.",consumer-discretionary,restaurants
+HDL,Super Hi International Holding Ltd.,consumer-discretionary,restaurants
+CBRL,"Cracker Barrel Old Country Store, Inc.",consumer-discretionary,restaurants
+CNNE,"Cannae Holdings, Inc.",consumer-discretionary,restaurants
+FWRG,"First Watch Restaurant Group, Inc.",consumer-discretionary,restaurants
+BLMN,"Bloomin' Brands, Inc.",consumer-discretionary,restaurants
+KRUS,"Kura Sushi USA, Inc.",consumer-discretionary,restaurants
+LOCO,"El Pollo Loco Holdings, Inc.",consumer-discretionary,restaurants
+NATH,"Nathan's Famous, Inc.",consumer-discretionary,restaurants
+DIN,"Dine Brands Global, Inc.",consumer-discretionary,restaurants
+BRCB,"Black Rock Coffee Bar, Inc.",consumer-discretionary,restaurants
+PTLO,Portillo's Inc.,consumer-discretionary,restaurants
+JACK,Jack in the Box Inc.,consumer-discretionary,restaurants
+VENU,Venu Holding Corporation,consumer-discretionary,restaurants
+RICK,"RCI Hospitality Holdings, Inc.",consumer-discretionary,restaurants
+HCHL,Happy City Holdings Limited,consumer-discretionary,restaurants
+MB,MasterBeef Group,consumer-discretionary,restaurants
+RRGB,"Red Robin Gourmet Burgers, Inc.",consumer-discretionary,restaurants
+NDLS,Noodles & Company,consumer-discretionary,restaurants
+GENK,"GEN Restaurant Group, Inc.",consumer-discretionary,restaurants
+BDL,"Flanigan's Enterprises, Inc.",consumer-discretionary,restaurants
+THCH,TH International Limited,consumer-discretionary,restaurants
+STKS,"The ONE Group Hospitality, Inc.",consumer-discretionary,restaurants
+RAVE,"Rave Restaurant Group, Inc.",consumer-discretionary,restaurants
+ARKR,Ark Restaurants Corp.,consumer-discretionary,restaurants
+GTIM,Good Times Restaurants Inc.,consumer-discretionary,restaurants
+REBN,"Reborn Coffee, Inc.",consumer-discretionary,restaurants
+PETZ,"TDH Holdings, Inc.",consumer-discretionary,restaurants
+CCHH,CCH Holdings Ltd,consumer-discretionary,restaurants
+BTBD,"BT Brands, Inc.",consumer-discretionary,restaurants
+VSTD,Vestand Inc.,consumer-discretionary,restaurants
+CHSN,Chanson International Holding,consumer-discretionary,restaurants
+CASY,"Casey's General Stores, Inc.",consumer-discretionary,specialty-retail
+WSM,"Williams-Sonoma, Inc.",consumer-discretionary,specialty-retail
+ULTA,"Ulta Beauty, Inc.",consumer-discretionary,specialty-retail
+DKS,"DICK'S Sporting Goods, Inc.",consumer-discretionary,specialty-retail
+TSCO,Tractor Supply Company,consumer-discretionary,specialty-retail
+BBY,"Best Buy Co., Inc.",consumer-discretionary,specialty-retail
+FIVE,"Five Below, Inc.",consumer-discretionary,specialty-retail
+MUSA,Murphy USA Inc.,consumer-discretionary,specialty-retail
+GME,GameStop Corp.,consumer-discretionary,specialty-retail
+MNSO,MINISO Group Holding Limited,consumer-discretionary,specialty-retail
+BBWI,"Bath & Body Works, Inc.",consumer-discretionary,specialty-retail
+ASO,"Academy Sports and Outdoors, Inc.",consumer-discretionary,specialty-retail
+RH,RH,consumer-discretionary,specialty-retail
+BOBS,"Bob's Discount Furniture, Inc.",consumer-discretionary,specialty-retail
+SVV,"Savers Value Village, Inc.",consumer-discretionary,specialty-retail
+OLPX,"Olaplex Holdings, Inc.",consumer-discretionary,specialty-retail
+WINA,Winmark Corporation,consumer-discretionary,specialty-retail
+EYE,"National Vision Holdings, Inc.",consumer-discretionary,specialty-retail
+SBH,"Sally Beauty Holdings, Inc.",consumer-discretionary,specialty-retail
+ARHS,"Arhaus, Inc.",consumer-discretionary,specialty-retail
+ARKO,Arko Corp.,consumer-discretionary,specialty-retail
+WOOF,"Petco Health and Wellness Company, Inc.",consumer-discretionary,specialty-retail
+HZO,"MarineMax, Inc.",consumer-discretionary,specialty-retail
+BWMX,"Betterware de MÃ©xico, S.A.P.I. de C.V.",consumer-discretionary,specialty-retail
+EVGO,"EVgo, Inc.",consumer-discretionary,specialty-retail
+BBBY,"Bed Bath & Beyond, Inc.",consumer-discretionary,specialty-retail
+BBW,"Build-A-Bear Workshop, Inc.",consumer-discretionary,specialty-retail
+BNED,"Barnes & Noble Education, Inc.",consumer-discretionary,specialty-retail
+FLWS,"1-800-FLOWERS.COM, Inc.",consumer-discretionary,specialty-retail
+HTLM,HomesToLife Ltd.,consumer-discretionary,specialty-retail
+CHPT,"ChargePoint Holdings, Inc.",consumer-discretionary,specialty-retail
+ONEW,OneWater Marine Inc.,consumer-discretionary,specialty-retail
+JMG,JM Group Limited,consumer-discretionary,specialty-retail
+GRWG,GrowGeneration Corp.,consumer-discretionary,specialty-retail
+BARK,"BARK, Inc.",consumer-discretionary,specialty-retail
+ABLV,Able View Global Inc.,consumer-discretionary,specialty-retail
+SPWH,"Sportsman's Warehouse Holdings, Inc.",consumer-discretionary,specialty-retail
+ZOOZ,ZOOZ Strategy Ltd.,consumer-discretionary,specialty-retail
+LESL,"Leslie's, Inc.",consumer-discretionary,specialty-retail
+NAAS,NaaS Technology Inc.,consumer-discretionary,specialty-retail
+PTLE,PTL Limited,consumer-discretionary,specialty-retail
+NPT,Texxon Holding Limited,consumer-discretionary,specialty-retail
+TLF,"Tandy Leather Factory, Inc.",consumer-discretionary,specialty-retail
+RECT,Rectitude Holdings Ltd,consumer-discretionary,specialty-retail
+JBDI,JBDI Holdings Limited,consumer-discretionary,specialty-retail
+CGTL,Creative Global Technology Holdings Limited,consumer-discretionary,specialty-retail
+TKLF,"Tokyo Lifestyle Co., Ltd.",consumer-discretionary,specialty-retail
+BQ,Boqii Holding Limited,consumer-discretionary,specialty-retail
+NVVE,Nuvve Holding Corp.,consumer-discretionary,specialty-retail
+AMZN,"Amazon.com, Inc.",consumer-discretionary,internet-retail
+BABA,Alibaba Group Holding Limited,consumer-discretionary,internet-retail
+PDD,PDD Holdings Inc.,consumer-discretionary,internet-retail
+MELI,"MercadoLibre, Inc.",consumer-discretionary,internet-retail
+DASH,"DoorDash, Inc.",consumer-discretionary,internet-retail
+SE,Sea Limited,consumer-discretionary,internet-retail
+EBAY,eBay Inc.,consumer-discretionary,internet-retail
+JD,"JD.com, Inc.",consumer-discretionary,internet-retail
+CPNG,"Coupang, Inc.",consumer-discretionary,internet-retail
+CART,Maplebear Inc.,consumer-discretionary,internet-retail
+W,Wayfair Inc.,consumer-discretionary,internet-retail
+CHWY,"Chewy, Inc.",consumer-discretionary,internet-retail
+VIPS,Vipshop Holdings Limited,consumer-discretionary,internet-retail
+ETSY,"Etsy, Inc.",consumer-discretionary,internet-retail
+GLBE,Global-E Online Ltd.,consumer-discretionary,internet-retail
+RVLV,"Revolve Group, Inc.",consumer-discretionary,internet-retail
+LQDT,"Liquidity Services, Inc.",consumer-discretionary,internet-retail
+HEPS,D-Market Elektronik Hizmetler ve Ticaret A.S.,consumer-discretionary,internet-retail
+RERE,ATRenew Inc.,consumer-discretionary,internet-retail
+JMIA,Jumia Technologies AG,consumer-discretionary,internet-retail
+TDUP,ThredUp Inc.,consumer-discretionary,internet-retail
+ZKH,ZKH Group Limited,consumer-discretionary,internet-retail
+NEGG,"Newegg Commerce, Inc.",consumer-discretionary,internet-retail
+BZUN,Baozun Inc.,consumer-discretionary,internet-retail
+WNW,Meiwu Technology Company Limited,consumer-discretionary,internet-retail
+HOUR,"Hour Loop, Inc.",consumer-discretionary,internet-retail
+LITB,"LightInTheBox Holding Co., Ltd.",consumer-discretionary,internet-retail
+NHTC,Natural Health Trends Corp.,consumer-discretionary,internet-retail
+MOGU,MOGU Inc.,consumer-discretionary,internet-retail
+YJ,Yunji Inc.,consumer-discretionary,internet-retail
+UZX,Linkage Global Inc,consumer-discretionary,internet-retail
+JWEL,Jowell Global Ltd.,consumer-discretionary,internet-retail
+WBUY,Webuy Global Ltd,consumer-discretionary,internet-retail
+MI,NFT Limited,consumer-discretionary,internet-retail
+OCG,Oriental Culture Holding LTD,consumer-discretionary,internet-retail
+NEXR,Nexera Technologies Ltd,consumer-discretionary,internet-retail
+IPW,iPower Inc.,consumer-discretionary,internet-retail
+AS,"Amer Sports, Inc.",consumer-discretionary,leisure
+HAS,"Hasbro, Inc.",consumer-discretionary,leisure
+LTH,"Life Time Group Holdings, Inc.",consumer-discretionary,leisure
+GOLF,Acushnet Holdings Corp.,consumer-discretionary,leisure
+MAT,"Mattel, Inc.",consumer-discretionary,leisure
+PLNT,"Planet Fitness, Inc.",consumer-discretionary,leisure
+YETI,"YETI Holdings, Inc.",consumer-discretionary,leisure
+CALY,Callaway Golf Company,consumer-discretionary,leisure
+PTON,"Peloton Interactive, Inc.",consumer-discretionary,leisure
+OSW,OneSpaWorld Holdings Limited,consumer-discretionary,leisure
+FUN,Six Flags Entertainment Corporation,consumer-discretionary,leisure
+PRKS,United Parks & Resorts Inc.,consumer-discretionary,leisure
+LUCK,Lucky Strike Entertainment Corporation,consumer-discretionary,leisure
+TRON,Tron Inc.,consumer-discretionary,leisure
+JOUT,Johnson Outdoors Inc.,consumer-discretionary,leisure
+FNKO,"Funko, Inc.",consumer-discretionary,leisure
+XPOF,"Xponential Fitness, Inc.",consumer-discretionary,leisure
+JAKK,"JAKKS Pacific, Inc.",consumer-discretionary,leisure
+ESCA,"Escalade, Incorporated",consumer-discretionary,leisure
+PLBY,"Playboy, Inc.",consumer-discretionary,leisure
+AOUT,"American Outdoor Brands, Inc.",consumer-discretionary,leisure
+CLAR,Clarus Corporation,consumer-discretionary,leisure
+PUSA,Aureus Greenway Holdings Inc.,consumer-discretionary,leisure
+HERE,Here Group Limited,consumer-discretionary,leisure
+GDHG,Golden Heaven Group Holdings Ltd.,consumer-discretionary,leisure
+NOMA,Nomadar Corp.,consumer-discretionary,leisure
+KBSX,FST Corp.,consumer-discretionary,leisure
+KMRK,K-TECH Solutions Company Limited,consumer-discretionary,leisure
+MMA,Mixed Martial Arts Group Limited,consumer-discretionary,leisure
+DOGZ,Dogness (International) Corporation,consumer-discretionary,leisure
+HWH,HWH International Inc.,consumer-discretionary,leisure
+NWTG,"Newton Golf Company, Inc.",consumer-discretionary,leisure
+TRUG,"TruGolf Holdings, Inc.",consumer-discretionary,leisure
+SN,"SharkNinja, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+SGI,Somnigroup International Inc.,consumer-discretionary,furnishings-fixtures-and-appliances
+MHK,"Mohawk Industries, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+ALH,Alliance Laundry Holdings Inc.,consumer-discretionary,furnishings-fixtures-and-appliances
+WHR,Whirlpool Corporation,consumer-discretionary,furnishings-fixtures-and-appliances
+HNI,HNI Corporation,consumer-discretionary,furnishings-fixtures-and-appliances
+TILE,"Interface, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+MBC,"MasterBrand, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+LZB,La-Z-Boy Incorporated,consumer-discretionary,furnishings-fixtures-and-appliances
+LEG,"Leggett & Platt, Incorporated",consumer-discretionary,furnishings-fixtures-and-appliances
+MLKN,"MillerKnoll, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+ETD,Ethan Allen Interiors Inc.,consumer-discretionary,furnishings-fixtures-and-appliances
+XMAX,XMax Inc.,consumer-discretionary,furnishings-fixtures-and-appliances
+FLXS,"Flexsteel Industries, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+HBB,Hamilton Beach Brands Holding Company,consumer-discretionary,furnishings-fixtures-and-appliances
+LOVE,The Lovesac Company,consumer-discretionary,furnishings-fixtures-and-appliances
+LCUT,"Lifetime Brands, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+COOK,"Traeger, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+HOFT,Hooker Furnishings Corporation,consumer-discretionary,furnishings-fixtures-and-appliances
+BSET,"Bassett Furniture Industries, Incorporated",consumer-discretionary,furnishings-fixtures-and-appliances
+KEQU,Kewaunee Scientific Corporation,consumer-discretionary,furnishings-fixtures-and-appliances
+VIRC,Virco Mfg. Corporation,consumer-discretionary,furnishings-fixtures-and-appliances
+VIOT,"Viomi Technology Co., Ltd",consumer-discretionary,furnishings-fixtures-and-appliances
+PRPL,"Purple Innovation, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+CRWS,"Crown Crafts, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+NTZ,Natuzzi S.p.A.,consumer-discretionary,furnishings-fixtures-and-appliances
+EFOI,"Energy Focus, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+MWYN,"Marwynn Holdings, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+FGI,FGI Industries Ltd.,consumer-discretionary,furnishings-fixtures-and-appliances
+SNBR,Sleep Number Corporation,consumer-discretionary,furnishings-fixtures-and-appliances
+ATER,"Aterian, Inc.",consumer-discretionary,furnishings-fixtures-and-appliances
+NCL,Northann Corp.,consumer-discretionary,furnishings-fixtures-and-appliances
+TSLA,"Tesla, Inc.",consumer-discretionary,auto-manufacturers
+TM,Toyota Motor Corporation,consumer-discretionary,auto-manufacturers
+GM,General Motors Company,consumer-discretionary,auto-manufacturers
+RACE,Ferrari N.V.,consumer-discretionary,auto-manufacturers
+F,Ford Motor Company,consumer-discretionary,auto-manufacturers
+HMC,"Honda Motor Co., Ltd.",consumer-discretionary,auto-manufacturers
+RIVN,"Rivian Automotive, Inc.",consumer-discretionary,auto-manufacturers
+STLA,Stellantis N.V.,consumer-discretionary,auto-manufacturers
+XPEV,XPeng Inc.,consumer-discretionary,auto-manufacturers
+LI,Li Auto Inc.,consumer-discretionary,auto-manufacturers
+NIO,NIO Inc.,consumer-discretionary,auto-manufacturers
+VFS,VinFast Auto Ltd.,consumer-discretionary,auto-manufacturers
+PSNY,Polestar Automotive Holding UK PLC,consumer-discretionary,auto-manufacturers
+CYD,China Yuchai International Limited,consumer-discretionary,auto-manufacturers
+LCID,"Lucid Group, Inc.",consumer-discretionary,auto-manufacturers
+LOT,Lotus Technology Inc.,consumer-discretionary,auto-manufacturers
+LVWR,"LiveWire Group, Inc.",consumer-discretionary,auto-manufacturers
+NIU,Niu Technologies,consumer-discretionary,auto-manufacturers
+EMPD,Empery Digital Inc.,consumer-discretionary,auto-manufacturers
+FFAI,Faraday Future Intelligent Electric Inc.,consumer-discretionary,auto-manufacturers
+GGR,Gogoro Inc.,consumer-discretionary,auto-manufacturers
+SEV,Aptera Motors Corp.,consumer-discretionary,auto-manufacturers
+AIIO,Robo.ai Inc.,consumer-discretionary,auto-manufacturers
+WKHS,"Workhorse Group, Inc.",consumer-discretionary,auto-manufacturers
+EVTV,"Envirotech Vehicles, Inc.",consumer-discretionary,auto-manufacturers
+FABC,"Fabric.AI, Inc.",consumer-discretionary,auto-manufacturers
+LOBO,Lobo Technologies Ltd.,consumer-discretionary,auto-manufacturers
+CENN,Cenntro Inc.,consumer-discretionary,auto-manufacturers
+DCX,Digital Currency X Technology Inc.,consumer-discretionary,auto-manufacturers
+SSM,Sono Group N.V.,consumer-discretionary,auto-manufacturers
+FLYE,"Fly-E Group, Inc.",consumer-discretionary,auto-manufacturers
+TJX,"The TJX Companies, Inc.",consumer-discretionary,apparel-retail
+ROST,"Ross Stores, Inc.",consumer-discretionary,apparel-retail
+BURL,"Burlington Stores, Inc.",consumer-discretionary,apparel-retail
+LULU,lululemon athletica inc.,consumer-discretionary,apparel-retail
+GAP,"The Gap, Inc.",consumer-discretionary,apparel-retail
+URBN,"Urban Outfitters, Inc.",consumer-discretionary,apparel-retail
+BOOT,"Boot Barn Holdings, Inc.",consumer-discretionary,apparel-retail
+ANF,Abercrombie & Fitch Co.,consumer-discretionary,apparel-retail
+AEO,"American Eagle Outfitters, Inc.",consumer-discretionary,apparel-retail
+BKE,"The Buckle, Inc.",consumer-discretionary,apparel-retail
+CRI,"Carter's, Inc.",consumer-discretionary,apparel-retail
+SFIX,"Stitch Fix, Inc.",consumer-discretionary,apparel-retail
+SCVL,"Shoe Carnival, Inc.",consumer-discretionary,apparel-retail
+CAL,"Caleres, Inc.",consumer-discretionary,apparel-retail
+GCO,Genesco Inc.,consumer-discretionary,apparel-retail
+CTRN,"Citi Trends, Inc.",consumer-discretionary,apparel-retail
+LE,"Lands' End, Inc.",consumer-discretionary,apparel-retail
+ZUMZ,Zumiez Inc.,consumer-discretionary,apparel-retail
+JILL,"J.Jill, Inc.",consumer-discretionary,apparel-retail
+CURV,Torrid Holdings Inc.,consumer-discretionary,apparel-retail
+TLYS,"Tilly's, Inc.",consumer-discretionary,apparel-retail
+DLTH,Duluth Holdings Inc.,consumer-discretionary,apparel-retail
+RENT,"Rent the Runway, Inc.",consumer-discretionary,apparel-retail
+AKA,a.k.a. Brands Holding Corp.,consumer-discretionary,apparel-retail
+CATO,The Cato Corporation,consumer-discretionary,apparel-retail
+BRIA,BrilliA Inc,consumer-discretionary,apparel-retail
+DXLG,"Destination XL Group, Inc.",consumer-discretionary,apparel-retail
+BIRD,"Allbirds, Inc.",consumer-discretionary,apparel-retail
+LVLU,"Lulu's Fashion Lounge Holdings, Inc.",consumer-discretionary,apparel-retail
+JEM,707 Cayman Holdings Limited,consumer-discretionary,apparel-retail
+CVNA,Carvana Co.,consumer-discretionary,auto-and-truck-dealerships
+PAG,"Penske Automotive Group, Inc.",consumer-discretionary,auto-and-truck-dealerships
+KMX,"CarMax, Inc.",consumer-discretionary,auto-and-truck-dealerships
+LAD,"Lithia Motors, Inc.",consumer-discretionary,auto-and-truck-dealerships
+AN,"AutoNation, Inc.",consumer-discretionary,auto-and-truck-dealerships
+RUSHA,"Rush Enterprises, Inc.",consumer-discretionary,auto-and-truck-dealerships
+VVV,Valvoline Inc.,consumer-discretionary,auto-and-truck-dealerships
+RUSHB,"Rush Enterprises, Inc.",consumer-discretionary,auto-and-truck-dealerships
+OPLN,"OPENLANE, Inc.",consumer-discretionary,auto-and-truck-dealerships
+GPI,"Group 1 Automotive, Inc.",consumer-discretionary,auto-and-truck-dealerships
+ABG,"Asbury Automotive Group, Inc.",consumer-discretionary,auto-and-truck-dealerships
+BGSI,Boyd Group Services Inc.,consumer-discretionary,auto-and-truck-dealerships
+SAH,"Sonic Automotive, Inc.",consumer-discretionary,auto-and-truck-dealerships
+CARG,"CarGurus, Inc.",consumer-discretionary,auto-and-truck-dealerships
+DRVN,Driven Brands Holdings Inc.,consumer-discretionary,auto-and-truck-dealerships
+ACVA,ACV Auctions Inc.,consumer-discretionary,auto-and-truck-dealerships
+CWH,"Camping World Holdings, Inc.",consumer-discretionary,auto-and-truck-dealerships
+UXIN,Uxin Limited,consumer-discretionary,auto-and-truck-dealerships
+RDNW,"RideNow Group, Inc.",consumer-discretionary,auto-and-truck-dealerships
+SDA,SunCar Technology Group Inc.,consumer-discretionary,auto-and-truck-dealerships
+CRMT,"America's Car-Mart, Inc.",consumer-discretionary,auto-and-truck-dealerships
+UCAR,U Power Limited,consumer-discretionary,auto-and-truck-dealerships
+KXIN,Kaixin Holdings,consumer-discretionary,auto-and-truck-dealerships
+AZI,Autozi Internet Technology (Global) Ltd.,consumer-discretionary,auto-and-truck-dealerships
+JZXN,"Jiuzi Holdings, Inc.",consumer-discretionary,auto-and-truck-dealerships
+RL,Ralph Lauren Corporation,consumer-discretionary,apparel-manufacturing
+GIL,Gildan Activewear Inc.,consumer-discretionary,apparel-manufacturing
+LEVI,Levi Strauss & Co.,consumer-discretionary,apparel-manufacturing
+VFC,V.F. Corporation,consumer-discretionary,apparel-manufacturing
+ZGN,Ermenegildo Zegna N.V.,consumer-discretionary,apparel-manufacturing
+KTB,"Kontoor Brands, Inc.",consumer-discretionary,apparel-manufacturing
+PVH,PVH Corp.,consumer-discretionary,apparel-manufacturing
+COLM,Columbia Sportswear Company,consumer-discretionary,apparel-manufacturing
+UAA,"Under Armour, Inc.",consumer-discretionary,apparel-manufacturing
+UA,"Under Armour, Inc.",consumer-discretionary,apparel-manufacturing
+FIGS,"FIGS, Inc.",consumer-discretionary,apparel-manufacturing
+GIII,"G-III Apparel Group, Ltd.",consumer-discretionary,apparel-manufacturing
+GOOS,Canada Goose Holdings Inc.,consumer-discretionary,apparel-manufacturing
+OXM,"Oxford Industries, Inc.",consumer-discretionary,apparel-manufacturing
+SGC,"Superior Group of Companies, Inc.",consumer-discretionary,apparel-manufacturing
+LAKE,"Lakeland Industries, Inc.",consumer-discretionary,apparel-manufacturing
+JXG,JX Luxventure Group Inc.,consumer-discretionary,apparel-manufacturing
+PLCE,"The Children's Place, Inc.",consumer-discretionary,apparel-manufacturing
+VNCE,Vince Holding Corp.,consumer-discretionary,apparel-manufacturing
+JRSH,"Jerash Holdings (US), Inc.",consumer-discretionary,apparel-manufacturing
+NCI,Neo-Concept International Group Holdings Limited,consumer-discretionary,apparel-manufacturing
+JL,J-Long Group Limited,consumer-discretionary,apparel-manufacturing
+XELB,"Xcel Brands, Inc.",consumer-discretionary,apparel-manufacturing
+PMNT,Perfect Moment Ltd.,consumer-discretionary,apparel-manufacturing
+SW,Smurfit Westrock Plc,consumer-discretionary,packaging-and-containers
+PKG,Packaging Corporation of America,consumer-discretionary,packaging-and-containers
+IP,International Paper Company,consumer-discretionary,packaging-and-containers
+AMCR,Amcor plc,consumer-discretionary,packaging-and-containers
+BALL,Ball Corporation,consumer-discretionary,packaging-and-containers
+AVY,Avery Dennison Corporation,consumer-discretionary,packaging-and-containers
+CCK,"Crown Holdings, Inc.",consumer-discretionary,packaging-and-containers
+REYN,Reynolds Consumer Products Inc.,consumer-discretionary,packaging-and-containers
+SON,Sonoco Products Company,consumer-discretionary,packaging-and-containers
+SLGN,Silgan Holdings Inc.,consumer-discretionary,packaging-and-containers
+GEF.B,"Greif, Inc.",consumer-discretionary,packaging-and-containers
+GPK,Graphic Packaging Holding Company,consumer-discretionary,packaging-and-containers
+GEF,"Greif, Inc.",consumer-discretionary,packaging-and-containers
+AMBP,Ardagh Metal Packaging S.A.,consumer-discretionary,packaging-and-containers
+TRS,TriMas Corporation,consumer-discretionary,packaging-and-containers
+OI,"O-I Glass, Inc.",consumer-discretionary,packaging-and-containers
+MYE,"Myers Industries, Inc.",consumer-discretionary,packaging-and-containers
+PACK,Ranpak Holdings Corp.,consumer-discretionary,packaging-and-containers
+KRT,Karat Packaging Inc.,consumer-discretionary,packaging-and-containers
+ORBS,Eightco Holdings Inc.,consumer-discretionary,packaging-and-containers
+MGIH,Millennium Group International Holdings Limited,consumer-discretionary,packaging-and-containers
+YHGJ,Yunhong Green CTI Ltd.,consumer-discretionary,packaging-and-containers
+DSS,"DSS, Inc.",consumer-discretionary,packaging-and-containers
+DHI,"D.R. Horton, Inc.",consumer-discretionary,residential-construction
+PHM,"PulteGroup, Inc.",consumer-discretionary,residential-construction
+LEN,Lennar Corporation,consumer-discretionary,residential-construction
+NVR,"NVR, Inc.",consumer-discretionary,residential-construction
+TOL,"Toll Brothers, Inc.",consumer-discretionary,residential-construction
+TMHC,Taylor Morrison Home Corporation,consumer-discretionary,residential-construction
+IBP,"Installed Building Products, Inc.",consumer-discretionary,residential-construction
+MTH,Meritage Homes Corporation,consumer-discretionary,residential-construction
+CVCO,"Cavco Industries, Inc.",consumer-discretionary,residential-construction
+SKY,"Champion Homes, Inc.",consumer-discretionary,residential-construction
+MHO,"M/I Homes, Inc.",consumer-discretionary,residential-construction
+KBH,KB Home,consumer-discretionary,residential-construction
+GRBK,"Green Brick Partners, Inc.",consumer-discretionary,residential-construction
+DFH,"Dream Finders Homes, Inc.",consumer-discretionary,residential-construction
+LGIH,"LGI Homes, Inc.",consumer-discretionary,residential-construction
+BZH,"Beazer Homes USA, Inc.",consumer-discretionary,residential-construction
+HOV,"Hovnanian Enterprises, Inc.",consumer-discretionary,residential-construction
+LEGH,Legacy Housing Corporation,consumer-discretionary,residential-construction
+SPHL,Springview Holdings Ltd,consumer-discretionary,residential-construction
+BKNG,Booking Holdings Inc.,consumer-discretionary,travel-services
+ABNB,"Airbnb, Inc.",consumer-discretionary,travel-services
+RCL,Royal Caribbean Cruises Ltd.,consumer-discretionary,travel-services
+VIK,Viking Holdings Ltd,consumer-discretionary,travel-services
+CCL,Carnival Corporation Ltd.,consumer-discretionary,travel-services
+TCOM,Trip.com Group Limited,consumer-discretionary,travel-services
+EXPE,"Expedia Group, Inc.",consumer-discretionary,travel-services
+NCLH,Norwegian Cruise Line Holdings Ltd.,consumer-discretionary,travel-services
+GBTG,"Global Business Travel Group, Inc.",consumer-discretionary,travel-services
+TNL,Travel + Leisure Co.,consumer-discretionary,travel-services
+MMYT,MakeMyTrip Limited,consumer-discretionary,travel-services
+LIND,"Lindblad Expeditions Holdings, Inc.",consumer-discretionary,travel-services
+TRIP,"Tripadvisor, Inc.",consumer-discretionary,travel-services
+PRSU,"Pursuit Attractions and Hospitality, Inc.",consumer-discretionary,travel-services
+NUTR,NusaTrip Incorporated,consumer-discretionary,travel-services
+TOUR,Tuniu Corporation,consumer-discretionary,travel-services
+YTRA,"Yatra Online, Inc.",consumer-discretionary,travel-services
+NTRP,"NextTrip, Inc.",consumer-discretionary,travel-services
+AHMA,Ambitions Enterprise Management Co. L.L.C,consumer-discretionary,travel-services
+LVS,Las Vegas Sands Corp.,consumer-discretionary,resorts-and-casinos
+MGM,MGM Resorts International,consumer-discretionary,resorts-and-casinos
+WYNN,"Wynn Resorts, Limited",consumer-discretionary,resorts-and-casinos
+BYD,Boyd Gaming Corporation,consumer-discretionary,resorts-and-casinos
+CZR,"Caesars Entertainment, Inc.",consumer-discretionary,resorts-and-casinos
+RRR,"Red Rock Resorts, Inc.",consumer-discretionary,resorts-and-casinos
+MTN,"Vail Resorts, Inc.",consumer-discretionary,resorts-and-casinos
+HGV,Hilton Grand Vacations Inc.,consumer-discretionary,resorts-and-casinos
+VAC,Marriott Vacations Worldwide Corporation,consumer-discretionary,resorts-and-casinos
+PENN,"PENN Entertainment, Inc.",consumer-discretionary,resorts-and-casinos
+MLCO,Melco Resorts & Entertainment Limited,consumer-discretionary,resorts-and-casinos
+MCRI,"Monarch Casino & Resort, Inc.",consumer-discretionary,resorts-and-casinos
+BALY,Bally's Corporation,consumer-discretionary,resorts-and-casinos
+MSC,Studio City International Holdings Limited,consumer-discretionary,resorts-and-casinos
+FLL,"Full House Resorts, Inc.",consumer-discretionary,resorts-and-casinos
+CPHC,Canterbury Park Holding Corporation,consumer-discretionary,resorts-and-casinos
+CNTY,"Century Casinos, Inc.",consumer-discretionary,resorts-and-casinos
+BC,Brunswick Corporation,consumer-discretionary,recreational-vehicles
+DOO,BRP Inc.,consumer-discretionary,recreational-vehicles
+THO,"THOR Industries, Inc.",consumer-discretionary,recreational-vehicles
+PII,Polaris Inc.,consumer-discretionary,recreational-vehicles
+PATK,"Patrick Industries, Inc.",consumer-discretionary,recreational-vehicles
+HOG,"Harley-Davidson, Inc.",consumer-discretionary,recreational-vehicles
+LCII,LCI Industries,consumer-discretionary,recreational-vehicles
+WGO,"Winnebago Industries, Inc.",consumer-discretionary,recreational-vehicles
+MCFT,"MasterCraft Boat Holdings, Inc.",consumer-discretionary,recreational-vehicles
+MBUU,"Malibu Boats, Inc.",consumer-discretionary,recreational-vehicles
+KNDI,"Kandi Technologies Group, Inc.",consumer-discretionary,recreational-vehicles
+MAMO,Massimo Group,consumer-discretionary,recreational-vehicles
+VEEE,Twin Vee Powercats Co.,consumer-discretionary,recreational-vehicles
+VMAR,Vision Marine Technologies Inc.,consumer-discretionary,recreational-vehicles
+EZGO,EZGO Technologies Ltd.,consumer-discretionary,recreational-vehicles
+NKE,"NIKE, Inc.",consumer-discretionary,footwear-and-accessories
+DECK,Deckers Outdoor Corporation,consumer-discretionary,footwear-and-accessories
+ONON,On Holding AG,consumer-discretionary,footwear-and-accessories
+BIRK,Birkenstock Holding plc,consumer-discretionary,footwear-and-accessories
+CROX,"Crocs, Inc.",consumer-discretionary,footwear-and-accessories
+VSXY,Victoria's Secret & Co.,consumer-discretionary,footwear-and-accessories
+SHOO,"Steven Madden, Ltd.",consumer-discretionary,footwear-and-accessories
+WWW,"Wolverine World Wide, Inc.",consumer-discretionary,footwear-and-accessories
+DBI,Designer Brands Inc.,consumer-discretionary,footwear-and-accessories
+WEYS,"Weyco Group, Inc.",consumer-discretionary,footwear-and-accessories
+FWDI,"Forward Industries, Inc.",consumer-discretionary,footwear-and-accessories
+RCKY,"Rocky Brands, Inc.",consumer-discretionary,footwear-and-accessories
+FOSL,"Fossil Group, Inc.",consumer-discretionary,footwear-and-accessories
+VRA,"Vera Bradley, Inc.",consumer-discretionary,footwear-and-accessories
+FMFC,Kandal M Venture Limited,consumer-discretionary,footwear-and-accessories
+ROL,"Rollins, Inc.",consumer-discretionary,personal-services
+SCI,Service Corporation International,consumer-discretionary,personal-services
+HRB,"H&R Block, Inc.",consumer-discretionary,personal-services
+FTDR,"Frontdoor, Inc.",consumer-discretionary,personal-services
+ANDG,Andersen Group Inc.,consumer-discretionary,personal-services
+BFAM,Bright Horizons Family Solutions Inc.,consumer-discretionary,personal-services
+CSV,"Carriage Services, Inc.",consumer-discretionary,personal-services
+MED,"Medifast, Inc.",consumer-discretionary,personal-services
+RGS,Regis Corporation,consumer-discretionary,personal-services
+MRM,MEDIROM Healthcare Technologies Inc.,consumer-discretionary,personal-services
+EJH,E-Home Household Service Holdings Limited,consumer-discretionary,personal-services
+CLIK,Click Holdings Limited,consumer-discretionary,personal-services
+TRNR,Interactive Strength Inc.,consumer-discretionary,personal-services
+YYGH,YY Group Holding Limited,consumer-discretionary,personal-services
+FLUT,Flutter Entertainment plc,consumer-discretionary,gambling
+DKNG,DraftKings Inc.,consumer-discretionary,gambling
+SGHC,Super Group (SGHC) Limited,consumer-discretionary,gambling
+RSI,"Rush Street Interactive, Inc.",consumer-discretionary,gambling
+CHDN,Churchill Downs Incorporated,consumer-discretionary,gambling
+BRSL,Brightstar Lottery PLC,consumer-discretionary,gambling
+ACEL,"Accel Entertainment, Inc.",consumer-discretionary,gambling
+CDRO,"Codere Online Luxembourg, S.A.",consumer-discretionary,gambling
+INSE,"Inspired Entertainment, Inc.",consumer-discretionary,gambling
+GAMB,Gambling.com Group Limited,consumer-discretionary,gambling
+ROLR,"High Roller Technologies, Inc.",consumer-discretionary,gambling
+BRAG,Bragg Gaming Group Inc.,consumer-discretionary,gambling
+SEGG,Sports Entertainment Gaming Global Corporation,consumer-discretionary,gambling
+MAR,"Marriott International, Inc.",consumer-discretionary,lodging
+HLT,Hilton Worldwide Holdings Inc.,consumer-discretionary,lodging
+IHG,InterContinental Hotels Group PLC,consumer-discretionary,lodging
+H,Hyatt Hotels Corporation,consumer-discretionary,lodging
+HTHT,H World Group Limited,consumer-discretionary,lodging
+WH,"Wyndham Hotels & Resorts, Inc.",consumer-discretionary,lodging
+CHH,"Choice Hotels International, Inc.",consumer-discretionary,lodging
+ATAT,Atour Lifestyle Holdings Limited,consumer-discretionary,lodging
+CVEO,Civeo Corporation,consumer-discretionary,lodging
+GHG,GreenTree Hospitality Group Ltd.,consumer-discretionary,lodging
+INTG,The InterGroup Corporation,consumer-discretionary,lodging
+TPR,"Tapestry, Inc.",consumer-discretionary,luxury-goods
+SIG,Signet Jewelers Limited,consumer-discretionary,luxury-goods
+CPRI,Capri Holdings Limited,consumer-discretionary,luxury-goods
+REAL,"The RealReal, Inc.",consumer-discretionary,luxury-goods
+LUXE,LuxExperience B.V.,consumer-discretionary,luxury-goods
+MOV,"Movado Group, Inc.",consumer-discretionary,luxury-goods
+ELA,Envela Corporation,consumer-discretionary,luxury-goods
+LANV,Lanvin Group Holdings Limited,consumer-discretionary,luxury-goods
+BRLT,"Brilliant Earth Group, Inc.",consumer-discretionary,luxury-goods
+SORA,AsiaStrategy,consumer-discretionary,luxury-goods
+BGI,Birks Group Inc.,consumer-discretionary,luxury-goods
+HD,"The Home Depot, Inc.",consumer-discretionary,home-improvement-retail
+LOW,"Lowe's Companies, Inc.",consumer-discretionary,home-improvement-retail
+FND,"Floor & Decor Holdings, Inc.",consumer-discretionary,home-improvement-retail
+HVT,"Haverty Furniture Companies, Inc.",consumer-discretionary,home-improvement-retail
+LIVE,Live Ventures Incorporated,consumer-discretionary,home-improvement-retail
+AIN,Albany International Corp.,consumer-discretionary,textile-manufacturing
+SMJF,SMJ International Holdings Inc.,consumer-discretionary,textile-manufacturing
+UFI,"Unifi, Inc.",consumer-discretionary,textile-manufacturing
+CULP,"Culp, Inc.",consumer-discretionary,textile-manufacturing
+PASW,"Ping An Biomedical Co., Ltd.",consumer-discretionary,textile-manufacturing
+DDS,"Dillard's, Inc.",consumer-discretionary,department-stores
+M,"Macy's, Inc.",consumer-discretionary,department-stores
+PLBL,Polibeli Group Ltd,consumer-discretionary,department-stores
+KSS,Kohl's Corporation,consumer-discretionary,department-stores

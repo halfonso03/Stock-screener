@@ -1,0 +1,245 @@
+ticker,company_name,sector_name,sub_sector_name
+KHC,The Kraft Heinz Company,consumer-staples,packaged-foods
+GIS,"General Mills, Inc.",consumer-staples,packaged-foods
+JBS,JBS N.V.,consumer-staples,packaged-foods
+HRL,Hormel Foods Corporation,consumer-staples,packaged-foods
+MKC,"McCormick & Company, Incorporated",consumer-staples,packaged-foods
+SJM,The J. M. Smucker Company,consumer-staples,packaged-foods
+SFD,"Smithfield Foods, Inc.",consumer-staples,packaged-foods
+MICC,The Magnum Ice Cream Company N.V.,consumer-staples,packaged-foods
+DAR,Darling Ingredients Inc.,consumer-staples,packaged-foods
+PPC,Pilgrim's Pride Corporation,consumer-staples,packaged-foods
+CPB,The Campbell's Company,consumer-staples,packaged-foods
+INGR,Ingredion Incorporated,consumer-staples,packaged-foods
+CAG,"Conagra Brands, Inc.",consumer-staples,packaged-foods
+LW,"Lamb Weston Holdings, Inc.",consumer-staples,packaged-foods
+POST,"Post Holdings, Inc.",consumer-staples,packaged-foods
+MZTI,The Marzetti Company,consumer-staples,packaged-foods
+CENT,Central Garden & Pet Company,consumer-staples,packaged-foods
+FRPT,"Freshpet, Inc.",consumer-staples,packaged-foods
+CENTA,Central Garden & Pet Company,consumer-staples,packaged-foods
+FLO,"Flowers Foods, Inc.",consumer-staples,packaged-foods
+JJSF,J&J Snack Foods Corp.,consumer-staples,packaged-foods
+NOMD,Nomad Foods Limited,consumer-staples,packaged-foods
+HLF,Herbalife Ltd.,consumer-staples,packaged-foods
+SMPL,The Simply Good Foods Company,consumer-staples,packaged-foods
+BRBR,"BellRing Brands, Inc.",consumer-staples,packaged-foods
+UTZ,"Utz Brands, Inc.",consumer-staples,packaged-foods
+SENEA,Seneca Foods Corporation,consumer-staples,packaged-foods
+JBSS,"John B. Sanfilippo & Son, Inc.",consumer-staples,packaged-foods
+SENEB,Seneca Foods Corporation,consumer-staples,packaged-foods
+WEST,Westrock Coffee Company,consumer-staples,packaged-foods
+OFRM,"Once Upon A Farm, PBC",consumer-staples,packaged-foods
+MAMA,"Mama's Creations, Inc.",consumer-staples,packaged-foods
+BYND,"Beyond Meat, Inc.",consumer-staples,packaged-foods
+LWAY,"Lifeway Foods, Inc.",consumer-staples,packaged-foods
+NATR,"Nature's Sunshine Products, Inc.",consumer-staples,packaged-foods
+USNA,"USANA Health Sciences, Inc.",consumer-staples,packaged-foods
+BRCC,BRC Inc.,consumer-staples,packaged-foods
+BGS,"B&G Foods, Inc.",consumer-staples,packaged-foods
+ENHA,Enhanced Group Inc.,consumer-staples,packaged-foods
+UCFI,CN Healthy Food Tech Group Corp.,consumer-staples,packaged-foods
+OTLY,Oatly Group AB,consumer-staples,packaged-foods
+LFVN,LifeVantage Corporation,consumer-staples,packaged-foods
+FTLF,"FitLife Brands, Inc.",consumer-staples,packaged-foods
+BHST,BioHarvest Sciences Inc.,consumer-staples,packaged-foods
+CLNN,Clene Inc.,consumer-staples,packaged-foods
+BRID,Bridgford Foods Corporation,consumer-staples,packaged-foods
+HAIN,"The Hain Celestial Group, Inc.",consumer-staples,packaged-foods
+BOF,BranchOut Food Inc.,consumer-staples,packaged-foods
+DDC,DDC Enterprise Limited,consumer-staples,packaged-foods
+SRXH,SRx Health Solutions Inc.,consumer-staples,packaged-foods
+LSF,"Laird Superfood, Inc.",consumer-staples,packaged-foods
+BRLS,Borealis Foods Inc.,consumer-staples,packaged-foods
+JVA,"Coffee Holding Co., Inc.",consumer-staples,packaged-foods
+COOT,Australian Oilseeds Holdings Limited,consumer-staples,packaged-foods
+FAMI,"Farmmi, Inc.",consumer-staples,packaged-foods
+NAII,"Natural Alternatives International, Inc.",consumer-staples,packaged-foods
+WYHG,Wing Yip Food Holdings Group Limited,consumer-staples,packaged-foods
+STKH,Steakholder Foods Ltd.,consumer-staples,packaged-foods
+MEHA,Functional Brands Inc.,consumer-staples,packaged-foods
+ATPC,Agape ATP Corporation,consumer-staples,packaged-foods
+NCRA,"Nocera, Inc.",consumer-staples,packaged-foods
+ORIS,Oriental Rise Holdings Limited,consumer-staples,packaged-foods
+RKDA,"Arcadia Biosciences, Inc.",consumer-staples,packaged-foods
+PAVS,Paranovus Entertainment Technology Ltd.,consumer-staples,packaged-foods
+EDU,New Oriental Education & Technology Group Inc.,consumer-staples,education-and-training-services
+TAL,TAL Education Group,consumer-staples,education-and-training-services
+GHC,Graham Holdings Company,consumer-staples,education-and-training-services
+LAUR,"Laureate Education, Inc.",consumer-staples,education-and-training-services
+CVSA,Covista Inc.,consumer-staples,education-and-training-services
+LRN,"Stride, Inc.",consumer-staples,education-and-training-services
+LOPE,"Grand Canyon Education, Inc.",consumer-staples,education-and-training-services
+UTI,"Universal Technical Institute, Inc.",consumer-staples,education-and-training-services
+MH,"McGraw Hill, Inc.",consumer-staples,education-and-training-services
+PRDO,Perdoceo Education Corporation,consumer-staples,education-and-training-services
+STRA,"Strategic Education, Inc.",consumer-staples,education-and-training-services
+COUR,"Coursera, Inc.",consumer-staples,education-and-training-services
+LINC,Lincoln Educational Services Corporation,consumer-staples,education-and-training-services
+DAO,"Youdao, Inc.",consumer-staples,education-and-training-services
+AFYA,Afya Limited,consumer-staples,education-and-training-services
+PXED,"Phoenix Education Partners, Inc.",consumer-staples,education-and-training-services
+APEI,"American Public Education, Inc.",consumer-staples,education-and-training-services
+KLC,"KinderCare Learning Companies, Inc.",consumer-staples,education-and-training-services
+GOTU,Gaotu Techedu Inc.,consumer-staples,education-and-training-services
+JDZG,JIADE Limited,consumer-staples,education-and-training-services
+FC,Franklin Covey Co.,consumer-staples,education-and-training-services
+LGCY,Legacy Education Inc.,consumer-staples,education-and-training-services
+COE,51Talk Online Education Group,consumer-staples,education-and-training-services
+CHGG,"Chegg, Inc.",consumer-staples,education-and-training-services
+IH,iHuman Inc.,consumer-staples,education-and-training-services
+SKIL,Skillsoft Corp.,consumer-staples,education-and-training-services
+GNS,Genius Group Limited,consumer-staples,education-and-training-services
+AACG,ATA Creativity Global,consumer-staples,education-and-training-services
+STG,Sunlands Technology Group,consumer-staples,education-and-training-services
+YOUL,Youlife Group Inc.,consumer-staples,education-and-training-services
+RYET,Ruanyun Edai Technology Inc.,consumer-staples,education-and-training-services
+YQ,17 Education & Technology Group Inc.,consumer-staples,education-and-training-services
+FEDU,Four Seasons Education (Cayman) Inc.,consumer-staples,education-and-training-services
+MYND,"Mynd.ai, Inc.",consumer-staples,education-and-training-services
+EDTK,Skillful Craftsman Education Technology Limited,consumer-staples,education-and-training-services
+WAFU,Wah Fu Education Group Limited,consumer-staples,education-and-training-services
+AMBO,Ambow Education Holding Ltd.,consumer-staples,education-and-training-services
+EEIQ,EpicQuest Education Group International Limited,consumer-staples,education-and-training-services
+VSA,VisionSys AI Inc.,consumer-staples,education-and-training-services
+GSUN,Golden Sun Technology Group Limited,consumer-staples,education-and-training-services
+LXEH,"Lixiang Education Holding Co., Ltd.",consumer-staples,education-and-training-services
+KIDZ,KIDZ AI Inc.,consumer-staples,education-and-training-services
+GV,Visionary Holdings Inc.,consumer-staples,education-and-training-services
+FCHL,Fitness Champs Holdings Limited,consumer-staples,education-and-training-services
+PG,The Procter & Gamble Company,consumer-staples,household-and-personal-products
+UL,Unilever PLC,consumer-staples,household-and-personal-products
+CL,Colgate-Palmolive Company,consumer-staples,household-and-personal-products
+KVUE,Kenvue Inc.,consumer-staples,household-and-personal-products
+KMB,Kimberly-Clark Corporation,consumer-staples,household-and-personal-products
+EL,The EstÃ©e Lauder Companies Inc.,consumer-staples,household-and-personal-products
+CHD,"Church & Dwight Co., Inc.",consumer-staples,household-and-personal-products
+CLX,The Clorox Company,consumer-staples,household-and-personal-products
+ELF,"e.l.f. Beauty, Inc.",consumer-staples,household-and-personal-products
+IPAR,"Interparfums, Inc.",consumer-staples,household-and-personal-products
+SPB,"Spectrum Brands Holdings, Inc.",consumer-staples,household-and-personal-products
+COTY,Coty Inc.,consumer-staples,household-and-personal-products
+NWL,Newell Brands Inc.,consumer-staples,household-and-personal-products
+EPC,Edgewell Personal Care Company,consumer-staples,household-and-personal-products
+HELE,Helen of Troy Limited,consumer-staples,household-and-personal-products
+ODD,Oddity Tech Ltd.,consumer-staples,household-and-personal-products
+MAGN,Magnera Corporation,consumer-staples,household-and-personal-products
+HNST,"The Honest Company, Inc.",consumer-staples,household-and-personal-products
+NUS,"Nu Skin Enterprises, Inc.",consumer-staples,household-and-personal-products
+YSG,Yatsen Holding Limited,consumer-staples,household-and-personal-products
+PTNM,Pitanium Limited,consumer-staples,household-and-personal-products
+ACU,Acme United Corporation,consumer-staples,household-and-personal-products
+SLSN,"Solesence, Inc.",consumer-staples,household-and-personal-products
+SKIN,SkinHealth Systems Inc.,consumer-staples,household-and-personal-products
+GROV,"Grove Collaborative Holdings, Inc.",consumer-staples,household-and-personal-products
+UG,"United-Guardian, Inc.",consumer-staples,household-and-personal-products
+RAY,Raytech Holding Limited,consumer-staples,household-and-personal-products
+DSY,Big Tree Cloud Holdings Limited,consumer-staples,household-and-personal-products
+TANH,Tantech Holdings Ltd,consumer-staples,household-and-personal-products
+BYAH,"Park Ha Biological Technology Co., Ltd.",consumer-staples,household-and-personal-products
+ADM,Archer-Daniels-Midland Company,consumer-staples,farm-products
+BG,Bunge Global SA,consumer-staples,farm-products
+TSN,"Tyson Foods, Inc.",consumer-staples,farm-products
+CALM,"Cal-Maine Foods, Inc.",consumer-staples,farm-products
+AGRO,Adecoagro S.A.,consumer-staples,farm-products
+FDP,Fresh Del Monte Produce Inc.,consumer-staples,farm-products
+DOLE,Dole plc,consumer-staples,farm-products
+VITL,"Vital Farms, Inc.",consumer-staples,farm-products
+LND,BrasilAgro - Companhia Brasileira de Propriedades AgrÃ­colas,consumer-staples,farm-products
+ALCO,"Alico, Inc.",consumer-staples,farm-products
+AFRI,Forafric Global PLC,consumer-staples,farm-products
+VFF,"Village Farms International, Inc.",consumer-staples,farm-products
+LMNR,Limoneira Company,consumer-staples,farm-products
+PFAI,Pinnacle Food Group Limited,consumer-staples,farm-products
+LOCL,Local Bounti Corporation,consumer-staples,farm-products
+SDOT,Sadot Group Inc.,consumer-staples,farm-products
+AGRZ,Agroz Inc.,consumer-staples,farm-products
+AQB,"AquaBounty Technologies, Inc.",consumer-staples,farm-products
+EDBL,Edible Garden AG Incorporated,consumer-staples,farm-products
+KO,The Coca-Cola Company,consumer-staples,beverages-non-alcoholic
+PEP,"PepsiCo, Inc.",consumer-staples,beverages-non-alcoholic
+MNST,Monster Beverage Corporation,consumer-staples,beverages-non-alcoholic
+KDP,Keurig Dr Pepper Inc.,consumer-staples,beverages-non-alcoholic
+CCEP,Coca-Cola Europacific Partners PLC,consumer-staples,beverages-non-alcoholic
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",consumer-staples,beverages-non-alcoholic
+COKE,"Coca-Cola Consolidated, Inc.",consumer-staples,beverages-non-alcoholic
+PRMB,Primo Brands Corporation,consumer-staples,beverages-non-alcoholic
+CELH,"Celsius Holdings, Inc.",consumer-staples,beverages-non-alcoholic
+COCO,"The Vita Coco Company, Inc.",consumer-staples,beverages-non-alcoholic
+AKO.A,Embotelladora Andina S.A.,consumer-staples,beverages-non-alcoholic
+AKO.B,Embotelladora Andina S.A.,consumer-staples,beverages-non-alcoholic
+FIZZ,National Beverage Corp.,consumer-staples,beverages-non-alcoholic
+SUJA,"Suja Life, Inc.",consumer-staples,beverages-non-alcoholic
+ZVIA,Zevia PBC,consumer-staples,beverages-non-alcoholic
+BUDA,"Buda Juice, Inc.",consumer-staples,beverages-non-alcoholic
+BRFH,"Barfresh Food Group, Inc.",consumer-staples,beverages-non-alcoholic
+REED,"Reed's, Inc.",consumer-staples,beverages-non-alcoholic
+KR,The Kroger Co.,consumer-staples,grocery-stores
+ACI,"Albertsons Companies, Inc.",consumer-staples,grocery-stores
+SFM,"Sprouts Farmers Market, Inc.",consumer-staples,grocery-stores
+WMK,"Weis Markets, Inc.",consumer-staples,grocery-stores
+IMKTA,"Ingles Markets, Incorporated",consumer-staples,grocery-stores
+YSWY,"Yesway, Inc.",consumer-staples,grocery-stores
+GO,Grocery Outlet Holding Corp.,consumer-staples,grocery-stores
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",consumer-staples,grocery-stores
+DNUT,"Krispy Kreme, Inc.",consumer-staples,grocery-stores
+VLGEA,"Village Super Market, Inc.",consumer-staples,grocery-stores
+DDL,Dingdong (Cayman) Limited,consumer-staples,grocery-stores
+VHUB,"VenHub Global, Inc.",consumer-staples,grocery-stores
+MSS,Maison Solutions Inc.,consumer-staples,grocery-stores
+SYY,Sysco Corporation,consumer-staples,food-distribution
+USFD,US Foods Holding Corp.,consumer-staples,food-distribution
+PFGC,Performance Food Group Company,consumer-staples,food-distribution
+UNFI,"United Natural Foods, Inc.",consumer-staples,food-distribution
+CHEF,"The Chefs' Warehouse, Inc.",consumer-staples,food-distribution
+ANDE,"The Andersons, Inc.",consumer-staples,food-distribution
+AVO,"Mission Produce, Inc.",consumer-staples,food-distribution
+WILC,G. Willi-Food International Ltd.,consumer-staples,food-distribution
+HFFG,HF Foods Group Inc.,consumer-staples,food-distribution
+DIT,AMCON Distributing Company,consumer-staples,food-distribution
+TWG,Top Wealth Group Holding Limited,consumer-staples,food-distribution
+MTEX,"Mannatech, Incorporated",consumer-staples,food-distribution
+DEO,Diageo plc,consumer-staples,beverages-wineries-and-distilleries
+BF.A,Brown-Forman Corporation,consumer-staples,beverages-wineries-and-distilleries
+BF.B,Brown-Forman Corporation,consumer-staples,beverages-wineries-and-distilleries
+SNDL,SNDL Inc.,consumer-staples,beverages-wineries-and-distilleries
+MGPI,"MGP Ingredients, Inc.",consumer-staples,beverages-wineries-and-distilleries
+AGCC,Agencia Comercial Spirits Ltd,consumer-staples,beverages-wineries-and-distilleries
+AMSS,"AMASS Brands, Inc.",consumer-staples,beverages-wineries-and-distilleries
+YHC,LQR House Inc.,consumer-staples,beverages-wineries-and-distilleries
+EPSM,Epsium Enterprise Limited,consumer-staples,beverages-wineries-and-distilleries
+WVVI,"Willamette Valley Vineyards, Inc.",consumer-staples,beverages-wineries-and-distilleries
+SBEV,"Splash Beverage Group, Inc.",consumer-staples,beverages-wineries-and-distilleries
+IBG,Innovation Beverage Group Limited,consumer-staples,beverages-wineries-and-distilleries
+PM,Philip Morris International Inc.,consumer-staples,tobacco
+BTI,British American Tobacco p.l.c.,consumer-staples,tobacco
+MO,"Altria Group, Inc.",consumer-staples,tobacco
+RLX,RLX Technology Inc.,consumer-staples,tobacco
+TPB,"Turning Point Brands, Inc.",consumer-staples,tobacco
+UVV,Universal Corporation,consumer-staples,tobacco
+AIIR,AIR Global PLC,consumer-staples,tobacco
+ISPR,Ispire Technology Inc.,consumer-staples,tobacco
+RYM,"RYTHM, Inc.",consumer-staples,tobacco
+XXII,"22nd Century Group, Inc.",consumer-staples,tobacco
+GNLN,"Greenlane Holdings, Inc.",consumer-staples,tobacco
+WMT,Walmart Inc.,consumer-staples,discount-stores
+COST,Costco Wholesale Corporation,consumer-staples,discount-stores
+TGT,Target Corporation,consumer-staples,discount-stores
+DG,Dollar General Corporation,consumer-staples,discount-stores
+DLTR,"Dollar Tree, Inc.",consumer-staples,discount-stores
+BJ,"BJ's Wholesale Club Holdings, Inc.",consumer-staples,discount-stores
+PSMT,"PriceSmart, Inc.",consumer-staples,discount-stores
+TBBB,BBB Foods Inc.,consumer-staples,discount-stores
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",consumer-staples,discount-stores
+BUD,Anheuser-Busch InBev SA/NV,consumer-staples,beverages-brewers
+ABEV,Ambev S.A.,consumer-staples,beverages-brewers
+FMX,"Fomento EconÃ³mico Mexicano, S.A.B. de C.V.",consumer-staples,beverages-brewers
+STZ,"Constellation Brands, Inc.",consumer-staples,beverages-brewers
+TAP,Molson Coors Beverage Company,consumer-staples,beverages-brewers
+CCU,CompaÃ±Ã­a CervecerÃ­as Unidas S.A.,consumer-staples,beverages-brewers
+SAM,"The Boston Beer Company, Inc.",consumer-staples,beverages-brewers
+MDLZ,"Mondelez International, Inc.",consumer-staples,confectioners
+HSY,The Hershey Company,consumer-staples,confectioners
+TR,"Tootsie Roll Industries, Inc.",consumer-staples,confectioners
+SOWG,Sow Good Inc.,consumer-staples,confectioners
+RMCF,"Rocky Mountain Chocolate Factory, Inc.",consumer-staples,confectioners

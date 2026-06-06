@@ -1,0 +1,283 @@
+ticker,company_name,sector_name,sub_sector_name
+LIN,Linde plc,materials,specialty-chemicals
+SHW,The Sherwin-Williams Company,materials,specialty-chemicals
+ECL,Ecolab Inc.,materials,specialty-chemicals
+APD,"Air Products and Chemicals, Inc.",materials,specialty-chemicals
+PPG,"PPG Industries, Inc.",materials,specialty-chemicals
+SQM,Sociedad QuÃ­mica y Minera de Chile S.A.,materials,specialty-chemicals
+LYB,LyondellBasell Industries N.V.,materials,specialty-chemicals
+DD,"DuPont de Nemours, Inc.",materials,specialty-chemicals
+IFF,International Flavors & Fragrances Inc.,materials,specialty-chemicals
+ALB,Albemarle Corporation,materials,specialty-chemicals
+RPM,RPM International Inc.,materials,specialty-chemicals
+SOLS,"Solstice Advanced Materials, Inc.",materials,specialty-chemicals
+WLK,Westlake Corporation,materials,specialty-chemicals
+ESI,Element Solutions Inc,materials,specialty-chemicals
+SSL,Sasol Limited,materials,specialty-chemicals
+EMN,Eastman Chemical Company,materials,specialty-chemicals
+NEU,NewMarket Corporation,materials,specialty-chemicals
+AXTA,Axalta Coating Systems Ltd.,materials,specialty-chemicals
+BCPC,Balchem Corporation,materials,specialty-chemicals
+PRM,"Perimeter Solutions, Inc.",materials,specialty-chemicals
+SXT,Sensient Technologies Corporation,materials,specialty-chemicals
+CBT,Cabot Corporation,materials,specialty-chemicals
+FUL,H.B. Fuller Company,materials,specialty-chemicals
+HWKN,"Hawkins, Inc.",materials,specialty-chemicals
+AVNT,Avient Corporation,materials,specialty-chemicals
+CC,The Chemours Company,materials,specialty-chemicals
+CLMT,"Calumet, Inc.",materials,specialty-chemicals
+WDFC,WD-40 Company,materials,specialty-chemicals
+ASH,Ashland Inc.,materials,specialty-chemicals
+KWR,Quaker Chemical Corporation,materials,specialty-chemicals
+MTX,Minerals Technologies Inc.,materials,specialty-chemicals
+NGVT,Ingevity Corporation,materials,specialty-chemicals
+IOSP,Innospec Inc.,materials,specialty-chemicals
+LWLG,"Lightwave Logic, Inc.",materials,specialty-chemicals
+ECVT,Ecovyst Inc.,materials,specialty-chemicals
+ODC,Oil-Dri Corporation of America,materials,specialty-chemicals
+SCL,Stepan Company,materials,specialty-chemicals
+KOP,Koppers Holdings Inc.,materials,specialty-chemicals
+KRO,"Kronos Worldwide, Inc.",materials,specialty-chemicals
+ALTO,"Alto Ingredients, Inc.",materials,specialty-chemicals
+MATV,"Mativ Holdings, Inc.",materials,specialty-chemicals
+GEVO,"Gevo, Inc.",materials,specialty-chemicals
+OEC,Orion S.A.,materials,specialty-chemicals
+MNTK,"Montauk Renewables, Inc.",materials,specialty-chemicals
+HDSN,"Hudson Technologies, Inc.",materials,specialty-chemicals
+CMT,"Core Molding Technologies, Inc.",materials,specialty-chemicals
+FF,FutureFuel Corp.,materials,specialty-chemicals
+AMTX,"Aemetis, Inc.",materials,specialty-chemicals
+FSI,"Flexible Solutions International, Inc.",materials,specialty-chemicals
+NTIC,Northern Technologies International Corporation,materials,specialty-chemicals
+FEAM,"5E Advanced Materials, Inc.",materials,specialty-chemicals
+LOOP,"Loop Industries, Inc.",materials,specialty-chemicals
+YMAT,"J-Star Holding Co., Ltd.",materials,specialty-chemicals
+SNES,"SenesTech, Inc.",materials,specialty-chemicals
+BON,Bon Natural Life Limited,materials,specialty-chemicals
+CNEY,CN Energy Group. Inc.,materials,specialty-chemicals
+BGLC,BioNexus Gene Lab Corp.,materials,specialty-chemicals
+NEM,Newmont Corporation,materials,gold
+AEM,Agnico Eagle Mines Limited,materials,gold
+B,Barrick Mining Corporation,materials,gold
+WPM,Wheaton Precious Metals Corp.,materials,gold
+AU,AngloGold Ashanti plc,materials,gold
+FNV,Franco-Nevada Corporation,materials,gold
+GFI,Gold Fields Limited,materials,gold
+KGC,Kinross Gold Corporation,materials,gold
+PAAS,Pan American Silver Corp.,materials,gold
+RGLD,"Royal Gold, Inc.",materials,gold
+CDE,"Coeur Mining, Inc.",materials,gold
+AGI,Alamos Gold Inc.,materials,gold
+HMY,Harmony Gold Mining Company Limited,materials,gold
+IAG,IAMGOLD Corporation,materials,gold
+EQX,Equinox Gold Corp.,materials,gold
+EGO,Eldorado Gold Corporation,materials,gold
+OR,OR Royalties Inc.,materials,gold
+OGC,OceanaGold Corporation,materials,gold
+BTG,B2Gold Corp.,materials,gold
+SSRM,SSR Mining Inc.,materials,gold
+AUGO,Aura Minerals Inc.,materials,gold
+ORLA,Orla Mining Ltd.,materials,gold
+AAUC,Allied Gold Corporation,materials,gold
+NG,NovaGold Resources Inc.,materials,gold
+SA,Seabridge Gold Inc.,materials,gold
+ARIS,Aris Mining Corporation,materials,gold
+CGAU,Centerra Gold Inc.,materials,gold
+FSM,Fortuna Mining Corp.,materials,gold
+HYMC,Hycroft Mining Holding Corporation,materials,gold
+DRD,DRDGOLD Limited,materials,gold
+CNL,Collective Mining Ltd.,materials,gold
+IAUX,i-80 Gold Corp.,materials,gold
+ODV,Osisko Development Corp.,materials,gold
+GROY,Gold Royalty Corp.,materials,gold
+DC,Dakota Gold Corp.,materials,gold
+MAKO,Mako Mining Corp.,materials,gold
+NFGC,New Found Gold Corp.,materials,gold
+THM,International Tower Hill Mines Ltd.,materials,gold
+CTGO,Contango Silver & Gold Inc.,materials,gold
+GAU,Galiano Gold Inc.,materials,gold
+IDR,"Idaho Strategic Resources, Inc.",materials,gold
+CMCL,Caledonia Mining Corporation Plc,materials,gold
+VGZ,Vista Gold Corp.,materials,gold
+TRX,TRX Gold Corporation,materials,gold
+USAU,U.S. Gold Corp.,materials,gold
+GLDG,GoldMining Inc.,materials,gold
+MINE,Mayfair Gold Corp.,materials,gold
+NAMM,Namib Minerals,materials,gold
+PZG,Paramount Gold Nevada Corp.,materials,gold
+BGL,Blue Gold Limited,materials,gold
+ATCX,Atlas Critical Minerals Corporation,materials,gold
+AUST,Austin Gold Corp.,materials,gold
+BHP,BHP Group Limited,materials,other-industrial-metals-and-mining
+RIO,Rio Tinto Group,materials,other-industrial-metals-and-mining
+VALE,Vale S.A.,materials,other-industrial-metals-and-mining
+TECK,Teck Resources Limited,materials,other-industrial-metals-and-mining
+MP,MP Materials Corp.,materials,other-industrial-metals-and-mining
+USAR,"USA Rare Earth, Inc.",materials,other-industrial-metals-and-mining
+ALM,Almonty Industries Inc.,materials,other-industrial-metals-and-mining
+MTRN,Materion Corporation,materials,other-industrial-metals-and-mining
+EMAT,Evolution Metals & Technologies Corp.,materials,other-industrial-metals-and-mining
+SKE,Skeena Resources Limited,materials,other-industrial-metals-and-mining
+TMC,TMC the metals company Inc.,materials,other-industrial-metals-and-mining
+NEXA,Nexa Resources S.A.,materials,other-industrial-metals-and-mining
+USAS,Americas Gold and Silver Corporation,materials,other-industrial-metals-and-mining
+LAC,Lithium Americas Corp.,materials,other-industrial-metals-and-mining
+ELVR,Elevra Lithium Limited,materials,other-industrial-metals-and-mining
+SGML,Sigma Lithium Corporation,materials,other-industrial-metals-and-mining
+CRML,Critical Metals Corp.,materials,other-industrial-metals-and-mining
+LAR,Lithium Argentina AG,materials,other-industrial-metals-and-mining
+IPX,IperionX Limited,materials,other-industrial-metals-and-mining
+CMP,"Compass Minerals International, Inc.",materials,other-industrial-metals-and-mining
+VZLA,Vizsla Silver Corp.,materials,other-industrial-metals-and-mining
+UAMY,United States Antimony Corporation,materials,other-industrial-metals-and-mining
+NAK,Northern Dynasty Minerals Ltd.,materials,other-industrial-metals-and-mining
+SLI,Standard Lithium Ltd.,materials,other-industrial-metals-and-mining
+BMM,Blue Moon Metals Inc.,materials,other-industrial-metals-and-mining
+NB,NioCorp Developments Ltd.,materials,other-industrial-metals-and-mining
+ALOY,REalloys Inc.,materials,other-industrial-metals-and-mining
+GSM,Ferroglobe PLC,materials,other-industrial-metals-and-mining
+TMQ,Trilogy Metals Inc.,materials,other-industrial-metals-and-mining
+TMCR,The Metals Royalty Company Inc.,materials,other-industrial-metals-and-mining
+SCZM,Santacruz Silver Mining Ltd.,materials,other-industrial-metals-and-mining
+WRN,Western Copper and Gold Corporation,materials,other-industrial-metals-and-mining
+NMG,Nouveau Monde Graphite Inc.,materials,other-industrial-metals-and-mining
+LZM,Lifezone Metals Limited,materials,other-industrial-metals-and-mining
+REA,"Rare Earths Americas, Inc.",materials,other-industrial-metals-and-mining
+IONR,ioneer Ltd,materials,other-industrial-metals-and-mining
+TII,Titan Mining Corporation,materials,other-industrial-metals-and-mining
+GRO,Brazil Potash Corp.,materials,other-industrial-metals-and-mining
+NICM,Nicola Mining Inc.,materials,other-industrial-metals-and-mining
+USGO,U.S. GoldMining Inc.,materials,other-industrial-metals-and-mining
+ATLX,Atlas Lithium Corporation,materials,other-industrial-metals-and-mining
+FURY,Fury Gold Mines Limited,materials,other-industrial-metals-and-mining
+NEXM,NexMetals Mining Corp.,materials,other-industrial-metals-and-mining
+XPL,Solitario Resources Corp.,materials,other-industrial-metals-and-mining
+ELBM,Electra Battery Materials Corporation,materials,other-industrial-metals-and-mining
+LGO,Largo Inc.,materials,other-industrial-metals-and-mining
+WWR,"Westwater Resources, Inc.",materials,other-industrial-metals-and-mining
+OMEX,"Odyssey Marine Exploration, Inc.",materials,other-industrial-metals-and-mining
+FNUC,Frontier Nuclear and Minerals Inc.,materials,other-industrial-metals-and-mining
+FMST,Foremost Clean Energy Ltd.,materials,other-industrial-metals-and-mining
+CHNR,"China Natural Resources, Inc.",materials,other-industrial-metals-and-mining
+NUE,Nucor Corporation,materials,steel
+MT,ArcelorMittal S.A.,materials,steel
+STLD,"Steel Dynamics, Inc.",materials,steel
+RS,"Reliance, Inc.",materials,steel
+PKX,POSCO Holdings Inc.,materials,steel
+TX,Ternium S.A.,materials,steel
+GGB,Gerdau S.A.,materials,steel
+CLF,Cleveland-Cliffs Inc.,materials,steel
+SIM,"Grupo Simec, S.A.B. de C.V.",materials,steel
+WS,"Worthington Steel, Inc.",materials,steel
+SID,Companhia SiderÃºrgica Nacional,materials,steel
+NWPX,"NWPX Infrastructure, Inc.",materials,steel
+MTUS,Metallus Inc.,materials,steel
+ASTL,Algoma Steel Group Inc.,materials,steel
+MSB,Mesabi Trust,materials,steel
+FRD,"Friedman Industries, Incorporated",materials,steel
+LUD,Luda Technology Group Limited,materials,steel
+ZKIN,"ZK International Group Co., Ltd.",materials,steel
+HLP,Hongli Group Inc.,materials,steel
+HUDI,"Huadi International Group Co., Ltd.",materials,steel
+INHD,Inno Holdings Inc.,materials,steel
+HL,Hecla Mining Company,materials,other-precious-metals-and-mining
+BVN,CompaÃ±Ã­a de Minas Buenaventura S.A.A.,materials,other-precious-metals-and-mining
+SBSW,Sibanye Stillwater Limited,materials,other-precious-metals-and-mining
+TFPM,Triple Flag Precious Metals Corp.,materials,other-precious-metals-and-mining
+PPTA,Perpetua Resources Corp.,materials,other-precious-metals-and-mining
+SLSR,Solaris Resources Inc.,materials,other-precious-metals-and-mining
+VMET,Versamet Royalties Corporation,materials,other-precious-metals-and-mining
+MUX,McEwen Inc.,materials,other-precious-metals-and-mining
+ASM,Avino Silver & Gold Mines Ltd.,materials,other-precious-metals-and-mining
+ELE,Elemental Royalty Corporation,materials,other-precious-metals-and-mining
+MTA,Metalla Royalty & Streaming Ltd.,materials,other-precious-metals-and-mining
+GMTL,Guardian Metal Resources PLC,materials,other-precious-metals-and-mining
+ITRG,Integra Resources Corp.,materials,other-precious-metals-and-mining
+VOXR,Vox Royalty Corp.,materials,other-precious-metals-and-mining
+LODE,Comstock Inc.,materials,other-precious-metals-and-mining
+SBMT,Silver Bow Mining Corp.,materials,other-precious-metals-and-mining
+GORO,Gold Resource Corporation,materials,other-precious-metals-and-mining
+PLG,Platinum Group Metals Ltd.,materials,other-precious-metals-and-mining
+GRML,Greenland Mines Ltd,materials,other-precious-metals-and-mining
+DOW,Dow Inc.,materials,chemicals
+CE,Celanese Corporation,materials,chemicals
+MEOH,Methanex Corporation,materials,chemicals
+OLN,Olin Corporation,materials,chemicals
+HUN,Huntsman Corporation,materials,chemicals
+REX,REX American Resources Corporation,materials,chemicals
+BAK,Braskem S.A.,materials,chemicals
+TROX,Tronox Holdings plc,materials,chemicals
+GPRE,Green Plains Inc.,materials,chemicals
+LXU,"LSB Industries, Inc.",materials,chemicals
+ASPI,ASP Isotopes Inc.,materials,chemicals
+WLKP,Westlake Chemical Partners LP,materials,chemicals
+ASIX,AdvanSix Inc.,materials,chemicals
+RYAM,Rayonier Advanced Materials Inc.,materials,chemicals
+VHI,"Valhi, Inc.",materials,chemicals
+ACNT,Ascent Industries Co.,materials,chemicals
+ORGN,"Origin Materials, Inc.",materials,chemicals
+GURE,"Gulf Resources, Inc.",materials,chemicals
+CRH,CRH plc,materials,building-materials
+VMC,Vulcan Materials Company,materials,building-materials
+MLM,"Martin Marietta Materials, Inc.",materials,building-materials
+AMRZ,Amrize AG,materials,building-materials
+CX,"CEMEX, S.A.B. de C.V.",materials,building-materials
+JHX,James Hardie Industries plc,materials,building-materials
+EXP,Eagle Materials Inc.,materials,building-materials
+KNF,Knife River Corporation,materials,building-materials
+USLM,"United States Lime & Minerals, Inc.",materials,building-materials
+TTAM,Titan America SA,materials,building-materials
+TGLS,Tecnoglass Inc.,materials,building-materials
+RMIX,"Suncrete, Inc.",materials,building-materials
+LOMA,Loma Negra CompaÃ±Ã­a Industrial Argentina Sociedad AnÃ³nima,materials,building-materials
+CPAC,Cementos Pacasmayo S.A.A.,materials,building-materials
+SMID,Smith-Midland Corporation,materials,building-materials
+RETO,"ReTo Eco-Solutions, Inc.",materials,building-materials
+CAPS,Capstone Holding Corp.,materials,building-materials
+CTVA,"Corteva, Inc.",materials,agricultural-inputs
+NTR,Nutrien Ltd.,materials,agricultural-inputs
+CF,"CF Industries Holdings, Inc.",materials,agricultural-inputs
+ICL,ICL Group Ltd,materials,agricultural-inputs
+MOS,The Mosaic Company,materials,agricultural-inputs
+SMG,The Scotts Miracle-Gro Company,materials,agricultural-inputs
+FMC,FMC Corporation,materials,agricultural-inputs
+UAN,"CVR Partners, LP",materials,agricultural-inputs
+IPI,"Intrepid Potash, Inc.",materials,agricultural-inputs
+AVD,American Vanguard Corporation,materials,agricultural-inputs
+BIOX,Bioceres Crop Solutions Corp.,materials,agricultural-inputs
+SEED,Origin Agritech Limited,materials,agricultural-inputs
+NXTS,Nexentis Technologies Inc.,materials,agricultural-inputs
+AG,First Majestic Silver Corp.,materials,silver
+AYA,Aya Gold & Silver Inc.,materials,silver
+EXK,Endeavour Silver Corp.,materials,silver
+SVM,Silvercorp Metals Inc.,materials,silver
+SSMR,Sunshine Silver Mining & Refining Company,materials,silver
+HSLV,Highlander Silver Corp.,materials,silver
+NEWP,New Pacific Metals Corp.,materials,silver
+HCC,"Warrior Met Coal, Inc.",materials,coking-coal
+AMR,"Alpha Metallurgical Resources, Inc.",materials,coking-coal
+METCB,"Ramaco Resources, Inc.",materials,coking-coal
+METC,"Ramaco Resources, Inc.",materials,coking-coal
+SXC,"SunCoke Energy, Inc.",materials,coking-coal
+AREC,American Resources Corporation,materials,coking-coal
+SSD,"Simpson Manufacturing Co., Inc.",materials,lumber-and-wood-production
+WFG,West Fraser Timber Co. Ltd.,materials,lumber-and-wood-production
+UFPI,"UFP Industries, Inc.",materials,lumber-and-wood-production
+BCC,Boise Cascade Company,materials,lumber-and-wood-production
+NWGL,CL Workshop Group Limited,materials,lumber-and-wood-production
+JCTC,Jewett-Cameron Trading Company Ltd.,materials,lumber-and-wood-production
+SCCO,Southern Copper Corporation,materials,copper
+FCX,Freeport-McMoRan Inc.,materials,copper
+HBM,Hudbay Minerals Inc.,materials,copper
+ERO,Ero Copper Corp.,materials,copper
+TGB,Taseko Mines Limited,materials,copper
+IE,Ivanhoe Electric Inc.,materials,copper
+SUZ,Suzano S.A.,materials,paper-and-paper-products
+SLVM,Sylvamo Corporation,materials,paper-and-paper-products
+CLW,Clearwater Paper Corporation,materials,paper-and-paper-products
+MERC,Mercer International Inc.,materials,paper-and-paper-products
+ITP,"IT Tech Packaging, Inc.",materials,paper-and-paper-products
+AA,Alcoa Corporation,materials,aluminum
+CENX,Century Aluminum Company,materials,aluminum
+CSTM,Constellium SE,materials,aluminum
+KALU,Kaiser Aluminum Corporation,materials,aluminum

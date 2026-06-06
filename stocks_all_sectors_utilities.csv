@@ -1,0 +1,111 @@
+ticker,company_name,sector_name,sub_sector_name
+NEE,"NextEra Energy, Inc.",utilities,utilities-regulated-electric
+SO,The Southern Company,utilities,utilities-regulated-electric
+SOMN,The Southern Company,utilities,utilities-regulated-electric
+DUK,Duke Energy Corporation,utilities,utilities-regulated-electric
+NGG,National Grid plc,utilities,utilities-regulated-electric
+AEP,"American Electric Power Company, Inc.",utilities,utilities-regulated-electric
+D,"Dominion Energy, Inc.",utilities,utilities-regulated-electric
+ETR,Entergy Corporation,utilities,utilities-regulated-electric
+XEL,Xcel Energy Inc.,utilities,utilities-regulated-electric
+EXC,Exelon Corporation,utilities,utilities-regulated-electric
+PEG,Public Service Enterprise Group Incorporated,utilities,utilities-regulated-electric
+ED,"Consolidated Edison, Inc.",utilities,utilities-regulated-electric
+PCG,PG&E Corporation,utilities,utilities-regulated-electric
+WEC,"WEC Energy Group, Inc.",utilities,utilities-regulated-electric
+DTE,DTE Energy Company,utilities,utilities-regulated-electric
+AEE,Ameren Corporation,utilities,utilities-regulated-electric
+FTS,Fortis Inc.,utilities,utilities-regulated-electric
+EIX,Edison International,utilities,utilities-regulated-electric
+CNP,"CenterPoint Energy, Inc.",utilities,utilities-regulated-electric
+PPL,PPL Corporation,utilities,utilities-regulated-electric
+FE,FirstEnergy Corp.,utilities,utilities-regulated-electric
+ES,Eversource Energy,utilities,utilities-regulated-electric
+CMS,CMS Energy Corporation,utilities,utilities-regulated-electric
+EVRG,"Evergy, Inc.",utilities,utilities-regulated-electric
+LNT,Alliant Energy Corporation,utilities,utilities-regulated-electric
+EMA,Emera Incorporated,utilities,utilities-regulated-electric
+KEP,Korea Electric Power Corporation,utilities,utilities-regulated-electric
+PNW,Pinnacle West Capital Corporation,utilities,utilities-regulated-electric
+OGE,OGE Energy Corp.,utilities,utilities-regulated-electric
+ELPC,Companhia Paranaense de Energia - COPEL,utilities,utilities-regulated-electric
+IDA,"IDACORP, Inc.",utilities,utilities-regulated-electric
+CIG,Companhia EnergÃ©tica de Minas Gerais - CEMIG,utilities,utilities-regulated-electric
+CIG.C,Companhia EnergÃ©tica de Minas Gerais - CEMIG,utilities,utilities-regulated-electric
+TXNM,"TXNM Energy, Inc.",utilities,utilities-regulated-electric
+POR,Portland General Electric Company,utilities,utilities-regulated-electric
+ENIC,Enel Chile S.A.,utilities,utilities-regulated-electric
+NWE,"NorthWestern Energy Group, Inc.",utilities,utilities-regulated-electric
+MGEE,"MGE Energy, Inc.",utilities,utilities-regulated-electric
+HE,"Hawaiian Electric Industries, Inc.",utilities,utilities-regulated-electric
+CEPU,Central Puerto S.A.,utilities,utilities-regulated-electric
+EDN,Empresa Distribuidora y Comercializadora Norte Sociedad AnÃ³nima,utilities,utilities-regulated-electric
+IMSR,Terrestrial Energy Inc.,utilities,utilities-regulated-electric
+NKLR,Terra Innovatum Global N.V.,utilities,utilities-regulated-electric
+GNE,Genie Energy Ltd.,utilities,utilities-regulated-electric
+AXIA,AXIA Energia SA,utilities,utilities-renewable
+BEP,Brookfield Renewable Partners L.P.,utilities,utilities-renewable
+BEPC,Brookfield Renewable Corporation,utilities,utilities-renewable
+ENLT,Enlight Renewable Energy Ltd,utilities,utilities-renewable
+ORA,"Ormat Technologies, Inc.",utilities,utilities-renewable
+CWEN,"Clearway Energy, Inc.",utilities,utilities-renewable
+MWH,"SOLV Energy, Inc.",utilities,utilities-renewable
+FLNC,"Fluence Energy, Inc.",utilities,utilities-renewable
+RNW,ReNew Energy Global Plc,utilities,utilities-renewable
+XIFR,"XPLR Infrastructure, LP",utilities,utilities-renewable
+NRGV,"Energy Vault Holdings, Inc.",utilities,utilities-renewable
+ELLO,Ellomay Capital Ltd.,utilities,utilities-renewable
+SAFX,"XCF Global, Inc.",utilities,utilities-renewable
+NXXT,"NextNRG, Inc.",utilities,utilities-renewable
+STEM,"Stem, Inc.",utilities,utilities-renewable
+VGAS,"Verde Clean Fuels, Inc.",utilities,utilities-renewable
+WAVE,Eco Wave Power Global AB (publ),utilities,utilities-renewable
+AGIG,Abundia Global Impact Group Inc.,utilities,utilities-renewable
+BESS,Bimergen Energy Corporation,utilities,utilities-renewable
+HTOO,Fusion Fuel Green PLC,utilities,utilities-renewable
+CREG,Smart Powerr Corp.,utilities,utilities-renewable
+BNRG,Brenmiller Energy Ltd,utilities,utilities-renewable
+ATO,Atmos Energy Corporation,utilities,utilities-regulated-gas
+NI,NiSource Inc.,utilities,utilities-regulated-gas
+UGI,UGI Corporation,utilities,utilities-regulated-gas
+SWX,"Southwest Gas Holdings, Inc.",utilities,utilities-regulated-gas
+NJR,New Jersey Resources Corporation,utilities,utilities-regulated-gas
+BKH,Black Hills Corporation,utilities,utilities-regulated-gas
+BIPC,Brookfield Infrastructure Corporation,utilities,utilities-regulated-gas
+OGS,"ONE Gas, Inc.",utilities,utilities-regulated-gas
+SR,Spire Inc.,utilities,utilities-regulated-gas
+MDU,"MDU Resources Group, Inc.",utilities,utilities-regulated-gas
+CTRI,"Centuri Holdings, Inc.",utilities,utilities-regulated-gas
+CPK,Chesapeake Utilities Corporation,utilities,utilities-regulated-gas
+NWN,Northwest Natural Holding Company,utilities,utilities-regulated-gas
+SPH,"Suburban Propane Partners, L.P.",utilities,utilities-regulated-gas
+OPAL,OPAL Fuels Inc.,utilities,utilities-regulated-gas
+RGCO,"RGC Resources, Inc.",utilities,utilities-regulated-gas
+AWK,"American Water Works Company, Inc.",utilities,utilities-regulated-water
+SBS,Companhia de Saneamento BÃ¡sico do Estado de SÃ£o Paulo - SABESP,utilities,utilities-regulated-water
+WTRG,"Essential Utilities, Inc.",utilities,utilities-regulated-water
+AWR,American States Water Company,utilities,utilities-regulated-water
+CWT,California Water Service Group,utilities,utilities-regulated-water
+HTO,H2O America,utilities,utilities-regulated-water
+MSEX,Middlesex Water Company,utilities,utilities-regulated-water
+YORW,The York Water Company,utilities,utilities-regulated-water
+CWCO,Consolidated Water Co. Ltd.,utilities,utilities-regulated-water
+CDZI,Cadiz Inc.,utilities,utilities-regulated-water
+ARTNA,Artesian Resources Corporation,utilities,utilities-regulated-water
+PCYO,Pure Cycle Corporation,utilities,utilities-regulated-water
+GWRS,"Global Water Resources, Inc.",utilities,utilities-regulated-water
+CEG,Constellation Energy Corporation,utilities,utilities-independent-power-producers
+VST,Vistra Corp.,utilities,utilities-independent-power-producers
+NRG,"NRG Energy, Inc.",utilities,utilities-independent-power-producers
+TLN,Talen Energy Corporation,utilities,utilities-independent-power-producers
+FRVO,Fervo Energy Company,utilities,utilities-independent-power-producers
+OKLO,Oklo Inc.,utilities,utilities-independent-power-producers
+KEN,Kenon Holdings Ltd.,utilities,utilities-independent-power-producers
+TAC,TransAlta Corporation,utilities,utilities-independent-power-producers
+DGXX,Digi Power X Inc.,utilities,utilities-independent-power-producers
+SRE,Sempra,utilities,utilities-diversified
+BIP,Brookfield Infrastructure Partners L.P.,utilities,utilities-diversified
+AES,The AES Corporation,utilities,utilities-diversified
+AQN,Algonquin Power & Utilities Corp.,utilities,utilities-diversified
+AVA,Avista Corporation,utilities,utilities-diversified
+UTL,Unitil Corporation,utilities,utilities-diversified

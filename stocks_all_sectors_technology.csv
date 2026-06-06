@@ -1,0 +1,778 @@
+ticker,company_name,sector_name,sub_sector_name
+SAP,SAP SE,technology,software-application
+CRM,"Salesforce, Inc.",technology,software-application
+UBER,"Uber Technologies, Inc.",technology,software-application
+SHOP,Shopify Inc.,technology,software-application
+NOW,"ServiceNow, Inc.",technology,software-application
+CDNS,"Cadence Design Systems, Inc.",technology,software-application
+ADBE,Adobe Inc.,technology,software-application
+ADP,"Automatic Data Processing, Inc.",technology,software-application
+DDOG,"Datadog, Inc.",technology,software-application
+SNOW,Snowflake Inc.,technology,software-application
+INTU,Intuit Inc.,technology,software-application
+ADSK,"Autodesk, Inc.",technology,software-application
+MSTR,Strategy Inc,technology,software-application
+PAYX,"Paychex, Inc.",technology,software-application
+WDAY,"Workday, Inc.",technology,software-application
+ROP,"Roper Technologies, Inc.",technology,software-application
+ZM,"Zoom Communications, Inc.",technology,software-application
+FISV,"Fiserv, Inc.",technology,software-application
+FICO,Fair Isaac Corporation,technology,software-application
+TEAM,Atlassian Corporation,technology,software-application
+SSNC,"SS&C Technologies Holdings, Inc.",technology,software-application
+PTC,PTC Inc.,technology,software-application
+QNT,Quantinuum Inc.,technology,software-application
+GRAB,Grab Holdings Limited,technology,software-application
+TYL,"Tyler Technologies, Inc.",technology,software-application
+U,Unity Software Inc.,technology,software-application
+DT,"Dynatrace, Inc.",technology,software-application
+FIG,"Figma, Inc.",technology,software-application
+GWRE,"Guidewire Software, Inc.",technology,software-application
+HUBS,"HubSpot, Inc.",technology,software-application
+BSY,"Bentley Systems, Incorporated",technology,software-application
+FROG,JFrog Ltd.,technology,software-application
+DOCU,"DocuSign, Inc.",technology,software-application
+YMM,Full Truck Alliance Co. Ltd.,technology,software-application
+MANH,"Manhattan Associates, Inc.",technology,software-application
+TTAN,"ServiceTitan, Inc.",technology,software-application
+PCOR,"Procore Technologies, Inc.",technology,software-application
+CWAN,"Clearwater Analytics Holdings, Inc.",technology,software-application
+YOU,"Clear Secure, Inc.",technology,software-application
+IDCC,"InterDigital, Inc.",technology,software-application
+CHYM,"Chime Financial, Inc.",technology,software-application
+DSGX,The Descartes Systems Group Inc.,technology,software-application
+ESTC,Elastic N.V.,technology,software-application
+PAYC,"Paycom Software, Inc.",technology,software-application
+PCTY,Paylocity Holding Corporation,technology,software-application
+APPF,"AppFolio, Inc.",technology,software-application
+PEGA,Pegasystems Inc.,technology,software-application
+OTEX,Open Text Corporation,technology,software-application
+NAVN,"Navan, Inc.",technology,software-application
+NICE,NICE Ltd.,technology,software-application
+LYFT,"Lyft, Inc.",technology,software-application
+DUOL,"Duolingo, Inc.",technology,software-application
+CVLT,"Commvault Systems, Inc.",technology,software-application
+KVYO,"Klaviyo, Inc.",technology,software-application
+LFTO,"Liftoff Mobile, Inc.",technology,software-application
+SRAD,Sportradar Group AG,technology,software-application
+BTDR,Bitdeer Technologies Group,technology,software-application
+LIF,"Life360, Inc.",technology,software-application
+MNDY,monday.com Ltd.,technology,software-application
+BILL,"BILL Holdings, Inc.",technology,software-application
+RNG,"RingCentral, Inc.",technology,software-application
+KC,Kingsoft Cloud Holdings Limited,technology,software-application
+PTRN,Pattern Group Inc.,technology,software-application
+DAVE,Dave Inc.,technology,software-application
+NATL,NCR Atleos Corporation,technology,software-application
+SOUN,"SoundHound AI, Inc.",technology,software-application
+ADEA,Adeia Inc.,technology,software-application
+PPLI,People Incorporated,technology,software-application
+BULL,Webull Corporation,technology,software-application
+QTWO,"Q2 Holdings, Inc.",technology,software-application
+FSLY,"Fastly, Inc.",technology,software-application
+DBD,"Diebold Nixdorf, Incorporated",technology,software-application
+WK,Workiva Inc.,technology,software-application
+CCC,CCC Intelligent Solutions Holdings Inc.,technology,software-application
+FRSH,Freshworks Inc.,technology,software-application
+BRZE,"Braze, Inc.",technology,software-application
+AGYS,"Agilysys, Inc.",technology,software-application
+ALRM,"Alarm.com Holdings, Inc.",technology,software-application
+WRD,WeRide Inc.,technology,software-application
+PDFS,"PDF Solutions, Inc.",technology,software-application
+PLUS,ePlus inc.,technology,software-application
+VERX,"Vertex, Inc.",technology,software-application
+SPSC,"SPS Commerce, Inc.",technology,software-application
+GRND,Grindr Inc.,technology,software-application
+INTA,"Intapp, Inc.",technology,software-application
+ASAN,"Asana, Inc.",technology,software-application
+ALKT,"Alkami Technology, Inc.",technology,software-application
+BL,"BlackLine, Inc.",technology,software-application
+NCNO,"nCino, Inc.",technology,software-application
+EVCM,EverCommerce Inc.,technology,software-application
+WLTH,Wealthfront Corporation,technology,software-application
+KARO,Karooooo Ltd.,technology,software-application
+BLKB,"Blackbaud, Inc.",technology,software-application
+LSPD,Lightspeed Commerce Inc.,technology,software-application
+CXM,"Sprinklr, Inc.",technology,software-application
+VIA,"Via Transportation, Inc.",technology,software-application
+APPS,"Digital Turbine, Inc.",technology,software-application
+UPBD,"Upbound Group, Inc.",technology,software-application
+AMPL,"Amplitude, Inc.",technology,software-application
+DFIN,"Donnelley Financial Solutions, Inc.",technology,software-application
+GTM,ZoomInfo Technologies Inc.,technology,software-application
+YALA,Yalla Group Limited,technology,software-application
+DSP,Viant Technology Inc.,technology,software-application
+IBTA,"Ibotta, Inc.",technology,software-application
+RDVT,"Red Violet, Inc.",technology,software-application
+DJCO,Daily Journal Corporation,technology,software-application
+PD,"PagerDuty, Inc.",technology,software-application
+MNTN,"MNTN, Inc.",technology,software-application
+RSKD,Riskified Ltd.,technology,software-application
+YB,Yuanbao Inc.,technology,software-application
+MITK,"Mitek Systems, Inc.",technology,software-application
+VTEX,VTEX,technology,software-application
+PAR,PAR Technology Corporation,technology,software-application
+PUBM,"PubMatic, Inc.",technology,software-application
+HKD,AMTD Digital Inc.,technology,software-application
+RBBN,Ribbon Communications Inc.,technology,software-application
+CRNC,Cerence Inc.,technology,software-application
+OOMA,"Ooma, Inc.",technology,software-application
+DCBO,Docebo Inc.,technology,software-application
+SPT,"Sprout Social, Inc.",technology,software-application
+GLOO,"Gloo Holdings, Inc.",technology,software-application
+API,"Agora, Inc.",technology,software-application
+BLND,"Blend Labs, Inc.",technology,software-application
+RMNI,"Rimini Street, Inc.",technology,software-application
+MTLS,Materialise NV,technology,software-application
+ALIT,"Alight, Inc.",technology,software-application
+SVCO,"Silvaco Group, Inc.",technology,software-application
+XPER,Xperi Inc.,technology,software-application
+CURR,CURRENC Group Inc.,technology,software-application
+SMWB,Similarweb Ltd.,technology,software-application
+MTC,"MMTec, Inc.",technology,software-application
+DUOT,"Duos Technologies Group, Inc.",technology,software-application
+PLTS,Platinum Analytics Cayman Limited,technology,software-application
+DMRC,Digimarc Corporation,technology,software-application
+AZ,A2Z Cust2Mate Solutions Corp.,technology,software-application
+EGHT,"8x8, Inc.",technology,software-application
+ASUR,"Asure Software, Inc.",technology,software-application
+LAW,"CS Disco, Inc.",technology,software-application
+BZAI,"Blaize Holdings, Inc.",technology,software-application
+CMRC,"Commerce.com, Inc.",technology,software-application
+SMRT,"SmartRent, Inc.",technology,software-application
+IMMR,Immersion Corporation,technology,software-application
+KLTR,"Kaltura, Inc.",technology,software-application
+EGAN,eGain Corporation,technology,software-application
+TRAK,"ReposiTrak, Inc.",technology,software-application
+TONX,TON Strategy Company,technology,software-application
+PERF,Perfect Corp.,technology,software-application
+THRY,"Thryv Holdings, Inc.",technology,software-application
+NRDY,Nerdy Inc.,technology,software-application
+MRT,"Marti Technologies, Inc.",technology,software-application
+DOMO,"Domo, Inc.",technology,software-application
+RDZN,"Roadzen, Inc.",technology,software-application
+RYDE,Ryde Group Ltd,technology,software-application
+DHX,"DHI Group, Inc.",technology,software-application
+NTCL,NetClass Technology Inc,technology,software-application
+NXTT,Next Technology Holding Inc.,technology,software-application
+SCOR,"comScore, Inc.",technology,software-application
+AIB,"BlockchAIn Digital Infrastructure, Inc.",technology,software-application
+EXFY,"Expensify, Inc.",technology,software-application
+SSTI,"SoundThinking, Inc.",technology,software-application
+ROC,Rank One Computing Corporation,technology,software-application
+BVC,BitVentures Limited,technology,software-application
+AEYE,"AudioEye, Inc.",technology,software-application
+IDN,"Intellicheck, Inc.",technology,software-application
+LGCL,Lucas GC Limited,technology,software-application
+FRMM,"Forum Markets, Incorporated",technology,software-application
+RSSS,"Research Solutions, Inc.",technology,software-application
+HIT,"Health In Tech, Inc.",technology,software-application
+RTB,"RTB Digital, Inc.",technology,software-application
+VIDA,VIDA Global Inc.,technology,software-application
+NTWK,"NetSol Technologies, Inc.",technology,software-application
+ILLR,Triller Group Inc.,technology,software-application
+CREX,"Creative Realities, Inc.",technology,software-application
+PHUN,"Phunware, Inc.",technology,software-application
+VTSI,"VirTra, Inc.",technology,software-application
+ATHR,"Aether Holdings, Inc.",technology,software-application
+FUSE,Fusemachines Inc.,technology,software-application
+JG,Aurora Mobile Limited,technology,software-application
+YXT,YXT.COM Group Holding Limited,technology,software-application
+AWRE,"Aware, Inc.",technology,software-application
+RCT,RedCloud Holdings plc,technology,software-application
+INLX,"Intellinetics, Inc.",technology,software-application
+BMR,Beamr Imaging Ltd.,technology,software-application
+LPSN,"LivePerson, Inc.",technology,software-application
+BLIV,BeLive Holdings,technology,software-application
+PSQH,"PSQ Holdings, Inc.",technology,software-application
+IPM,Intelligent Protection Management Corp.,technology,software-application
+AIFF,"Firefly Neuroscience, Inc.",technology,software-application
+FRGT,"Freight Technologies, Inc.",technology,software-application
+YAAS,Youxin Technology Ltd,technology,software-application
+INUV,"Inuvo, Inc.",technology,software-application
+UPLD,"Upland Software, Inc.",technology,software-application
+PDC,Perpetuals.com Ltd,technology,software-application
+MNDO,MIND C.T.I. Ltd,technology,software-application
+RMSG,Real Messenger Corporation,technology,software-application
+SMSI,"Smith Micro Software, Inc.",technology,software-application
+SAGT,Sagtec Global Limited,technology,software-application
+KNRX,Knorex Ltd.,technology,software-application
+CYN,Cyngn Inc.,technology,software-application
+CXAI,CXApp Inc.,technology,software-application
+NXPL,NextPlat Corp,technology,software-application
+BIYA,Baiya International Group Inc.,technology,software-application
+MFI,mF International Limited,technology,software-application
+IDAI,T Stamp Inc.,technology,software-application
+QH,Quhuo Limited,technology,software-application
+AMOD,"Alpha Modus Holdings, Inc.",technology,software-application
+NVNI,Nvni Group Limited,technology,software-application
+AIXI,Xiao-I Corporation,technology,software-application
+AMZE,"Amaze Holdings, Inc.",technology,software-application
+AMST,Amesite Inc.,technology,software-application
+IFBD,"Infobird Co., Ltd",technology,software-application
+TGL,Treasure Global Inc.,technology,software-application
+VS,Versus Systems Inc.,technology,software-application
+AUUD,Auddia Inc.,technology,software-application
+ORKT,Orangekloud Technology Inc.,technology,software-application
+MYSE,"Myseum.AI, Inc.",technology,software-application
+YMT,Yimutian Inc.,technology,software-application
+FTFT,Future FinTech Group Inc.,technology,software-application
+JTAI,Jet.AI Inc.,technology,software-application
+WCT,Wellchange Holdings Company Limited,technology,software-application
+MASK,3 E Network Technology Group Limited,technology,software-application
+HTCR,"HeartCore Enterprises, Inc.",technology,software-application
+BNZI,"Banzai International, Inc.",technology,software-application
+MYSZ,"My Size, Inc.",technology,software-application
+RPGL,Republic Power Group Limited,technology,software-application
+MSFT,Microsoft Corporation,technology,software-infrastructure
+ORCL,Oracle Corporation,technology,software-infrastructure
+PLTR,Palantir Technologies Inc.,technology,software-infrastructure
+PANW,"Palo Alto Networks, Inc.",technology,software-infrastructure
+CRWD,"CrowdStrike Holdings, Inc.",technology,software-infrastructure
+FTNT,"Fortinet, Inc.",technology,software-infrastructure
+SNPS,"Synopsys, Inc.",technology,software-infrastructure
+NET,"Cloudflare, Inc.",technology,software-infrastructure
+CRWV,"CoreWeave, Inc.",technology,software-infrastructure
+CBRS,Cerebras Systems Inc.,technology,software-infrastructure
+XYZ,"Block, Inc.",technology,software-infrastructure
+TWLO,Twilio Inc.,technology,software-infrastructure
+NTAP,"NetApp, Inc.",technology,software-infrastructure
+MDB,"MongoDB, Inc.",technology,software-infrastructure
+VRSN,"VeriSign, Inc.",technology,software-infrastructure
+CPAY,"Corpay, Inc.",technology,software-infrastructure
+FFIV,"F5, Inc.",technology,software-infrastructure
+AKAM,"Akamai Technologies, Inc.",technology,software-infrastructure
+ZS,"Zscaler, Inc.",technology,software-infrastructure
+OKTA,"Okta, Inc.",technology,software-infrastructure
+IOT,Samsara Inc.,technology,software-infrastructure
+DOCN,"DigitalOcean Holdings, Inc.",technology,software-infrastructure
+GEN,Gen Digital Inc.,technology,software-infrastructure
+KSPI,Joint Stock Company Kaspi.kz,technology,software-infrastructure
+RBRK,"Rubrik, Inc.",technology,software-infrastructure
+NTNX,"Nutanix, Inc.",technology,software-infrastructure
+TOST,"Toast, Inc.",technology,software-infrastructure
+CHKP,Check Point Software Technologies Ltd.,technology,software-infrastructure
+GDDY,GoDaddy Inc.,technology,software-infrastructure
+SAIL,"SailPoint, Inc.",technology,software-infrastructure
+CORZ,"Core Scientific, Inc.",technology,software-infrastructure
+DBX,"Dropbox, Inc.",technology,software-infrastructure
+DOX,Amdocs Limited,technology,software-infrastructure
+PATH,"UiPath, Inc.",technology,software-infrastructure
+BB,BlackBerry Limited,technology,software-infrastructure
+ZETA,Zeta Global Holdings Corp.,technology,software-infrastructure
+S,"SentinelOne, Inc.",technology,software-infrastructure
+GTLB,GitLab Inc.,technology,software-infrastructure
+WEX,WEX Inc.,technology,software-infrastructure
+ACIW,"ACI Worldwide, Inc.",technology,software-infrastructure
+BLSH,Bullish,technology,software-infrastructure
+RELY,"Remitly Global, Inc.",technology,software-infrastructure
+NTSK,"Netskope, Inc.",technology,software-infrastructure
+XNDU,Xanadu Quantum Technologies Limited,technology,software-infrastructure
+QLYS,"Qualys, Inc.",technology,software-infrastructure
+VRNS,"Varonis Systems, Inc.",technology,software-infrastructure
+BOX,"Box, Inc.",technology,software-infrastructure
+TCGL,TechCreate Group Ltd.,technology,software-infrastructure
+CLBT,Cellebrite DI Ltd.,technology,software-infrastructure
+DLO,DLocal Limited,technology,software-infrastructure
+INFQ,"Infleqtion, Inc.",technology,software-infrastructure
+TDC,Teradata Corporation,technology,software-infrastructure
+TENB,"Tenable Holdings, Inc.",technology,software-infrastructure
+FOUR,"Shift4 Payments, Inc.",technology,software-infrastructure
+NN,NextNav Inc.,technology,software-infrastructure
+NTCT,"NetScout Systems, Inc.",technology,software-infrastructure
+PAY,"Paymentus Holdings, Inc.",technology,software-infrastructure
+EEFT,"Euronet Worldwide, Inc.",technology,software-infrastructure
+STNE,StoneCo Ltd.,technology,software-infrastructure
+NYAX,Nayax Ltd.,technology,software-infrastructure
+CALX,"Calix, Inc.",technology,software-infrastructure
+PAGS,PagSeguro Digital Ltd.,technology,software-infrastructure
+BAND,Bandwidth Inc.,technology,software-infrastructure
+AVPT,"AvePoint, Inc.",technology,software-infrastructure
+RAMP,"LiveRamp Holdings, Inc.",technology,software-infrastructure
+ATEN,"A10 Networks, Inc.",technology,software-infrastructure
+WIX,Wix.com Ltd.,technology,software-infrastructure
+APPN,Appian Corporation,technology,software-infrastructure
+FIVN,"Five9, Inc.",technology,software-infrastructure
+BRUN,"Boost Run, Inc.",technology,software-infrastructure
+FLYW,Flywire Corporation,technology,software-infrastructure
+PAYO,Payoneer Global Inc.,technology,software-infrastructure
+MQ,"Marqeta, Inc.",technology,software-infrastructure
+AI,"C3.ai, Inc.",technology,software-infrastructure
+AEVA,"Aeva Technologies, Inc.",technology,software-infrastructure
+EVTC,"EVERTEC, Inc.",technology,software-infrastructure
+PRGS,Progress Software Corporation,technology,software-infrastructure
+PGY,Pagaya Technologies Ltd.,technology,software-infrastructure
+TUYA,Tuya Inc.,technology,software-infrastructure
+PICS,PicS N.V.,technology,software-infrastructure
+RDWR,Radware Ltd.,technology,software-infrastructure
+KDK,"Kodiak AI, Inc.",technology,software-infrastructure
+RXT,"Rackspace Technology, Inc.",technology,software-infrastructure
+GCT,GigaCloud Technology Inc.,technology,software-infrastructure
+RZLV,Rezolve AI PLC,technology,software-infrastructure
+QNC,Quantum eMotion Corp.,technology,software-infrastructure
+CGNT,Cognyte Software Ltd.,technology,software-infrastructure
+SABR,Sabre Corporation,technology,software-infrastructure
+CCSI,"Consensus Cloud Solutions, Inc.",technology,software-infrastructure
+BTQ,BTQ Technologies Corp.,technology,software-infrastructure
+IIIV,"i3 Verticals, Inc.",technology,software-infrastructure
+HQ,Horizon Quantum Holdings Ltd.,technology,software-infrastructure
+OSPN,OneSpan Inc.,technology,software-infrastructure
+ZSQR,Z Squared Inc.,technology,software-infrastructure
+AIOT,"PowerFleet, Inc.",technology,software-infrastructure
+CINT,CI&T Inc.,technology,software-infrastructure
+OWLS,Obook Holdings Inc.,technology,software-infrastructure
+RPD,"Rapid7, Inc.",technology,software-infrastructure
+NUAI,"New Era Energy & Digital, Inc.",technology,software-infrastructure
+PRTH,"Priority Technology Holdings, Inc.",technology,software-infrastructure
+GRRR,Gorilla Technology Group Inc.,technology,software-infrastructure
+BLZE,"Backblaze, Inc.",technology,software-infrastructure
+IMXI,"International Money Express, Inc.",technology,software-infrastructure
+LSAK,"Lesaka Technologies, Inc.",technology,software-infrastructure
+YEXT,"Yext, Inc.",technology,software-infrastructure
+SUPX,SuperX AI Technology Limited,technology,software-infrastructure
+PAYS,"Paysign, Inc.",technology,software-infrastructure
+DVLT,Datavault AI Inc.,technology,software-infrastructure
+ALLT,Allot Ltd.,technology,software-infrastructure
+PSFE,Paysafe Limited,technology,software-infrastructure
+BKKT,"Bakkt, Inc.",technology,software-infrastructure
+PDYN,Palladyne AI Corp.,technology,software-infrastructure
+TLS,Telos Corporation,technology,software-infrastructure
+RPAY,Repay Holdings Corporation,technology,software-infrastructure
+XNET,Xunlei Limited,technology,software-infrastructure
+ATGL,Alpha Technology Group Limited,technology,software-infrastructure
+ARQQ,Arqit Quantum Inc.,technology,software-infrastructure
+EXOD,"Exodus Movement, Inc.",technology,software-infrastructure
+VERI,"Veritone, Inc.",technology,software-infrastructure
+TCX,Tucows Inc.,technology,software-infrastructure
+DAVA,Endava plc,technology,software-infrastructure
+BNAI,"Brand Engagement Network, Inc.",technology,software-infrastructure
+AMBR,Amber International Holding Limited,technology,software-infrastructure
+SANG,Sangoma Technologies Corporation,technology,software-infrastructure
+GOAI,"Eva Live, Inc.",technology,software-infrastructure
+ZENA,"ZenaTech, Inc.",technology,software-infrastructure
+REKR,"Rekor Systems, Inc.",technology,software-infrastructure
+AISP,"Airship AI Holdings, Inc.",technology,software-infrastructure
+AIFC,AI Financial Corporation,technology,software-infrastructure
+WETO,Wetour Robotics Limited,technology,software-infrastructure
+FATN,"FatPipe, Inc.",technology,software-infrastructure
+LIDR,"AEye, Inc.",technology,software-infrastructure
+VIVO,VivoPower PLC,technology,software-infrastructure
+ALAR,Alarum Technologies Ltd.,technology,software-infrastructure
+VHC,VirnetX Holding Corporation,technology,software-infrastructure
+MLGO,MicroAlgo Inc.,technology,software-infrastructure
+AGPU,Axe Compute Inc.,technology,software-infrastructure
+USIO,"Usio, Inc.",technology,software-infrastructure
+AVX,Avax One Technology Ltd.,technology,software-infrastructure
+HPAI,Helport AI Limited,technology,software-infrastructure
+KPLT,"Katapult Holdings, Inc.",technology,software-infrastructure
+TAOX,TAO Synergies Inc.,technology,software-infrastructure
+XBP,"XBP Global Holdings, Inc.",technology,software-infrastructure
+AIXC,"AIxCrypto Holdings, Inc.",technology,software-infrastructure
+ORIO,Orion Digital Corp.,technology,software-infrastructure
+AUID,authID Inc.,technology,software-infrastructure
+GGRP,"The Glimpse Group, Inc.",technology,software-infrastructure
+CISO,CISO Global Inc.,technology,software-infrastructure
+INTZ,Intrusion Inc.,technology,software-infrastructure
+TGHL,The Growhub Limited,technology,software-infrastructure
+BLIN,"Bridgeline Digital, Inc.",technology,software-infrastructure
+AIFA,All In FutureTech Alliance Inc.,technology,software-infrastructure
+CHOW,ChowChow Cloud International Holdings Limited,technology,software-infrastructure
+OBAI,"Our Bond, Inc.",technology,software-infrastructure
+TAOP,Taoping Inc.,technology,software-infrastructure
+DTSS,Datasea Intelligent Technology Ltd.,technology,software-infrastructure
+YYAI,AiRWA Inc.,technology,software-infrastructure
+CSAI,Cloudastructure Inc.,technology,software-infrastructure
+CYAB,"Cyabra, Inc.",technology,software-infrastructure
+LHSW,Lianhe Sowell International Group Ltd,technology,software-infrastructure
+SONM,"DNA X, Inc.",technology,software-infrastructure
+OLB,"The OLB Group, Inc.",technology,software-infrastructure
+CETX,"Cemtrex, Inc.",technology,software-infrastructure
+HUBC,HUB Cyber Security Ltd.,technology,software-infrastructure
+IBM,International Business Machines Corporation,technology,information-technology-services
+ACN,Accenture plc,technology,information-technology-services
+INFY,Infosys Limited,technology,information-technology-services
+CTSH,Cognizant Technology Solutions Corporation,technology,information-technology-services
+WIT,Wipro Limited,technology,information-technology-services
+FIS,"Fidelity National Information Services, Inc.",technology,information-technology-services
+BR,"Broadridge Financial Solutions, Inc.",technology,information-technology-services
+CDW,CDW Corporation,technology,information-technology-services
+LDOS,"Leidos Holdings, Inc.",technology,information-technology-services
+GIB,CGI Inc.,technology,information-technology-services
+CACI,CACI International Inc,technology,information-technology-services
+APLD,Applied Digital Corporation,technology,information-technology-services
+IT,"Gartner, Inc.",technology,information-technology-services
+WSE,Wise Group plc,technology,information-technology-services
+JKHY,"Jack Henry & Associates, Inc.",technology,information-technology-services
+CIFR,Cipher Digital Inc.,technology,information-technology-services
+GDS,GDS Holdings Limited,technology,information-technology-services
+INGM,Ingram Micro Holding Corporation,technology,information-technology-services
+PSN,Parsons Corporation,technology,information-technology-services
+G,Genpact Limited,technology,information-technology-services
+EPAM,"EPAM Systems, Inc.",technology,information-technology-services
+SAIC,Science Applications International Corporation,technology,information-technology-services
+EXLS,"ExlService Holdings, Inc.",technology,information-technology-services
+PONY,Pony AI Inc.,technology,information-technology-services
+INOD,Innodata Inc.,technology,information-technology-services
+KEEL,Keel Infrastructure Corp.,technology,information-technology-services
+PENG,"Penguin Solutions, Inc.",technology,information-technology-services
+CHRN,ChronoScale Corporation,technology,information-technology-services
+FORTY,Formula Systems (1985) Ltd.,technology,information-technology-services
+KD,"Kyndryl Holdings, Inc.",technology,information-technology-services
+VNET,"VNET Group, Inc.",technology,information-technology-services
+NIQ,NIQ Global Intelligence plc,technology,information-technology-services
+BBAI,"BigBear.ai Holdings, Inc.",technology,information-technology-services
+CNXC,Concentrix Corporation,technology,information-technology-services
+GLOB,Globant S.A.,technology,information-technology-services
+CLVT,Clarivate Plc,technology,information-technology-services
+DXC,DXC Technology Company,technology,information-technology-services
+SHAZ,SharonAI Holdings Inc.,technology,information-technology-services
+MGRT,Mega Fortune Company Limited,technology,information-technology-services
+VYX,NCR Voyix Corporation,technology,information-technology-services
+WYFI,"WhiteFiber, Inc.",technology,information-technology-services
+EFOR,"Everforth, Inc.",technology,information-technology-services
+NABL,"N-able, Inc.",technology,information-technology-services
+VRRM,Verra Mobility Corporation,technology,information-technology-services
+GDYN,"Grid Dynamics Holdings, Inc.",technology,information-technology-services
+TASK,"TaskUs, Inc.",technology,information-technology-services
+IBEX,IBEX Limited,technology,information-technology-services
+TSSI,"TSS, Inc.",technology,information-technology-services
+MWC,"Micware Co., Ltd.",technology,information-technology-services
+UIS,Unisys Corporation,technology,information-technology-services
+TTGT,"TechTarget, Inc.",technology,information-technology-services
+HCKT,"The Hackett Group, Inc.",technology,information-technology-services
+CNDT,Conduent Incorporated,technology,information-technology-services
+III,"Information Services Group, Inc.",technology,information-technology-services
+WYY,WidePoint Corporation,technology,information-technology-services
+TTEC,"TTEC Holdings, Inc.",technology,information-technology-services
+CSPI,CSP Inc.,technology,information-technology-services
+CTM,"Castellum, Inc.",technology,information-technology-services
+QXL,Quantum X Labs Inc.,technology,information-technology-services
+AIOS,AIOS Tech Inc.,technology,information-technology-services
+JFU,9F Inc.,technology,information-technology-services
+CLPS,CLPS Incorporation,technology,information-technology-services
+VEEA,Veea Inc.,technology,information-technology-services
+SAIH,SAIHEAT Limited,technology,information-technology-services
+TDTH,Trident Digital Tech Holdings Ltd,technology,information-technology-services
+LZMH,LZ Technology Holdings Limited,technology,information-technology-services
+ARBB,ARB IOT Group Limited,technology,information-technology-services
+SLAI,SOLAI Limited,technology,information-technology-services
+GLE,Global Engine Group Holding Limited,technology,information-technology-services
+DTST,Data Storage Corporation,technology,information-technology-services
+GMM,Global Mofy AI Limited,technology,information-technology-services
+CYCU,"Cycurion, Inc.",technology,information-technology-services
+JZ,Jianzhi Education Technology Group Company Limited,technology,information-technology-services
+DAIC,"CID HoldCo, Inc.",technology,information-technology-services
+HKIT,Hitek Global Inc.,technology,information-technology-services
+NVDA,NVIDIA Corporation,technology,semiconductors
+TSM,Taiwan Semiconductor Manufacturing Company Limited,technology,semiconductors
+AVGO,Broadcom Inc.,technology,semiconductors
+MU,"Micron Technology, Inc.",technology,semiconductors
+AMD,"Advanced Micro Devices, Inc.",technology,semiconductors
+INTC,Intel Corporation,technology,semiconductors
+ARM,Arm Holdings plc,technology,semiconductors
+TXN,Texas Instruments Incorporated,technology,semiconductors
+MRVL,"Marvell Technology, Inc.",technology,semiconductors
+QCOM,QUALCOMM Incorporated,technology,semiconductors
+ADI,"Analog Devices, Inc.",technology,semiconductors
+ASX,"ASE Technology Holding Co., Ltd.",technology,semiconductors
+NXPI,NXP Semiconductors N.V.,technology,semiconductors
+MPWR,"Monolithic Power Systems, Inc.",technology,semiconductors
+STM,STMicroelectronics N.V.,technology,semiconductors
+ALAB,"Astera Labs, Inc.",technology,semiconductors
+UMC,United Microelectronics Corporation,technology,semiconductors
+MCHP,Microchip Technology Incorporated,technology,semiconductors
+ON,ON Semiconductor Corporation,technology,semiconductors
+GFS,GLOBALFOUNDRIES Inc.,technology,semiconductors
+CRDO,Credo Technology Group Holding Ltd,technology,semiconductors
+TSEM,Tower Semiconductor Ltd.,technology,semiconductors
+MTSI,"MACOM Technology Solutions Holdings, Inc.",technology,semiconductors
+LSCC,Lattice Semiconductor Corporation,technology,semiconductors
+SITM,SiTime Corporation,technology,semiconductors
+RMBS,Rambus Inc.,technology,semiconductors
+SMTC,Semtech Corporation,technology,semiconductors
+SWKS,"Skyworks Solutions, Inc.",technology,semiconductors
+SIMO,Silicon Motion Technology Corporation,technology,semiconductors
+QRVO,"Qorvo, Inc.",technology,semiconductors
+ALGM,"Allegro MicroSystems, Inc.",technology,semiconductors
+CRUS,"Cirrus Logic, Inc.",technology,semiconductors
+VSH,"Vishay Intertechnology, Inc.",technology,semiconductors
+MXL,"MaxLinear, Inc.",technology,semiconductors
+SLAB,Silicon Laboratories Inc.,technology,semiconductors
+NVTS,Navitas Semiconductor Corporation,technology,semiconductors
+SYNA,Synaptics Incorporated,technology,semiconductors
+DIOD,Diodes Incorporated,technology,semiconductors
+POWI,"Power Integrations, Inc.",technology,semiconductors
+LASR,"nLIGHT, Inc.",technology,semiconductors
+PI,"Impinj, Inc.",technology,semiconductors
+HIMX,"Himax Technologies, Inc.",technology,semiconductors
+WOLF,"Wolfspeed, Inc.",technology,semiconductors
+IMOS,ChipMOS TECHNOLOGIES INC.,technology,semiconductors
+POET,POET Technologies Inc.,technology,semiconductors
+SKYT,"SkyWater Technology, Inc.",technology,semiconductors
+AMBQ,"Ambiq Micro, Inc.",technology,semiconductors
+AIP,"Arteris, Inc.",technology,semiconductors
+AOSL,Alpha and Omega Semiconductor Limited,technology,semiconductors
+CEVA,"CEVA, Inc.",technology,semiconductors
+INDI,"indie Semiconductor, Inc.",technology,semiconductors
+LAES,SEALSQ Corp,technology,semiconductors
+MRAM,"Everspin Technologies, Inc.",technology,semiconductors
+NVEC,NVE Corporation,technology,semiconductors
+ALMU,"Aeluma, Inc.",technology,semiconductors
+QUIK,QuickLogic Corporation,technology,semiconductors
+GSIT,"GSI Technology, Inc.",technology,semiconductors
+MX,Magnachip Semiconductor Corporation,technology,semiconductors
+VLN,Valens Semiconductor Ltd.,technology,semiconductors
+GCTS,"GCT Semiconductor Holding, Inc.",technology,semiconductors
+IPWR,Ideal Power Inc.,technology,semiconductors
+WKEY,WISeKey International Holding AG,technology,semiconductors
+SQNS,Sequans Communications S.A.,technology,semiconductors
+ICG,Intchains Group Limited,technology,semiconductors
+NA,Nano Labs Ltd,technology,semiconductors
+PXLW,"Pixelworks, Inc.",technology,semiconductors
+MOBX,"Mobix Labs, Inc.",technology,semiconductors
+LEDS,SemiLEDs Corporation,technology,semiconductors
+PRSO,Peraso Inc.,technology,semiconductors
+APH,Amphenol Corporation,technology,electronic-components
+GLW,Corning Incorporated,technology,electronic-components
+TEL,TE Connectivity plc,technology,electronic-components
+FLEX,Flex Ltd.,technology,electronic-components
+CLS,Celestica Inc.,technology,electronic-components
+JBL,Jabil Inc.,technology,electronic-components
+FN,Fabrinet,technology,electronic-components
+TTMI,"TTM Technologies, Inc.",technology,electronic-components
+SANM,Sanmina Corporation,technology,electronic-components
+VICR,Vicor Corporation,technology,electronic-components
+LFUS,"Littelfuse, Inc.",technology,electronic-components
+PLXS,Plexus Corp.,technology,electronic-components
+RAL,Ralliant Corporation,technology,electronic-components
+OLED,Universal Display Corporation,technology,electronic-components
+OSIS,"OSI Systems, Inc.",technology,electronic-components
+KN,Knowles Corporation,technology,electronic-components
+BHE,"Benchmark Electronics, Inc.",technology,electronic-components
+BELFA,Bel Fuse Inc.,technology,electronic-components
+OUST,"Ouster, Inc.",technology,electronic-components
+ROG,Rogers Corporation,technology,electronic-components
+CTS,CTS Corporation,technology,electronic-components
+ALNT,Allient Inc.,technology,electronic-components
+KOPN,Kopin Corporation,technology,electronic-components
+LPTH,"LightPath Technologies, Inc.",technology,electronic-components
+DAKT,"Daktronics, Inc.",technology,electronic-components
+LYTS,LSI Industries Inc.,technology,electronic-components
+OPTX,"Syntec Optics Holdings, Inc.",technology,electronic-components
+MEI,"Methode Electronics, Inc.",technology,electronic-components
+MPTI,"M-tron Industries, Inc.",technology,electronic-components
+RELL,"Richardson Electronics, Ltd.",technology,electronic-components
+KULR,"KULR Technology Group, Inc.",technology,electronic-components
+CPSH,CPS Technologies Corporation,technology,electronic-components
+LINK,"Interlink Electronics, Inc.",technology,electronic-components
+ELTK,Eltek Ltd.,technology,electronic-components
+DSWL,"Deswell Industries, Inc.",technology,electronic-components
+WBX,Wallbox N.V.,technology,electronic-components
+HOLO,MicroCloud Hologram Inc.,technology,electronic-components
+DAIO,Data I/O Corporation,technology,electronic-components
+NEON,Neonode Inc.,technology,electronic-components
+REFR,Research Frontiers Incorporated,technology,electronic-components
+WETH,Wetouch Technology Inc.,technology,electronic-components
+SELX,Semilux International Ltd.,technology,electronic-components
+MTEK,Maris-Tech Ltd.,technology,electronic-components
+GAUZ,Gauzy Ltd.,technology,electronic-components
+MSAI,"MultiSensor AI Holdings, Inc.",technology,electronic-components
+OST,"Ostin Technology Group Co., Ltd.",technology,electronic-components
+IMTE,Integrated Media Technology Limited,technology,electronic-components
+CSCO,"Cisco Systems, Inc.",technology,communication-equipment
+NOK,Nokia Oyj,technology,communication-equipment
+CIEN,Ciena Corporation,technology,communication-equipment
+MSI,"Motorola Solutions, Inc.",technology,communication-equipment
+LITE,Lumentum Holdings Inc.,technology,communication-equipment
+HPE,Hewlett Packard Enterprise Company,technology,communication-equipment
+ERIC,Telefonaktiebolaget LM Ericsson (publ),technology,communication-equipment
+ASTS,"AST SpaceMobile, Inc.",technology,communication-equipment
+UI,Ubiquiti Inc.,technology,communication-equipment
+AAOI,"Applied Optoelectronics, Inc.",technology,communication-equipment
+VIAV,Viavi Solutions Inc.,technology,communication-equipment
+ZBRA,Zebra Technologies Corporation,technology,communication-equipment
+VSAT,"Viasat, Inc.",technology,communication-equipment
+ONDS,Ondas Inc.,technology,communication-equipment
+BDC,Belden Inc.,technology,communication-equipment
+EXTR,"Extreme Networks, Inc.",technology,communication-equipment
+TSAT,Telesat Corporation,technology,communication-equipment
+VISN,"Vistance Networks, Inc.",technology,communication-equipment
+DGII,Digi International Inc.,technology,communication-equipment
+HLIT,Harmonic Inc.,technology,communication-equipment
+ADTN,"ADTRAN Holdings, Inc.",technology,communication-equipment
+GILT,Gilat Satellite Networks Ltd.,technology,communication-equipment
+FEIM,"Frequency Electronics, Inc.",technology,communication-equipment
+NTGR,"NETGEAR, Inc.",technology,communication-equipment
+CLFD,"Clearfield, Inc.",technology,communication-equipment
+BKTI,BK Technologies Corporation,technology,communication-equipment
+LTRX,"Lantronix, Inc.",technology,communication-equipment
+CRNT,Ceragon Networks Ltd.,technology,communication-equipment
+AUDC,AudioCodes Ltd.,technology,communication-equipment
+AVNW,"Aviat Networks, Inc.",technology,communication-equipment
+SILC,Silicom Ltd.,technology,communication-equipment
+INSG,Inseego Corp.,technology,communication-equipment
+CMTL,Comtech Telecommunications Corp.,technology,communication-equipment
+WATT,Energous Corporation,technology,communication-equipment
+AMPG,"AmpliTech Group, Inc.",technology,communication-equipment
+OCC,Optical Cable Corporation,technology,communication-equipment
+AIRG,"Airgain, Inc.",technology,communication-equipment
+FIEE,"FiEE, Inc.",technology,communication-equipment
+FKWL,Franklin Wireless Corp.,technology,communication-equipment
+BOSC,B.O.S. Better Online Solutions Ltd.,technology,communication-equipment
+UTSI,UTStarcom Holdings Corp.,technology,communication-equipment
+CLRO,"ClearOne, Inc.",technology,communication-equipment
+SYNX,Silynxcom Ltd.,technology,communication-equipment
+MITQ,"Moving iMage Technologies, Inc.",technology,communication-equipment
+DELL,Dell Technologies Inc.,technology,computer-hardware
+SNDK,Sandisk Corporation,technology,computer-hardware
+ANET,"Arista Networks, Inc.",technology,computer-hardware
+STX,Seagate Technology Holdings plc,technology,computer-hardware
+WDC,Western Digital Corporation,technology,computer-hardware
+SMCI,"Super Micro Computer, Inc.",technology,computer-hardware
+P,"Everpure, Inc.",technology,computer-hardware
+HPQ,HP Inc.,technology,computer-hardware
+IONQ,"IonQ, Inc.",technology,computer-hardware
+LOGI,Logitech International S.A.,technology,computer-hardware
+QBTS,D-Wave Quantum Inc.,technology,computer-hardware
+RGTI,"Rigetti Computing, Inc.",technology,computer-hardware
+QUBT,Quantum Computing Inc.,technology,computer-hardware
+BRAI,Braiin Limited,technology,computer-hardware
+UMAC,"Unusual Machines, Inc.",technology,computer-hardware
+CRSR,"Corsair Gaming, Inc.",technology,computer-hardware
+CRCT,"Cricut, Inc.",technology,computer-hardware
+SSYS,Stratasys Ltd.,technology,computer-hardware
+VELO,"Velo3D, Inc.",technology,computer-hardware
+DDD,3D Systems Corporation,technology,computer-hardware
+OSS,"One Stop Systems, Inc.",technology,computer-hardware
+NNDM,Nano Dimension Ltd.,technology,computer-hardware
+BGIN,Bgin Blockchain Limited,technology,computer-hardware
+CAN,Canaan Inc.,technology,computer-hardware
+DPRO,Draganfly Inc.,technology,computer-hardware
+QMCO,Quantum Corporation,technology,computer-hardware
+ALOT,"AstroNova, Inc.",technology,computer-hardware
+VTIX,Virtuix Holdings Inc.,technology,computer-hardware
+AMCI,AMC Robotics Corporation,technology,computer-hardware
+MCRP,Micropolis AI Robotics,technology,computer-hardware
+QTEX,QTREX Quantum Ltd.,technology,computer-hardware
+YIBO,Planet Image International Limited,technology,computer-hardware
+UAVS,"AgEagle Aerial Systems, Inc.",technology,computer-hardware
+TACT,TransAct Technologies Incorporated,technology,computer-hardware
+KTCC,Key Tronic Corporation,technology,computer-hardware
+QCLS,"Q/C Technologies, Inc.",technology,computer-hardware
+EBON,Ebang International Holdings Inc.,technology,computer-hardware
+BTCT,BTC Digital Ltd.,technology,computer-hardware
+SCKT,"Socket Mobile, Inc.",technology,computer-hardware
+AGMH,AGM Group Holdings Inc.,technology,computer-hardware
+COHR,Coherent Corp.,technology,scientific-and-technical-instruments
+KEYS,"Keysight Technologies, Inc.",technology,scientific-and-technical-instruments
+GRMN,Garmin Ltd.,technology,scientific-and-technical-instruments
+TDY,Teledyne Technologies Incorporated,technology,scientific-and-technical-instruments
+MKSI,MKS Inc.,technology,scientific-and-technical-instruments
+FTV,Fortive Corporation,technology,scientific-and-technical-instruments
+TRMB,Trimble Inc.,technology,scientific-and-technical-instruments
+CGNX,Cognex Corporation,technology,scientific-and-technical-instruments
+ESE,ESCO Technologies Inc.,technology,scientific-and-technical-instruments
+ST,Sensata Technologies Holding plc,technology,scientific-and-technical-instruments
+NOVT,Novanta Inc.,technology,scientific-and-technical-instruments
+VNT,Vontier Corporation,technology,scientific-and-technical-instruments
+BMI,"Badger Meter, Inc.",technology,scientific-and-technical-instruments
+ITRI,"Itron, Inc.",technology,scientific-and-technical-instruments
+VPG,"Vishay Precision Group, Inc.",technology,scientific-and-technical-instruments
+ITRN,Ituran Location and Control Ltd.,technology,scientific-and-technical-instruments
+MLAB,"Mesa Laboratories, Inc.",technology,scientific-and-technical-instruments
+MVIS,"MicroVision, Inc.",technology,scientific-and-technical-instruments
+USBC,"USBC, Inc.",technology,scientific-and-technical-instruments
+ARBE,Arbe Robotics Ltd.,technology,scientific-and-technical-instruments
+SVRE,SaverOne 2014 Ltd.,technology,scientific-and-technical-instruments
+GNSS,Genasys Inc.,technology,scientific-and-technical-instruments
+SOTK,Sono-Tek Corporation,technology,scientific-and-technical-instruments
+WRAP,"Wrap Technologies, Inc.",technology,scientific-and-technical-instruments
+ODYS,Odysight.ai Inc.,technology,scientific-and-technical-instruments
+MIND,"MIND Technology, Inc.",technology,scientific-and-technical-instruments
+ASTC,Astrotech Corporation,technology,scientific-and-technical-instruments
+EXYN,"Exyn Technologies, Inc.",technology,scientific-and-technical-instruments
+LGL,"The LGL Group, Inc.",technology,scientific-and-technical-instruments
+ACFN,"Acorn Energy, Inc.",technology,scientific-and-technical-instruments
+ELSE,"Electro-Sensors, Inc.",technology,scientific-and-technical-instruments
+ARAI,Arrive AI Inc.,technology,scientific-and-technical-instruments
+AIMD,"Ainos, Inc.",technology,scientific-and-technical-instruments
+SOBR,"SOBR Safe, Inc.",technology,scientific-and-technical-instruments
+FCUV,Focus Universal Inc.,technology,scientific-and-technical-instruments
+ASML,ASML Holding N.V.,technology,semiconductor-equipment-and-materials
+LRCX,Lam Research Corporation,technology,semiconductor-equipment-and-materials
+AMAT,"Applied Materials, Inc.",technology,semiconductor-equipment-and-materials
+KLAC,KLA Corporation,technology,semiconductor-equipment-and-materials
+TER,"Teradyne, Inc.",technology,semiconductor-equipment-and-materials
+Q,"Qnity Electronics, Inc.",technology,semiconductor-equipment-and-materials
+ENTG,"Entegris, Inc.",technology,semiconductor-equipment-and-materials
+AMKR,"Amkor Technology, Inc.",technology,semiconductor-equipment-and-materials
+NVMI,Nova Ltd.,technology,semiconductor-equipment-and-materials
+ONTO,Onto Innovation Inc.,technology,semiconductor-equipment-and-materials
+FORM,"FormFactor, Inc.",technology,semiconductor-equipment-and-materials
+CAMT,Camtek Ltd.,technology,semiconductor-equipment-and-materials
+AXTI,"AXT, Inc.",technology,semiconductor-equipment-and-materials
+ACMR,"ACM Research, Inc.",technology,semiconductor-equipment-and-materials
+KLIC,"Kulicke and Soffa Industries, Inc.",technology,semiconductor-equipment-and-materials
+IPGP,IPG Photonics Corporation,technology,semiconductor-equipment-and-materials
+ACLS,"Axcelis Technologies, Inc.",technology,semiconductor-equipment-and-materials
+UCTT,"Ultra Clean Holdings, Inc.",technology,semiconductor-equipment-and-materials
+VECO,Veeco Instruments Inc.,technology,semiconductor-equipment-and-materials
+AEHR,"Aehr Test Systems, Inc.",technology,semiconductor-equipment-and-materials
+AMBA,"Ambarella, Inc.",technology,semiconductor-equipment-and-materials
+COHU,"Cohu, Inc.",technology,semiconductor-equipment-and-materials
+ICHR,"Ichor Holdings, Ltd.",technology,semiconductor-equipment-and-materials
+PLAB,"Photronics, Inc.",technology,semiconductor-equipment-and-materials
+DQ,Daqo New Energy Corp.,technology,semiconductor-equipment-and-materials
+ATOM,Atomera Incorporated,technology,semiconductor-equipment-and-materials
+ASYS,"Amtech Systems, Inc.",technology,semiconductor-equipment-and-materials
+INTT,InTest Corporation,technology,semiconductor-equipment-and-materials
+TRT,Trio-Tech International,technology,semiconductor-equipment-and-materials
+SMTK,"SmartKem, Inc.",technology,semiconductor-equipment-and-materials
+FSLR,"First Solar, Inc.",technology,solar
+NXT,Nextpower Inc.,technology,solar
+ENPH,"Enphase Energy, Inc.",technology,solar
+SEDG,"SolarEdge Technologies, Inc.",technology,solar
+RUN,Sunrun Inc.,technology,solar
+SHLS,"Shoals Technologies Group, Inc.",technology,solar
+ARRY,"Array Technologies, Inc.",technology,solar
+CSIQ,Canadian Solar Inc.,technology,solar
+JKS,"JinkoSolar Holding Co., Ltd.",technology,solar
+TOYO,"TOYO Co., Ltd.",technology,solar
+TYGO,"Tigo Energy, Inc.",technology,solar
+SPWR,SunPower Inc.,technology,solar
+FTCI,"FTC Solar, Inc.",technology,solar
+ASTI,"Ascent Solar Technologies, Inc.",technology,solar
+ZEO,Zeo Energy Corp.,technology,solar
+SPRU,Spruce Power Holding Corporation,technology,solar
+PN,Skycorp Solar Group Ltd,technology,solar
+SMXT,"SolarMax Technology, Inc.",technology,solar
+BEEM,Beam Global,technology,solar
+TURB,"Turbo Energy, S.A.",technology,solar
+SUNE,SUNation Energy Inc.,technology,solar
+AAPL,Apple Inc.,technology,consumer-electronics
+SONY,Sony Group Corporation,technology,consumer-electronics
+LPL,"LG Display Co., Ltd.",technology,consumer-electronics
+SONO,"Sonos, Inc.",technology,consumer-electronics
+VUZI,Vuzix Corporation,technology,consumer-electronics
+TBCH,Turtle Beach Corporation,technology,consumer-electronics
+GPRO,"GoPro, Inc.",technology,consumer-electronics
+ZEPP,Zepp Health Corporation,technology,consumer-electronics
+UEIC,Universal Electronics Inc.,technology,consumer-electronics
+AXIL,"AXIL Brands, Inc.",technology,consumer-electronics
+KOSS,Koss Corporation,technology,consumer-electronics
+FOXX,Foxx Development Holdings Inc.,technology,consumer-electronics
+RIME,"Algorhythm Holdings, Inc.",technology,consumer-electronics
+FEBO,Fenbo Holdings Limited,technology,consumer-electronics
+MSN,Emerson Radio Corp.,technology,consumer-electronics
+WLDS,Wearable Devices Ltd.,technology,consumer-electronics
+WTO,UTime Limited,technology,consumer-electronics
+BOXL,Boxlight Corporation,technology,consumer-electronics
+GMEX,GMEX Robotics Corporation,technology,consumer-electronics
+SNX,TD SYNNEX Corporation,technology,electronics-and-computer-distribution
+ARW,"Arrow Electronics, Inc.",technology,electronics-and-computer-distribution
+AVT,"Avnet, Inc.",technology,electronics-and-computer-distribution
+NSIT,"Insight Enterprises, Inc.",technology,electronics-and-computer-distribution
+CNXN,"PC Connection, Inc.",technology,electronics-and-computer-distribution
+SCSC,"ScanSource, Inc.",technology,electronics-and-computer-distribution
+CLMB,"Climb Global Solutions, Inc.",technology,electronics-and-computer-distribution
+IZM,ICZOOM Group Inc.,technology,electronics-and-computer-distribution

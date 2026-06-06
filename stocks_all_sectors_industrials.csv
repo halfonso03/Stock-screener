@@ -1,0 +1,699 @@
+ticker,company_name,sector_name,sub_sector_name
+GE,GE Aerospace,industrials,aerospace-and-defense
+RTX,RTX Corporation,industrials,aerospace-and-defense
+BA,The Boeing Company,industrials,aerospace-and-defense
+LMT,Lockheed Martin Corporation,industrials,aerospace-and-defense
+HWM,Howmet Aerospace Inc.,industrials,aerospace-and-defense
+GD,General Dynamics Corporation,industrials,aerospace-and-defense
+NOC,Northrop Grumman Corporation,industrials,aerospace-and-defense
+TDG,TransDigm Group Incorporated,industrials,aerospace-and-defense
+RKLB,Rocket Lab Corporation,industrials,aerospace-and-defense
+LHX,"L3Harris Technologies, Inc.",industrials,aerospace-and-defense
+HEI,HEICO Corporation,industrials,aerospace-and-defense
+AXON,"Axon Enterprise, Inc.",industrials,aerospace-and-defense
+HEI.A,HEICO Corporation,industrials,aerospace-and-defense
+ESLT,Elbit Systems Ltd.,industrials,aerospace-and-defense
+CW,Curtiss-Wright Corporation,industrials,aerospace-and-defense
+FTAI,FTAI Aviation Ltd.,industrials,aerospace-and-defense
+WWD,"Woodward, Inc.",industrials,aerospace-and-defense
+BWXT,"BWX Technologies, Inc.",industrials,aerospace-and-defense
+TXT,Textron Inc.,industrials,aerospace-and-defense
+DRS,"Leonardo DRS, Inc.",industrials,aerospace-and-defense
+MOG.A,Moog Inc.,industrials,aerospace-and-defense
+HII,"Huntington Ingalls Industries, Inc.",industrials,aerospace-and-defense
+MOG.B,Moog Inc.,industrials,aerospace-and-defense
+PL,Planet Labs PBC,industrials,aerospace-and-defense
+KTOS,"Kratos Defense & Security Solutions, Inc.",industrials,aerospace-and-defense
+EMBJ,Embraer S.A.,industrials,aerospace-and-defense
+AVAV,"AeroVironment, Inc.",industrials,aerospace-and-defense
+SARO,"StandardAero, Inc.",industrials,aerospace-and-defense
+CAE,CAE Inc.,industrials,aerospace-and-defense
+HXL,Hexcel Corporation,industrials,aerospace-and-defense
+MRCY,"Mercury Systems, Inc.",industrials,aerospace-and-defense
+KRMN,Karman Holdings Inc.,industrials,aerospace-and-defense
+LUNR,"Intuitive Machines, Inc.",industrials,aerospace-and-defense
+LOAR,Loar Holdings Inc.,industrials,aerospace-and-defense
+FLY,Firefly Aerospace Inc.,industrials,aerospace-and-defense
+MDA,MDA Space Ltd.,industrials,aerospace-and-defense
+VSEC,VSE Corporation,industrials,aerospace-and-defense
+AIR,AAR Corp.,industrials,aerospace-and-defense
+ACHR,Archer Aviation Inc.,industrials,aerospace-and-defense
+BETA,"BETA Technologies, Inc.",industrials,aerospace-and-defense
+YSS,"York Space Systems, Inc.",industrials,aerospace-and-defense
+RDW,Redwire Corporation,industrials,aerospace-and-defense
+ATRO,Astronics Corporation,industrials,aerospace-and-defense
+AADX,"Applied Aerospace & Defense, Inc.",industrials,aerospace-and-defense
+VVX,"V2X, Inc.",industrials,aerospace-and-defense
+AVEX,AEVEX Corp.,industrials,aerospace-and-defense
+VOYG,"Voyager Technologies, Inc.",industrials,aerospace-and-defense
+HAWK,"HawkEye 360, Inc.",industrials,aerospace-and-defense
+DCO,Ducommun Incorporated,industrials,aerospace-and-defense
+RCAT,"Red Cat Holdings, Inc.",industrials,aerospace-and-defense
+CDRE,"Cadre Holdings, Inc.",industrials,aerospace-and-defense
+SATL,Satellogic Inc.,industrials,aerospace-and-defense
+EVEX,"Eve Holding, Inc.",industrials,aerospace-and-defense
+NPK,"National Presto Industries, Inc.",industrials,aerospace-and-defense
+MRLN,"Merlin, Inc.",industrials,aerospace-and-defense
+PKE,Park Aerospace Corp.,industrials,aerospace-and-defense
+SWMR,"Swarmer, Inc",industrials,aerospace-and-defense
+SWBI,"Smith & Wesson Brands, Inc.",industrials,aerospace-and-defense
+RGR,"Sturm, Ruger & Company, Inc.",industrials,aerospace-and-defense
+EH,EHang Holdings Limited,industrials,aerospace-and-defense
+TATT,TAT Technologies Ltd.,industrials,aerospace-and-defense
+ELMT,The Elmet Group Co.,industrials,aerospace-and-defense
+SPCE,"Virgin Galactic Holdings, Inc.",industrials,aerospace-and-defense
+FJET,"Starfighters Space, Inc.",industrials,aerospace-and-defense
+SIDU,"Sidus Space, Inc.",industrials,aerospace-and-defense
+ISSC,"Innovative Aerosystems, Inc.",industrials,aerospace-and-defense
+EVTL,Vertical Aerospace Ltd.,industrials,aerospace-and-defense
+AIRO,"AIRO Group Holdings, Inc.",industrials,aerospace-and-defense
+POWW,Outdoor Holding Company,industrials,aerospace-and-defense
+HOVR,New Horizon Aircraft Ltd.,industrials,aerospace-and-defense
+BYRN,Byrna Technologies Inc.,industrials,aerospace-and-defense
+CODA,"Coda Octopus Group, Inc.",industrials,aerospace-and-defense
+VWAV,"VisionWave Holdings, Inc.",industrials,aerospace-and-defense
+SIF,"SIFCO Industries, Inc.",industrials,aerospace-and-defense
+SPAI,Safe Pro Group Inc.,industrials,aerospace-and-defense
+MNTS,Momentus Inc.,industrials,aerospace-and-defense
+OPXS,"Optex Systems Holdings, Inc",industrials,aerospace-and-defense
+PEW,GrabAGun Digital Holdings Inc.,industrials,aerospace-and-defense
+MOB,Mobilicom Limited,industrials,aerospace-and-defense
+GPUS,"Hyperscale Data, Inc.",industrials,aerospace-and-defense
+XTIA,"XTI Aerospace, Inc.",industrials,aerospace-and-defense
+CVU,"CPI Aerostructures, Inc.",industrials,aerospace-and-defense
+PRZO,ParaZero Technologies Ltd.,industrials,aerospace-and-defense
+AIRI,Air Industries Group,industrials,aerospace-and-defense
+DFNS,T3 Defense Inc.,industrials,aerospace-and-defense
+DUKR,DUKE Robotics Corp.,industrials,aerospace-and-defense
+KITT,"Nauticus Robotics, Inc.",industrials,aerospace-and-defense
+DFSC,DEFSEC Technologies Inc.,industrials,aerospace-and-defense
+GEV,GE Vernova Inc.,industrials,specialty-industrial-machinery
+ETN,Eaton Corporation plc,industrials,specialty-industrial-machinery
+PH,Parker-Hannifin Corporation,industrials,specialty-industrial-machinery
+CMI,Cummins Inc.,industrials,specialty-industrial-machinery
+EMR,Emerson Electric Co.,industrials,specialty-industrial-machinery
+ITW,Illinois Tool Works Inc.,industrials,specialty-industrial-machinery
+AME,"AMETEK, Inc.",industrials,specialty-industrial-machinery
+ROK,"Rockwell Automation, Inc.",industrials,specialty-industrial-machinery
+DOV,Dover Corporation,industrials,specialty-industrial-machinery
+IR,Ingersoll Rand Inc.,industrials,specialty-industrial-machinery
+OTIS,Otis Worldwide Corporation,industrials,specialty-industrial-machinery
+SYM,Symbotic Inc.,industrials,specialty-industrial-machinery
+XYL,Xylem Inc.,industrials,specialty-industrial-machinery
+ITT,ITT Inc.,industrials,specialty-industrial-machinery
+IEX,IDEX Corporation,industrials,specialty-industrial-machinery
+NDSN,Nordson Corporation,industrials,specialty-industrial-machinery
+GNRC,Generac Holdings Inc.,industrials,specialty-industrial-machinery
+RRX,Regal Rexnord Corporation,industrials,specialty-industrial-machinery
+GGG,Graco Inc.,industrials,specialty-industrial-machinery
+PNR,Pentair plc,industrials,specialty-industrial-machinery
+CR,Crane Company,industrials,specialty-industrial-machinery
+WTS,"Watts Water Technologies, Inc.",industrials,specialty-industrial-machinery
+GTLS,"Chart Industries, Inc.",industrials,specialty-industrial-machinery
+DCI,"Donaldson Company, Inc.",industrials,specialty-industrial-machinery
+FLS,Flowserve Corporation,industrials,specialty-industrial-machinery
+AOS,A. O. Smith Corporation,industrials,specialty-industrial-machinery
+MIDD,The Middleby Corporation,industrials,specialty-industrial-machinery
+NPO,Enpro Inc.,industrials,specialty-industrial-machinery
+GTES,Gates Industrial Corporation plc,industrials,specialty-industrial-machinery
+JBTM,JBT Marel Corporation,industrials,specialty-industrial-machinery
+FELE,"Franklin Electric Co., Inc.",industrials,specialty-industrial-machinery
+CSW,"CSW Industrials, Inc.",industrials,specialty-industrial-machinery
+MIR,"Mirion Technologies, Inc.",industrials,specialty-industrial-machinery
+MWA,"Mueller Water Products, Inc.",industrials,specialty-industrial-machinery
+SMR,NuScale Power Corporation,industrials,specialty-industrial-machinery
+SXI,Standex International Corporation,industrials,specialty-industrial-machinery
+KAI,Kadant Inc.,industrials,specialty-industrial-machinery
+HLIO,"Helios Technologies, Inc.",industrials,specialty-industrial-machinery
+ATS,ATS Corporation,industrials,specialty-industrial-machinery
+BW,"Babcock & Wilcox Enterprises, Inc.",industrials,specialty-industrial-machinery
+CXT,"Crane NXT, Co.",industrials,specialty-industrial-machinery
+GRC,The Gorman-Rupp Company,industrials,specialty-industrial-machinery
+AMSC,American Superconductor Corporation,industrials,specialty-industrial-machinery
+EPAC,Enerpac Tool Group Corp.,industrials,specialty-industrial-machinery
+TNC,Tennant Company,industrials,specialty-industrial-machinery
+GHM,Graham Corporation,industrials,specialty-industrial-machinery
+NNE,NANO Nuclear Energy Inc.,industrials,specialty-industrial-machinery
+PSIX,"Power Solutions International, Inc.",industrials,specialty-industrial-machinery
+KRNT,Kornit Digital Ltd.,industrials,specialty-industrial-machinery
+SERV,Serve Robotics Inc.,industrials,specialty-industrial-machinery
+RR,Richtech Robotics Inc.,industrials,specialty-industrial-machinery
+LXFR,Luxfer Holdings PLC,industrials,specialty-industrial-machinery
+PKOH,Park-Ohio Holdings Corp.,industrials,specialty-industrial-machinery
+NPWR,NET Power Inc.,industrials,specialty-industrial-machinery
+HDRN,"Hadron Energy, Inc.",industrials,specialty-industrial-machinery
+OFLX,"Omega Flex, Inc.",industrials,specialty-industrial-machinery
+TWIN,"Twin Disc, Incorporated",industrials,specialty-industrial-machinery
+SHMD,SCHMID Group N.V.,industrials,specialty-industrial-machinery
+HUHU,HUHUTECH International Group Inc.,industrials,specialty-industrial-machinery
+TAYD,"Taylor Devices, Inc.",industrials,specialty-industrial-machinery
+ZJK,"ZJK Industrial Co., Ltd.",industrials,specialty-industrial-machinery
+HURC,"Hurco Companies, Inc.",industrials,specialty-industrial-machinery
+LASE,Laser Photonics Corporation,industrials,specialty-industrial-machinery
+BWEN,"Broadwind, Inc.",industrials,specialty-industrial-machinery
+OPTT,"Ocean Power Technologies, Inc.",industrials,specialty-industrial-machinery
+INLF,INLIF Limited,industrials,specialty-industrial-machinery
+XCH,XCHG Limited,industrials,specialty-industrial-machinery
+CVV,CVD Equipment Corporation,industrials,specialty-industrial-machinery
+SPPL,Simpple Ltd.,industrials,specialty-industrial-machinery
+BURU,"Nuburu, Inc.",industrials,specialty-industrial-machinery
+WFF,WF Holding Limited,industrials,specialty-industrial-machinery
+CETY,"Clean Energy Technologies, Inc.",industrials,specialty-industrial-machinery
+GCDT,Green Circle Decarbonize Technology Limited,industrials,specialty-industrial-machinery
+JCSE,JE Cleantech Holdings Limited,industrials,specialty-industrial-machinery
+LBGJ,Li Bang International Corporation Inc.,industrials,specialty-industrial-machinery
+PWR,"Quanta Services, Inc.",industrials,engineering-and-construction
+FIX,"Comfort Systems USA, Inc.",industrials,engineering-and-construction
+FER,Ferrovial N.V.,industrials,engineering-and-construction
+EME,"EMCOR Group, Inc.",industrials,engineering-and-construction
+MTZ,"MasTec, Inc.",industrials,engineering-and-construction
+STRL,"Sterling Infrastructure, Inc.",industrials,engineering-and-construction
+APG,APi Group Corporation,industrials,engineering-and-construction
+J,Jacobs Solutions Inc.,industrials,engineering-and-construction
+IESC,"IES Holdings, Inc.",industrials,engineering-and-construction
+DY,"Dycom Industries, Inc.",industrials,engineering-and-construction
+BLD,TopBuild Corp.,industrials,engineering-and-construction
+AGX,"Argan, Inc.",industrials,engineering-and-construction
+ACM,AECOM,industrials,engineering-and-construction
+LGN,Legence Corp.,industrials,engineering-and-construction
+STN,Stantec Inc.,industrials,engineering-and-construction
+ECG,"Everus Construction Group, Inc.",industrials,engineering-and-construction
+TTEK,"Tetra Tech, Inc.",industrials,engineering-and-construction
+MYRG,MYR Group Inc.,industrials,engineering-and-construction
+FLR,Fluor Corporation,industrials,engineering-and-construction
+PRIM,Primoris Services Corporation,industrials,engineering-and-construction
+ROAD,"Construction Partners, Inc.",industrials,engineering-and-construction
+GVA,Granite Construction Incorporated,industrials,engineering-and-construction
+ACA,"Arcosa, Inc.",industrials,engineering-and-construction
+KBR,"KBR, Inc.",industrials,engineering-and-construction
+TPC,Tutor Perini Corporation,industrials,engineering-and-construction
+EXPO,"Exponent, Inc.",industrials,engineering-and-construction
+CDLR,Cadeler A/S,industrials,engineering-and-construction
+AMRC,"Ameresco, Inc.",industrials,engineering-and-construction
+WLDN,"Willdan Group, Inc.",industrials,engineering-and-construction
+CDNL,Cardinal Infrastructure Group Inc.,industrials,engineering-and-construction
+BWMN,Bowman Consulting Group Ltd.,industrials,engineering-and-construction
+ORN,"Orion Group Holdings, Inc.",industrials,engineering-and-construction
+BBCP,"Concrete Pumping Holdings, Inc.",industrials,engineering-and-construction
+MTRX,Matrix Service Company,industrials,engineering-and-construction
+PHOE,Phoenix Asia Holdings Limited,industrials,engineering-and-construction
+ESOA,Energy Services of America Corporation,industrials,engineering-and-construction
+VATE,INNOVATE Corp.,industrials,engineering-and-construction
+MAGH,Magnitude International Ltd,industrials,engineering-and-construction
+SHIM,Shimmick Corporation,industrials,engineering-and-construction
+BLNK,Blink Charging Co.,industrials,engineering-and-construction
+SLND,"Southland Holdings, Inc.",industrials,engineering-and-construction
+SKBL,Skyline Builders Group Holding Limited,industrials,engineering-and-construction
+RITR,Reitar Logtech Holdings Limited,industrials,engineering-and-construction
+ZDAI,"DirectBooking Technology Co., Ltd.",industrials,engineering-and-construction
+MSW,Ming Shing Group Holdings Limited,industrials,engineering-and-construction
+ONEG,OneConstruction Group Limited,industrials,engineering-and-construction
+OFAL,OFA Group,industrials,engineering-and-construction
+SKK,SKK Holdings Limited,industrials,engineering-and-construction
+FGL,Founder Group Limited,industrials,engineering-and-construction
+FBGL,FBS Global Limited,industrials,engineering-and-construction
+MIMI,Mint Incorporation Limited,industrials,engineering-and-construction
+MSGY,Masonglory Limited,industrials,engineering-and-construction
+MGN,Megan Holdings Limited,industrials,engineering-and-construction
+VRT,Vertiv Holdings Co,industrials,electrical-equipment-and-parts
+BE,Bloom Energy Corporation,industrials,electrical-equipment-and-parts
+NVT,nVent Electric plc,industrials,electrical-equipment-and-parts
+HUBB,Hubbell Incorporated,industrials,electrical-equipment-and-parts
+FPS,"Forgent Power Solutions, Inc.",industrials,electrical-equipment-and-parts
+ARXS,"Arxis, Inc.",industrials,electrical-equipment-and-parts
+AEIS,"Advanced Energy Industries, Inc.",industrials,electrical-equipment-and-parts
+POWL,"Powell Industries, Inc.",industrials,electrical-equipment-and-parts
+AYI,Acuity Inc.,industrials,electrical-equipment-and-parts
+XE,"X-Energy, Inc.",industrials,electrical-equipment-and-parts
+ENS,EnerSys,industrials,electrical-equipment-and-parts
+PLUG,Plug Power Inc.,industrials,electrical-equipment-and-parts
+HAYW,"Hayward Holdings, Inc.",industrials,electrical-equipment-and-parts
+AMPX,"Amprius Technologies, Inc.",industrials,electrical-equipment-and-parts
+ATKR,Atkore Inc.,industrials,electrical-equipment-and-parts
+TE,T1 Energy Inc.,industrials,electrical-equipment-and-parts
+EOSE,"Eos Energy Enterprises, Inc.",industrials,electrical-equipment-and-parts
+PLPC,Preformed Line Products Company,industrials,electrical-equipment-and-parts
+ENVX,Enovix Corporation,industrials,electrical-equipment-and-parts
+BLDP,Ballard Power Systems Inc.,industrials,electrical-equipment-and-parts
+ENR,"Energizer Holdings, Inc.",industrials,electrical-equipment-and-parts
+FCEL,"FuelCell Energy, Inc.",industrials,electrical-equipment-and-parts
+ADSE,ADS-TEC Energy PLC,industrials,electrical-equipment-and-parts
+KE,"Kimball Electronics, Inc.",industrials,electrical-equipment-and-parts
+ELVA,Electrovaya Inc.,industrials,electrical-equipment-and-parts
+LTBR,Lightbridge Corporation,industrials,electrical-equipment-and-parts
+STI,"Solidion Technology, Inc.",industrials,electrical-equipment-and-parts
+EAF,GrafTech International Ltd.,industrials,electrical-equipment-and-parts
+RFIL,"RF Industries, Ltd.",industrials,electrical-equipment-and-parts
+TGEN,Tecogen Inc.,industrials,electrical-equipment-and-parts
+ESP,Espey Mfg. & Electronics Corp.,industrials,electrical-equipment-and-parts
+NVX,NOVONIX Limited,industrials,electrical-equipment-and-parts
+SKYX,SKYX Platforms Corp.,industrials,electrical-equipment-and-parts
+ULBI,Ultralife Corporation,industrials,electrical-equipment-and-parts
+NEOV,NeoVolta Inc.,industrials,electrical-equipment-and-parts
+CBAT,"CBAK Energy Technology, Inc.",industrials,electrical-equipment-and-parts
+APWC,Asia Pacific Wire & Cable Corporation Limited,industrials,electrical-equipment-and-parts
+PPSI,"Pioneer Power Solutions, Inc.",industrials,electrical-equipment-and-parts
+OESX,"Orion Energy Systems, Inc.",industrials,electrical-equipment-and-parts
+GWH,"ESS Tech, Inc.",industrials,electrical-equipment-and-parts
+EPOW,E-Power Inc.,industrials,electrical-equipment-and-parts
+DFLI,Dragonfly Energy Holdings Corp.,industrials,electrical-equipment-and-parts
+SDST,Stardust Power Inc.,industrials,electrical-equipment-and-parts
+FLUX,"Flux Power Holdings, Inc.",industrials,electrical-equipment-and-parts
+POLA,"Polar Power, Inc.",industrials,electrical-equipment-and-parts
+XPON,Expion360 Inc.,industrials,electrical-equipment-and-parts
+RAYA,Erayak Power Solution Group Inc.,industrials,electrical-equipment-and-parts
+CCTG,CCSC Technology International Holdings Limited,industrials,electrical-equipment-and-parts
+ELPW,Elong Power Holding Limited,industrials,electrical-equipment-and-parts
+LNKS,Linkers Industries Limited,industrials,electrical-equipment-and-parts
+CTAS,Cintas Corporation,industrials,specialty-business-services
+RELX,RELX PLC,industrials,specialty-business-services
+TRI,Thomson Reuters Corporation,industrials,specialty-business-services
+CPRT,"Copart, Inc.",industrials,specialty-business-services
+ULS,UL Solutions Inc.,industrials,specialty-business-services
+RBA,"RB Global, Inc.",industrials,specialty-business-services
+GPN,Global Payments Inc.,industrials,specialty-business-services
+RTO,Rentokil Initial plc,industrials,specialty-business-services
+ARMK,Aramark,industrials,specialty-business-services
+AMTM,"Amentum Holdings, Inc.",industrials,specialty-business-services
+DLB,"Dolby Laboratories, Inc.",industrials,specialty-business-services
+UNF,UniFirst Corporation,industrials,specialty-business-services
+AZZ,AZZ Inc.,industrials,specialty-business-services
+MMS,"Maximus, Inc.",industrials,specialty-business-services
+FA,First Advantage Corporation,industrials,specialty-business-services
+ABM,ABM Industries Incorporated,industrials,specialty-business-services
+CMPR,Cimpress plc,industrials,specialty-business-services
+TIC,"TIC Solutions, Inc.",industrials,specialty-business-services
+CBZ,"CBIZ, Inc.",industrials,specialty-business-services
+TH,Target Hospitality Corp.,industrials,specialty-business-services
+BKSY,BlackSky Technology Inc.,industrials,specialty-business-services
+BV,"BrightView Holdings, Inc.",industrials,specialty-business-services
+LZ,"LegalZoom.com, Inc.",industrials,specialty-business-services
+RHLD,"Resolute Holdings Management, Inc.",industrials,specialty-business-services
+KODK,Eastman Kodak Company,industrials,specialty-business-services
+TRNS,"Transcat, Inc.",industrials,specialty-business-services
+SPIR,"Spire Global, Inc.",industrials,specialty-business-services
+CASS,"Cass Information Systems, Inc.",industrials,specialty-business-services
+QUAD,"Quad/Graphics, Inc.",industrials,specialty-business-services
+BUUU,BUUU Group Limited,industrials,specialty-business-services
+TISI,"Team, Inc.",industrials,specialty-business-services
+DLHC,DLH Holdings Corp.,industrials,specialty-business-services
+WFCF,"Where Food Comes From, Inc.",industrials,specialty-business-services
+NTIP,"Network-1 Technologies, Inc.",industrials,specialty-business-services
+PC,Premium Catering (Holdings) Limited,industrials,specialty-business-services
+SST,"System1, Inc.",industrials,specialty-business-services
+LICN,Lichen International Limited,industrials,specialty-business-services
+PMEC,Primech Holdings Ltd.,industrials,specialty-business-services
+YSXT,"YSX Tech. Co., Ltd",industrials,specialty-business-services
+SGRP,"SPAR Group, Inc.",industrials,specialty-business-services
+THH,TryHard Holdings Limited,industrials,specialty-business-services
+SFHG,Samfine Creation Holdings Group Limited,industrials,specialty-business-services
+CRE,Cre8 Enterprise Limited,industrials,specialty-business-services
+SMX,SMX (Security Matters) Public Limited Company,industrials,specialty-business-services
+KEX,Kirby Corporation,industrials,marine-shipping
+MATX,"Matson, Inc.",industrials,marine-shipping
+HAFN,Hafnia Limited,industrials,marine-shipping
+SBLK,Star Bulk Carriers Corp.,industrials,marine-shipping
+ZIM,ZIM Integrated Shipping Services Ltd.,industrials,marine-shipping
+DAC,Danaos Corporation,industrials,marine-shipping
+NMM,Navios Maritime Partners L.P.,industrials,marine-shipping
+CMRE,Costamare Inc.,industrials,marine-shipping
+ECO,Okeanis Eco Tankers Corp.,industrials,marine-shipping
+SFL,SFL Corporation Ltd.,industrials,marine-shipping
+GSL,"Global Ship Lease, Inc.",industrials,marine-shipping
+CCEC,Capital Clean Energy Carriers Corp.,industrials,marine-shipping
+GNK,Genco Shipping & Trading Limited,industrials,marine-shipping
+HSHP,Himalaya Shipping Ltd.,industrials,marine-shipping
+ASC,Ardmore Shipping Corporation,industrials,marine-shipping
+SB,"Safe Bulkers, Inc.",industrials,marine-shipping
+PANL,Pangaea Logistics Solutions Ltd.,industrials,marine-shipping
+ESEA,Euroseas Ltd.,industrials,marine-shipping
+CMDB,Costamare Bulkers Holdings Limited,industrials,marine-shipping
+GASS,StealthGas Inc.,industrials,marine-shipping
+SHIP,Seanergy Maritime Holdings Corp.,industrials,marine-shipping
+DSX,Diana Shipping Inc.,industrials,marine-shipping
+SMHI,SEACOR Marine Holdings Inc.,industrials,marine-shipping
+HMR,Heidmar Maritime Holdings Corp.,industrials,marine-shipping
+EDRY,EuroDry Ltd.,industrials,marine-shipping
+GLBS,Globus Maritime Limited,industrials,marine-shipping
+EHLD,Euroholdings Ltd.,industrials,marine-shipping
+HTCO,High-Trend International Group,industrials,marine-shipping
+USEA,United Maritime Corporation,industrials,marine-shipping
+VNTG,Vantage Corp,industrials,marine-shipping
+PSHG,Performance Shipping Inc.,industrials,marine-shipping
+UFG,Uni-Fuels Holdings Limited,industrials,marine-shipping
+CTRM,Castor Maritime Inc.,industrials,marine-shipping
+SVRN,OceanPal Inc.,industrials,marine-shipping
+NCT,Intercont (Cayman) Limited,industrials,marine-shipping
+ICON,Icon Energy Corp.,industrials,marine-shipping
+CISS,C3is Inc.,industrials,marine-shipping
+RUBI,Rubico Inc.,industrials,marine-shipping
+TT,Trane Technologies plc,industrials,building-products-and-equipment
+JCI,Johnson Controls International plc,industrials,building-products-and-equipment
+CARR,Carrier Global Corporation,industrials,building-products-and-equipment
+MAIR,Madison Air Solutions Corporation,industrials,building-products-and-equipment
+LII,Lennox International Inc.,industrials,building-products-and-equipment
+CSL,Carlisle Companies Incorporated,industrials,building-products-and-equipment
+MAS,Masco Corporation,industrials,building-products-and-equipment
+SPXC,"SPX Technologies, Inc.",industrials,building-products-and-equipment
+AAON,"AAON, Inc.",industrials,building-products-and-equipment
+WMS,"Advanced Drainage Systems, Inc.",industrials,building-products-and-equipment
+OC,Owens Corning,industrials,building-products-and-equipment
+BLDR,"Builders FirstSource, Inc.",industrials,building-products-and-equipment
+AWI,"Armstrong World Industries, Inc.",industrials,building-products-and-equipment
+LPX,Louisiana-Pacific Corporation,industrials,building-products-and-equipment
+FBIN,"Fortune Brands Innovations, Inc.",industrials,building-products-and-equipment
+TREX,"Trex Company, Inc.",industrials,building-products-and-equipment
+GFF,Griffon Corporation,industrials,building-products-and-equipment
+ARLO,"Arlo Technologies, Inc.",industrials,building-products-and-equipment
+NPKI,NPK International Inc.,industrials,building-products-and-equipment
+ROCK,"Gibraltar Industries, Inc.",industrials,building-products-and-equipment
+JLHL,Julong Holding Limited,industrials,building-products-and-equipment
+LMB,"Limbach Holdings, Inc.",industrials,building-products-and-equipment
+APOG,"Apogee Enterprises, Inc.",industrials,building-products-and-equipment
+NX,Quanex Building Products Corporation,industrials,building-products-and-equipment
+JBI,"Janus International Group, Inc.",industrials,building-products-and-equipment
+SWIM,"Latham Group, Inc.",industrials,building-products-and-equipment
+ASPN,"Aspen Aerogels, Inc.",industrials,building-products-and-equipment
+AIRJ,AirJoule Technologies Corporation,industrials,building-products-and-equipment
+PPIH,"Perma-Pipe International Holdings, Inc.",industrials,building-products-and-equipment
+JELD,"JELD-WEN Holding, Inc.",industrials,building-products-and-equipment
+INVE,"Identiv, Inc.",industrials,building-products-and-equipment
+CSTE,Caesarstone Ltd.,industrials,building-products-and-equipment
+APT,"Alpha Pro Tech, Ltd.",industrials,building-products-and-equipment
+UUU,"Universal Safety Products, Inc",industrials,building-products-and-equipment
+AEHL,Antelope Enterprise Holdings Limited,industrials,building-products-and-equipment
+ILAG,Intelligent Living Application Group Inc.,industrials,building-products-and-equipment
+UPS,"United Parcel Service, Inc.",industrials,integrated-freight-and-logistics
+FDX,FedEx Corporation,industrials,integrated-freight-and-logistics
+JBHT,"J.B. Hunt Transport Services, Inc.",industrials,integrated-freight-and-logistics
+CHRW,"C.H. Robinson Worldwide, Inc.",industrials,integrated-freight-and-logistics
+EXPD,"Expeditors International of Washington, Inc.",industrials,integrated-freight-and-logistics
+FDXF,"FedEx Freight Holding Company, Inc.",industrials,integrated-freight-and-logistics
+ZTO,ZTO Express (Cayman) Inc.,industrials,integrated-freight-and-logistics
+LSTR,"Landstar System, Inc.",industrials,integrated-freight-and-logistics
+GXO,"GXO Logistics, Inc.",industrials,integrated-freight-and-logistics
+HUBG,"Hub Group, Inc.",industrials,integrated-freight-and-logistics
+PBI,Pitney Bowes Inc.,industrials,integrated-freight-and-logistics
+CYRX,"Cryoport, Inc.",industrials,integrated-freight-and-logistics
+RLGT,"Radiant Logistics, Inc.",industrials,integrated-freight-and-logistics
+FWRD,Forward Air Corporation,industrials,integrated-freight-and-logistics
+PAL,"Proficient Auto Logistics, Inc.",industrials,integrated-freight-and-logistics
+FLX,BingEx Limited,industrials,integrated-freight-and-logistics
+PSIG,PS International Group Ltd.,industrials,integrated-freight-and-logistics
+CRGO,Freightos Limited,industrials,integrated-freight-and-logistics
+SFWL,Shengfeng Development Limited,industrials,integrated-freight-and-logistics
+NCEW,New Century Logistics (BVI) Limited,industrials,integrated-freight-and-logistics
+SLGB,Smart Logistics Global Limited,industrials,integrated-freight-and-logistics
+LSH,Lakeside Holding Limited,industrials,integrated-freight-and-logistics
+BTOC,Armlogi Holding Corp.,industrials,integrated-freight-and-logistics
+ELOG,Eastern International Ltd.,industrials,integrated-freight-and-logistics
+GVH,Globavend Holdings Limited,industrials,integrated-freight-and-logistics
+HXHX,Haoxin Holdings Limited,industrials,integrated-freight-and-logistics
+JYD,Jayud Global Logistics Limited,industrials,integrated-freight-and-logistics
+CTNT,Cheetah Net Supply Chain Service Inc.,industrials,integrated-freight-and-logistics
+CIIT,"Tianci International, Inc.",industrials,integrated-freight-and-logistics
+CJMB,Callan JMB Inc.,industrials,integrated-freight-and-logistics
+ATXG,Addentax Group Corp.,industrials,integrated-freight-and-logistics
+SGLY,Singularity Future Technology Ltd.,industrials,integrated-freight-and-logistics
+CAT,Caterpillar Inc.,industrials,farm-and-heavy-construction-machinery
+DE,Deere & Company,industrials,farm-and-heavy-construction-machinery
+PCAR,PACCAR Inc,industrials,farm-and-heavy-construction-machinery
+CNH,CNH Industrial N.V.,industrials,farm-and-heavy-construction-machinery
+AGCO,AGCO Corporation,industrials,farm-and-heavy-construction-machinery
+OSK,Oshkosh Corporation,industrials,farm-and-heavy-construction-machinery
+TEX,Terex Corporation,industrials,farm-and-heavy-construction-machinery
+FSS,Federal Signal Corporation,industrials,farm-and-heavy-construction-machinery
+BLBD,Blue Bird Corporation,industrials,farm-and-heavy-construction-machinery
+ALG,Alamo Group Inc.,industrials,farm-and-heavy-construction-machinery
+LNN,Lindsay Corporation,industrials,farm-and-heavy-construction-machinery
+ASTE,"Astec Industries, Inc.",industrials,farm-and-heavy-construction-machinery
+AEBI,Aebi Schmidt Holding AG,industrials,farm-and-heavy-construction-machinery
+HY,"Hyster-Yale, Inc.",industrials,farm-and-heavy-construction-machinery
+TWI,"Titan International, Inc.",industrials,farm-and-heavy-construction-machinery
+MTW,"The Manitowoc Company, Inc.",industrials,farm-and-heavy-construction-machinery
+CMCO,Columbus McKinnon Corporation,industrials,farm-and-heavy-construction-machinery
+WNC,Wabash National Corporation,industrials,farm-and-heavy-construction-machinery
+GENC,"Gencor Industries, Inc.",industrials,farm-and-heavy-construction-machinery
+BNC,CEA Industries Inc.,industrials,farm-and-heavy-construction-machinery
+SCAG,Scage Future,industrials,farm-and-heavy-construction-machinery
+XOS,"Xos, Inc.",industrials,farm-and-heavy-construction-machinery
+ARTW,"Art's-Way Manufacturing Co., Inc.",industrials,farm-and-heavy-construction-machinery
+HCAI,"Huachen AI Parking Management Technology Holding Co., Ltd",industrials,farm-and-heavy-construction-machinery
+GP,GreenPower Motor Company Inc.,industrials,farm-and-heavy-construction-machinery
+HYFM,"Hydrofarm Holdings Group, Inc.",industrials,farm-and-heavy-construction-machinery
+UGRO,"urban-gro, Inc.",industrials,farm-and-heavy-construction-machinery
+HON,Honeywell International Inc.,industrials,conglomerates
+MMM,3M Company,industrials,conglomerates
+VMI,"Valmont Industries, Inc.",industrials,conglomerates
+BBUC,Brookfield Business Corporation,industrials,conglomerates
+SEB,Seaboard Corporation,industrials,conglomerates
+PAM,Pampa EnergÃ­a S.A.,industrials,conglomerates
+OTTR,Otter Tail Corporation,industrials,conglomerates
+FBYD,"Falcon's Beyond Global, Inc.",industrials,conglomerates
+TTI,"TETRA Technologies, Inc.",industrials,conglomerates
+DLX,Deluxe Corporation,industrials,conglomerates
+CRESY,"Cresud Sociedad AnÃ³nima, Comercial, Inmobiliaria, Financiera y Agropecuaria",industrials,conglomerates
+CODI,Compass Diversified,industrials,conglomerates
+MATW,Matthews International Corporation,industrials,conglomerates
+TRC,Tejon Ranch Co.,industrials,conglomerates
+FIP,FTAI Infrastructure Inc.,industrials,conglomerates
+BOC,Boston Omaha Corporation,industrials,conglomerates
+MAMK,MaxsMaking Inc.,industrials,conglomerates
+RCMT,"RCM Technologies, Inc.",industrials,conglomerates
+TUSK,"Mammoth Energy Services, Inc.",industrials,conglomerates
+NNBR,"NN, Inc.",industrials,conglomerates
+BOOM,DMC Global Inc.,industrials,conglomerates
+AIRT,"Air T, Inc.",industrials,conglomerates
+STRR,"Star Equity Holdings, Inc.",industrials,conglomerates
+PLAG,Planet Green Holdings Corp.,industrials,conglomerates
+HHS,"Harte Hanks, Inc.",industrials,conglomerates
+LGPS,LogProstyle Inc.,industrials,conglomerates
+VRSK,"Verisk Analytics, Inc.",industrials,consulting-services
+EFX,Equifax Inc.,industrials,consulting-services
+BAH,Booz Allen Hamilton Holding Corporation,industrials,consulting-services
+FCN,"FTI Consulting, Inc.",industrials,consulting-services
+HURN,Huron Consulting Group Inc.,industrials,consulting-services
+ICFI,"ICF International, Inc.",industrials,consulting-services
+CRAI,"CRA International, Inc.",industrials,consulting-services
+ROMA,Roma Green Finance Limited,industrials,consulting-services
+SBC,SBC Medical Group Holdings Incorporated,industrials,consulting-services
+EFTY,"Etoiles Capital Group Co., Ltd",industrials,consulting-services
+LAWR,"Robot Consulting Co., Ltd.",industrials,consulting-services
+EGG,Enigmatig Limited,industrials,consulting-services
+RGP,"Resources Connection, Inc.",industrials,consulting-services
+FORR,"Forrester Research, Inc.",industrials,consulting-services
+AERT,"Aeries Technology, Inc",industrials,consulting-services
+RYOJ,"rYojbaba Co., Ltd.",industrials,consulting-services
+FOFO,"Hang Feng Technology Innovation Co., Ltd.",industrials,consulting-services
+DGNX,Diginex Limited,industrials,consulting-services
+ZTG,Zenta Group Company Limited,industrials,consulting-services
+GRNQ,Greenpro Capital Corp.,industrials,consulting-services
+ACCL,Acco Group Holdings Limited,industrials,consulting-services
+VCIG,VCI Global Limited,industrials,consulting-services
+INTJ,Intelligent Group Limited,industrials,consulting-services
+GWW,"W.W. Grainger, Inc.",industrials,industrial-distribution
+FAST,Fastenal Company,industrials,industrial-distribution
+FERG,Ferguson Enterprises Inc.,industrials,industrial-distribution
+WCC,"WESCO International, Inc.",industrials,industrial-distribution
+WSO,"Watsco, Inc.",industrials,industrial-distribution
+AIT,"Applied Industrial Technologies, Inc.",industrials,industrial-distribution
+QXO,"QXO, Inc.",industrials,industrial-distribution
+CNM,"Core & Main, Inc.",industrials,industrial-distribution
+POOL,Pool Corporation,industrials,industrial-distribution
+MSM,"MSC Industrial Direct Co., Inc.",industrials,industrial-distribution
+REZI,"Resideo Technologies, Inc.",industrials,industrial-distribution
+SITE,"SiteOne Landscape Supply, Inc.",industrials,industrial-distribution
+XMTR,"Xometry, Inc.",industrials,industrial-distribution
+DXPE,"DXP Enterprises, Inc.",industrials,industrial-distribution
+DNOW,DNOW Inc.,industrials,industrial-distribution
+DSGR,"Distribution Solutions Group, Inc.",industrials,industrial-distribution
+GIC,Global Industrial Company,industrials,industrial-distribution
+TITN,Titan Machinery Inc.,industrials,industrial-distribution
+BXC,BlueLinx Holdings Inc.,industrials,industrial-distribution
+EVI,"EVI Industries, Inc.",industrials,industrial-distribution
+TLIH,Ten-League International Holdings Limited,industrials,industrial-distribution
+WXM,WF International Limited,industrials,industrial-distribution
+ALLE,Allegion plc,industrials,security-and-protection-services
+MSA,MSA Safety Incorporated,industrials,security-and-protection-services
+ADT,ADT Inc.,industrials,security-and-protection-services
+BRC,Brady Corporation,industrials,security-and-protection-services
+BCO,The Brink's Company,industrials,security-and-protection-services
+GEO,"The GEO Group, Inc.",industrials,security-and-protection-services
+CXW,"CoreCivic, Inc.",industrials,security-and-protection-services
+NSSC,"Napco Security Technologies, Inc.",industrials,security-and-protection-services
+EVLV,"Evolv Technologies Holdings, Inc.",industrials,security-and-protection-services
+MG,"Mistras Group, Inc.",industrials,security-and-protection-services
+CIX,CompX International Inc.,industrials,security-and-protection-services
+NL,"NLI Holdings, Inc.",industrials,security-and-protection-services
+YOOV,Concorde International Group Ltd.,industrials,security-and-protection-services
+BAER,"Bridger Aerospace Group Holdings, Inc.",industrials,security-and-protection-services
+SNT,Senstar Technologies Corporation,industrials,security-and-protection-services
+SPCB,SuperCom Ltd.,industrials,security-and-protection-services
+KSCP,"Knightscope, Inc.",industrials,security-and-protection-services
+DETX,"Liberty Defense Holdings, Ltd.",industrials,security-and-protection-services
+GFAI,"Guardforce AI Co., Limited",industrials,security-and-protection-services
+VRME,"VerifyMe, Inc.",industrials,security-and-protection-services
+IVDA,"Iveda Solutions, Inc.",industrials,security-and-protection-services
+SUGP,SU Group Holdings Limited,industrials,security-and-protection-services
+URI,"United Rentals, Inc.",industrials,rental-and-leasing-services
+SUNB,"Sunbelt Rentals Holdings, Inc.",industrials,rental-and-leasing-services
+AER,AerCap Holdings N.V.,industrials,rental-and-leasing-services
+UHAL,U-Haul Holding Company,industrials,rental-and-leasing-services
+R,"Ryder System, Inc.",industrials,rental-and-leasing-services
+CAR,"Avis Budget Group, Inc.",industrials,rental-and-leasing-services
+GATX,GATX Corporation,industrials,rental-and-leasing-services
+EQPT,EquipmentShare.com Inc.,industrials,rental-and-leasing-services
+WSC,WillScot Holdings Corporation,industrials,rental-and-leasing-services
+HRI,Herc Holdings Inc.,industrials,rental-and-leasing-services
+MGRC,McGrath RentCorp,industrials,rental-and-leasing-services
+CTOS,"Custom Truck One Source, Inc.",industrials,rental-and-leasing-services
+VSTS,Vestis Corporation,industrials,rental-and-leasing-services
+HTZ,"Hertz Global Holdings, Inc.",industrials,rental-and-leasing-services
+PRG,"PROG Holdings, Inc.",industrials,rental-and-leasing-services
+WLFC,Willis Lease Finance Corporation,industrials,rental-and-leasing-services
+ALTG,Alta Equipment Group Inc.,industrials,rental-and-leasing-services
+MWG,Multi Ways Holdings Limited,industrials,rental-and-leasing-services
+AIHS,Senmiao Technology Limited,industrials,rental-and-leasing-services
+WM,"Waste Management, Inc.",industrials,waste-management
+RSG,"Republic Services, Inc.",industrials,waste-management
+WCN,"Waste Connections, Inc.",industrials,waste-management
+CLH,"Clean Harbors, Inc.",industrials,waste-management
+GFL,GFL Environmental Inc.,industrials,waste-management
+CWST,"Casella Waste Systems, Inc.",industrials,waste-management
+ONT,"Onterris, Inc.",industrials,waste-management
+NVRI,Enviri Corporation,industrials,waste-management
+ABAT,American Battery Technology Company,industrials,waste-management
+PESI,"Perma-Fix Environmental Services, Inc.",industrials,waste-management
+YDDL,One and one Green Technologies. Inc,industrials,waste-management
+LNZA,"LanzaTech Global, Inc.",industrials,waste-management
+ENGS,Energys Group Limited,industrials,waste-management
+QRHC,Quest Resource Holding Corporation,industrials,waste-management
+AQMS,"Aqua Metals, Inc.",industrials,waste-management
+AWX,Avalon Holdings Corporation,industrials,waste-management
+DXST,Decent Holding Inc.,industrials,waste-management
+GWAV,"Greenwave Technology Solutions, Inc.",industrials,waste-management
+CDTG,CDT Environmental Technology Investment Holdings Limited,industrials,waste-management
+DAL,"Delta Air Lines, Inc.",industrials,airlines
+RYAAY,Ryanair Holdings plc,industrials,airlines
+UAL,"United Airlines Holdings, Inc.",industrials,airlines
+LUV,Southwest Airlines Co.,industrials,airlines
+LTM,LATAM Airlines Group S.A.,industrials,airlines
+AAL,American Airlines Group Inc.,industrials,airlines
+CPA,"Copa Holdings, S.A.",industrials,airlines
+ALK,"Alaska Air Group, Inc.",industrials,airlines
+SKYW,"SkyWest, Inc.",industrials,airlines
+AERO,"Grupo AeromÃ©xico, S.A.B. de C.V.",industrials,airlines
+ALGT,Allegiant Travel Company,industrials,airlines
+JBLU,JetBlue Airways Corporation,industrials,airlines
+AZUL,Azul S.A.,industrials,airlines
+ULCC,"Frontier Group Holdings, Inc.",industrials,airlines
+VLRS,"Controladora Vuela CompaÃ±Ã­a de AviaciÃ³n, S.A.B. de C.V.",industrials,airlines
+RJET,Republic Airways Holdings Inc.,industrials,airlines
+FLYX,"flyExclusive, Inc.",industrials,airlines
+SRFM,Surf Air Mobility Inc.,industrials,airlines
+ATI,ATI Inc.,industrials,metal-fabrication
+CRS,Carpenter Technology Corporation,industrials,metal-fabrication
+MLI,"Mueller Industries, Inc.",industrials,metal-fabrication
+CMC,Commercial Metals Company,industrials,metal-fabrication
+ESAB,ESAB Corporation,industrials,metal-fabrication
+GPGI,"GPGI, Inc.",industrials,metal-fabrication
+WOR,"Worthington Enterprises, Inc.",industrials,metal-fabrication
+PRLB,"Proto Labs, Inc.",industrials,metal-fabrication
+RYZ,Ryerson Holding Corporation,industrials,metal-fabrication
+MEC,"Mayville Engineering Company, Inc.",industrials,metal-fabrication
+IIIN,Insteel Industries Inc.,industrials,metal-fabrication
+TG,Tredegar Corporation,industrials,metal-fabrication
+AP,Ampco-Pittsburgh Corporation,industrials,metal-fabrication
+TPCS,TechPrecision Corporation,industrials,metal-fabrication
+TRSG,Tungray Technologies Inc.,industrials,metal-fabrication
+OLOX,Olenox Industries Inc.,industrials,metal-fabrication
+MTEN,Mingteng International Corporation Inc.,industrials,metal-fabrication
+HIHO,Highway Holdings Limited,industrials,metal-fabrication
+KFY,Korn Ferry,industrials,staffing-and-employment-services
+RHI,Robert Half Inc.,industrials,staffing-and-employment-services
+TNET,"TriNet Group, Inc.",industrials,staffing-and-employment-services
+MAN,ManpowerGroup Inc.,industrials,staffing-and-employment-services
+NSP,"Insperity, Inc.",industrials,staffing-and-employment-services
+BBSI,"Barrett Business Services, Inc.",industrials,staffing-and-employment-services
+KFRC,Kforce Inc.,industrials,staffing-and-employment-services
+KELYA,"Kelly Services, Inc.",industrials,staffing-and-employment-services
+KELYB,"Kelly Services, Inc.",industrials,staffing-and-employment-services
+TBI,"TrueBlue, Inc.",industrials,staffing-and-employment-services
+HQI,"HireQuest, Inc.",industrials,staffing-and-employment-services
+ATLN,Atlantic International Corp.,industrials,staffing-and-employment-services
+MHH,"Mastech Digital, Inc.",industrials,staffing-and-employment-services
+BGSF,"BGSF, Inc.",industrials,staffing-and-employment-services
+JOB,GEE Group Inc.,industrials,staffing-and-employment-services
+NIXX,"Nixxy, Inc.",industrials,staffing-and-employment-services
+IPDN,"Professional Diversity Network, Inc.",industrials,staffing-and-employment-services
+GLXG,Galaxy Payroll Group Limited,industrials,staffing-and-employment-services
+VLTO,Veralto Corporation,industrials,pollution-and-treatment-controls
+ZWS,Zurn Elkay Water Solutions Corporation,industrials,pollution-and-treatment-controls
+CECO,CECO Environmental Corp.,industrials,pollution-and-treatment-controls
+PCT,"PureCycle Technologies, Inc.",industrials,pollution-and-treatment-controls
+ADUR,Aduro Clean Technologies Inc.,industrials,pollution-and-treatment-controls
+ERII,"Energy Recovery, Inc.",industrials,pollution-and-treatment-controls
+ZONE,"CleanCore Solutions, Inc.",industrials,pollution-and-treatment-controls
+ARQ,"Arq, Inc.",industrials,pollution-and-treatment-controls
+BCHT,Birchtech Corp.,industrials,pollution-and-treatment-controls
+FTEK,"Fuel Tech, Inc.",industrials,pollution-and-treatment-controls
+SCWO,374Water Inc.,industrials,pollution-and-treatment-controls
+TOMZ,"TOMI Environmental Solutions, Inc.",industrials,pollution-and-treatment-controls
+CLIR,ClearSign Technologies Corporation,industrials,pollution-and-treatment-controls
+RAIN,"Rain Enhancement Technologies Holdco, Inc.",industrials,pollution-and-treatment-controls
+CLWT,Euro Tech Holdings Company Limited,industrials,pollution-and-treatment-controls
+LIQT,"LiqTech International, Inc.",industrials,pollution-and-treatment-controls
+DEVS,DevvStream Corp.,industrials,pollution-and-treatment-controls
+ODFL,"Old Dominion Freight Line, Inc.",industrials,trucking
+XPO,"XPO, Inc.",industrials,trucking
+TFII,TFI International Inc.,industrials,trucking
+KNX,Knight-Swift Transportation Holdings Inc.,industrials,trucking
+SAIA,"Saia, Inc.",industrials,trucking
+SNDR,"Schneider National, Inc.",industrials,trucking
+RXO,"RXO, Inc.",industrials,trucking
+ARCB,ArcBest Corporation,industrials,trucking
+WERN,"Werner Enterprises, Inc.",industrials,trucking
+MRTN,"Marten Transport, Ltd.",industrials,trucking
+HTLD,"Heartland Express, Inc.",industrials,trucking
+CVLG,"Covenant Logistics Group, Inc.",industrials,trucking
+ULH,"Universal Logistics Holdings, Inc.",industrials,trucking
+PAMT,PAMT CORP,industrials,trucking
+TOPP,Toppoint Holdings Inc.,industrials,trucking
+ETS,Elite Express Holding Inc.,industrials,trucking
+UNP,Union Pacific Corporation,industrials,railroads
+CSX,CSX Corporation,industrials,railroads
+CP,Canadian Pacific Kansas City Limited,industrials,railroads
+CNI,Canadian National Railway Company,industrials,railroads
+NSC,Norfolk Southern Corporation,industrials,railroads
+WAB,Westinghouse Air Brake Technologies Corporation,industrials,railroads
+TRN,"Trinity Industries, Inc.",industrials,railroads
+GBX,"The Greenbrier Companies, Inc.",industrials,railroads
+FSTR,L.B. Foster Company,industrials,railroads
+RAIL,"FreightCar America, Inc.",industrials,railroads
+SWVL,Swvl Holdings Corp.,industrials,railroads
+RVSN,Rail Vision Ltd.,industrials,railroads
+SNA,Snap-on Incorporated,industrials,tools-and-accessories
+RBC,RBC Bearings Incorporated,industrials,tools-and-accessories
+LECO,"Lincoln Electric Holdings, Inc.",industrials,tools-and-accessories
+SWK,"Stanley Black & Decker, Inc.",industrials,tools-and-accessories
+TKR,The Timken Company,industrials,tools-and-accessories
+TTC,The Toro Company,industrials,tools-and-accessories
+KMT,Kennametal Inc.,industrials,tools-and-accessories
+HLMN,Hillman Solutions Corp.,industrials,tools-and-accessories
+EML,The Eastern Company,industrials,tools-and-accessories
+CVR,Chicago Rivet & Machine Co.,industrials,tools-and-accessories
+PAC,"Grupo Aeroportuario del PacÃ­fico, S.A.B. de C.V.",industrials,airports-and-air-services
+JOBY,"Joby Aviation, Inc.",industrials,airports-and-air-services
+ASR,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",industrials,airports-and-air-services
+OMAB,"Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",industrials,airports-and-air-services
+CAAP,CorporaciÃ³n AmÃ©rica Airports S.A.,industrials,airports-and-air-services
+ASLE,AerSale Corporation,industrials,airports-and-air-services
+UP,Wheels Up Experience Inc.,industrials,airports-and-air-services
+SOAR,"Volato Group, Inc.",industrials,airports-and-air-services
+EBF,"Ennis, Inc.",industrials,business-equipment-and-supplies
+ACTG,Acacia Research Corporation,industrials,business-equipment-and-supplies
+XRX,Xerox Holdings Corporation,industrials,business-equipment-and-supplies
+ACCO,ACCO Brands Corporation,industrials,business-equipment-and-supplies
+EHGO,Eshallgo Inc.,industrials,business-equipment-and-supplies
+INIO,INNIO N.V.,industrials,infrastructure-operations
+BEEP,Mobile Infrastructure Corporation,industrials,infrastructure-operations

@@ -1,0 +1,2129 @@
+ticker,company_name,sector_name,sub_sector_name
+VRTX,Vertex Pharmaceuticals Incorporated,healthcare,biotechnology
+REGN,"Regeneron Pharmaceuticals, Inc.",healthcare,biotechnology
+ARGX,argenx SE,healthcare,biotechnology
+ALNY,"Alnylam Pharmaceuticals, Inc.",healthcare,biotechnology
+RPRX,Royalty Pharma plc,healthcare,biotechnology
+RVMD,"Revolution Medicines, Inc.",healthcare,biotechnology
+ONC,BeOne Medicines AG,healthcare,biotechnology
+BNTX,BioNTech SE,healthcare,biotechnology
+ROIV,Roivant Sciences Ltd.,healthcare,biotechnology
+INCY,Incyte Corporation,healthcare,biotechnology
+INSM,Insmed Incorporated,healthcare,biotechnology
+MRNA,"Moderna, Inc.",healthcare,biotechnology
+GMAB,Genmab A/S,healthcare,biotechnology
+JAZZ,Jazz Pharmaceuticals plc,healthcare,biotechnology
+EXEL,"Exelixis, Inc.",healthcare,biotechnology
+BBIO,"BridgeBio Pharma, Inc.",healthcare,biotechnology
+ASND,Ascendis Pharma A/S,healthcare,biotechnology
+IONS,"Ionis Pharmaceuticals, Inc.",healthcare,biotechnology
+AXSM,"Axsome Therapeutics, Inc.",healthcare,biotechnology
+SMMT,Summit Therapeutics Inc.,healthcare,biotechnology
+MDGL,"Madrigal Pharmaceuticals, Inc.",healthcare,biotechnology
+BMRN,BioMarin Pharmaceutical Inc.,healthcare,biotechnology
+ARWR,"Arrowhead Pharmaceuticals, Inc.",healthcare,biotechnology
+CYTK,"Cytokinetics, Incorporated",healthcare,biotechnology
+KRYS,"Krystal Biotech, Inc.",healthcare,biotechnology
+HALO,"Halozyme Therapeutics, Inc.",healthcare,biotechnology
+TECH,Bio-Techne Corporation,healthcare,biotechnology
+ABVX,ABIVAX SociÃ©tÃ© Anonyme,healthcare,biotechnology
+CORT,Corcept Therapeutics Incorporated,healthcare,biotechnology
+IBRX,"ImmunityBio, Inc.",healthcare,biotechnology
+NUVL,"Nuvalent, Inc.",healthcare,biotechnology
+PRAX,"Praxis Precision Medicines, Inc.",healthcare,biotechnology
+PCVX,"Vaxcyte, Inc.",healthcare,biotechnology
+APGE,"Apogee Therapeutics, Inc.",healthcare,biotechnology
+SYRE,"Spyre Therapeutics, Inc.",healthcare,biotechnology
+IMVT,"Immunovant, Inc.",healthcare,biotechnology
+PTGX,"Protagonist Therapeutics, Inc.",healthcare,biotechnology
+CNTA,Centessa Pharmaceuticals plc,healthcare,biotechnology
+KYMR,"Kymera Therapeutics, Inc.",healthcare,biotechnology
+LEGN,Legend Biotech Corporation,healthcare,biotechnology
+RYTM,"Rhythm Pharmaceuticals, Inc.",healthcare,biotechnology
+PTCT,"PTC Therapeutics, Inc.",healthcare,biotechnology
+MIRM,"Mirum Pharmaceuticals, Inc.",healthcare,biotechnology
+TGTX,"TG Therapeutics, Inc.",healthcare,biotechnology
+BLTE,"Belite Bio, Inc",healthcare,biotechnology
+SRRK,Scholar Rock Holding Corporation,healthcare,biotechnology
+COGT,"Cogent Biosciences, Inc.",healthcare,biotechnology
+XENE,Xenon Pharmaceuticals Inc.,healthcare,biotechnology
+CRSP,CRISPR Therapeutics AG,healthcare,biotechnology
+LGND,Ligand Pharmaceuticals Incorporated,healthcare,biotechnology
+CGON,"CG Oncology, Inc.",healthcare,biotechnology
+CAI,"Caris Life Sciences, Inc.",healthcare,biotechnology
+DNTH,"Dianthus Therapeutics, Inc.",healthcare,biotechnology
+CELC,Celcuity Inc.,healthcare,biotechnology
+TVTX,"Travere Therapeutics, Inc.",healthcare,biotechnology
+MANE,"Veradermics, Incorporated",healthcare,biotechnology
+EWTX,"Edgewise Therapeutics, Inc.",healthcare,biotechnology
+CPRX,"Catalyst Pharmaceuticals, Inc.",healthcare,biotechnology
+ERAS,"Erasca, Inc.",healthcare,biotechnology
+ACAD,ACADIA Pharmaceuticals Inc.,healthcare,biotechnology
+NAMS,NewAmsterdam Pharma Company N.V.,healthcare,biotechnology
+ORKA,"Oruka Therapeutics, Inc.",healthcare,biotechnology
+CRNX,"Crinetics Pharmaceuticals, Inc.",healthcare,biotechnology
+VKTX,"Viking Therapeutics, Inc.",healthcare,biotechnology
+TLX,Telix Pharmaceuticals Limited,healthcare,biotechnology
+DNLI,Denali Therapeutics Inc.,healthcare,biotechnology
+RLAY,"Relay Therapeutics, Inc.",healthcare,biotechnology
+BEAM,Beam Therapeutics Inc.,healthcare,biotechnology
+TNGX,"Tango Therapeutics, Inc.",healthcare,biotechnology
+RCUS,"Arcus Biosciences, Inc.",healthcare,biotechnology
+DYN,"Dyne Therapeutics, Inc.",healthcare,biotechnology
+GPCR,Structure Therapeutics Inc.,healthcare,biotechnology
+ARQT,"Arcutis Biotherapeutics, Inc.",healthcare,biotechnology
+DFTX,"Definium Therapeutics, Inc.",healthcare,biotechnology
+IRON,"Disc Medicine, Inc.",healthcare,biotechnology
+TARS,"Tarsus Pharmaceuticals, Inc.",healthcare,biotechnology
+KLRA,"Kailera Therapeutics, Inc.",healthcare,biotechnology
+IDYA,"IDEAYA Biosciences, Inc.",healthcare,biotechnology
+ALMS,Alumis Inc.,healthcare,biotechnology
+VERA,"Vera Therapeutics, Inc.",healthcare,biotechnology
+CLDX,"Celldex Therapeutics, Inc.",healthcare,biotechnology
+PHVS,Pharvaris N.V.,healthcare,biotechnology
+RARE,Ultragenyx Pharmaceutical Inc.,healthcare,biotechnology
+ELVN,"Enliven Therapeutics, Inc.",healthcare,biotechnology
+IMNM,"Immunome, Inc.",healthcare,biotechnology
+AUPH,Aurinia Pharmaceuticals Inc.,healthcare,biotechnology
+MLYS,"Mineralys Therapeutics, Inc.",healthcare,biotechnology
+KOD,Kodiak Sciences Inc.,healthcare,biotechnology
+NKTR,Nektar Therapeutics,healthcare,biotechnology
+TRVI,"Trevi Therapeutics, Inc.",healthcare,biotechnology
+NTLA,"Intellia Therapeutics, Inc.",healthcare,biotechnology
+IOVA,"Iovance Biotherapeutics, Inc.",healthcare,biotechnology
+MESO,Mesoblast Limited,healthcare,biotechnology
+STOK,"Stoke Therapeutics, Inc.",healthcare,biotechnology
+ZLAB,Zai Lab Limited,healthcare,biotechnology
+HRMY,"Harmony Biosciences Holdings, Inc.",healthcare,biotechnology
+LKFT,Lakefront Biotherapeutics NV,healthcare,biotechnology
+VCEL,Vericel Corporation,healthcare,biotechnology
+ADMA,"ADMA Biologics, Inc.",healthcare,biotechnology
+NBTX,Nanobiotix S.A.,healthcare,biotechnology
+OCUL,"Ocular Therapeutix, Inc.",healthcare,biotechnology
+RXRX,"Recursion Pharmaceuticals, Inc.",healthcare,biotechnology
+ZYME,Zymeworks Inc.,healthcare,biotechnology
+VRDN,"Viridian Therapeutics, Inc.",healthcare,biotechnology
+RAPP,"Rapport Therapeutics, Inc.",healthcare,biotechnology
+ABCL,AbCellera Biologics Inc.,healthcare,biotechnology
+AGIO,"Agios Pharmaceuticals, Inc.",healthcare,biotechnology
+NUVB,Nuvation Bio Inc.,healthcare,biotechnology
+QURE,uniQure N.V.,healthcare,biotechnology
+SRPT,"Sarepta Therapeutics, Inc.",healthcare,biotechnology
+INVA,"Innoviva, Inc.",healthcare,biotechnology
+GENB,"Generate Biomedicines, Inc.",healthcare,biotechnology
+AAPG,Ascentage Pharma Group International,healthcare,biotechnology
+BHVN,Biohaven Ltd.,healthcare,biotechnology
+SION,"Sionna Therapeutics, Inc.",healthcare,biotechnology
+TYRA,"Tyra Biosciences, Inc.",healthcare,biotechnology
+TSHA,"Taysha Gene Therapies, Inc.",healthcare,biotechnology
+NVAX,"Novavax, Inc.",healthcare,biotechnology
+PVLA,"Palvella Therapeutics, Inc.",healthcare,biotechnology
+CAPR,"Capricor Therapeutics, Inc.",healthcare,biotechnology
+SNDX,"Syndax Pharmaceuticals, Inc.",healthcare,biotechnology
+SLS,"SELLAS Life Sciences Group, Inc.",healthcare,biotechnology
+FTRE,Fortrea Holdings Inc.,healthcare,biotechnology
+NRIX,"Nurix Therapeutics, Inc.",healthcare,biotechnology
+GHRS,GH Research PLC,healthcare,biotechnology
+ANAB,"AnaptysBio, Inc.",healthcare,biotechnology
+VIR,"Vir Biotechnology, Inc.",healthcare,biotechnology
+ATAI,AtaiBeckley Inc.,healthcare,biotechnology
+MBX,"MBX Biosciences, Inc.",healthcare,biotechnology
+IMCR,Immunocore Holdings plc,healthcare,biotechnology
+KALV,"KalVista Pharmaceuticals, Inc.",healthcare,biotechnology
+AVBP,"ArriVent BioPharma, Inc.",healthcare,biotechnology
+SEPN,"Septerna, Inc.",healthcare,biotechnology
+GLUE,"Monte Rosa Therapeutics, Inc.",healthcare,biotechnology
+ARDX,"Ardelyx, Inc.",healthcare,biotechnology
+MAZE,"Maze Therapeutics, Inc.",healthcare,biotechnology
+MLTX,MoonLake Immunotherapeutics,healthcare,biotechnology
+BCAX,Bicara Therapeutics Inc.,healthcare,biotechnology
+IMTX,Immatics N.V.,healthcare,biotechnology
+URGN,UroGen Pharma Ltd.,healthcare,biotechnology
+MRVI,"Maravai LifeSciences Holdings, Inc.",healthcare,biotechnology
+DMRA,"Damora Therapeutics, Inc.",healthcare,biotechnology
+SVRA,Savara Inc.,healthcare,biotechnology
+INBX,"Inhibrx Biosciences, Inc.",healthcare,biotechnology
+PGEN,"Precigen, Inc.",healthcare,biotechnology
+MPLT,"MapLight Therapeutics, Inc.",healthcare,biotechnology
+AVLN,Avalyn Pharma Inc.,healthcare,biotechnology
+COAG,"Hemab Therapeutics Holdings, Inc.",healthcare,biotechnology
+ZBIO,"Zenas BioPharma, Inc.",healthcare,biotechnology
+WVE,Wave Life Sciences Ltd.,healthcare,biotechnology
+MNKD,MannKind Corporation,healthcare,biotechnology
+AKTS,"Aktis Oncology, Inc.",healthcare,biotechnology
+JBIO,"Jade Biosciences, Inc.",healthcare,biotechnology
+ABSI,Absci Corporation,healthcare,biotechnology
+EYPT,"EyePoint, Inc.",healthcare,biotechnology
+DBVT,DBV Technologies S.A.,healthcare,biotechnology
+CRVS,"Corvus Pharmaceuticals, Inc.",healthcare,biotechnology
+PHAR,Pharming Group N.V.,healthcare,biotechnology
+OLMA,"Olema Pharmaceuticals, Inc.",healthcare,biotechnology
+XNCR,"Xencor, Inc.",healthcare,biotechnology
+SPTX,"Seaport Therapeutics, Inc.",healthcare,biotechnology
+ANNX,"Annexon, Inc.",healthcare,biotechnology
+SPRY,"ARS Pharmaceuticals, Inc.",healthcare,biotechnology
+LXRX,"Lexicon Pharmaceuticals, Inc.",healthcare,biotechnology
+DRTS,Alpha Tau Medical Ltd.,healthcare,biotechnology
+TBPH,"Theravance Biopharma, Inc.",healthcare,biotechnology
+ABUS,Arbutus Biopharma Corporation,healthcare,biotechnology
+IVA,Inventiva S.A.,healthcare,biotechnology
+MGTX,MeiraGTx Holdings plc,healthcare,biotechnology
+CGEM,"Cullinan Therapeutics, Inc.",healthcare,biotechnology
+LBRX,LB Pharmaceuticals Inc,healthcare,biotechnology
+JANX,"Janux Therapeutics, Inc.",healthcare,biotechnology
+PHAT,"Phathom Pharmaceuticals, Inc.",healthcare,biotechnology
+REPL,"Replimune Group, Inc.",healthcare,biotechnology
+ORIC,"ORIC Pharmaceuticals, Inc.",healthcare,biotechnology
+KURA,"Kura Oncology, Inc.",healthcare,biotechnology
+ODTX,"Odyssey Therapeutics, Inc.",healthcare,biotechnology
+GERN,Geron Corporation,healthcare,biotechnology
+SANA,"Sana Biotechnology, Inc.",healthcare,biotechnology
+AURA,"Aura Biosciences, Inc.",healthcare,biotechnology
+EVMN,"Evommune, Inc.",healthcare,biotechnology
+VOR,Vor Biopharma Inc.,healthcare,biotechnology
+OMER,Omeros Corporation,healthcare,biotechnology
+AVTX,"Avalo Therapeutics, Inc.",healthcare,biotechnology
+DRUG,Bright Minds Biosciences Inc.,healthcare,biotechnology
+OCS,Oculis Holding AG,healthcare,biotechnology
+DSGN,"Design Therapeutics, Inc.",healthcare,biotechnology
+SLDB,Solid Biosciences Inc.,healthcare,biotechnology
+CRMD,CorMedix Inc.,healthcare,biotechnology
+CTMX,"CytomX Therapeutics, Inc.",healthcare,biotechnology
+ALLO,"Allogene Therapeutics, Inc.",healthcare,biotechnology
+ANRO,"Alto Neuroscience, Inc.",healthcare,biotechnology
+TENX,"Tenax Therapeutics, Inc.",healthcare,biotechnology
+SGP,"SpyGlass Pharma, Inc.",healthcare,biotechnology
+ZVRA,"Zevra Therapeutics, Inc.",healthcare,biotechnology
+BBOT,"BridgeBio Oncology Therapeutics, Inc.",healthcare,biotechnology
+RLMD,"Relmada Therapeutics, Inc.",healthcare,biotechnology
+CADL,"Candel Therapeutics, Inc.",healthcare,biotechnology
+ACRS,"Aclaris Therapeutics, Inc.",healthcare,biotechnology
+CBIO,"Crescent Biopharma, Inc.",healthcare,biotechnology
+TRAX,"First Tracks Biotherapeutics, Inc.",healthcare,biotechnology
+GYRE,"Gyre Therapeutics, Inc.",healthcare,biotechnology
+MDXG,"MiMedx Group, Inc.",healthcare,biotechnology
+RIGL,"Rigel Pharmaceuticals, Inc.",healthcare,biotechnology
+IMMX,"Immix Biopharma, Inc.",healthcare,biotechnology
+PRME,"Prime Medicine, Inc.",healthcare,biotechnology
+TECX,"Tectonic Therapeutic, Inc.",healthcare,biotechnology
+PROK,ProKidney Corp.,healthcare,biotechnology
+DNA,"Ginkgo Bioworks Holdings, Inc.",healthcare,biotechnology
+CABA,"Cabaletta Bio, Inc.",healthcare,biotechnology
+XOMA,XOMA Royalty Corporation,healthcare,biotechnology
+ALT,"Altimmune, Inc.",healthcare,biotechnology
+ACHV,"Achieve Life Sciences, Inc.",healthcare,biotechnology
+VALN,Valneva SE,healthcare,biotechnology
+CLYM,"Climb Bio, Inc.",healthcare,biotechnology
+AGMB,AgomAb Therapeutics NV,healthcare,biotechnology
+EIKN,"Eikon Therapeutics, Inc.",healthcare,biotechnology
+ARVN,"Arvinas, Inc.",healthcare,biotechnology
+PRTA,Prothena Corporation plc,healthcare,biotechnology
+ASMB,"Assembly Biosciences, Inc.",healthcare,biotechnology
+KYTX,"Kyverna Therapeutics, Inc.",healthcare,biotechnology
+FDMT,"4D Molecular Therapeutics, Inc.",healthcare,biotechnology
+OVID,Ovid Therapeutics Inc.,healthcare,biotechnology
+RZLT,"Rezolute, Inc.",healthcare,biotechnology
+OCGN,"Ocugen, Inc.",healthcare,biotechnology
+STRO,"Sutro Biopharma, Inc.",healthcare,biotechnology
+CTNM,"Contineum Therapeutics, Inc.",healthcare,biotechnology
+CCCC,"C4 Therapeutics, Inc.",healthcare,biotechnology
+NGNE,Neurogene Inc.,healthcare,biotechnology
+SGMT,Sagimet Biosciences Inc.,healthcare,biotechnology
+EDIT,"Editas Medicine, Inc.",healthcare,biotechnology
+INDP,"Indaptus Therapeutics, Inc.",healthcare,biotechnology
+AUTL,Autolus Therapeutics plc,healthcare,biotechnology
+FBRX,"Forte Biosciences, Inc.",healthcare,biotechnology
+VTVT,vTv Therapeutics Inc.,healthcare,biotechnology
+MNPR,Monopar Therapeutics Inc.,healthcare,biotechnology
+ANL,Adlai Nortye Ltd.,healthcare,biotechnology
+EPRX,Eupraxia Pharmaceuticals Inc.,healthcare,biotechnology
+CNXU,Conexeu Sciences Inc.,healthcare,biotechnology
+IPSC,"Century Therapeutics, Inc.",healthcare,biotechnology
+UPB,"Upstream Bio, Inc.",healthcare,biotechnology
+PRLD,Prelude Therapeutics Incorporated,healthcare,biotechnology
+CMPX,"Compass Therapeutics, Inc.",healthcare,biotechnology
+VNDA,Vanda Pharmaceuticals Inc.,healthcare,biotechnology
+BNTC,Benitec Biopharma Inc.,healthcare,biotechnology
+XFOR,"X4 Pharmaceuticals, Inc.",healthcare,biotechnology
+OABI,"OmniAb, Inc.",healthcare,biotechnology
+PBYI,"Puma Biotechnology, Inc.",healthcare,biotechnology
+STTK,"Shattuck Labs, Inc.",healthcare,biotechnology
+LXEO,"Lexeo Therapeutics, Inc.",healthcare,biotechnology
+AVIR,"Atea Pharmaceuticals, Inc.",healthcare,biotechnology
+ARTV,"Artiva Biotherapeutics, Inc.",healthcare,biotechnology
+LRMR,"Larimar Therapeutics, Inc.",healthcare,biotechnology
+ENTA,"Enanta Pharmaceuticals, Inc.",healthcare,biotechnology
+GLSI,"Greenwich LifeSciences, Inc.",healthcare,biotechnology
+VSTM,"Verastem, Inc.",healthcare,biotechnology
+ZURA,Zura Bio Limited,healthcare,biotechnology
+RGNX,REGENXBIO Inc.,healthcare,biotechnology
+ABEO,Abeona Therapeutics Inc.,healthcare,biotechnology
+DMAC,DiaMedica Therapeutics Inc.,healthcare,biotechnology
+NAUT,"Nautilus Biotechnology, Inc.",healthcare,biotechnology
+IVVD,"Invivyd, Inc.",healthcare,biotechnology
+FENC,Fennec Pharmaceuticals Inc.,healthcare,biotechnology
+RCKT,"Rocket Pharmaceuticals, Inc.",healthcare,biotechnology
+HUMA,"Humacyte, Inc.",healthcare,biotechnology
+NMRA,"Neumora Therapeutics, Inc.",healthcare,biotechnology
+LCTX,"Lineage Cell Therapeutics, Inc.",healthcare,biotechnology
+BCYC,Bicycle Therapeutics plc,healthcare,biotechnology
+SLN,Silence Therapeutics plc,healthcare,biotechnology
+PALI,"Palisade Bio, Inc.",healthcare,biotechnology
+IRD,"Opus Genetics, Inc.",healthcare,biotechnology
+LYEL,"Lyell Immunopharma, Inc.",healthcare,biotechnology
+IKT,"Inhibikase Therapeutics, Inc.",healthcare,biotechnology
+IMRX,Immuneering Corporation,healthcare,biotechnology
+NAGE,"Niagen Bioscience, Inc.",healthcare,biotechnology
+ARMP,"Armata Pharmaceuticals, Inc.",healthcare,biotechnology
+IFRX,InflaRx N.V.,healthcare,biotechnology
+ELDN,"Eledon Pharmaceuticals, Inc.",healthcare,biotechnology
+ZNTL,"Zentalis Pharmaceuticals, Inc.",healthcare,biotechnology
+SLGL,Sol-Gel Technologies Ltd.,healthcare,biotechnology
+NVCT,"Nuvectis Pharma, Inc.",healthcare,biotechnology
+SRZN,"Surrozen, Inc.",healthcare,biotechnology
+MGNX,"MacroGenics, Inc.",healthcare,biotechnology
+FULC,"Fulcrum Therapeutics, Inc.",healthcare,biotechnology
+ELTX,"Elicio Therapeutics, Inc.",healthcare,biotechnology
+AVXL,Anavex Life Sciences Corp.,healthcare,biotechnology
+SABS,"SAB Biotherapeutics, Inc.",healthcare,biotechnology
+TARA,"Protara Therapeutics, Inc.",healthcare,biotechnology
+OBIO,"Orchestra BioMed Holdings, Inc.",healthcare,biotechnology
+CDXS,"Codexis, Inc.",healthcare,biotechnology
+NERV,"Minerva Neurosciences, Inc.",healthcare,biotechnology
+FATE,"Fate Therapeutics, Inc.",healthcare,biotechnology
+TRDA,"Entrada Therapeutics, Inc.",healthcare,biotechnology
+CHRS,"Coherus Oncology, Inc.",healthcare,biotechnology
+ACIU,AC Immune SA,healthcare,biotechnology
+QTTB,Q32 Bio Inc.,healthcare,biotechnology
+CLLS,Cellectis S.A.,healthcare,biotechnology
+LENZ,"LENZ Therapeutics, Inc.",healthcare,biotechnology
+ADAG,Adagene Inc.,healthcare,biotechnology
+FHTX,Foghorn Therapeutics Inc.,healthcare,biotechnology
+CAMP,Camp4 Therapeutics Corporation,healthcare,biotechnology
+YDES,YD Bio Limited,healthcare,biotechnology
+HELP,Cybin Inc.,healthcare,biotechnology
+ARCT,Arcturus Therapeutics Holdings Inc.,healthcare,biotechnology
+ALXO,ALX Oncology Holdings Inc.,healthcare,biotechnology
+WHWK,"Whitehawk Therapeutics, Inc.",healthcare,biotechnology
+KPTI,Karyopharm Therapeutics Inc.,healthcare,biotechnology
+KROS,"Keros Therapeutics, Inc.",healthcare,biotechnology
+RNA,"Atrium Therapeutics, Inc.",healthcare,biotechnology
+VYGR,"Voyager Therapeutics, Inc.",healthcare,biotechnology
+CGEN,Compugen Ltd.,healthcare,biotechnology
+NGEN,NervGen Pharma Corp.,healthcare,biotechnology
+CRBU,"Caribou Biosciences, Inc.",healthcare,biotechnology
+NBP,NovaBridge Biosciences,healthcare,biotechnology
+EQ,"Equillium, Inc.",healthcare,biotechnology
+UNCY,"Unicycive Therapeutics, Inc.",healthcare,biotechnology
+MDWD,MediWound Ltd.,healthcare,biotechnology
+ALEC,"Alector, Inc.",healthcare,biotechnology
+NKTX,"Nkarta, Inc.",healthcare,biotechnology
+TNXP,Tonix Pharmaceuticals Holding Corp.,healthcare,biotechnology
+IMUX,"Immunic, Inc.",healthcare,biotechnology
+RNAC,"Cartesian Therapeutics, Inc.",healthcare,biotechnology
+ENLV,Enlivex Ltd.,healthcare,biotechnology
+OKUR,"OnKure Therapeutics, Inc.",healthcare,biotechnology
+DTIL,"Precision BioSciences, Inc.",healthcare,biotechnology
+MIST,Milestone Pharmaceuticals Inc.,healthcare,biotechnology
+IPHA,Innate Pharma S.A.,healthcare,biotechnology
+SPRO,"Spero Therapeutics, Inc.",healthcare,biotechnology
+CNTX,Context Therapeutics Inc.,healthcare,biotechnology
+TLSA,Tiziana Life Sciences Ltd,healthcare,biotechnology
+PLX,"Protalix BioTherapeutics, Inc.",healthcare,biotechnology
+PRQR,ProQR Therapeutics N.V.,healthcare,biotechnology
+TNYA,"Tenaya Therapeutics, Inc.",healthcare,biotechnology
+TTRX,Turn Therapeutics Inc.,healthcare,biotechnology
+ABOS,"Acumen Pharmaceuticals, Inc.",healthcare,biotechnology
+KRRO,"Korro Bio, Inc.",healthcare,biotechnology
+GALT,Galectin Therapeutics Inc.,healthcare,biotechnology
+ORMP,Oramed Pharmaceuticals Inc.,healthcare,biotechnology
+MENS,Jyong Biotech Ltd.,healthcare,biotechnology
+NRXP,"NRx Pharmaceuticals, Inc.",healthcare,biotechnology
+MOLN,Molecular Partners AG,healthcare,biotechnology
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",healthcare,biotechnology
+ANTX,"AN2 Therapeutics, Inc.",healthcare,biotechnology
+CNTB,Connect Biopharma Holdings Limited,healthcare,biotechnology
+SPRB,"Spruce Biosciences, Inc.",healthcare,biotechnology
+AGEN,Agenus Inc.,healthcare,biotechnology
+ADCT,ADC Therapeutics SA,healthcare,biotechnology
+CNTN,"Canton Strategic Holdings, Inc.",healthcare,biotechnology
+GNLX,Genelux Corporation,healthcare,biotechnology
+ACOG,Alpha Cognition Inc.,healthcare,biotechnology
+KZIA,Kazia Therapeutics Limited,healthcare,biotechnology
+HURA,"TuHURA Biosciences, Inc.",healthcare,biotechnology
+ALPS,Alps Group Inc,healthcare,biotechnology
+CGTX,"Cognition Therapeutics, Inc.",healthcare,biotechnology
+BDTX,"Black Diamond Therapeutics, Inc.",healthcare,biotechnology
+PYXS,"Pyxis Oncology, Inc.",healthcare,biotechnology
+NTHI,"NeOnc Technologies Holdings, Inc.",healthcare,biotechnology
+PLYX,"Polaryx Therapeutics, Inc.",healthcare,biotechnology
+ENGN,enGene Therapeutics Inc.,healthcare,biotechnology
+GUTS,"Fractyl Health, Inc.",healthcare,biotechnology
+VRCA,Verrica Pharmaceuticals Inc.,healthcare,biotechnology
+COYA,"Coya Therapeutics, Inc.",healthcare,biotechnology
+CRDF,"Cardiff Oncology, Inc.",healthcare,biotechnology
+KLRS,"Kalaris Therapeutics, Inc.",healthcare,biotechnology
+VANI,"Vivani Medical, Inc.",healthcare,biotechnology
+SEER,"Seer, Inc.",healthcare,biotechnology
+CBUS,"Cibus, Inc.",healthcare,biotechnology
+ALDX,"Aldeyra Therapeutics, Inc.",healthcare,biotechnology
+PEPG,PepGen Inc.,healthcare,biotechnology
+ONCY,Oncolytics Biotech Inc.,healthcare,biotechnology
+CUE,"Cue Biopharma, Inc.",healthcare,biotechnology
+OTLK,"Outlook Therapeutics, Inc.",healthcare,biotechnology
+BMEA,"Biomea Fusion, Inc.",healthcare,biotechnology
+PTHS,Pelthos Therapeutics Inc.,healthcare,biotechnology
+FBIO,"Fortress Biotech, Inc.",healthcare,biotechnology
+RNTX,Rein Therapeutics Inc.,healthcare,biotechnology
+INO,"Inovio Pharmaceuticals, Inc.",healthcare,biotechnology
+ICCC,ImmuCell Corporation,healthcare,biotechnology
+PYPD,PolyPid Ltd.,healthcare,biotechnology
+OKYO,OKYO Pharma Limited,healthcare,biotechnology
+ATRA,"Atara Biotherapeutics, Inc.",healthcare,biotechnology
+RLYB,Rallybio Corporation,healthcare,biotechnology
+HYFT,MindWalk Holdings Corp.,healthcare,biotechnology
+ANIX,"Anixa Biosciences, Inc.",healthcare,biotechnology
+RANI,"Rani Therapeutics Holdings, Inc.",healthcare,biotechnology
+MAIA,"MAIA Biotechnology, Inc.",healthcare,biotechnology
+PMN,"ProMIS Neurosciences, Inc.",healthcare,biotechnology
+LIXT,"Lixte Biotechnology Holdings, Inc.",healthcare,biotechnology
+HRTX,"Heron Therapeutics, Inc.",healthcare,biotechnology
+ANVS,"Annovis Bio, Inc.",healthcare,biotechnology
+AARD,"Aardvark Therapeutics, Inc.",healthcare,biotechnology
+OSTX,OS Therapies Incorporated,healthcare,biotechnology
+EXOZ,"eXoZymes, Inc.",healthcare,biotechnology
+NRXS,"NeurAxis, Inc.",healthcare,biotechnology
+CSBR,"Champions Oncology, Inc.",healthcare,biotechnology
+LONA,"LeonaBio, Inc.",healthcare,biotechnology
+ACET,"Adicet Bio, Inc.",healthcare,biotechnology
+GANX,"Gain Therapeutics, Inc.",healthcare,biotechnology
+XBIT,XBiotech Inc.,healthcare,biotechnology
+PLRX,"Pliant Therapeutics, Inc.",healthcare,biotechnology
+ATHE,Alterity Therapeutics Limited,healthcare,biotechnology
+BYSI,BeyondSpring Inc.,healthcare,biotechnology
+IBIO,"iBio, Inc.",healthcare,biotechnology
+MNOV,"MediciNova, Inc.",healthcare,biotechnology
+MCRB,"Seres Therapeutics, Inc.",healthcare,biotechnology
+TCRX,"TScan Therapeutics, Inc.",healthcare,biotechnology
+FLNA,"Filana Therapeutics, Inc.",healthcare,biotechnology
+IMA,"ImageneBio, Inc.",healthcare,biotechnology
+ACRV,"Acrivon Therapeutics, Inc.",healthcare,biotechnology
+IBO,Impact BioMedical Inc.,healthcare,biotechnology
+PMVP,"PMV Pharmaceuticals, Inc.",healthcare,biotechnology
+CING,Cingulate Inc.,healthcare,biotechnology
+INKT,"MiNK Therapeutics, Inc.",healthcare,biotechnology
+ENTX,Entera Bio Ltd.,healthcare,biotechnology
+PDSB,PDS Biotechnology Corporation,healthcare,biotechnology
+TIL,"Instil Bio, Inc.",healthcare,biotechnology
+VERU,Veru Inc.,healthcare,biotechnology
+RADX,Radiopharm Theranostics Limited,healthcare,biotechnology
+DWTX,"Dogwood Therapeutics, Inc.",healthcare,biotechnology
+IMMP,Immutep Limited,healthcare,biotechnology
+MREO,Mereo BioPharma Group plc,healthcare,biotechnology
+ESLA,"Estrella Immunopharma, Inc.",healthcare,biotechnology
+EDSA,"Edesa Biotech, Inc.",healthcare,biotechnology
+MGX,"Metagenomi Therapeutics, Inc.",healthcare,biotechnology
+GNTA,Genenta Science S.p.A.,healthcare,biotechnology
+ATYR,"aTyr Pharma, Inc.",healthcare,biotechnology
+XLO,"Xilio Therapeutics, Inc.",healthcare,biotechnology
+LTRN,Lantern Pharma Inc.,healthcare,biotechnology
+ACTU,"Actuate Therapeutics, Inc.",healthcare,biotechnology
+TVGN,Tevogen Bio Holdings Inc.,healthcare,biotechnology
+NTRB,Nutriband Inc.,healthcare,biotechnology
+HYPD,"Hyperion DeFi, Inc.",healthcare,biotechnology
+GRDX,GridAI Technologies Corp.,healthcare,biotechnology
+TELO,"Telomir Pharmaceuticals, Inc.",healthcare,biotechnology
+GOSS,"Gossamer Bio, Inc.",healthcare,biotechnology
+RNXT,"RenovoRx, Inc.",healthcare,biotechnology
+ATOS,"Atossa Therapeutics, Inc.",healthcare,biotechnology
+KALA,"KALA BIO, Inc.",healthcare,biotechnology
+PSTV,"Plus Therapeutics, Inc.",healthcare,biotechnology
+GRCE,"Grace Therapeutics, Inc.",healthcare,biotechnology
+ATNM,"Actinium Pharmaceuticals, Inc.",healthcare,biotechnology
+ABVC,"ABVC BioPharma, Inc.",healthcare,biotechnology
+INMB,INmune Bio Inc.,healthcare,biotechnology
+BOLD,"Boundless Bio, Inc.",healthcare,biotechnology
+NNVC,"NanoViricides, Inc.",healthcare,biotechnology
+APLM,"Apollomics, Inc.",healthcare,biotechnology
+ALGS,"Aligos Therapeutics, Inc.",healthcare,biotechnology
+LSTA,"Lisata Therapeutics, Inc.",healthcare,biotechnology
+SNTI,"Senti Biosciences Holdings, Inc.",healthcare,biotechnology
+EVAX,Evaxion A/S,healthcare,biotechnology
+IGC,"IGC Pharma, Inc.",healthcare,biotechnology
+DARE,"DarÃ© Bioscience, Inc.",healthcare,biotechnology
+SER,"Serina Therapeutics, Inc.",healthcare,biotechnology
+QNTM,Quantum BioPharma Ltd.,healthcare,biotechnology
+CRVO,CervoMed Inc.,healthcare,biotechnology
+KYNB,"Kyntra Bio, Inc.",healthcare,biotechnology
+TVRD,"Tvardi Therapeutics, Inc.",healthcare,biotechnology
+BCTX,BriaCell Therapeutics Corp.,healthcare,biotechnology
+BRNS,Barinthus Biotherapeutics plc,healthcare,biotechnology
+NRSN,NeuroSense Therapeutics Ltd.,healthcare,biotechnology
+DYAI,"Dyadic International, Inc.",healthcare,biotechnology
+SKYE,"Skye Bioscience, Inc.",healthcare,biotechnology
+LITS,"Lite Strategy, Inc.",healthcare,biotechnology
+PLUR,Pluri Inc.,healthcare,biotechnology
+CELU,Celularity Inc.,healthcare,biotechnology
+ALLR,"Allarity Therapeutics, Inc.",healthcare,biotechnology
+PLRZ,Polyrizon Ltd.,healthcare,biotechnology
+NEUP,Neuphoria Therapeutics Inc.,healthcare,biotechnology
+PTN,"Palatin Technologies, Inc.",healthcare,biotechnology
+MRKR,"Marker Therapeutics, Inc.",healthcare,biotechnology
+VYNE,VYNE Therapeutics Inc.,healthcare,biotechnology
+VTGN,"Vistagen Therapeutics, Inc.",healthcare,biotechnology
+LGVN,Longeveron Inc.,healthcare,biotechnology
+TRAW,"Traws Pharma, Inc.",healthcare,biotechnology
+CLRB,"Cellectar Biosciences, Inc.",healthcare,biotechnology
+CVM,CEL-SCI Corporation,healthcare,biotechnology
+SNSE,"Sensei Biotherapeutics, Inc.",healthcare,biotechnology
+KTTA,Pasithea Therapeutics Corp.,healthcare,biotechnology
+HOWL,"Werewolf Therapeutics, Inc.",healthcare,biotechnology
+AEON,"AEON Biopharma, Inc.",healthcare,biotechnology
+CRIS,"Curis, Inc.",healthcare,biotechnology
+XCUR,"Exicure, Inc.",healthcare,biotechnology
+TPST,"Tempest Therapeutics, Inc.",healthcare,biotechnology
+PASG,"Passage Bio, Inc.",healthcare,biotechnology
+AKTX,"Akari Therapeutics, Plc",healthcare,biotechnology
+CALC,"CalciMedica, Inc.",healthcare,biotechnology
+QNCX,"Quince Therapeutics, Inc.",healthcare,biotechnology
+LPCN,Lipocine Inc.,healthcare,biotechnology
+LEXX,Lexaria Bioscience Corp.,healthcare,biotechnology
+NCEL,NewcelX Ltd.,healthcare,biotechnology
+GTBP,"GT Biopharma, Inc.",healthcare,biotechnology
+MLEC,Moolec Science SA,healthcare,biotechnology
+CTXR,"Citius Pharmaceuticals, Inc.",healthcare,biotechnology
+GDTC,CytoMed Therapeutics Limited,healthcare,biotechnology
+HIND,"Vyome Holdings, Inc.",healthcare,biotechnology
+INAB,"IN8bio, Inc.",healthcare,biotechnology
+BLRX,BioLineRx Ltd.,healthcare,biotechnology
+JSPR,"Jasper Therapeutics, Inc.",healthcare,biotechnology
+CVKD,"Cadrenal Therapeutics, Inc.",healthcare,biotechnology
+OSRH,"OSR Holdings, Inc.",healthcare,biotechnology
+COCP,"Cocrystal Pharma, Inc.",healthcare,biotechnology
+MTVA,MetaVia Inc.,healthcare,biotechnology
+MBRX,"Moleculin Biotech, Inc.",healthcare,biotechnology
+CMMB,Chemomab Therapeutics Ltd.,healthcare,biotechnology
+CYCN,"Cyclerion Therapeutics, Inc.",healthcare,biotechnology
+PHIO,Phio Pharmaceuticals Corp.,healthcare,biotechnology
+BIVI,BioVie Inc.,healthcare,biotechnology
+ICU,SeaStar Medical Holding Corporation,healthcare,biotechnology
+BCDA,"BioCardia, Inc.",healthcare,biotechnology
+TOVX,"Theriva Biologics, Inc.",healthcare,biotechnology
+HCWB,HCW Biologics Inc.,healthcare,biotechnology
+LNAI,Lunai Bioworks Inc.,healthcare,biotechnology
+KPRX,"Kiora Pharmaceuticals, Inc.",healthcare,biotechnology
+NXTC,"NextCure, Inc.",healthcare,biotechnology
+JUNS,"Jupiter Neurosciences, Inc.",healthcare,biotechnology
+BRTX,"BioRestorative Therapies, Inc.",healthcare,biotechnology
+INTS,"Intensity Therapeutics, Inc.",healthcare,biotechnology
+IMRN,Immuron Limited,healthcare,biotechnology
+KAPA,"Kairos Pharma, Ltd.",healthcare,biotechnology
+ERNA,Ernexa Therapeutics Inc.,healthcare,biotechnology
+APRE,"Aprea Therapeutics, Inc.",healthcare,biotechnology
+BOLT,"Bolt Biotherapeutics, Inc.",healthcare,biotechnology
+CURX,Curanex Pharmaceuticals Inc,healthcare,biotechnology
+ADXN,Addex Therapeutics Ltd,healthcare,biotechnology
+BGMS,"Bio Green Med Solution, Inc.",healthcare,biotechnology
+APM,Aptorum Group Limited,healthcare,biotechnology
+IMNN,"Imunon, Inc.",healthcare,biotechnology
+AIM,AIM ImmunoTech Inc.,healthcare,biotechnology
+NCNA,NuCana plc,healthcare,biotechnology
+QNRX,"Quoin Pharmaceuticals, Ltd.",healthcare,biotechnology
+PBM,Psyence Biomedical Ltd.,healthcare,biotechnology
+CELZ,"Creative Medical Technology Holdings, Inc.",healthcare,biotechnology
+PMCB,"PharmaCyte Biotech, Inc.",healthcare,biotechnology
+CNSP,"CNS Pharmaceuticals, Inc.",healthcare,biotechnology
+PHGE,BiomX Inc.,healthcare,biotechnology
+ACXP,"Acurx Pharmaceuticals, Inc.",healthcare,biotechnology
+XBIO,"Xenetic Biosciences, Inc.",healthcare,biotechnology
+ELAB,PMGC Holdings Inc.,healthcare,biotechnology
+GNPX,"Genprex, Inc.",healthcare,biotechnology
+PCSA,"Processa Pharmaceuticals, Inc.",healthcare,biotechnology
+CANF,Can-Fite BioPharma Ltd.,healthcare,biotechnology
+ENVB,"Enveric Biosciences, Inc.",healthcare,biotechnology
+SPRC,SciSparc Ltd.,healthcare,biotechnology
+PPBT,Purple Biotech Ltd,healthcare,biotechnology
+SILO,"Silo Pharma, Inc.",healthcare,biotechnology
+LIMN,"Liminatus Pharma, Inc.",healthcare,biotechnology
+EVGN,Evogene Ltd.,healthcare,biotechnology
+CDIO,"Cardio Diagnostics Holdings, Inc.",healthcare,biotechnology
+APVO,Aptevo Therapeutics Inc.,healthcare,biotechnology
+FBLG,"FibroBiologics, Inc.",healthcare,biotechnology
+TCRT,"Alaunos Therapeutics, Inc.",healthcare,biotechnology
+BCAB,"BioAtla, Inc.",healthcare,biotechnology
+XTLB,XTL Biopharmaceuticals Ltd.,healthcare,biotechnology
+CLGN,CollPlant Biotechnologies Ltd.,healthcare,biotechnology
+RNAZ,"TransCode Therapeutics, Inc.",healthcare,biotechnology
+MBIO,"Mustang Bio, Inc.",healthcare,biotechnology
+MTNB,"Matinas BioPharma Holdings, Inc.",healthcare,biotechnology
+PULM,"Pulmatrix, Inc.",healthcare,biotechnology
+GOVX,"GeoVax Labs, Inc.",healthcare,biotechnology
+DRMA,"Dermata Therapeutics, Inc.",healthcare,biotechnology
+GLMD,Galmed Pharmaceuticals Ltd.,healthcare,biotechnology
+SNGX,"Soligenix, Inc.",healthcare,biotechnology
+VRAX,Virax Biolabs Group Limited,healthcare,biotechnology
+ALZN,"Alzamend Neuro, Inc.",healthcare,biotechnology
+CMND,Clearmind Medicine Inc.,healthcare,biotechnology
+REVB,"Revelation Biosciences, Inc.",healthcare,biotechnology
+SXTP,"60 Degrees Pharmaceuticals, Inc.",healthcare,biotechnology
+CDT,CDT Equity Inc.,healthcare,biotechnology
+DCOY,Decoy Therapeutics Inc.,healthcare,biotechnology
+VIVS,"VivoSim Labs, Inc.",healthcare,biotechnology
+AZTR,"Azitra, Inc.",healthcare,biotechnology
+ADIL,"Adial Pharmaceuticals, Inc.",healthcare,biotechnology
+GRI,"GRI Bio, Inc.",healthcare,biotechnology
+OGEN,"Oragenics, Inc.",healthcare,biotechnology
+CLDI,"Calidi Biotherapeutics, Inc.",healthcare,biotechnology
+VBIO,"Valion Bio, Inc.",healthcare,biotechnology
+ENSC,"Ensysce Biosciences, Inc.",healthcare,biotechnology
+BBLG,Bone Biologics Corporation,healthcare,biotechnology
+BDRX,Biodexa Pharmaceuticals Plc,healthcare,biotechnology
+SLXN,Silexion Therapeutics Corp,healthcare,biotechnology
+JAGX,"Jaguar Health, Inc.",healthcare,biotechnology
+SCNI,Scinai Immunotherapeutics Ltd.,healthcare,biotechnology
+ARTL,"Artelo Biosciences, Inc.",healthcare,biotechnology
+PPCB,"Propanc Biopharma, Inc.",healthcare,biotechnology
+ASBP,"Aspire Biopharma Holdings, Inc.",healthcare,biotechnology
+ONCO,"Onconetix, Inc.",healthcare,biotechnology
+ADTX,"Aditxt, Inc.",healthcare,biotechnology
+ABT,Abbott Laboratories,healthcare,medical-devices
+SYK,Stryker Corporation,healthcare,medical-devices
+MDT,Medtronic plc,healthcare,medical-devices
+BSX,Boston Scientific Corporation,healthcare,medical-devices
+EW,Edwards Lifesciences Corporation,healthcare,medical-devices
+GEHC,GE HealthCare Technologies Inc.,healthcare,medical-devices
+DXCM,"DexCom, Inc.",healthcare,medical-devices
+PHG,Koninklijke Philips N.V.,healthcare,medical-devices
+STE,STERIS plc,healthcare,medical-devices
+ZBH,"Zimmer Biomet Holdings, Inc.",healthcare,medical-devices
+SNN,Smith & Nephew plc,healthcare,medical-devices
+PEN,"Penumbra, Inc.",healthcare,medical-devices
+GMED,"Globus Medical, Inc.",healthcare,medical-devices
+PODD,Insulet Corporation,healthcare,medical-devices
+MASI,Masimo Corporation,healthcare,medical-devices
+BRKR,Bruker Corporation,healthcare,medical-devices
+BIO,"Bio-Rad Laboratories, Inc.",healthcare,medical-devices
+GKOS,Glaukos Corporation,healthcare,medical-devices
+LIVN,LivaNova PLC,healthcare,medical-devices
+IRTC,"iRhythm Holdings, Inc.",healthcare,medical-devices
+HAE,Haemonetics Corporation,healthcare,medical-devices
+ITGR,Integer Holdings Corporation,healthcare,medical-devices
+TMDX,"TransMedics Group, Inc.",healthcare,medical-devices
+AXGN,"Axogen, Inc.",healthcare,medical-devices
+ESTA,Establishment Labs Holdings Inc.,healthcare,medical-devices
+NVCR,NovoCure Limited,healthcare,medical-devices
+NEOG,Neogen Corporation,healthcare,medical-devices
+UFPT,"UFP Technologies, Inc.",healthcare,medical-devices
+PRCT,PROCEPT BioRobotics Corporation,healthcare,medical-devices
+ENOV,Enovis Corporation,healthcare,medical-devices
+TNDM,"Tandem Diabetes Care, Inc.",healthcare,medical-devices
+IART,Integra LifeSciences Holdings Corporation,healthcare,medical-devices
+AHCO,AdaptHealth Corp.,healthcare,medical-devices
+ATEC,"Alphatec Holdings, Inc.",healthcare,medical-devices
+BFLY,"Butterfly Network, Inc.",healthcare,medical-devices
+IRMD,IRADIMED CORPORATION,healthcare,medical-devices
+INSP,"Inspire Medical Systems, Inc.",healthcare,medical-devices
+AVNS,"Avanos Medical, Inc.",healthcare,medical-devices
+CNMD,CONMED Corporation,healthcare,medical-devices
+QDEL,QuidelOrtho Corporation,healthcare,medical-devices
+AORT,"Artivion, Inc.",healthcare,medical-devices
+INMD,InMode Ltd.,healthcare,medical-devices
+LMRI,"Lumexa Imaging Holdings, Inc.",healthcare,medical-devices
+SSII,"SS Innovations International, Inc.",healthcare,medical-devices
+BVS,Bioventus Inc.,healthcare,medical-devices
+CBLL,"CeriBell, Inc.",healthcare,medical-devices
+SIBN,"SI-BONE, Inc.",healthcare,medical-devices
+BBNX,"Beta Bionics, Inc.",healthcare,medical-devices
+BWAY,BrainsWay Ltd.,healthcare,medical-devices
+TCMD,"Tactile Systems Technology, Inc.",healthcare,medical-devices
+CERS,Cerus Corporation,healthcare,medical-devices
+NPCE,"NeuroPace, Inc.",healthcare,medical-devices
+CTKB,"Cytek Biosciences, Inc.",healthcare,medical-devices
+KIDS,OrthoPediatrics Corp.,healthcare,medical-devices
+PACB,"Pacific Biosciences of California, Inc.",healthcare,medical-devices
+LAB,Standard BioTools Inc.,healthcare,medical-devices
+VREX,Varex Imaging Corporation,healthcare,medical-devices
+MOBI,"Mobia Medical, Inc.",healthcare,medical-devices
+OFIX,Orthofix Medical Inc.,healthcare,medical-devices
+CLPT,"ClearPoint Neuro, Inc.",healthcare,medical-devices
+VMD,"Viemed Healthcare, Inc.",healthcare,medical-devices
+DCTH,"Delcath Systems, Inc.",healthcare,medical-devices
+CV,"CapsoVision, Inc.",healthcare,medical-devices
+SENS,"Senseonics Holdings, Inc.",healthcare,medical-devices
+CATX,"Perspective Therapeutics, Inc.",healthcare,medical-devices
+ELMD,"Electromed, Inc.",healthcare,medical-devices
+MASS,908 Devices Inc.,healthcare,medical-devices
+PROF,Profound Medical Corp.,healthcare,medical-devices
+SGHT,"Sight Sciences, Inc.",healthcare,medical-devices
+QSI,Quantum-Si incorporated,healthcare,medical-devices
+TMCI,"Treace Medical Concepts, Inc.",healthcare,medical-devices
+RXST,"RxSight, Inc.",healthcare,medical-devices
+TLSI,"TriSalus Life Sciences, Inc.",healthcare,medical-devices
+APYX,Apyx Medical Corporation,healthcare,medical-devices
+INFU,"InfuSystem Holdings, Inc.",healthcare,medical-devices
+LUCD,Lucid Diagnostics Inc.,healthcare,medical-devices
+INGN,"Inogen, Inc.",healthcare,medical-devices
+QTRX,Quanterix Corporation,healthcare,medical-devices
+CVRX,"CVRx, Inc.",healthcare,medical-devices
+HYPR,"Hyperfine, Inc.",healthcare,medical-devices
+OWLT,"Owlet, Inc.",healthcare,medical-devices
+NNOX,Nano-X Imaging Ltd.,healthcare,medical-devices
+RCEL,"AVITA Medical, Inc.",healthcare,medical-devices
+SNWV,"SANUWAVE Health, Inc.",healthcare,medical-devices
+MXCT,"MaxCyte, Inc.",healthcare,medical-devices
+RPID,"Rapid Micro Biosystems, Inc.",healthcare,medical-devices
+STIM,"Neuronetics, Inc.",healthcare,medical-devices
+SERA,"Sera Prognostics, Inc.",healthcare,medical-devices
+OM,"Outset Medical, Inc.",healthcare,medical-devices
+ECOR,"electroCore, Inc.",healthcare,medical-devices
+LNSR,"LENSAR, Inc.",healthcare,medical-devices
+LUNG,Pulmonx Corporation,healthcare,medical-devices
+XTNT,"Xtant Medical Holdings, Inc.",healthcare,medical-devices
+MDAI,"Spectral AI, Inc.",healthcare,medical-devices
+COCH,"Envoy Medical, Inc.",healthcare,medical-devices
+QTI,"QT Imaging Holdings, Inc.",healthcare,medical-devices
+MYO,"Myomo, Inc.",healthcare,medical-devices
+SRTS,"Sensus Healthcare, Inc.",healthcare,medical-devices
+NSYS,Nortech Systems Incorporated,healthcare,medical-devices
+ELUT,Elutia Inc.,healthcare,medical-devices
+NSPR,"InspireMD, Inc.",healthcare,medical-devices
+ARAY,Accuray Incorporated,healthcare,medical-devices
+TELA,"TELA Bio, Inc.",healthcare,medical-devices
+PAVM,PAVmed Inc.,healthcare,medical-devices
+BDMD,Baird Medical Investment Holdings Limited,healthcare,medical-devices
+ITOC,iTonic Holdings Ltd.,healthcare,medical-devices
+NMTC,NeuroOne Medical Technologies Corporation,healthcare,medical-devices
+CTSO,Cytosorbents Corporation,healthcare,medical-devices
+PLSM,Pulsenmore Ltd.,healthcare,medical-devices
+MODD,"Modular Medical, Inc.",healthcare,medical-devices
+PMI,"Picard Medical, Inc.",healthcare,medical-devices
+CODX,"Co-Diagnostics, Inc.",healthcare,medical-devices
+LFWD,Lifeward Ltd.,healthcare,medical-devices
+IRIX,IRIDEX Corporation,healthcare,medical-devices
+ADGM,"Adagio Medical Holdings, Inc.",healthcare,medical-devices
+VNRX,VolitionRx Limited,healthcare,medical-devices
+TRIB,Trinity Biotech plc,healthcare,medical-devices
+VVOS,"Vivos Therapeutics, Inc.",healthcare,medical-devices
+ICCM,IceCure Medical Ltd,healthcare,medical-devices
+NXL,"Nexalin Technology, Inc.",healthcare,medical-devices
+POAS,Phaos Technology Holdings (Cayman) Limited,healthcare,medical-devices
+SINT,"Sintx Technologies, Inc.",healthcare,medical-devices
+TNON,"Tenon Medical, Inc.",healthcare,medical-devices
+NVNO,enVVeno Medical Corporation,healthcare,medical-devices
+BMRA,"Biomerica, Inc.",healthcare,medical-devices
+HSCS,HeartSciences Inc.,healthcare,medical-devices
+INBS,Intelligent Bio Solutions Inc.,healthcare,medical-devices
+XAIR,"Beyond Air, Inc.",healthcare,medical-devices
+FEED,"ENvue Medical, Inc.",healthcare,medical-devices
+BJDX,"Bluejay Diagnostics, Inc.",healthcare,medical-devices
+AMIX,"Autonomix Medical, Inc.",healthcare,medical-devices
+AEMD,"Aethlon Medical, Inc.",healthcare,medical-devices
+VTAK,"Catheter Precision, Inc.",healthcare,medical-devices
+IVF,"INVO Fertility, Inc.",healthcare,medical-devices
+PFSA,"Profusa, Inc.",healthcare,medical-devices
+NUWE,"Nuwellis, Inc.",healthcare,medical-devices
+WOK,WORK Medical Technology Group LTD,healthcare,medical-devices
+TAK,Takeda Pharmaceutical Company Limited,healthcare,drug-manufacturers-specialty-and-generic
+HLN,Haleon plc,healthcare,drug-manufacturers-specialty-and-generic
+TEVA,Teva Pharmaceutical Industries Limited,healthcare,drug-manufacturers-specialty-and-generic
+ZTS,Zoetis Inc.,healthcare,drug-manufacturers-specialty-and-generic
+UTHR,United Therapeutics Corporation,healthcare,drug-manufacturers-specialty-and-generic
+VTRS,Viatris Inc.,healthcare,drug-manufacturers-specialty-and-generic
+NBIX,"Neurocrine Biosciences, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+ELAN,Elanco Animal Health Incorporated,healthcare,drug-manufacturers-specialty-and-generic
+RDY,Dr. Reddy's Laboratories Limited,healthcare,drug-manufacturers-specialty-and-generic
+RGC,Regencell Bioscience Holdings Limited,healthcare,drug-manufacturers-specialty-and-generic
+ALKS,Alkermes plc,healthcare,drug-manufacturers-specialty-and-generic
+LNTH,"Lantheus Holdings, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+HIMS,"Hims & Hers Health, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+LQDA,Liquidia Corporation,healthcare,drug-manufacturers-specialty-and-generic
+AMRX,"Amneal Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+KNSA,"Kiniksa Pharmaceuticals International, plc",healthcare,drug-manufacturers-specialty-and-generic
+SUPN,"Supernus Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+PBH,Prestige Consumer Healthcare Inc.,healthcare,drug-manufacturers-specialty-and-generic
+BCRX,"BioCryst Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+BHC,Bausch Health Companies Inc.,healthcare,drug-manufacturers-specialty-and-generic
+HCM,HUTCHMED (China) Limited,healthcare,drug-manufacturers-specialty-and-generic
+ANIP,"ANI Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+PRGO,Perrigo Company plc,healthcare,drug-manufacturers-specialty-and-generic
+AMLX,"Amylyx Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+PAHC,Phibro Animal Health Corporation,healthcare,drug-manufacturers-specialty-and-generic
+HROW,"Harrow, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+ALVO,Alvotech,healthcare,drug-manufacturers-specialty-and-generic
+COLL,"Collegium Pharmaceutical, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+XERS,"Xeris Biopharma Holdings, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+CRON,Cronos Group Inc.,healthcare,drug-manufacturers-specialty-and-generic
+EVO,Evotec SE,healthcare,drug-manufacturers-specialty-and-generic
+PCRX,"Pacira BioSciences, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+AMPH,"Amphastar Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+ESPR,"Esperion Therapeutics, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+ETON,"Eton Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+BIOA,"BioAge Labs, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+TLRY,"Tilray Brands, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+IRWD,"Ironwood Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+AQST,"Aquestive Therapeutics, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+EOLS,"Evolus, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+KMDA,Kamada Ltd.,healthcare,drug-manufacturers-specialty-and-generic
+EBS,Emergent BioSolutions Inc.,healthcare,drug-manufacturers-specialty-and-generic
+CGC,Canopy Growth Corporation,healthcare,drug-manufacturers-specialty-and-generic
+ORGO,Organogenesis Holdings Inc.,healthcare,drug-manufacturers-specialty-and-generic
+SIGA,"SIGA Technologies, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+AKBA,"Akebia Therapeutics, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+TKNO,"Alpha Teknova, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+LFCR,"Lifecore Biomedical, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+ACB,Aurora Cannabis Inc.,healthcare,drug-manufacturers-specialty-and-generic
+ANIK,"Anika Therapeutics, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+DERM,Journey Medical Corporation,healthcare,drug-manufacturers-specialty-and-generic
+ASRT,"Assertio Holdings, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+OGI,Organigram Global Inc.,healthcare,drug-manufacturers-specialty-and-generic
+CRDL,Cardiol Therapeutics Inc.,healthcare,drug-manufacturers-specialty-and-generic
+CPIX,Cumberland Pharmaceuticals Inc.,healthcare,drug-manufacturers-specialty-and-generic
+CTOR,"Citius Oncology, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+INCR,InterCure Ltd.,healthcare,drug-manufacturers-specialty-and-generic
+BGM,BGM Group Ltd.,healthcare,drug-manufacturers-specialty-and-generic
+SCYX,"SCYNEXIS, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+TLPH,"Talphera, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+ZYBT,Zhengye Biotechnology Holding Limited,healthcare,drug-manufacturers-specialty-and-generic
+IXHL,Incannex Healthcare Inc.,healthcare,drug-manufacturers-specialty-and-generic
+BTAI,"BioXcel Therapeutics, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+CPHI,"China Pharma Holdings, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+OPTH,Optimi Health Corp.,healthcare,drug-manufacturers-specialty-and-generic
+RMTI,"Rockwell Medical, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+AYTU,"Aytu BioPharma, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+TXMD,"TherapeuticsMD, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+APUS,"Apimeds Pharmaceuticals US, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+CABR,"Caring Brands, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+BFRI,Biofrontera Inc.,healthcare,drug-manufacturers-specialty-and-generic
+SXTC,"China SXT Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+AKAN,Akanda Corp.,healthcare,drug-manufacturers-specialty-and-generic
+YCBD,"cbdMD, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+INM,InMed Pharmaceuticals Inc.,healthcare,drug-manufacturers-specialty-and-generic
+GELS,Gelteq Limited,healthcare,drug-manufacturers-specialty-and-generic
+RDHL,RedHill Biopharma Ltd.,healthcare,drug-manufacturers-specialty-and-generic
+SBFM,"Sunshine Biopharma, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+SNOA,"Sonoma Pharmaceuticals, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",healthcare,drug-manufacturers-specialty-and-generic
+UPC,Universe Pharmaceuticals INC,healthcare,drug-manufacturers-specialty-and-generic
+IMCC,IM Cannabis Corp.,healthcare,drug-manufacturers-specialty-and-generic
+PRFX,PRF Technologies Ltd.,healthcare,drug-manufacturers-specialty-and-generic
+ISRG,"Intuitive Surgical, Inc.",healthcare,medical-instruments-and-supplies
+MDLN,Medline Inc.,healthcare,medical-instruments-and-supplies
+BDX,"Becton, Dickinson and Company",healthcare,medical-instruments-and-supplies
+ALC,Alcon Inc.,healthcare,medical-instruments-and-supplies
+RMD,ResMed Inc.,healthcare,medical-instruments-and-supplies
+WST,"West Pharmaceutical Services, Inc.",healthcare,medical-instruments-and-supplies
+SOLV,Solventum Corporation,healthcare,medical-instruments-and-supplies
+COO,"The Cooper Companies, Inc.",healthcare,medical-instruments-and-supplies
+ALGN,"Align Technology, Inc.",healthcare,medical-instruments-and-supplies
+BAX,Baxter International Inc.,healthcare,medical-instruments-and-supplies
+ATR,"AptarGroup, Inc.",healthcare,medical-instruments-and-supplies
+RGEN,Repligen Corporation,healthcare,medical-instruments-and-supplies
+AVTR,"Avantor, Inc.",healthcare,medical-instruments-and-supplies
+TFX,Teleflex Incorporated,healthcare,medical-instruments-and-supplies
+BLCO,Bausch + Lomb Corporation,healthcare,medical-instruments-and-supplies
+STVN,Stevanato Group S.p.A.,healthcare,medical-instruments-and-supplies
+MMED,"MiniMed Group, Inc.",healthcare,medical-instruments-and-supplies
+MMSI,"Merit Medical Systems, Inc.",healthcare,medical-instruments-and-supplies
+NVST,Envista Holdings Corporation,healthcare,medical-instruments-and-supplies
+ICUI,"ICU Medical, Inc.",healthcare,medical-instruments-and-supplies
+WRBY,Warby Parker Inc.,healthcare,medical-instruments-and-supplies
+LMAT,"LeMaitre Vascular, Inc.",healthcare,medical-instruments-and-supplies
+XRAY,DENTSPLY SIRONA Inc.,healthcare,medical-instruments-and-supplies
+PLSE,"Pulse Biosciences, Inc.",healthcare,medical-instruments-and-supplies
+STAA,STAAR Surgical Company,healthcare,medical-instruments-and-supplies
+ALMR,"Alamar Biosciences, Inc.",healthcare,medical-instruments-and-supplies
+ATRC,"AtriCure, Inc.",healthcare,medical-instruments-and-supplies
+BLFS,"BioLife Solutions, Inc.",healthcare,medical-instruments-and-supplies
+KMTS,"Kestra Medical Technologies, Ltd.",healthcare,medical-instruments-and-supplies
+AZTA,"Azenta, Inc.",healthcare,medical-instruments-and-supplies
+NNNN,Anbio Biotechnology,healthcare,medical-instruments-and-supplies
+AVR,Anteris Technologies Global Corp.,healthcare,medical-instruments-and-supplies
+ANGO,"AngioDynamics, Inc.",healthcare,medical-instruments-and-supplies
+OSUR,"OraSure Technologies, Inc.",healthcare,medical-instruments-and-supplies
+UTMD,"Utah Medical Products, Inc.",healthcare,medical-instruments-and-supplies
+PDEX,"Pro-Dex, Inc.",healthcare,medical-instruments-and-supplies
+SMTI,Sanara MedTech Inc.,healthcare,medical-instruments-and-supplies
+EMBC,Embecta Corp.,healthcare,medical-instruments-and-supplies
+KRMD,"KORU Medical Systems, Inc.",healthcare,medical-instruments-and-supplies
+STXS,"Stereotaxis, Inc.",healthcare,medical-instruments-and-supplies
+NYXH,Nyxoah SA,healthcare,medical-instruments-and-supplies
+MBOT,Microbot Medical Inc.,healthcare,medical-instruments-and-supplies
+POCI,"Precision Optics Corporation, Inc.",healthcare,medical-instruments-and-supplies
+ZTEK,Zentek Ltd.,healthcare,medical-instruments-and-supplies
+DXR,Daxor Corporation,healthcare,medical-instruments-and-supplies
+NEPH,"Nephros, Inc.",healthcare,medical-instruments-and-supplies
+MLSS,Milestone Scientific Inc.,healthcare,medical-instruments-and-supplies
+HBIO,"Harvard Bioscience, Inc.",healthcare,medical-instruments-and-supplies
+RVP,"Retractable Technologies, Inc.",healthcare,medical-instruments-and-supplies
+ZJYL,Jin Medical International Ltd.,healthcare,medical-instruments-and-supplies
+FEMY,Femasys Inc.,healthcare,medical-instruments-and-supplies
+BNGO,"Bionano Genomics, Inc.",healthcare,medical-instruments-and-supplies
+RGNT,Regentis Biomaterials Ltd.,healthcare,medical-instruments-and-supplies
+CUPR,Cuprina Holdings (Cayman) Limited,healthcare,medical-instruments-and-supplies
+LUCY,"Lucyd, Inc",healthcare,medical-instruments-and-supplies
+NXGL,"NEXGEL, Inc.",healthcare,medical-instruments-and-supplies
+GCTK,"GlucoTrack, Inc.",healthcare,medical-instruments-and-supplies
+HCA,"HCA Healthcare, Inc.",healthcare,medical-care-facilities
+THC,Tenet Healthcare Corporation,healthcare,medical-care-facilities
+DVA,DaVita Inc.,healthcare,medical-care-facilities
+FMS,Fresenius Medical Care AG,healthcare,medical-care-facilities
+EHC,Encompass Health Corporation,healthcare,medical-care-facilities
+ENSG,"The Ensign Group, Inc.",healthcare,medical-care-facilities
+UHS,"Universal Health Services, Inc.",healthcare,medical-care-facilities
+PACS,"PACS Group, Inc.",healthcare,medical-care-facilities
+CHE,Chemed Corporation,healthcare,medical-care-facilities
+CON,"Concentra Group Holdings Parent, Inc.",healthcare,medical-care-facilities
+OPCH,"Option Care Health, Inc.",healthcare,medical-care-facilities
+NHC,National HealthCare Corporation,healthcare,medical-care-facilities
+BKD,Brookdale Senior Living Inc.,healthcare,medical-care-facilities
+LFST,"LifeStance Health Group, Inc.",healthcare,medical-care-facilities
+GRDN,"Guardian Pharmacy Services, Inc.",healthcare,medical-care-facilities
+GMRS,GMR Solutions Inc.,healthcare,medical-care-facilities
+ACHC,"Acadia Healthcare Company, Inc.",healthcare,medical-care-facilities
+SEM,Select Medical Holdings Corporation,healthcare,medical-care-facilities
+ASTH,"Astrana Health, Inc.",healthcare,medical-care-facilities
+MD,"Pediatrix Medical Group, Inc.",healthcare,medical-care-facilities
+SGRY,"Surgery Partners, Inc.",healthcare,medical-care-facilities
+ADUS,Addus HomeCare Corporation,healthcare,medical-care-facilities
+CMPS,COMPASS Pathways plc,healthcare,medical-care-facilities
+AGL,"agilon health, inc.",healthcare,medical-care-facilities
+SNDA,"Sonida Senior Living, Inc.",healthcare,medical-care-facilities
+AVAH,Aveanna Healthcare Holdings Inc.,healthcare,medical-care-facilities
+HCSG,"Healthcare Services Group, Inc.",healthcare,medical-care-facilities
+ARDT,"Ardent Health, Inc.",healthcare,medical-care-facilities
+AMN,"AMN Healthcare Services, Inc.",healthcare,medical-care-facilities
+PNTG,"The Pennant Group, Inc.",healthcare,medical-care-facilities
+INNV,InnovAge Holding Corp.,healthcare,medical-care-facilities
+USPH,"U.S. Physical Therapy, Inc.",healthcare,medical-care-facilities
+NUTX,Nutex Health Inc.,healthcare,medical-care-facilities
+MCTA,Charming Medical Limited,healthcare,medical-care-facilities
+SRTA,"Strata Critical Medical, Inc.",healthcare,medical-care-facilities
+TOI,"The Oncology Institute, Inc.",healthcare,medical-care-facilities
+CCRN,"Cross Country Healthcare, Inc.",healthcare,medical-care-facilities
+CYH,"Community Health Systems, Inc.",healthcare,medical-care-facilities
+AIRS,"AirSculpt Technologies, Inc.",healthcare,medical-care-facilities
+AUNA,Auna S.A.,healthcare,medical-care-facilities
+WW,"WW International, Inc.",healthcare,medical-care-facilities
+JYNT,The Joint Corp.,healthcare,medical-care-facilities
+PARK,"Park Dental Partners, Inc.",healthcare,medical-care-facilities
+PIII,P3 Health Partners Inc.,healthcare,medical-care-facilities
+BTMD,biote Corp.,healthcare,medical-care-facilities
+DCGO,DocGo Inc.,healthcare,medical-care-facilities
+CCEL,"Cryo-Cell International, Inc.",healthcare,medical-care-facilities
+CCM,Concord Medical Services Holdings Limited,healthcare,medical-care-facilities
+BMGL,Basel Medical Group Ltd,healthcare,medical-care-facilities
+AMS,American Shared Hospital Services,healthcare,medical-care-facilities
+NIVF,NewGenIvf Group Limited,healthcare,medical-care-facilities
+TMO,Thermo Fisher Scientific Inc.,healthcare,diagnostics-and-research
+DHR,Danaher Corporation,healthcare,diagnostics-and-research
+IDXX,"IDEXX Laboratories, Inc.",healthcare,diagnostics-and-research
+A,"Agilent Technologies, Inc.",healthcare,diagnostics-and-research
+WAT,Waters Corporation,healthcare,diagnostics-and-research
+NTRA,"Natera, Inc.",healthcare,diagnostics-and-research
+IQV,IQVIA Holdings Inc.,healthcare,diagnostics-and-research
+ILMN,"Illumina, Inc.",healthcare,diagnostics-and-research
+MTD,Mettler-Toledo International Inc.,healthcare,diagnostics-and-research
+DGX,Quest Diagnostics Incorporated,healthcare,diagnostics-and-research
+LH,Labcorp Holdings Inc.,healthcare,diagnostics-and-research
+GH,"Guardant Health, Inc.",healthcare,diagnostics-and-research
+MEDP,"Medpace Holdings, Inc.",healthcare,diagnostics-and-research
+ICLR,ICON Public Limited Company,healthcare,diagnostics-and-research
+RVTY,"Revvity, Inc.",healthcare,diagnostics-and-research
+CRL,"Charles River Laboratories International, Inc.",healthcare,diagnostics-and-research
+QGEN,Qiagen N.V.,healthcare,diagnostics-and-research
+BLLN,"BillionToOne, Inc.",healthcare,diagnostics-and-research
+SHC,Sotera Health Company,healthcare,diagnostics-and-research
+TWST,Twist Bioscience Corporation,healthcare,diagnostics-and-research
+RDNT,"RadNet, Inc.",healthcare,diagnostics-and-research
+VCYT,"Veracyte, Inc.",healthcare,diagnostics-and-research
+ADPT,Adaptive Biotechnologies Corporation,healthcare,diagnostics-and-research
+GRAL,"GRAIL, Inc.",healthcare,diagnostics-and-research
+WGS,GeneDx Holdings Corp.,healthcare,diagnostics-and-research
+NEO,"NeoGenomics, Inc.",healthcare,diagnostics-and-research
+CDNA,"CareDx, Inc.",healthcare,diagnostics-and-research
+PSNL,"Personalis, Inc.",healthcare,diagnostics-and-research
+OPK,"OPKO Health, Inc.",healthcare,diagnostics-and-research
+CSTL,"Castle Biosciences, Inc.",healthcare,diagnostics-and-research
+FLGT,"Fulgent Genetics, Inc.",healthcare,diagnostics-and-research
+MYGN,"Myriad Genetics, Inc.",healthcare,diagnostics-and-research
+PRE,Prenetics Global Limited,healthcare,diagnostics-and-research
+IMDX,Insight Molecular Diagnostics Inc.,healthcare,diagnostics-and-research
+BDSX,"Biodesix, Inc.",healthcare,diagnostics-and-research
+XGN,Exagen Inc.,healthcare,diagnostics-and-research
+BNR,Burning Rock Biotech Limited,healthcare,diagnostics-and-research
+PRPO,"Precipio, Inc.",healthcare,diagnostics-and-research
+MDXH,MDxHealth SA,healthcare,diagnostics-and-research
+QUCY,Quantum Cyber N.V.,healthcare,diagnostics-and-research
+XWEL,"XWELL, Inc.",healthcare,diagnostics-and-research
+MBAI,Check-Cap Ltd.,healthcare,diagnostics-and-research
+BIAF,"bioAffinity Technologies, Inc.",healthcare,diagnostics-and-research
+ADVB,Advanced Biomed Inc.,healthcare,diagnostics-and-research
+NOTV,"Inotiv, Inc.",healthcare,diagnostics-and-research
+NDRA,ENDRA Life Sciences Inc.,healthcare,diagnostics-and-research
+ISPC,iSpecimen Inc.,healthcare,diagnostics-and-research
+VEEV,Veeva Systems Inc.,healthcare,health-information-services
+BTSG,"BrightSpring Health Services, Inc.",healthcare,health-information-services
+TEM,"Tempus AI, Inc.",healthcare,health-information-services
+HQY,"HealthEquity, Inc.",healthcare,health-information-services
+HNGE,"Hinge Health, Inc.",healthcare,health-information-services
+TXG,"10x Genomics, Inc.",healthcare,health-information-services
+WAY,Waystar Holding Corp.,healthcare,health-information-services
+DOCS,"Doximity, Inc.",healthcare,health-information-services
+PRVA,"Privia Health Group, Inc.",healthcare,health-information-services
+HTFL,"HeartFlow, Inc.",healthcare,health-information-services
+OMCL,"Omnicell, Inc.",healthcare,health-information-services
+TDOC,"Teladoc Health, Inc.",healthcare,health-information-services
+SDGR,"SchrÃ¶dinger, Inc.",healthcare,health-information-services
+OMDA,"Omada Health, Inc.",healthcare,health-information-services
+GDRX,"GoodRx Holdings, Inc.",healthcare,health-information-services
+TALK,"Talkspace, Inc.",healthcare,health-information-services
+CERT,"Certara, Inc.",healthcare,health-information-services
+HSTM,"HealthStream, Inc.",healthcare,health-information-services
+PHR,"Phreesia, Inc.",healthcare,health-information-services
+EVH,"Evolent Health, Inc.",healthcare,health-information-services
+WEAV,"Weave Communications, Inc.",healthcare,health-information-services
+CTEV,Claritev Corporation,healthcare,health-information-services
+NRC,NRC Health,healthcare,health-information-services
+TBRG,"TruBridge, Inc.",healthcare,health-information-services
+SOPH,SOPHiA GENETICS SA,healthcare,health-information-services
+SLP,"Simulations Plus, Inc.",healthcare,health-information-services
+CARL,"Carlsmed, Inc.",healthcare,health-information-services
+LFMD,"LifeMD, Inc.",healthcare,health-information-services
+SPOK,"Spok Holdings, Inc.",healthcare,health-information-services
+SY,So-Young International Inc.,healthcare,health-information-services
+AMWL,American Well Corporation,healthcare,health-information-services
+HCAT,"Health Catalyst, Inc.",healthcare,health-information-services
+DH,Definitive Healthcare Corp.,healthcare,health-information-services
+CCLD,"CareCloud, Inc.",healthcare,health-information-services
+OPRX,OptimizeRx Corporation,healthcare,health-information-services
+DRIO,DarioHealth Corp.,healthcare,health-information-services
+BEAT,"HeartBeam, Inc.",healthcare,health-information-services
+ONMD,OneMedNet Corporation,healthcare,health-information-services
+BFRG,"Bullfrog AI Holdings, Inc.",healthcare,health-information-services
+ACON,"Aclarion, Inc.",healthcare,health-information-services
+VSEE,"VSee Health, Inc.",healthcare,health-information-services
+MGRX,"Mangoceuticals, Inc.",healthcare,health-information-services
+HCTI,"Healthcare Triangle, Inc.",healthcare,health-information-services
+MNDR,Mobile-health Network Solutions,healthcare,health-information-services
+ZCMD,Zhongchao Inc.,healthcare,health-information-services
+LLY,Eli Lilly and Company,healthcare,drug-manufacturers-general
+JNJ,Johnson & Johnson,healthcare,drug-manufacturers-general
+ABBV,AbbVie Inc.,healthcare,drug-manufacturers-general
+MRK,"Merck & Co., Inc.",healthcare,drug-manufacturers-general
+AZN,AstraZeneca PLC,healthcare,drug-manufacturers-general
+NVS,Novartis AG,healthcare,drug-manufacturers-general
+NVO,Novo Nordisk A/S,healthcare,drug-manufacturers-general
+AMGN,Amgen Inc.,healthcare,drug-manufacturers-general
+GILD,"Gilead Sciences, Inc.",healthcare,drug-manufacturers-general
+PFE,Pfizer Inc.,healthcare,drug-manufacturers-general
+BMY,Bristol-Myers Squibb Company,healthcare,drug-manufacturers-general
+SNY,Sanofi,healthcare,drug-manufacturers-general
+GSK,GSK plc,healthcare,drug-manufacturers-general
+BIIB,Biogen Inc.,healthcare,drug-manufacturers-general
+GRFS,"Grifols, S.A.",healthcare,drug-manufacturers-general
+OGN,Organon & Co.,healthcare,drug-manufacturers-general
+AMRN,Amarin Corporation plc,healthcare,drug-manufacturers-general
+SCLX,Scilex Holding Company,healthcare,drug-manufacturers-general
+MIRA,"MIRA Pharmaceuticals, Inc.",healthcare,drug-manufacturers-general
+NSRX,Nasus Pharma Ltd.,healthcare,drug-manufacturers-general
+MDCX,Medicus Pharma Ltd.,healthcare,drug-manufacturers-general
+MCK,McKesson Corporation,healthcare,medical-distribution
+COR,"Cencora, Inc.",healthcare,medical-distribution
+CAH,"Cardinal Health, Inc.",healthcare,medical-distribution
+HSIC,"Henry Schein, Inc.",healthcare,medical-distribution
+AHG,Akso Health Group,healthcare,medical-distribution
+ACH,"Accendra Health, Inc.",healthcare,medical-distribution
+EMPG,Empro Group Inc.,healthcare,medical-distribution
+YI,"111, Inc.",healthcare,medical-distribution
+COSM,Cosmos Health Inc.,healthcare,medical-distribution
+HKPD,"Cellyan Biotechnology Co., Ltd",healthcare,medical-distribution
+SNYR,Synergy CHC Corp.,healthcare,medical-distribution
+UNH,UnitedHealth Group Incorporated,healthcare,healthcare-plans
+CVS,CVS Health Corporation,healthcare,healthcare-plans
+ELV,"Elevance Health, Inc.",healthcare,healthcare-plans
+CI,The Cigna Group,healthcare,healthcare-plans
+HUM,Humana Inc.,healthcare,healthcare-plans
+CNC,Centene Corporation,healthcare,healthcare-plans
+MOH,"Molina Healthcare, Inc.",healthcare,healthcare-plans
+OSCR,"Oscar Health, Inc.",healthcare,healthcare-plans
+ALHC,"Alignment Healthcare, Inc.",healthcare,healthcare-plans
+PGNY,"Progyny, Inc.",healthcare,healthcare-plans
+CLOV,"Clover Health Investments, Corp.",healthcare,healthcare-plans
+HITI,High Tide Inc.,healthcare,pharmaceutical-retailers
+PETS,"PetMed Express, Inc.",healthcare,pharmaceutical-retailers
+SCNX,"Scienture Holdings, Inc.",healthcare,pharmaceutical-retailers
+POM,Pomdoctor Limited,healthcare,pharmaceutical-retailers
+WGRX,"Wellgistics Health, Inc.",healthcare,pharmaceutical-retailers
+RDGT,"Ridgetech, Inc.",healthcare,pharmaceutical-retailers
+HDB,HDFC Bank Limited,financials,banks-regional
+MFG,"Mizuho Financial Group, Inc.",financials,banks-regional
+IBN,ICICI Bank Limited,financials,banks-regional
+PNC,"The PNC Financial Services Group, Inc.",financials,banks-regional
+USB,U.S. Bancorp,financials,banks-regional
+ITUB,ItaÃº Unibanco Holding S.A.,financials,banks-regional
+LYG,Lloyds Banking Group plc,financials,banks-regional
+NWG,NatWest Group plc,financials,banks-regional
+TFC,Truist Financial Corporation,financials,banks-regional
+DB,Deutsche Bank Aktiengesellschaft,financials,banks-regional
+NU,Nu Holdings Ltd.,financials,banks-regional
+FITB,Fifth Third Bancorp,financials,banks-regional
+KB,KB Financial Group Inc.,financials,banks-regional
+BBD,Banco Bradesco S.A.,financials,banks-regional
+HBAN,Huntington Bancshares Incorporated,financials,banks-regional
+SHG,"Shinhan Financial Group Co., Ltd.",financials,banks-regional
+MTB,M&T Bank Corporation,financials,banks-regional
+CFG,"Citizens Financial Group, Inc.",financials,banks-regional
+FCNCA,"First Citizens BancShares, Inc.",financials,banks-regional
+BAP,Credicorp Ltd.,financials,banks-regional
+RF,Regions Financial Corporation,financials,banks-regional
+KEY,KeyCorp,financials,banks-regional
+BSBR,Banco Santander (Brasil) S.A.,financials,banks-regional
+CIB,Grupo Cibest S.A.,financials,banks-regional
+BCH,Banco de Chile,financials,banks-regional
+EWBC,"East West Bancorp, Inc.",financials,banks-regional
+WF,Woori Financial Group Inc.,financials,banks-regional
+PNFP,"Pinnacle Financial Partners, Inc.",financials,banks-regional
+BSAC,Banco Santander-Chile,financials,banks-regional
+WBS,Webster Financial Corporation,financials,banks-regional
+FHN,First Horizon Corporation,financials,banks-regional
+WTFC,Wintrust Financial Corporation,financials,banks-regional
+BPOP,"Popular, Inc.",financials,banks-regional
+UMBF,UMB Financial Corporation,financials,banks-regional
+SSB,SouthState Bank Corporation,financials,banks-regional
+ZION,"Zions Bancorporation, National Association",financials,banks-regional
+ONB,Old National Bancorp,financials,banks-regional
+CFR,"Cullen/Frost Bankers, Inc.",financials,banks-regional
+WAL,Western Alliance Bancorporation,financials,banks-regional
+COLB,"Columbia Banking System, Inc.",financials,banks-regional
+GGAL,Grupo Financiero Galicia S.A.,financials,banks-regional
+BOKF,BOK Financial Corporation,financials,banks-regional
+CBSH,"Commerce Bancshares, Inc.",financials,banks-regional
+VLY,Valley National Bancorp,financials,banks-regional
+PB,"Prosperity Bancshares, Inc.",financials,banks-regional
+CBC,"Central Bancompany, Inc.",financials,banks-regional
+FNB,F.N.B. Corporation,financials,banks-regional
+GBCI,"Glacier Bancorp, Inc.",financials,banks-regional
+UBSI,"United Bankshares, Inc.",financials,banks-regional
+FLG,"Flagstar Bank, National Association",financials,banks-regional
+ABCB,Ameris Bancorp,financials,banks-regional
+BMA,Banco Macro S.A.,financials,banks-regional
+HWC,Hancock Whitney Corporation,financials,banks-regional
+AVAL,Grupo Aval Acciones y Valores S.A.,financials,banks-regional
+HOMB,"Home BancShares, Inc.",financials,banks-regional
+AUB,Atlantic Union Bankshares Corporation,financials,banks-regional
+OZK,Bank OZK,financials,banks-regional
+IFS,Intercorp Financial Services Inc.,financials,banks-regional
+AX,"Axos Financial, Inc.",financials,banks-regional
+FFIN,"First Financial Bankshares, Inc.",financials,banks-regional
+TFSL,TFS Financial Corporation,financials,banks-regional
+IBOC,International Bancshares Corporation,financials,banks-regional
+ASB,Associated Banc-Corp,financials,banks-regional
+TCBI,"Texas Capital Bancshares, Inc.",financials,banks-regional
+EBC,"Eastern Bankshares, Inc.",financials,banks-regional
+SFBS,"ServisFirst Bancshares, Inc.",financials,banks-regional
+FULT,Fulton Financial Corporation,financials,banks-regional
+UCB,"United Community Banks, Inc.",financials,banks-regional
+CATY,Cathay General Bancorp,financials,banks-regional
+INDB,Independent Bank Corp.,financials,banks-regional
+RNST,Renasant Corporation,financials,banks-regional
+FBP,First BanCorp.,financials,banks-regional
+WSFS,WSFS Financial Corporation,financials,banks-regional
+BBAR,Banco BBVA Argentina S.A.,financials,banks-regional
+BANF,BancFirst Corporation,financials,banks-regional
+CVBF,CVB Financial Corp.,financials,banks-regional
+FIBK,"First Interstate BancSystem, Inc.",financials,banks-regional
+BKU,"BankUnited, Inc.",financials,banks-regional
+CBU,"Community Financial System, Inc.",financials,banks-regional
+FHB,"First Hawaiian, Inc.",financials,banks-regional
+MCHB,Mechanics Bancorp,financials,banks-regional
+WSBC,"WesBanco, Inc.",financials,banks-regional
+FFBC,First Financial Bancorp.,financials,banks-regional
+PRK,Park National Corporation,financials,banks-regional
+SFNC,Simmons First National Corporation,financials,banks-regional
+TOWN,TowneBank,financials,banks-regional
+BOH,Bank of Hawaii Corporation,financials,banks-regional
+BANC,"Banc of California, Inc.",financials,banks-regional
+PFS,"Provident Financial Services, Inc.",financials,banks-regional
+NIC,"Nicolet Bankshares, Inc.",financials,banks-regional
+SBCF,Seacoast Banking Corporation of Florida,financials,banks-regional
+FBK,FB Financial Corporation,financials,banks-regional
+WAFD,"WaFd, Inc.",financials,banks-regional
+TRMK,Trustmark Corporation,financials,banks-regional
+FRME,First Merchants Corporation,financials,banks-regional
+INTR,"Inter & Co, Inc.",financials,banks-regional
+CUBI,"Customers Bancorp, Inc.",financials,banks-regional
+FBNC,First Bancorp,financials,banks-regional
+BBT,Beacon Financial Corporation,financials,banks-regional
+NBTB,NBT Bancorp Inc.,financials,banks-regional
+BUSE,First Busey Corporation,financials,banks-regional
+TBBK,"The Bancorp, Inc.",financials,banks-regional
+EFSC,Enterprise Financial Services Corp,financials,banks-regional
+SYBT,"Stock Yards Bancorp, Inc.",financials,banks-regional
+BANR,Banner Corporation,financials,banks-regional
+MBIN,Merchants Bancorp,financials,banks-regional
+CLBK,"Columbia Financial, Inc.",financials,banks-regional
+BLX,"Banco Latinoamericano de Comercio Exterior, S. A.",financials,banks-regional
+NWBI,"Northwest Bancshares, Inc.",financials,banks-regional
+LC,LendingClub Corporation,financials,banks-regional
+OFG,OFG Bancorp,financials,banks-regional
+FCF,First Commonwealth Financial Corporation,financials,banks-regional
+STEL,"Stellar Bancorp, Inc.",financials,banks-regional
+NBHC,National Bank Holdings Corporation,financials,banks-regional
+SRCE,1st Source Corporation,financials,banks-regional
+CHCO,City Holding Company,financials,banks-regional
+LOB,"Live Oak Bancshares, Inc.",financials,banks-regional
+TFIN,"Triumph Financial, Inc.",financials,banks-regional
+CASH,"Pathward Financial, Inc.",financials,banks-regional
+FSUN,FirstSun Capital Bancorp,financials,banks-regional
+DCOM,"Dime Commercial Bancshares, Inc.",financials,banks-regional
+GABC,"German American Bancorp, Inc.",financials,banks-regional
+RBCAA,"Republic Bancorp, Inc.",financials,banks-regional
+STBA,"S&T Bancorp, Inc.",financials,banks-regional
+TCBK,TriCo Bancshares,financials,banks-regional
+HOPE,"Hope Bancorp, Inc.",financials,banks-regional
+BFC,Bank First Corporation,financials,banks-regional
+QCRH,"QCR Holdings, Inc.",financials,banks-regional
+CNOB,"ConnectOne Bancorp, Inc.",financials,banks-regional
+BY,"Byline Bancorp, Inc.",financials,banks-regional
+LKFN,Lakeland Financial Corporation,financials,banks-regional
+OBK,"Origin Bancorp, Inc.",financials,banks-regional
+WABC,Westamerica Bancorporation,financials,banks-regional
+BHRB,Burke & Herbert Financial Services Corp.,financials,banks-regional
+AMAL,Amalgamated Financial Corp.,financials,banks-regional
+PEBO,Peoples Bancorp Inc.,financials,banks-regional
+TMP,Tompkins Financial Corporation,financials,banks-regional
+CTBI,"Community Trust Bancorp, Inc.",financials,banks-regional
+FMBH,"First Mid Bancshares, Inc.",financials,banks-regional
+PFBC,Preferred Bank,financials,banks-regional
+HFWA,Heritage Financial Corporation,financials,banks-regional
+UVSP,Univest Financial Corporation,financials,banks-regional
+MCB,Metropolitan Bank Holding Corp.,financials,banks-regional
+OSBC,"Old Second Bancorp, Inc.",financials,banks-regional
+AGBK,AGI Inc,financials,banks-regional
+CCB,Coastal Financial Corporation,financials,banks-regional
+HBT,"HBT Financial, Inc.",financials,banks-regional
+OCFC,OceanFirst Financial Corp.,financials,banks-regional
+NBN,Northeast Bank,financials,banks-regional
+SBSI,"Southside Bancshares, Inc.",financials,banks-regional
+CFFN,"Capitol Federal Financial, Inc.",financials,banks-regional
+MCBS,"MetroCity Bankshares, Inc.",financials,banks-regional
+EQBK,"Equity Bancshares, Inc.",financials,banks-regional
+HBNC,"Horizon Bancorp, Inc.",financials,banks-regional
+BFST,"Business First Bancshares, Inc.",financials,banks-regional
+FSBC,Five Star Bancorp,financials,banks-regional
+CPF,Central Pacific Financial Corp.,financials,banks-regional
+TRST,TrustCo Bank Corp NY,financials,banks-regional
+MBWM,Mercantile Bank Corporation,financials,banks-regional
+CCNE,CNB Financial Corporation,financials,banks-regional
+AMTB,Amerant Bancorp Inc.,financials,banks-regional
+HAFC,Hanmi Financial Corporation,financials,banks-regional
+ESQ,"Esquire Financial Holdings, Inc.",financials,banks-regional
+SUPV,Grupo Supervielle S.A.,financials,banks-regional
+CAC,Camden National Corporation,financials,banks-regional
+THFF,First Financial Corporation,financials,banks-regional
+FMNB,Farmers National Banc Corp.,financials,banks-regional
+MPB,"Mid Penn Bancorp, Inc.",financials,banks-regional
+EGBN,"Eagle Bancorp, Inc.",financials,banks-regional
+NBBK,"NB Bancorp, Inc.",financials,banks-regional
+FCBC,"First Community Bankshares, Inc.",financials,banks-regional
+GSBC,"Great Southern Bancorp, Inc.",financials,banks-regional
+SPFI,"South Plains Financial, Inc.",financials,banks-regional
+HTB,"HomeTrust Bancshares, Inc.",financials,banks-regional
+CCBG,"Capital City Bank Group, Inc.",financials,banks-regional
+PGC,Peapack-Gladstone Financial Corporation,financials,banks-regional
+SMBC,"Southern Missouri Bancorp, Inc.",financials,banks-regional
+ORRF,"Orrstown Financial Services, Inc.",financials,banks-regional
+FISI,"Financial Institutions, Inc.",financials,banks-regional
+ALRS,Alerus Financial Corporation,financials,banks-regional
+SMBK,"SmartFinancial, Inc.",financials,banks-regional
+IBCP,Independent Bank Corporation,financials,banks-regional
+SHBI,"Shore Bancshares, Inc.",financials,banks-regional
+CWBC,Community West Bancshares,financials,banks-regional
+TCBX,"Third Coast Bancshares, Inc.",financials,banks-regional
+WASH,"Washington Trust Bancorp, Inc.",financials,banks-regional
+CARE,"Carter Bankshares, Inc.",financials,banks-regional
+HIFS,Hingham Institution for Savings,financials,banks-regional
+VBNK,VersaBank,financials,banks-regional
+BCAL,California BanCorp,financials,banks-regional
+AROW,Arrow Financial Corporation,financials,banks-regional
+NPB,"Northpointe Bancshares, Inc.",financials,banks-regional
+BHB,Bar Harbor Bankshares,financials,banks-regional
+PFIS,Peoples Financial Services Corp.,financials,banks-regional
+RRBI,"Red River Bancshares, Inc.",financials,banks-regional
+NFBK,"Northfield Bancorp, Inc.",financials,banks-regional
+MSBI,"Midland States Bancorp, Inc.",financials,banks-regional
+ACNB,ACNB Corporation,financials,banks-regional
+SFST,"Southern First Bancshares, Inc.",financials,banks-regional
+UNTY,"Unity Bancorp, Inc.",financials,banks-regional
+NRIM,"Northrim BanCorp, Inc.",financials,banks-regional
+CIVB,"Civista Bancshares, Inc.",financials,banks-regional
+BWB,"Bridgewater Bancshares, Inc.",financials,banks-regional
+CBNK,"Capital Bancorp, Inc.",financials,banks-regional
+KRNY,Kearny Financial Corp.,financials,banks-regional
+HBCP,"Home Bancorp, Inc.",financials,banks-regional
+BSRR,Sierra Bancorp,financials,banks-regional
+FBIZ,"First Business Financial Services, Inc.",financials,banks-regional
+COFS,"ChoiceOne Financial Services, Inc.",financials,banks-regional
+GCBC,"Greene County Bancorp, Inc.",financials,banks-regional
+OBT,"Orange County Bancorp, Inc.",financials,banks-regional
+PDLB,"Ponce Financial Group, Inc.",financials,banks-regional
+BSVN,Bank7 Corp.,financials,banks-regional
+CBAN,"Colony Bankcorp, Inc.",financials,banks-regional
+GBFH,GBank Financial Holdings Inc.,financials,banks-regional
+BWFG,"Bankwell Financial Group, Inc.",financials,banks-regional
+BMRC,Bank of Marin Bancorp,financials,banks-regional
+WTBA,"West Bancorporation, Inc.",financials,banks-regional
+CBK,"Commercial Bancgroup, Inc.",financials,banks-regional
+RBB,RBB Bancorp,financials,banks-regional
+FRBA,First Bank,financials,banks-regional
+ISTR,Investar Holding Corporation,financials,banks-regional
+PBFS,"Pioneer Bancorp, Inc.",financials,banks-regional
+CZNC,Citizens & Northern Corporation,financials,banks-regional
+FMAO,"Farmers & Merchants Bancorp, Inc.",financials,banks-regional
+NEWT,"NewtekOne, Inc.",financials,banks-regional
+PLBC,Plumas Bancorp,financials,banks-regional
+FRST,Primis Financial Corp.,financials,banks-regional
+PKBK,"Parke Bancorp, Inc.",financials,banks-regional
+MVBF,MVB Financial Corp.,financials,banks-regional
+PCB,PCB Bancorp,financials,banks-regional
+AVBC,"Avidia Bancorp, Inc.",financials,banks-regional
+BCML,BayCom Corp,financials,banks-regional
+USCB,"USCB Financial Holdings, Inc.",financials,banks-regional
+CHMG,Chemung Financial Corporation,financials,banks-regional
+AVBH,"Avidbank Holdings, Inc.",financials,banks-regional
+FNLC,"The First Bancorp, Inc.",financials,banks-regional
+NWFL,Norwood Financial Corp.,financials,banks-regional
+TSBK,"Timberland Bancorp, Inc.",financials,banks-regional
+WSBF,"Waterstone Financial, Inc.",financials,banks-regional
+CZFS,"Citizens Financial Services, Inc.",financials,banks-regional
+COSO,"CoastalSouth Bancshares, Inc.",financials,banks-regional
+NECB,"Northeast Community Bancorp, Inc.",financials,banks-regional
+ISBA,Isabella Bank Corporation,financials,banks-regional
+JMSB,"John Marshall Bancorp, Inc.",financials,banks-regional
+FCCO,First Community Corporation,financials,banks-regional
+BRBS,"Blue Ridge Bankshares, Inc.",financials,banks-regional
+FVCB,"FVCBankcorp, Inc.",financials,banks-regional
+MYFW,"First Western Financial, Inc.",financials,banks-regional
+OVLY,Oak Valley Bancorp,financials,banks-regional
+FNRN,First Northern Community Bancorp,financials,banks-regional
+FDBC,"Fidelity D & D Bancorp, Inc.",financials,banks-regional
+WNEB,"Western New England Bancorp, Inc.",financials,banks-regional
+ATLO,Ames National Corporation,financials,banks-regional
+FRAF,Franklin Financial Services Corporation,financials,banks-regional
+FXNC,First National Corporation,financials,banks-regional
+FUNC,First United Corporation,financials,banks-regional
+HWBK,"Hawthorn Bancshares, Inc.",financials,banks-regional
+CFFI,C&F Financial Corporation,financials,banks-regional
+BPRN,"Princeton Bancorp, Inc.",financials,banks-regional
+LCNB,LCNB Corp.,financials,banks-regional
+CBNA,"Chain Bridge Bancorp, Inc.",financials,banks-regional
+VABK,Virginia National Bankshares Corporation,financials,banks-regional
+PEBK,"Peoples Bancorp of North Carolina, Inc.",financials,banks-regional
+OVBC,Ohio Valley Banc Corp.,financials,banks-regional
+MRBK,Meridian Corporation,financials,banks-regional
+NKSH,"National Bankshares, Inc.",financials,banks-regional
+FCAP,"First Capital, Inc.",financials,banks-regional
+EFSI,"Eagle Financial Services, Inc.",financials,banks-regional
+FSBW,"FS Bancorp, Inc.",financials,banks-regional
+INBK,First Internet Bancorp,financials,banks-regional
+OPBK,OP Bancorp,financials,banks-regional
+FBLA,"FB Bancorp, Inc.",financials,banks-regional
+FINW,FinWise Bancorp,financials,banks-regional
+CZWI,"Citizens Community Bancorp, Inc.",financials,banks-regional
+BCBP,"BCB Bancorp, Inc.",financials,banks-regional
+CFBK,CF Bankshares Inc.,financials,banks-regional
+EBMT,"Eagle Bancorp Montana, Inc.",financials,banks-regional
+RBKB,"Rhinebeck Bancorp, Inc.",financials,banks-regional
+LARK,"Landmark Bancorp, Inc.",financials,banks-regional
+CBFV,"CB Financial Services, Inc.",financials,banks-regional
+HNVR,"Hanover Bancorp, Inc.",financials,banks-regional
+MNSB,"MainStreet Bancshares, Inc.",financials,banks-regional
+BVFL,"BV Financial, Inc.",financials,banks-regional
+ECBK,"ECB Bancorp, Inc.",financials,banks-regional
+FGBI,"First Guaranty Bancshares, Inc.",financials,banks-regional
+SRBK,"SR Bancorp, Inc.",financials,banks-regional
+RMBI,"Richmond Mutual Bancorporation, Inc.",financials,banks-regional
+FNWD,Finward Bancorp,financials,banks-regional
+SBFG,"SB Financial Group, Inc.",financials,banks-regional
+AFBI,"Affinity Bancshares, Inc.",financials,banks-regional
+HYNE,"Hoyne Bancorp, Inc.",financials,banks-regional
+LSBK,"Lake Shore Bancorp, Inc.",financials,banks-regional
+PNBK,"Patriot National Bancorp, Inc.",financials,banks-regional
+WSBK,"Winchester Bancorp, Inc.",financials,banks-regional
+RVSB,"Riverview Bancorp, Inc.",financials,banks-regional
+BSBK,Bogota Financial Corp.,financials,banks-regional
+MGYR,"Magyar Bancorp, Inc.",financials,banks-regional
+SFBC,"Sound Financial Bancorp, Inc.",financials,banks-regional
+UNB,"Union Bankshares, Inc.",financials,banks-regional
+PROV,"Provident Financial Holdings, Inc.",financials,banks-regional
+BOTJ,"Bank of the James Financial Group, Inc.",financials,banks-regional
+UBCP,"United Bancorp, Inc.",financials,banks-regional
+FNWB,First Northwest Bancorp,financials,banks-regional
+SSBI,Summit State Bank,financials,banks-regional
+BYFC,Broadway Financial Corporation,financials,banks-regional
+FUSB,"First US Bancshares, Inc.",financials,banks-regional
+AUBN,"Auburn National Bancorporation, Inc.",financials,banks-regional
+PBHC,"Pathfinder Bancorp, Inc.",financials,banks-regional
+FDSB,"Fifth District Bancorp, Inc.",financials,banks-regional
+FSEA,"First Seacoast Bancorp, Inc.",financials,banks-regional
+CPBI,"Central Plains Bancshares, Inc.",financials,banks-regional
+NSTS,"NSTS Bancorp, Inc.",financials,banks-regional
+OPHC,"OptimumBank Holdings, Inc.",financials,banks-regional
+CLST,"Catalyst Bancorp, Inc.",financials,banks-regional
+ASRV,"AmeriServ Financial, Inc.",financials,banks-regional
+HFBL,"Home Federal Bancorp, Inc. of Louisiana",financials,banks-regional
+TCBS,"Texas Community Bancshares, Inc.",financials,banks-regional
+MBBC,"Marathon Bancorp, Inc.",financials,banks-regional
+KFFB,Kentucky First Federal Bancorp,financials,banks-regional
+BAFN,BayFirst Financial Corp.,financials,banks-regional
+SHFS,"SHF Holdings, Inc.",financials,banks-regional
+XXI,"Twenty One Capital, Inc.",financials,shell-companies
+DMII,Drugs Made In America Acquisition II Corp.,financials,shell-companies
+BCSS,Bain Capital GSS Investment Corp.,financials,shell-companies
+EVAC,EQV Ventures Acquisition Corp. II,financials,shell-companies
+CEPF,"Cantor Equity Partners IV, Inc.",financials,shell-companies
+CCXI,Churchill Capital Corp XI,financials,shell-companies
+AEXA,American Exceptionalism Acquisition Corp. A,financials,shell-companies
+NWAX,New America Acquisition I Corp.,financials,shell-companies
+CXII,Churchill Capital Corp XII,financials,shell-companies
+MLAA,Mountain Lake Acquisition Corp. II,financials,shell-companies
+KRSP,Rice Acquisition Corporation 3,financials,shell-companies
+CRAN,Crane Harbor Acquisition Corp. II,financials,shell-companies
+ANSC,Agriculture & Natural Solutions Acquisition Corporation,financials,shell-companies
+GTEN,"Gores Holdings X, Inc.",financials,shell-companies
+APXT,Apex Treasury Corporation,financials,shell-companies
+KBON,Karbon Capital Partners Corp.,financials,shell-companies
+BCAR,D. Boral ARC Acquisition I Corp.,financials,shell-companies
+IEAG,Infinite Eagle Acquisition Corp.,financials,shell-companies
+MBVI,M3-Brigade Acquisition Vi Corp.,financials,shell-companies
+IACO,Idea Acquisition Corp.,financials,shell-companies
+DBCA,D. Boral Acquisition I Corp.,financials,shell-companies
+MESH,Meshflow Acquisition Corp.,financials,shell-companies
+KRAQ,KRAKacquisition Corp.,financials,shell-companies
+KFII,K&F Growth Acquisition Corp. II,financials,shell-companies
+GCGR,General Catalyst Global Resilience Merger Corp.,financials,shell-companies
+CLBR,Colombier Acquisition Corp. III,financials,shell-companies
+CGCT,Cartesian Growth Corporation III,financials,shell-companies
+BBCQ,Bleichroeder Acquisition Corp. II,financials,shell-companies
+MEVO,M Evo Global Acquisition Corp II,financials,shell-companies
+NPAC,New Providence Acquisition Corp. III,financials,shell-companies
+CCIX,Churchill Capital Corp IX,financials,shell-companies
+TACO,Berto Acquisition Corp.,financials,shell-companies
+ALF,Centurion Acquisition Corp.,financials,shell-companies
+GPAT,GP-Act III Acquisition Corp.,financials,shell-companies
+ZKP,Lafayette Digital Acquisition Corp. I,financials,shell-companies
+MBAV,M3-Brigade Acquisition V Corp.,financials,shell-companies
+RDAG,Republic Digital Acquisition Company,financials,shell-companies
+WENN,Wen Acquisition Corp.,financials,shell-companies
+HACQ,HCM IV Acquisition Corp.,financials,shell-companies
+ALOV,"Aldabra 4 Liquidity Opportunity Vehicle, Inc.",financials,shell-companies
+CEPT,"Cantor Equity Partners II, Inc.",financials,shell-companies
+FCRS,FutureCrest Acquisition Corp.,financials,shell-companies
+GIW,GigCapital8 Corp.,financials,shell-companies
+FVAV,Fortress Value Acquisition Corp. V,financials,shell-companies
+SDHI,Siddhi Acquisition Corp.,financials,shell-companies
+GIX,GigCapital9 Corp.,financials,shell-companies
+OIM,OneIM Acquisition Corp.,financials,shell-companies
+MZYX,MOZAYYX Acquisition Corp.,financials,shell-companies
+TACH,Titan Acquisition Corp,financials,shell-companies
+DMAA,Drugs Made In America Acquisition Corp.,financials,shell-companies
+CCII,Cohen Circle Acquisition Corp. II,financials,shell-companies
+IPCX,Inflection Point Acquisition Corp. III,financials,shell-companies
+KCHV,Kochav Defense Acquisition Corp.,financials,shell-companies
+HCIC,Hennessy Capital Investment Corp. VIII,financials,shell-companies
+SOUL,Soulpower Acquisition Corporation,financials,shell-companies
+BDCI,BTC Development Corp.,financials,shell-companies
+TLNC,Talon Capital Corp.,financials,shell-companies
+OYSE,Oyster Enterprises II Acquisition Corp,financials,shell-companies
+BLZR,Trailblazer Acquisition Corp.,financials,shell-companies
+HCMA,HCM III Acquisition Corp.,financials,shell-companies
+SBXE,SilverBox Corp V,financials,shell-companies
+ACAA,Averin Capital Acquisition Corp.,financials,shell-companies
+ARTC,Art Technology Acquisition Corp.,financials,shell-companies
+SORN,Soren Acquisition Corp.,financials,shell-companies
+KCAC,Kensington Capital Acquisition Corp. VI,financials,shell-companies
+ARCI,Archimedes Tech SPAC Partners III Co.,financials,shell-companies
+DSAC,Daedalus Special Acquisition Corp.,financials,shell-companies
+AACI,Armada Acquisition Corp. III,financials,shell-companies
+PTOR,Praetorian Acquisition Corp.,financials,shell-companies
+KEYY,Keystone Acquisition Corp.,financials,shell-companies
+CUB,Lionheart Holdings,financials,shell-companies
+BLUW,Blue Water Acquisition Corp. III,financials,shell-companies
+BEAG,Bold Eagle Acquisition Corp.,financials,shell-companies
+RREV,RRE Ventures Acquisition Corp.,financials,shell-companies
+XRPN,Armada Acquisition Corp. II,financials,shell-companies
+IPFX,Inflection Point Acquisition Corp. VI,financials,shell-companies
+SAAQ,Space Asset Acquisition Corp.,financials,shell-companies
+CEPV,"Cantor Equity Partners V, Inc.",financials,shell-companies
+ATII,Archimedes Tech SPAC Partners II Co.,financials,shell-companies
+FERA,Fifth Era Acquisition Corp I,financials,shell-companies
+RTAC,Renatus Tactical Acquisition Corp I,financials,shell-companies
+OBA,Oxley Bridge Acquisition Limited,financials,shell-companies
+SZZL,Sizzle Acquisition Corp. II,financials,shell-companies
+DRDB,Roman DBDR Acquisition Corp. II,financials,shell-companies
+VACI,Viking Acquisition Corp. I,financials,shell-companies
+CRAQ,Cal Redwood Acquisition Corp.,financials,shell-companies
+PMTR,Perimeter Acquisition Corp. I,financials,shell-companies
+PCAP,ProCap Acquisition Corp,financials,shell-companies
+EVOX,Evolution Global Acquisition Corp,financials,shell-companies
+SVAC,Spring Valley Acquisition Corp. III,financials,shell-companies
+KOYN,"CSLM Digital Asset Acquisition Corp III, Ltd",financials,shell-companies
+ALDF,Aldel Financial II Inc.,financials,shell-companies
+POLE,Andretti Acquisition Corp. II,financials,shell-companies
+RNGT,Range Capital Acquisition Corp II,financials,shell-companies
+TVA,Texas Ventures Acquisition III Corp,financials,shell-companies
+JACS,Jackson Acquisition Company II,financials,shell-companies
+SAC,Safeguard Acquisition Corp.,financials,shell-companies
+RAC,Rithm Acquisition Corp.,financials,shell-companies
+AEAQ,Activate Energy Acquisition Corp.,financials,shell-companies
+CMII,Columbus Circle Capital Corp II,financials,shell-companies
+GRAF,Graf Global Corp.,financials,shell-companies
+LPAA,Launch One Acquisition Corp.,financials,shell-companies
+AACO,Abony Acquisition Corp. I,financials,shell-companies
+LEGO,Legato Merger Corp. IV,financials,shell-companies
+SVIV,Spring Valley Acquisition Corp. IV,financials,shell-companies
+ILLU,Illumination Acquisition Corp I,financials,shell-companies
+CAQ,Cambridge Acquisition Corp.,financials,shell-companies
+NHIC,NewHold Investment Corp III,financials,shell-companies
+LPBB,Launch Two Acquisition Corp.,financials,shell-companies
+LWAC,LightWave Acquisition Corp.,financials,shell-companies
+VHCP,Vine Hill Capital Investment Corp. II,financials,shell-companies
+ITHA,ITHAX Acquisition Corp III,financials,shell-companies
+TMTS,Spartacus Acquisition Corp. II,financials,shell-companies
+BIXI,Bitcoin Infrastructure Acquisition Corp Ltd.,financials,shell-companies
+LOKV,Live Oak Acquisition Corp. V,financials,shell-companies
+MTAL,Metals Acquisition Corp. II,financials,shell-companies
+HVMC,Highview Merger Corp.,financials,shell-companies
+OTGA,OTG Acquisition Corp. I,financials,shell-companies
+JENA,Jena Acquisition Corporation II,financials,shell-companies
+GSRF,GSR IV Acquisition Corp.,financials,shell-companies
+IRHO,Iron Horse Acquisitions Corp. II,financials,shell-companies
+CAII,Collective Acquisition Corp. II,financials,shell-companies
+GPAC,General Purpose Acquisition Corp.,financials,shell-companies
+HCAC,Hall Chadwick Acquisition Corp.,financials,shell-companies
+KPET,KPET Ultra Paceline Corporation,financials,shell-companies
+PONO,"Pono Capital Four, Inc.",financials,shell-companies
+SVAQ,Silicon Valley Acquisition Corp.,financials,shell-companies
+BACC,Blue Acquisition Corp.,financials,shell-companies
+MTNE,CH4 Natural Solutions Corporation,financials,shell-companies
+PACH,Pioneer Acquisition I Corp,financials,shell-companies
+AACB,Artius II Acquisition Inc.,financials,shell-companies
+LPCV,Launchpad Cadenza Acquisition Corp I,financials,shell-companies
+FGII,FG Imperii Acquisition Corp.,financials,shell-companies
+ADAC,American Drive Acquisition Company,financials,shell-companies
+ACGC,ACP Holdings Acquisition Corp.,financials,shell-companies
+AXIN,Axiom Intelligence Acquisition Corp 1,financials,shell-companies
+IACQ,Irenic Acquisition Corp.,financials,shell-companies
+TVAI,Thayer Ventures Acquisition Corporation II,financials,shell-companies
+XCBE,X3 Acquisition Corp. Ltd.,financials,shell-companies
+PAII,Pyrophyte Acquisition Corp. II,financials,shell-companies
+GUAC,Berto Acquisition Corp. II,financials,shell-companies
+SBXD,SilverBox Corp IV,financials,shell-companies
+XSLL,Xsolla SPAC 1,financials,shell-companies
+LEGT,Legato Merger Corp. III,financials,shell-companies
+GSRV,GSR V Acquisition Corp.,financials,shell-companies
+MUZE,Muzero Acquisition Corp,financials,shell-companies
+HVII,Hennessy Capital Investment Corp. VII,financials,shell-companies
+CEPO,"Cantor Equity Partners I, Inc.",financials,shell-companies
+DNMX,Dynamix Corporation III,financials,shell-companies
+OACC,Oaktree Acquisition Corp. III Life Sciences,financials,shell-companies
+QLEP,Quantum Leap Acquisition Corp,financials,shell-companies
+FACT,FACT II Acquisition Corp,financials,shell-companies
+PLMK,Plum Acquisition Corp. IV,financials,shell-companies
+TRGS,TRG Latin America Acquisitions Corp.,financials,shell-companies
+NTWO,Newbury Street II Acquisition Corp,financials,shell-companies
+RAAQ,Real Asset Acquisition Corp.,financials,shell-companies
+VNME,Vendome Acquisition Corporation I,financials,shell-companies
+FTRA,FutureCorp Space Acquisition 1,financials,shell-companies
+SCII,SC II Acquisition Corp.,financials,shell-companies
+QADR,QDRO Acquisition Corp.,financials,shell-companies
+MKLY,McKinley Acquisition Corporation,financials,shell-companies
+COPL,Copley Acquisition Corp,financials,shell-companies
+MLAC,Mountain Lake Acquisition Corp.,financials,shell-companies
+GTER,Globa Terra Acquisition Corporation,financials,shell-companies
+GTER.A,Globa Terra Acquisition Corporation,financials,shell-companies
+TDAC,Translational Development Acquisition Corp.,financials,shell-companies
+NHIV,NewHold Investment Corp IV,financials,shell-companies
+MCGA,Yorkville Acquisition Corp.,financials,shell-companies
+SOCA,Solarius Capital Acquisition Corp.,financials,shell-companies
+SSAC,SPACSphere Acquisition Corp.,financials,shell-companies
+DYNC,Dynamix Corporation,financials,shell-companies
+IGAC,Invest Green Acquisition Corporation,financials,shell-companies
+DAAQ,Digital Asset Acquisition Corp.,financials,shell-companies
+TDWD,Tailwind 2.0 Acquisition Corp.,financials,shell-companies
+MACI,Melar Acquisition Corp. I,financials,shell-companies
+AACP,Apogee Acquisition Corp,financials,shell-companies
+TWLV,Twelve Seas Investment Company III,financials,shell-companies
+DYOR,Insight Digital Partners II,financials,shell-companies
+LATA,Galata Acquisition Corp. II,financials,shell-companies
+SUMA,SUMA Acquisition Corporation,financials,shell-companies
+BLRK,Bluerock Acquisition Corp.,financials,shell-companies
+BIII,Black Spade Acquisition III Co,financials,shell-companies
+SVCC,Stellar V Capital Corp.,financials,shell-companies
+IRAB,Iris Acquisition Corp II,financials,shell-companies
+CRAC,Crown Reserve Acquisition Corp. I,financials,shell-companies
+HLXC,Helix Acquisition Corp. III,financials,shell-companies
+IPVV,"InterPrivate Investment Partners V, Inc.",financials,shell-companies
+WALD,Waldencast plc,financials,shell-companies
+ONCH,1RT Acquisition Corp.,financials,shell-companies
+GSHR,Gesher Acquisition Corp. II,financials,shell-companies
+OHAC,Oceanhawk Acquisition Corp,financials,shell-companies
+EGHA,EGH Acquisition Corp.,financials,shell-companies
+CCAQ,Collective Acquisition Corp.,financials,shell-companies
+HAVA,Harvard Ave Acquisition Corporation,financials,shell-companies
+DGAC,Disciplined Growth Acquisition Corporation,financials,shell-companies
+WLII,Willow Lane Acquisition Corp. II,financials,shell-companies
+IDAC,Iron Dome Acquisition I Corp.,financials,shell-companies
+LTGR,Long Table Growth Corp.,financials,shell-companies
+KTWO,K2 Capital Acquisition Corporation,financials,shell-companies
+PTAC,Patriot Acquisition Corp.,financials,shell-companies
+BEBE,TGE Value Creative Solutions Corp,financials,shell-companies
+FIGX,FIGX Capital Acquisition Corp.,financials,shell-companies
+LKSP,Lake Superior Acquisition Corp.,financials,shell-companies
+LFAC,Leapfrog Acquisition Corporation,financials,shell-companies
+AIIA,AI Infrastructure Acquisition Corp.,financials,shell-companies
+PALO,Paloma Acquisition Corp I,financials,shell-companies
+BID,Tribeca Strategic Acquisition Corp.,financials,shell-companies
+AESP,Aeon Acquisition I Corp.,financials,shell-companies
+BWIV,Blue Water Acquisition Corp. IV,financials,shell-companies
+FGMC,FG Merger II Corp.,financials,shell-companies
+CHEC,Chenghe Acquisition III Co.,financials,shell-companies
+PAAC,Proem Acquisition Corp I,financials,shell-companies
+RANG,Range Capital Acquisition Corp.,financials,shell-companies
+TAVI,Tavia Acquisition Corp.,financials,shell-companies
+CTAA,ClearThink 1 Acquisition Corp.,financials,shell-companies
+NMP,NMP Acquisition Corp.,financials,shell-companies
+EMIS,Emmis Acquisition Corp.,financials,shell-companies
+QRED,Quasaredge Acquisition Corporation,financials,shell-companies
+GLED,GalaxyEdge Acquisition Corporation,financials,shell-companies
+LAFA,LaFayette Acquisition Corp.,financials,shell-companies
+SPEG,Silver Pegasus Acquisition Corp.,financials,shell-companies
+WPAC,White Pearl Acquisition Corp.,financials,shell-companies
+ARCL,ARC Group Acquisition I Corp,financials,shell-companies
+CEPS,"Cantor Equity Partners VI, Inc.",financials,shell-companies
+INAC,Indigo Acquisition Corp.,financials,shell-companies
+YCY,AA Mission Acquisition Corp. II,financials,shell-companies
+SAGU,Shreya Acquisition Group,financials,shell-companies
+TRAD,Apex Tech Acquisition Inc.,financials,shell-companies
+FMAC,Future Money Acquisition Corporation,financials,shell-companies
+BHAV,BHAV Acquisition Corp,financials,shell-companies
+XFLH,XFLH Capital Corporation,financials,shell-companies
+APUR,Aperture AC,financials,shell-companies
+MYX,Maywood Acquisition Corp. 2,financials,shell-companies
+UAC,United Acquisition Corp. I,financials,shell-companies
+FTHA,Forefront Tech Holdings Acquisition Corp.,financials,shell-companies
+SCPQ,Social Commerce Partners Corporation,financials,shell-companies
+BREZ,Breeze Acquisition Corp. II,financials,shell-companies
+APMC,AmperCap Acquisition Company,financials,shell-companies
+PLUN,Plutonian Acquisition Corp II,financials,shell-companies
+AFJK,"Aimei Health Technology Co., Ltd",financials,shell-companies
+IPEX,Inflection Point Acquisition Corp. V,financials,shell-companies
+PCSC,Perceptive Capital Solutions Corp,financials,shell-companies
+QSEA,Quartzsea Acquisition Corporation,financials,shell-companies
+QUMS,Quantumsphere Acquisition Corporation,financials,shell-companies
+PGAC,Pantages Capital Acquisition Corporation,financials,shell-companies
+CHAR,Charlton Aria Acquisition Corporation,financials,shell-companies
+BRKH,Burtech Acquisition Corp II,financials,shell-companies
+RFAM,RF Acquisition Corp III,financials,shell-companies
+CHPG,ChampionsGate Acquisition Corporation,financials,shell-companies
+OTAI,Starlink AI Acquisition Corporation,financials,shell-companies
+VECA,Vernal Capital Acquisition Corp.,financials,shell-companies
+VECA.RT,Vernal Capital Acquisition Corp.,financials,shell-companies
+SPKL,Spark I Acquisition Corporation,financials,shell-companies
+NOEM,CO2 Energy Transition Corp.,financials,shell-companies
+AMAN,Amanat Acquisition Corp,financials,shell-companies
+RACC,Research Alliance Corporation III,financials,shell-companies
+LCCC,Lakeshore Acquisition III Corp.,financials,shell-companies
+RFAI,RF Acquisition Corp II,financials,shell-companies
+MCAH,Mountain Crest Acquisition 6 Corp.,financials,shell-companies
+SIMA,SIM Acquisition Corp. I,financials,shell-companies
+MMTX,Miluna Acquisition Corp,financials,shell-companies
+ORIQ,Origin Investment Corp I,financials,shell-companies
+ALIS,Calisa Acquisition Corp,financials,shell-companies
+PECE,Peace Acquisition Corp,financials,shell-companies
+BSAA,BEST SPAC I Acquisition Corp.,financials,shell-companies
+FVN,Future Vision II Acquisition Corp.,financials,shell-companies
+UYSC,UY Scuti Acquisition Corp.,financials,shell-companies
+APAC,StoneBridge Acquisition II Corporation,financials,shell-companies
+JATT,JATT II Acquisition Corp.,financials,shell-companies
+WSTN,Westin Acquisition Corp,financials,shell-companies
+FXAC,FortuneX Acquisition Corporation,financials,shell-companies
+SSEA,Starry Sea Acquisition Corp,financials,shell-companies
+WTG,Wintergreen Acquisition Corp.,financials,shell-companies
+NBRG,Newbridge Acquisition Limited,financials,shell-companies
+BPAC,Blueport Acquisition Ltd,financials,shell-companies
+VACH,Voyager Acquisition Corp.,financials,shell-companies
+KVAC,Keen Vision Acquisition Corporation,financials,shell-companies
+IBAC,IB Acquisition Corp.,financials,shell-companies
+HSPT,Horizon Space Acquisition II Corp.,financials,shell-companies
+CAPN,Cayson Acquisition Corp,financials,shell-companies
+FSHP,Flag Ship Acquisition Corporation,financials,shell-companies
+EURK,Eureka Acquisition Corp,financials,shell-companies
+RIBB,Ribbon Acquisition Corp.,financials,shell-companies
+SKYA,"SkyAI, Inc.",financials,shell-companies
+BKHA,Black Hawk Acquisition Corporation,financials,shell-companies
+COLA,Columbus Acquisition Corp,financials,shell-companies
+YHNA,YHN Acquisition I Limited,financials,shell-companies
+QETA,Quetta Acquisition Corporation,financials,shell-companies
+RDAC,Rising Dragon Acquisition Corp.,financials,shell-companies
+DTSQ,DT Cloud Star Acquisition Corporation,financials,shell-companies
+BAYA,Bayview Acquisition Corp,financials,shell-companies
+ASPC,A SPAC III Acquisition Corp.,financials,shell-companies
+BLK,"BlackRock, Inc.",financials,asset-management
+BX,Blackstone Inc.,financials,asset-management
+BN,Brookfield Corporation,financials,asset-management
+KKR,KKR & Co. Inc.,financials,asset-management
+BAM,Brookfield Asset Management Ltd.,financials,asset-management
+APO,"Apollo Global Management, Inc.",financials,asset-management
+STT,State Street Corporation,financials,asset-management
+ARES,Ares Management Corporation,financials,asset-management
+AMP,"Ameriprise Financial, Inc.",financials,asset-management
+NTRS,Northern Trust Corporation,financials,asset-management
+RJF,"Raymond James Financial, Inc.",financials,asset-management
+PFG,"Principal Financial Group, Inc.",financials,asset-management
+TROW,"T. Rowe Price Group, Inc.",financials,asset-management
+BEN,"Franklin Resources, Inc.",financials,asset-management
+TPG,TPG Inc.,financials,asset-management
+CG,The Carlyle Group Inc.,financials,asset-management
+OWL,Blue Owl Capital Inc.,financials,asset-management
+PS,Pershing Square Inc.,financials,asset-management
+ARCC,Ares Capital Corporation,financials,asset-management
+CRBG,"Corebridge Financial, Inc.",financials,asset-management
+IVZ,Invesco Ltd.,financials,asset-management
+EQH,"Equitable Holdings, Inc.",financials,asset-management
+SEIC,SEI Investments Company,financials,asset-management
+AMG,"Affiliated Managers Group, Inc.",financials,asset-management
+JHG,Janus Henderson Group plc,financials,asset-management
+BXSL,Blackstone Secured Lending Fund,financials,asset-management
+VCTR,"Victory Capital Holdings, Inc.",financials,asset-management
+OBDC,Blue Owl Capital Corporation,financials,asset-management
+STEP,StepStone Group Inc.,financials,asset-management
+OTF,Blue Owl Technology Finance Corp.,financials,asset-management
+HASI,"HA Sustainable Infrastructure Capital, Inc.",financials,asset-management
+MAIN,Main Street Capital Corporation,financials,asset-management
+MAAS,Maase Inc.,financials,asset-management
+HLNE,Hamilton Lane Incorporated,financials,asset-management
+FHI,"Federated Hermes, Inc.",financials,asset-management
+PSUS,"Pershing Square USA, Ltd.",financials,asset-management
+CNS,"Cohen & Steers, Inc.",financials,asset-management
+AB,AllianceBernstein Holding L.P.,financials,asset-management
+GBDC,"Golub Capital BDC, Inc.",financials,asset-management
+SII,Sprott Inc.,financials,asset-management
+APAM,Artisan Partners Asset Management Inc.,financials,asset-management
+FSK,FS KKR Capital Corp.,financials,asset-management
+DBRG,"DigitalBridge Group, Inc.",financials,asset-management
+HTGC,"Hercules Capital, Inc.",financials,asset-management
+WT,"WisdomTree, Inc.",financials,asset-management
+AAMI,Acadian Asset Management Inc.,financials,asset-management
+LCLN,"Lincoln International, Inc.",financials,asset-management
+GCMG,GCM Grosvenor Inc.,financials,asset-management
+PAX,Patria Investments Limited,financials,asset-management
+TSLX,"Sixth Street Specialty Lending, Inc.",financials,asset-management
+BST,BlackRock Science and Technology Trust,financials,asset-management
+CET,Central Securities Corporation,financials,asset-management
+TRIN,Trinity Capital Inc.,financials,asset-management
+CSWC,Capital Southwest Corporation,financials,asset-management
+MSDL,Morgan Stanley Direct Lending Fund,financials,asset-management
+PSEC,Prospect Capital Corporation,financials,asset-management
+ASA,ASA Gold and Precious Metals Limited,financials,asset-management
+OCSL,Oaktree Specialty Lending Corporation,financials,asset-management
+BTX,BlackRock Innovation and Growth Term Trust,financials,asset-management
+KBDC,"Kayne Anderson BDC, Inc.",financials,asset-management
+ASST,"Strive, Inc.",financials,asset-management
+GSBD,"Goldman Sachs BDC, Inc.",financials,asset-management
+VRTS,"Virtus Investment Partners, Inc.",financials,asset-management
+BUR,Burford Capital Limited,financials,asset-management
+TYG,Tortoise Energy Infrastructure Corporation,financials,asset-management
+RPC,"Ridgepost Capital, Inc",financials,asset-management
+BBDC,"Barings BDC, Inc.",financials,asset-management
+MFIC,MidCap Financial Investment Corporation,financials,asset-management
+BCSF,"Bain Capital Specialty Finance, Inc.",financials,asset-management
+PFLT,PennantPark Floating Rate Capital Ltd.,financials,asset-management
+BOT,"Robostrategy, Inc.",financials,asset-management
+NMFC,New Mountain Finance Corporation,financials,asset-management
+CGBD,"Carlyle Secured Lending, Inc.",financials,asset-management
+FDUS,Fidus Investment Corporation,financials,asset-management
+TBLD,Thornburg Income Builder Opportunities Trust,financials,asset-management
+SLRC,SLR Investment Corp.,financials,asset-management
+NOAH,Noah Holdings Limited,financials,asset-management
+OIO,OIO Group,financials,asset-management
+NCDL,Nuveen Churchill Direct Lending Corp.,financials,asset-management
+VINP,Vinci Compass Investments Ltd.,financials,asset-management
+GAIN,Gladstone Investment Corporation,financials,asset-management
+MSIF,"MSC Income Fund, Inc.",financials,asset-management
+ECC,Eagle Point Credit Company,financials,asset-management
+INV,"Innventure, Inc.",financials,asset-management
+ALTI,"AlTi Global, Inc.",financials,asset-management
+GLAD,Gladstone Capital Corporation,financials,asset-management
+CCAP,"Crescent Capital BDC, Inc.",financials,asset-management
+SAR,Saratoga Investment Corp.,financials,asset-management
+SSSS,SuRo Capital Corp.,financials,asset-management
+PSBD,Palmer Square Capital BDC Inc.,financials,asset-management
+CION,CION Investment Corporation,financials,asset-management
+HRZN,Horizon Technology Finance Corporation,financials,asset-management
+TCPC,BlackRock TCP Capital Corp.,financials,asset-management
+KWY,Kingsway Corporation,financials,asset-management
+RWAY,Runway Growth Finance Corp.,financials,asset-management
+SCM,Stellus Capital Investment Corporation,financials,asset-management
+PNNT,PennantPark Investment Corporation,financials,asset-management
+EIC,Eagle Point Income Company Inc.,financials,asset-management
+SPMC,"Sound Point Meridian Capital, Inc.",financials,asset-management
+LIEN,"Chicago Atlantic BDC, Inc.",financials,asset-management
+TPVG,TriplePoint Venture Growth BDC Corp.,financials,asset-management
+EARN,Ellington Credit Company,financials,asset-management
+WHG,"Westwood Holdings Group, Inc.",financials,asset-management
+CITR,CitroTech Inc.,financials,asset-management
+WHF,"WhiteHorse Finance, Inc.",financials,asset-management
+SAMG,Silvercrest Asset Management Group Inc.,financials,asset-management
+OXSQ,Oxford Square Capital Corp.,financials,asset-management
+AMTD,AMTD IDEA Group,financials,asset-management
+BCIC,BCP Investment Corp.,financials,asset-management
+DFDV,DeFi Development Corp.,financials,asset-management
+GECC,Great Elm Capital Corp.,financials,asset-management
+PFX,PhenixFIN Corporation,financials,asset-management
+AFCG,Advanced Flower Capital Inc.,financials,asset-management
+HNNA,"Hennessy Advisors, Inc.",financials,asset-management
+HSDT,Solana Company,financials,asset-management
+GEG,"Great Elm Group, Inc.",financials,asset-management
+SDEV,Stablecoin Development Corporation,financials,asset-management
+CYPH,Cypherpunk Technologies Inc.,financials,asset-management
+BENF,Beneficient,financials,asset-management
+MGLD,"The Marygold Companies, Inc.",financials,asset-management
+OFS,OFS Capital Corporation,financials,asset-management
+TGE,The Generation Essentials Group,financials,asset-management
+FGNX,FG Nexus Inc.,financials,asset-management
+RMCO,Royalty Management Holding Corporation,financials,asset-management
+GROW,"U.S. Global Investors, Inc.",financials,asset-management
+MLCI,Mount Logan Capital Inc.,financials,asset-management
+RAND,Rand Capital Corporation,financials,asset-management
+BCG,"Binah Capital Group, Inc.",financials,asset-management
+WDAF,Wisdomtree Trust - WisdomTree Asia Defense Fund,financials,asset-management
+EQS,"Equus Total Return, Inc.",financials,asset-management
+ICMB,"Investcorp Credit Management BDC, Inc.",financials,asset-management
+BNKK,"Bonk, Inc.",financials,asset-management
+ZSTK,ZeroStack Corp.,financials,asset-management
+BTTC,Black Titan Corporation,financials,asset-management
+ALP,Alpha Compute Corp,financials,asset-management
+CWD,CaliberCos Inc.,financials,asset-management
+TWAV,"TaoWeave, Inc.",financials,asset-management
+BNBX,BNB Plus Corp.,financials,asset-management
+MS,Morgan Stanley,financials,capital-markets
+GS,"The Goldman Sachs Group, Inc.",financials,capital-markets
+SCHW,The Charles Schwab Corporation,financials,capital-markets
+HOOD,"Robinhood Markets, Inc.",financials,capital-markets
+IBKR,"Interactive Brokers Group, Inc.",financials,capital-markets
+NMR,"Nomura Holdings, Inc.",financials,capital-markets
+TW,Tradeweb Markets Inc.,financials,capital-markets
+LPLA,LPL Financial Holdings Inc.,financials,capital-markets
+CRCL,"Circle Internet Group, Inc.",financials,capital-markets
+IREN,IREN Limited,financials,capital-markets
+EVR,Evercore Inc.,financials,capital-markets
+FUTU,Futu Holdings Limited,financials,capital-markets
+HUT,Hut 8 Corp.,financials,capital-markets
+WULF,TeraWulf Inc.,financials,capital-markets
+JEF,Jefferies Financial Group Inc.,financials,capital-markets
+SF,Stifel Financial Corp.,financials,capital-markets
+GLXY,Galaxy Digital Inc.,financials,capital-markets
+HLI,"Houlihan Lokey, Inc.",financials,capital-markets
+RIOT,"Riot Platforms, Inc.",financials,capital-markets
+SNEX,StoneX Group Inc.,financials,capital-markets
+BMNR,"Bitmine Immersion Technologies, Inc.",financials,capital-markets
+VIRT,"Virtu Financial, Inc.",financials,capital-markets
+XP,XP Inc.,financials,capital-markets
+PJT,PJT Partners Inc.,financials,capital-markets
+FIGR,"Figure Technology Solutions, Inc.",financials,capital-markets
+MC,Moelis & Company,financials,capital-markets
+PIPR,Piper Sandler Companies,financials,capital-markets
+BGC,"BGC Group, Inc.",financials,capital-markets
+MARA,"MARA Holdings, Inc.",financials,capital-markets
+LAZ,"Lazard, Inc.",financials,capital-markets
+MKTX,MarketAxess Holdings Inc.,financials,capital-markets
+CLSK,"CleanSpark, Inc.",financials,capital-markets
+MRX,Marex Group plc,financials,capital-markets
+MIAX,"Miami International Holdings, Inc.",financials,capital-markets
+ETOR,eToro Group Ltd.,financials,capital-markets
+PWP,Perella Weinberg Partners,financials,capital-markets
+SOS,SOS Limited,financials,capital-markets
+GOLD,"Gold.com, Inc.",financials,capital-markets
+PURR,Hyperliquid Strategies Inc.,financials,capital-markets
+OPY,Oppenheimer Holdings Inc.,financials,capital-markets
+SBET,"Sharplink, Inc.",financials,capital-markets
+HIVE,HIVE Digital Technologies Ltd.,financials,capital-markets
+ABTC,American Bitcoin Corp.,financials,capital-markets
+TIGR,UP Fintech Holding Limited,financials,capital-markets
+AXG,Solowin Holdings,financials,capital-markets
+BTBT,"Bit Digital, Inc.",financials,capital-markets
+CSHR,CoinShares PLC,financials,capital-markets
+BTGO,"Bitgo Holdings, Inc.",financials,capital-markets
+GEMI,"Gemini Space Station, Inc.",financials,capital-markets
+CD,Chaince Digital Holdings Inc.,financials,capital-markets
+BRBI,BRBI BR Partners S.A.,financials,capital-markets
+CNCK,Coincheck Group N.V.,financials,capital-markets
+FUFU,BitFuFu Inc.,financials,capital-markets
+DEFT,DeFi Technologies Inc.,financials,capital-markets
+SLNH,"Soluna Holdings, Inc.",financials,capital-markets
+STEX,Streamex Corp.,financials,capital-markets
+BRR,"ProCap Financial, Inc.",financials,capital-markets
+WTF,Waton Financial Limited,financials,capital-markets
+CANG,Cango Inc.,financials,capital-markets
+BMHL,Bluemount Holdings Limited,financials,capital-markets
+SRL,Scully Royalty Ltd.,financials,capital-markets
+AURE,Aurelion Inc.,financials,capital-markets
+SIEB,Siebert Financial Corp.,financials,capital-markets
+NAKA,Nakamoto Inc.,financials,capital-markets
+NCTY,The9 Limited,financials,capital-markets
+COHN,Cohen & Company Inc.,financials,capital-markets
+DOMH,Dominari Holdings Inc.,financials,capital-markets
+BTCS,BTCS Inc.,financials,capital-markets
+PLUT,Plutus Financial Group Limited,financials,capital-markets
+STKE,Sol Strategies Inc.,financials,capital-markets
+ARBK,Argo Blockchain plc,financials,capital-markets
+HGBL,Heritage Global Inc.,financials,capital-markets
+GSIW,Garden Stage Limited,financials,capital-markets
+MATH,Metalpha Technology Holding Limited,financials,capital-markets
+BGDE,"Big Digital Energy, Inc.",financials,capital-markets
+TOP,TOP Financial Group Limited,financials,capital-markets
+ATCH,"AtlasClear Holdings, Inc.",financials,capital-markets
+FLD,"Fold Holdings, Inc.",financials,capital-markets
+MDBH,"MDB Capital Holdings, LLC",financials,capital-markets
+GRAN,Grande Group Limited,financials,capital-markets
+GREE,Greenidge Generation Holdings Inc.,financials,capital-markets
+ANY,Sphere 3D Corp.,financials,capital-markets
+AUC,ATIF Holdings Limited,financials,capital-markets
+NCPL,Netcapital Inc.,financials,capital-markets
+MEGL,Magic Empire Global Limited,financials,capital-markets
+ABTS,Abits Group Inc.,financials,capital-markets
+WAI,Top KingWin Ltd,financials,capital-markets
+LMFA,"LM Funding America, Inc.",financials,capital-markets
+PMAX,Powell Max Limited,financials,capital-markets
+LGHL,Lion Group Holding Ltd.,financials,capital-markets
+IPST,"IP Strategy Holdings, Inc.",financials,capital-markets
+V,Visa Inc.,financials,credit-services
+MA,Mastercard Incorporated,financials,credit-services
+AXP,American Express Company,financials,credit-services
+COF,Capital One Financial Corporation,financials,credit-services
+PYPL,"PayPal Holdings, Inc.",financials,credit-services
+SYF,Synchrony Financial,financials,credit-services
+AFRM,"Affirm Holdings, Inc.",financials,credit-services
+SOFI,"SoFi Technologies, Inc.",financials,credit-services
+ALLY,Ally Financial Inc.,financials,credit-services
+PAYP,PayPay Corporation,financials,credit-services
+FCFS,"FirstCash Holdings, Inc.",financials,credit-services
+OMF,"OneMain Holdings, Inc.",financials,credit-services
+KLAR,Klarna Group plc,financials,credit-services
+CACC,Credit Acceptance Corporation,financials,credit-services
+NNI,"Nelnet, Inc.",financials,credit-services
+SLM,SLM Corporation,financials,credit-services
+ENVA,"Enova International, Inc.",financials,credit-services
+SEZL,Sezzle Inc.,financials,credit-services
+BFH,"Bread Financial Holdings, Inc.",financials,credit-services
+UPST,"Upstart Holdings, Inc.",financials,credit-services
+WU,The Western Union Company,financials,credit-services
+EZPW,"EZCORP, Inc.",financials,credit-services
+AGM,Federal Agricultural Mortgage Corporation,financials,credit-services
+AGM.A,Federal Agricultural Mortgage Corporation,financials,credit-services
+QFIN,"Qfin Holdings, Inc.",financials,credit-services
+ECPG,"Encore Capital Group, Inc.",financials,credit-services
+ATLC,Atlanticus Holdings Corporation,financials,credit-services
+LU,Lufax Holding Ltd,financials,credit-services
+FINV,FinVolution Group,financials,credit-services
+JCAP,"Jefferson Capital, Inc.",financials,credit-services
+WRLD,World Acceptance Corporation,financials,credit-services
+NAVI,Navient Corporation,financials,credit-services
+GDOT,Green Dot Corporation,financials,credit-services
+OPFI,OppFi Inc.,financials,credit-services
+PRAA,"PRA Group, Inc.",financials,credit-services
+HTT,High Templar Tech Limited,financials,credit-services
+LX,LexinFintech Holdings Ltd.,financials,credit-services
+RM,Regional Management Corp.,financials,credit-services
+TROO,"TROOPS, Inc.",financials,credit-services
+LPRO,Open Lending Corporation,financials,credit-services
+MFIN,Medallion Financial Corp.,financials,credit-services
+OPRT,Oportun Financial Corporation,financials,credit-services
+CPSS,"Consumer Portfolio Services, Inc.",financials,credit-services
+JFIN,Jiayin Group Inc.,financials,credit-services
+PMTS,CPI Card Group Inc.,financials,credit-services
+XYF,X Financial,financials,credit-services
+FOA,Finance of America Companies Inc.,financials,credit-services
+ANTA,Antalpha Platform Holding Company,financials,credit-services
+YRD,Yiren Digital Ltd.,financials,credit-services
+SUIG,SUI Group Holdings Limited,financials,credit-services
+JF,J and Friends Holdings Limited,financials,credit-services
+SNTG,Sentage Holdings Inc.,financials,credit-services
+DXF,Eason Technology Limited,financials,credit-services
+CB,Chubb Limited,financials,insurance-property-and-casualty
+PGR,The Progressive Corporation,financials,insurance-property-and-casualty
+TRV,"The Travelers Companies, Inc.",financials,insurance-property-and-casualty
+ALL,The Allstate Corporation,financials,insurance-property-and-casualty
+WRB,W. R. Berkley Corporation,financials,insurance-property-and-casualty
+CINF,Cincinnati Financial Corporation,financials,insurance-property-and-casualty
+MKL,Markel Group Inc.,financials,insurance-property-and-casualty
+L,Loews Corporation,financials,insurance-property-and-casualty
+AIZ,"Assurant, Inc.",financials,insurance-property-and-casualty
+CNA,CNA Financial Corporation,financials,insurance-property-and-casualty
+AFG,"American Financial Group, Inc.",financials,insurance-property-and-casualty
+ORI,Old Republic International Corporation,financials,insurance-property-and-casualty
+KNSL,"Kinsale Capital Group, Inc.",financials,insurance-property-and-casualty
+THG,"The Hanover Insurance Group, Inc.",financials,insurance-property-and-casualty
+MCY,Mercury General Corporation,financials,insurance-property-and-casualty
+SIGI,"Selective Insurance Group, Inc.",financials,insurance-property-and-casualty
+WTM,"White Mountains Insurance Group, Ltd.",financials,insurance-property-and-casualty
+RLI,RLI Corp.,financials,insurance-property-and-casualty
+LMND,"Lemonade, Inc.",financials,insurance-property-and-casualty
+HGTY,"Hagerty, Inc.",financials,insurance-property-and-casualty
+PLMR,"Palomar Holdings, Inc.",financials,insurance-property-and-casualty
+HCI,"HCI Group, Inc.",financials,insurance-property-and-casualty
+STC,Stewart Information Services Corporation,financials,insurance-property-and-casualty
+SLDE,"Slide Insurance Holdings, Inc.",financials,insurance-property-and-casualty
+HMN,Horace Mann Educators Corporation,financials,insurance-property-and-casualty
+SKWD,"Skyward Specialty Insurance Group, Inc.",financials,insurance-property-and-casualty
+KMPR,Kemper Corporation,financials,insurance-property-and-casualty
+PRA,ProAssurance Corporation,financials,insurance-property-and-casualty
+UFCS,"United Fire Group, Inc.",financials,insurance-property-and-casualty
+UVE,"Universal Insurance Holdings, Inc.",financials,insurance-property-and-casualty
+SAFT,"Safety Insurance Group, Inc.",financials,insurance-property-and-casualty
+PRCH,"Porch Group, Inc.",financials,insurance-property-and-casualty
+ASIC,Ategrity Specialty Insurance Company Holdings,financials,insurance-property-and-casualty
+TRUP,"Trupanion, Inc.",financials,insurance-property-and-casualty
+ROOT,"Root, Inc.",financials,insurance-property-and-casualty
+BOW,Bowhead Specialty Holdings Inc.,financials,insurance-property-and-casualty
+DGICB,Donegal Group Inc.,financials,insurance-property-and-casualty
+HRTG,"Heritage Insurance Holdings, Inc.",financials,insurance-property-and-casualty
+HIPO,Hippo Holdings Inc.,financials,insurance-property-and-casualty
+DGICA,Donegal Group Inc.,financials,insurance-property-and-casualty
+ACIC,American Coastal Insurance Corporation,financials,insurance-property-and-casualty
+GBLI,"Global Indemnity Group, LLC",financials,insurance-property-and-casualty
+AII,"American Integrity Insurance Group, Inc.",financials,insurance-property-and-casualty
+NODK,"NI Holdings, Inc.",financials,insurance-property-and-casualty
+KINS,"Kingstone Companies, Inc.",financials,insurance-property-and-casualty
+PRHI,"Presurance Holdings, Inc.",financials,insurance-property-and-casualty
+MRSH,"Marsh & McLennan Companies, Inc.",financials,insurance-brokers
+AON,Aon plc,financials,insurance-brokers
+AJG,Arthur J. Gallagher & Co.,financials,insurance-brokers
+WTW,Willis Towers Watson Public Limited Company,financials,insurance-brokers
+BRO,"Brown & Brown, Inc.",financials,insurance-brokers
+ERIE,Erie Indemnity Company,financials,insurance-brokers
+NP,Neptune Insurance Holdings Inc.,financials,insurance-brokers
+ARX,Accelerant Holdings,financials,insurance-brokers
+CRVL,CorVel Corporation,financials,insurance-brokers
+BWIN,"The Baldwin Insurance Group, Inc.",financials,insurance-brokers
+GSHD,"Goosehead Insurance, Inc.",financials,insurance-brokers
+TWFG,"TWFG, Inc.",financials,insurance-brokers
+LIFE,Ethos Technologies Inc.,financials,insurance-brokers
+CRD.A,Crawford & Company,financials,insurance-brokers
+CRD.B,Crawford & Company,financials,insurance-brokers
+AIFU,AIFU Inc.,financials,insurance-brokers
+SLQT,"SelectQuote, Inc.",financials,insurance-brokers
+EHTH,"eHealth, Inc.",financials,insurance-brokers
+XHG,XChange TEC.INC,financials,insurance-brokers
+ZBAO,Zhibao Technology Inc.,financials,insurance-brokers
+GOCO,"GoHealth, Inc.",financials,insurance-brokers
+HUIZ,Huize Holding Limited,financials,insurance-brokers
+EZRA,"Reliance Global Group, Inc.",financials,insurance-brokers
+JPM,JPMorgan Chase & Co.,financials,banks-diversified
+BAC,Bank of America Corporation,financials,banks-diversified
+HSBC,HSBC Holdings plc,financials,banks-diversified
+RY,Royal Bank of Canada,financials,banks-diversified
+WFC,Wells Fargo & Company,financials,banks-diversified
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",financials,banks-diversified
+C,Citigroup Inc.,financials,banks-diversified
+TD,The Toronto-Dominion Bank,financials,banks-diversified
+SAN,"Banco Santander, S.A.",financials,banks-diversified
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",financials,banks-diversified
+UBS,UBS Group AG,financials,banks-diversified
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",financials,banks-diversified
+BMO,Bank of Montreal,financials,banks-diversified
+CM,Canadian Imperial Bank of Commerce,financials,banks-diversified
+BNS,The Bank of Nova Scotia,financials,banks-diversified
+BNY,The Bank of New York Mellon Corporation,financials,banks-diversified
+ING,ING Groep N.V.,financials,banks-diversified
+BCS,Barclays PLC,financials,banks-diversified
+NTB,The Bank of N.T. Butterfield & Son Limited,financials,banks-diversified
+MFC,Manulife Financial Corporation,financials,insurance-life
+AFL,Aflac Incorporated,financials,insurance-life
+MET,"MetLife, Inc.",financials,insurance-life
+PRU,"Prudential Financial, Inc.",financials,insurance-life
+PUK,Prudential plc,financials,insurance-life
+UNM,Unum Group,financials,insurance-life
+GL,Globe Life Inc.,financials,insurance-life
+PRI,"Primerica, Inc.",financials,insurance-life
+JXN,Jackson Financial Inc.,financials,insurance-life
+LNC,Lincoln National Corporation,financials,insurance-life
+CNO,"CNO Financial Group, Inc.",financials,insurance-life
+FG,"F&G Annuities & Life, Inc.",financials,insurance-life
+BHF,"Brighthouse Financial, Inc.",financials,insurance-life
+GNW,"Genworth Financial, Inc.",financials,insurance-life
+ABX,"Abacus Global Management, Inc.",financials,insurance-life
+CIA,"Citizens, Inc.",financials,insurance-life
+SNFCA,Security National Financial Corporation,financials,insurance-life
+AAME,Atlantic American Corporation,financials,insurance-life
+FNF,"Fidelity National Financial, Inc.",financials,insurance-specialty
+RYAN,"Ryan Specialty Holdings, Inc.",financials,insurance-specialty
+AXS,AXIS Capital Holdings Limited,financials,insurance-specialty
+FAF,First American Financial Corporation,financials,insurance-specialty
+ACT,"Enact Holdings, Inc.",financials,insurance-specialty
+MTG,MGIC Investment Corporation,financials,insurance-specialty
+ESNT,Essent Group Ltd.,financials,insurance-specialty
+RDN,Radian Group Inc.,financials,insurance-specialty
+AGO,Assured Guaranty Ltd.,financials,insurance-specialty
+NMIH,"NMI Holdings, Inc.",financials,insurance-specialty
+EIG,"Employers Holdings, Inc.",financials,insurance-specialty
+TIPT,Tiptree Inc.,financials,insurance-specialty
+AMSF,"AMERISAFE, Inc.",financials,insurance-specialty
+ITIC,Investors Title Company,financials,insurance-specialty
+MBI,MBIA Inc.,financials,insurance-specialty
+OSG,"Octave Specialty Group, Inc.",financials,insurance-specialty
+JRVR,"James River Group Holdings, Inc.",financials,insurance-specialty
+SPGI,S&P Global Inc.,financials,financial-data-and-stock-exchanges
+CME,CME Group Inc.,financials,financial-data-and-stock-exchanges
+ICE,"Intercontinental Exchange, Inc.",financials,financial-data-and-stock-exchanges
+MCO,Moody's Corporation,financials,financial-data-and-stock-exchanges
+NDAQ,"Nasdaq, Inc.",financials,financial-data-and-stock-exchanges
+MSCI,MSCI Inc.,financials,financial-data-and-stock-exchanges
+COIN,"Coinbase Global, Inc.",financials,financial-data-and-stock-exchanges
+CBOE,"Cboe Global Markets, Inc.",financials,financial-data-and-stock-exchanges
+TRU,TransUnion,financials,financial-data-and-stock-exchanges
+FDS,FactSet Research Systems Inc.,financials,financial-data-and-stock-exchanges
+MORN,"Morningstar, Inc.",financials,financial-data-and-stock-exchanges
+VALU,"Value Line, Inc.",financials,financial-data-and-stock-exchanges
+MKTW,"MarketWise, Inc.",financials,financial-data-and-stock-exchanges
+DTCX,"Datacentrex, Inc.",financials,financial-data-and-stock-exchanges
+BTOG,Bit Origin Ltd,financials,financial-data-and-stock-exchanges
+RKT,"Rocket Companies, Inc.",financials,mortgage-finance
+PFSI,"PennyMac Financial Services, Inc.",financials,mortgage-finance
+UWMC,UWM Holdings Corporation,financials,mortgage-finance
+WD,"Walker & Dunlop, Inc.",financials,mortgage-finance
+VEL,"Velocity Financial, Inc.",financials,mortgage-finance
+BETR,Better Home & Finance Holding Company,financials,mortgage-finance
+LDI,"loanDepot, Inc.",financials,mortgage-finance
+ONIT,Onity Group Inc.,financials,mortgage-finance
+GHI,Greystone Housing Impact Investors LP,financials,mortgage-finance
+IOR,"Income Opportunity Realty Investors, Inc.",financials,mortgage-finance
+CNF,CNFinance Holdings Limited,financials,mortgage-finance
+BLNE,"Beeline Holdings, Inc.",financials,mortgage-finance
+PAPL,Pineapple Financial Inc.,financials,mortgage-finance
+BRK.B,Berkshire Hathaway Inc.,financials,insurance-diversified
+SLF,Sun Life Financial Inc.,financials,insurance-diversified
+AIG,"American International Group, Inc.",financials,insurance-diversified
+HIG,"The Hartford Insurance Group, Inc.",financials,insurance-diversified
+ACGL,Arch Capital Group Ltd.,financials,insurance-diversified
+BNT,Brookfield Wealth Solutions Ltd.,financials,insurance-diversified
+AEG,Aegon Ltd.,financials,insurance-diversified
+PLGO,Pelagos Insurance Capital Limited,financials,insurance-diversified
+XZO,"Exzeo Group, Inc.",financials,insurance-diversified
+IGIC,International General Insurance Holdings Ltd.,financials,insurance-diversified
+WDH,Waterdrop Inc.,financials,insurance-diversified
+RGA,"Reinsurance Group of America, Incorporated",financials,insurance-reinsurance
+EG,"Everest Group, Ltd.",financials,insurance-reinsurance
+RNR,RenaissanceRe Holdings Ltd.,financials,insurance-reinsurance
+HG,"Hamilton Insurance Group, Ltd.",financials,insurance-reinsurance
+SPNT,SiriusPoint Ltd.,financials,insurance-reinsurance
+GLRE,"Greenlight Capital Re, Ltd.",financials,insurance-reinsurance
+KG,Kestrel Group Ltd,financials,insurance-reinsurance
+OXBR,Oxbridge Re Holdings Limited,financials,insurance-reinsurance
+IX,ORIX Corporation,financials,financial-conglomerates
+FRHC,Freedom Holding Corp.,financials,financial-conglomerates
+VOYA,"Voya Financial, Inc.",financials,financial-conglomerates
+HTH,Hilltop Holdings Inc.,financials,financial-conglomerates
+TREE,"LendingTree, Inc.",financials,financial-conglomerates
+RILY,"BRC Group Holdings, Inc.",financials,financial-conglomerates

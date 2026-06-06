@@ -1,0 +1,256 @@
+ticker,company_name,sector_name,sub_sector_name
+CBRE,"CBRE Group, Inc.",real-estate,real-estate-services
+BEKE,KE Holdings Inc.,real-estate,real-estate-services
+CSGP,"CoStar Group, Inc.",real-estate,real-estate-services
+JLL,Jones Lang LaSalle Incorporated,real-estate,real-estate-services
+FSV,FirstService Corporation,real-estate,real-estate-services
+COMP,"Compass, Inc.",real-estate,real-estate-services
+CIGI,Colliers International Group Inc.,real-estate,real-estate-services
+OPEN,Opendoor Technologies Inc.,real-estate,real-estate-services
+NMRK,"Newmark Group, Inc.",real-estate,real-estate-services
+CWK,Cushman & Wakefield Limited,real-estate,real-estate-services
+IHS,IHS Holding Limited,real-estate,real-estate-services
+KW,"Kennedy-Wilson Holdings, Inc.",real-estate,real-estate-services
+HBNB,Hotel101 Global Holdings Corp.,real-estate,real-estate-services
+IRS,IRSA Inversiones y Representaciones Sociedad AnÃ³nima,real-estate,real-estate-services
+MMI,"Marcus & Millichap, Inc.",real-estate,real-estate-services
+AGNT,"eXp World Holdings, Inc.",real-estate,real-estate-services
+RMR,The RMR Group Inc.,real-estate,real-estate-services
+FRPH,"FRP Holdings, Inc.",real-estate,real-estate-services
+REAX,The Real Brokerage Inc.,real-estate,real-estate-services
+MLP,"Maui Land & Pineapple Company, Inc.",real-estate,real-estate-services
+TCI,"Transcontinental Realty Investors, Inc.",real-estate,real-estate-services
+RMAX,"RE/MAX Holdings, Inc.",real-estate,real-estate-services
+SEG,Seaport Entertainment Group Inc.,real-estate,real-estate-services
+ARL,"American Realty Investors, Inc.",real-estate,real-estate-services
+NEN,New England Realty Associates Limited Partnership,real-estate,real-estate-services
+CHCI,"Comstock Holding Companies, Inc.",real-estate,real-estate-services
+DOUG,Douglas Elliman Inc.,real-estate,real-estate-services
+SRG,Seritage Growth Properties,real-estate,real-estate-services
+STHO,Star Holdings,real-estate,real-estate-services
+MAYS,"J.W. Mays, Inc.",real-estate,real-estate-services
+RFL,"Rafael Holdings, Inc.",real-estate,real-estate-services
+ASPS,Altisource Portfolio Solutions S.A.,real-estate,real-estate-services
+EUDA,EUDA Health Holdings Limited,real-estate,real-estate-services
+DUO,Fangdd Network Group Ltd.,real-estate,real-estate-services
+OPAD,Offerpad Solutions Inc.,real-estate,real-estate-services
+MDRR,"Medalist Diversified, Inc.",real-estate,real-estate-services
+NYC,American Strategic Investment Co.,real-estate,real-estate-services
+FTHM,Fathom Holdings Inc.,real-estate,real-estate-services
+OMH,Ohmyhome Limited,real-estate,real-estate-services
+LHAI,Linkhome Holdings Inc.,real-estate,real-estate-services
+GYRO,"Gyrodyne, LLC",real-estate,real-estate-services
+AIRE,reAlpha Tech Corp.,real-estate,real-estate-services
+GBR,"New Concept Energy, Inc.",real-estate,real-estate-services
+ALBT,Avalon GloboCare Corp.,real-estate,real-estate-services
+UK,Ucommune International Ltd,real-estate,real-estate-services
+LRHC,La Rosa Holdings Corp.,real-estate,real-estate-services
+NLY,"Annaly Capital Management, Inc.",real-estate,reit-mortgage
+AGNCM,AGNC Investment Corp.,real-estate,reit-mortgage
+AGNC,AGNC Investment Corp.,real-estate,reit-mortgage
+STWD,"Starwood Property Trust, Inc.",real-estate,reit-mortgage
+RITM,Rithm Capital Corp.,real-estate,reit-mortgage
+BXMT,"Blackstone Mortgage Trust, Inc.",real-estate,reit-mortgage
+DX,"Dynex Capital, Inc.",real-estate,reit-mortgage
+ARR,"ARMOUR Residential REIT, Inc.",real-estate,reit-mortgage
+EFC,Ellington Financial Inc.,real-estate,reit-mortgage
+ARI,"Apollo Commercial Real Estate Finance, Inc.",real-estate,reit-mortgage
+ORC,"Orchid Island Capital, Inc.",real-estate,reit-mortgage
+LADR,Ladder Capital Corp,real-estate,reit-mortgage
+TWO,Two Harbors Investment Corp.,real-estate,reit-mortgage
+CIM,Chimera Investment Corporation,real-estate,reit-mortgage
+ABR,"Arbor Realty Trust, Inc.",real-estate,reit-mortgage
+MFA,"MFA Financial, Inc.",real-estate,reit-mortgage
+PMT,PennyMac Mortgage Investment Trust,real-estate,reit-mortgage
+ADAM,"Adamas Trust, Inc.",real-estate,reit-mortgage
+IVR,Invesco Mortgage Capital Inc.,real-estate,reit-mortgage
+BRSP,"BrightSpire Capital, Inc.",real-estate,reit-mortgage
+RWT,"Redwood Trust, Inc.",real-estate,reit-mortgage
+FBRT,"Franklin BSP Realty Trust, Inc.",real-estate,reit-mortgage
+TRTX,"TPG RE Finance Trust, Inc.",real-estate,reit-mortgage
+KREF,KKR Real Estate Finance Trust Inc.,real-estate,reit-mortgage
+NREF,"NexPoint Real Estate Finance, Inc.",real-estate,reit-mortgage
+CMTG,"Claros Mortgage Trust, Inc.",real-estate,reit-mortgage
+RC,Ready Capital Corporation,real-estate,reit-mortgage
+ACRE,Ares Commercial Real Estate Corporation,real-estate,reit-mortgage
+MITT,"TPG Mortgage Investment Trust, Inc.",real-estate,reit-mortgage
+REFI,"Chicago Atlantic Real Estate Finance, Inc.",real-estate,reit-mortgage
+AOMR,"Angel Oak Mortgage REIT, Inc.",real-estate,reit-mortgage
+SEVN,Seven Hills Realty Trust,real-estate,reit-mortgage
+ACR,ACRES Commercial Realty Corp.,real-estate,reit-mortgage
+SUNS,"Sunrise Realty Trust, Inc.",real-estate,reit-mortgage
+RPT,Rithm Property Trust Inc.,real-estate,reit-mortgage
+CHMI,Cherry Hill Mortgage Investment Corporation,real-estate,reit-mortgage
+GPMT,Granite Point Mortgage Trust Inc.,real-estate,reit-mortgage
+LFT,"Lument Finance Trust, Inc.",real-estate,reit-mortgage
+SACH,Sachem Capital Corp.,real-estate,reit-mortgage
+LOAN,"Manhattan Bridge Capital, Inc.",real-estate,reit-mortgage
+SPG,"Simon Property Group, Inc.",real-estate,reit-retail
+O,Realty Income Corporation,real-estate,reit-retail
+KIM,Kimco Realty Corporation,real-estate,reit-retail
+REG,Regency Centers Corporation,real-estate,reit-retail
+FRT,Federal Realty Investment Trust,real-estate,reit-retail
+BRX,Brixmor Property Group Inc.,real-estate,reit-retail
+ADC,Agree Realty Corporation,real-estate,reit-retail
+NNN,"NNN REIT, Inc.",real-estate,reit-retail
+MAC,The Macerich Company,real-estate,reit-retail
+EPRT,"Essential Properties Realty Trust, Inc.",real-estate,reit-retail
+KRG,Kite Realty Group Trust,real-estate,reit-retail
+PECO,"Phillips Edison & Company, Inc.",real-estate,reit-retail
+SKT,Tanger Inc.,real-estate,reit-retail
+AKR,Acadia Realty Trust,real-estate,reit-retail
+CURB,Curbline Properties Corp.,real-estate,reit-retail
+UE,Urban Edge Properties,real-estate,reit-retail
+FCPT,"Four Corners Property Trust, Inc.",real-estate,reit-retail
+IVT,InvenTrust Properties Corp.,real-estate,reit-retail
+GTY,Getty Realty Corp.,real-estate,reit-retail
+NTST,NETSTREIT Corp.,real-estate,reit-retail
+CBL,"CBL & Associates Properties, Inc.",real-estate,reit-retail
+ALX,"Alexander's, Inc.",real-estate,reit-retail
+BFS,"Saul Centers, Inc.",real-estate,reit-retail
+WSR,Whitestone REIT,real-estate,reit-retail
+PINE,"Alpine Income Property Trust, Inc.",real-estate,reit-retail
+SITC,SITE Centers Corp.,real-estate,reit-retail
+WHLR,"Wheeler Real Estate Investment Trust, Inc.",real-estate,reit-retail
+AVB,"AvalonBay Communities, Inc.",real-estate,reit-residential
+EQR,Equity Residential,real-estate,reit-residential
+ESS,"Essex Property Trust, Inc.",real-estate,reit-residential
+INVH,Invitation Homes Inc.,real-estate,reit-residential
+MAA,"Mid-America Apartment Communities, Inc.",real-estate,reit-residential
+SUI,"Sun Communities, Inc.",real-estate,reit-residential
+UDR,"UDR, Inc.",real-estate,reit-residential
+AMH,American Homes 4 Rent,real-estate,reit-residential
+ELS,"Equity LifeStyle Properties, Inc.",real-estate,reit-residential
+CPT,Camden Property Trust,real-estate,reit-residential
+JAN,"Janus Living, Inc.",real-estate,reit-residential
+MRP,"Millrose Properties, Inc.",real-estate,reit-residential
+IRT,"Independence Realty Trust, Inc.",real-estate,reit-residential
+UMH,"UMH Properties, Inc.",real-estate,reit-residential
+NHP,"National Healthcare Properties, Inc.",real-estate,reit-residential
+CSR,Centerspace,real-estate,reit-residential
+NXRT,"NexPoint Residential Trust, Inc.",real-estate,reit-residential
+AIV,Apartment Investment and Management Company,real-estate,reit-residential
+BRT,BRT Apartments Corp.,real-estate,reit-residential
+ELME,Elme Communities,real-estate,reit-residential
+CLPR,Clipper Realty Inc.,real-estate,reit-residential
+BHM,"Bluerock Homes Trust, Inc.",real-estate,reit-residential
+EQIX,"Equinix, Inc.",real-estate,reit-specialty
+AMT,American Tower Corporation,real-estate,reit-specialty
+DLR,"Digital Realty Trust, Inc.",real-estate,reit-specialty
+CCI,Crown Castle Inc.,real-estate,reit-specialty
+IRM,Iron Mountain Incorporated,real-estate,reit-specialty
+SBAC,SBA Communications Corporation,real-estate,reit-specialty
+WY,Weyerhaeuser Company,real-estate,reit-specialty
+LAMR,Lamar Advertising Company,real-estate,reit-specialty
+GLPI,"Gaming and Leisure Properties, Inc.",real-estate,reit-specialty
+RYN,Rayonier Inc.,real-estate,reit-specialty
+OUT,OUTFRONT Media Inc.,real-estate,reit-specialty
+EPR,EPR Properties,real-estate,reit-specialty
+FRMI,Fermi Inc.,real-estate,reit-specialty
+UNIT,Uniti Group Inc.,real-estate,reit-specialty
+BXDC,Blackstone Digital Infrastructure Trust Inc.,real-estate,reit-specialty
+FPI,Farmland Partners Inc.,real-estate,reit-specialty
+LAND,Gladstone Land Corporation,real-estate,reit-specialty
+SELF,"Global Self Storage, Inc.",real-estate,reit-specialty
+PW,Power REIT,real-estate,reit-specialty
+BXP,"BXP, Inc.",real-estate,reit-office
+ARE,"Alexandria Real Estate Equities, Inc.",real-estate,reit-office
+VNO,Vornado Realty Trust,real-estate,reit-office
+CUZ,Cousins Properties Incorporated,real-estate,reit-office
+KRC,Kilroy Realty Corporation,real-estate,reit-office
+CDP,COPT Defense Properties,real-estate,reit-office
+SLG,SL Green Realty Corp.,real-estate,reit-office
+HIW,"Highwoods Properties, Inc.",real-estate,reit-office
+DEI,"Douglas Emmett, Inc.",real-estate,reit-office
+ESBA,"Empire State Realty OP, L.P.",real-estate,reit-office
+DEA,"Easterly Government Properties, Inc.",real-estate,reit-office
+PDM,"Piedmont Realty Trust, Inc.",real-estate,reit-office
+PSTL,"Postal Realty Trust, Inc.",real-estate,reit-office
+HPP,"Hudson Pacific Properties, Inc.",real-estate,reit-office
+BDN,Brandywine Realty Trust,real-estate,reit-office
+NLOP,Net Lease Office Properties,real-estate,reit-office
+ONL,Orion Properties Inc.,real-estate,reit-office
+FSP,Franklin Street Properties Corp.,real-estate,reit-office
+CMCT,Creative Media & Community Trust Corporation,real-estate,reit-office
+WELL,Welltower Inc.,real-estate,reit-healthcare-facilities
+VTR,"Ventas, Inc.",real-estate,reit-healthcare-facilities
+DOC,"Healthpeak Properties, Inc.",real-estate,reit-healthcare-facilities
+OHI,"Omega Healthcare Investors, Inc.",real-estate,reit-healthcare-facilities
+AHR,"American Healthcare REIT, Inc.",real-estate,reit-healthcare-facilities
+CTRE,"CareTrust REIT, Inc.",real-estate,reit-healthcare-facilities
+HR,Healthcare Realty Trust Incorporated,real-estate,reit-healthcare-facilities
+SBRA,"Sabra Health Care REIT, Inc.",real-estate,reit-healthcare-facilities
+NHI,"National Health Investors, Inc.",real-estate,reit-healthcare-facilities
+MPT,"Medical Properties Trust, Inc.",real-estate,reit-healthcare-facilities
+DHC,Diversified Healthcare Trust,real-estate,reit-healthcare-facilities
+LTC,"LTC Properties, Inc.",real-estate,reit-healthcare-facilities
+SILA,"Sila Realty Trust, Inc.",real-estate,reit-healthcare-facilities
+STRW,"Strawberry Fields REIT, Inc.",real-estate,reit-healthcare-facilities
+UHT,Universal Health Realty Income Trust,real-estate,reit-healthcare-facilities
+XRN,Chiron Real Estate Inc.,real-estate,reit-healthcare-facilities
+CHCT,Community Healthcare Trust Incorporated,real-estate,reit-healthcare-facilities
+PLD,"Prologis, Inc.",real-estate,reit-industrial
+PSA,Public Storage,real-estate,reit-industrial
+EXR,Extra Space Storage Inc.,real-estate,reit-industrial
+LINE,"Lineage, Inc.",real-estate,reit-industrial
+EGP,"EastGroup Properties, Inc.",real-estate,reit-industrial
+CUBE,CubeSmart,real-estate,reit-industrial
+FR,"First Industrial Realty Trust, Inc.",real-estate,reit-industrial
+REXR,"Rexford Industrial Realty, Inc.",real-estate,reit-industrial
+STAG,"STAG Industrial, Inc.",real-estate,reit-industrial
+TRNO,Terreno Realty Corporation,real-estate,reit-industrial
+NSA,National Storage Affiliates Trust,real-estate,reit-industrial
+COLD,"Americold Realty Trust, Inc.",real-estate,reit-industrial
+LXP,LXP Industrial Trust,real-estate,reit-industrial
+SMA,"SmartStop Self Storage REIT, Inc.",real-estate,reit-industrial
+IIPR,"Innovative Industrial Properties, Inc.",real-estate,reit-industrial
+ILPT,Industrial Logistics Properties Trust,real-estate,reit-industrial
+MDV,"Modiv Industrial, Inc.",real-estate,reit-industrial
+VICI,VICI Properties Inc.,real-estate,reit-diversified
+WPC,W. P. Carey Inc.,real-estate,reit-diversified
+BNL,"Broadstone Net Lease, Inc.",real-estate,reit-diversified
+GNL,"Global Net Lease, Inc.",real-estate,reit-diversified
+AAT,"American Assets Trust, Inc.",real-estate,reit-diversified
+ESRT,"Empire State Realty Trust, Inc.",real-estate,reit-diversified
+SAFE,Safehold Inc.,real-estate,reit-diversified
+JBGS,JBG SMITH Properties,real-estate,reit-diversified
+CTO,"CTO Realty Growth, Inc.",real-estate,reit-diversified
+AHRT,AH REALTY TRUST INC,real-estate,reit-diversified
+GOOD,Gladstone Commercial Corporation,real-estate,reit-diversified
+FVR,"FrontView REIT, Inc.",real-estate,reit-diversified
+OLP,"One Liberty Properties, Inc.",real-estate,reit-diversified
+MKZR,"MacKenzie Realty Capital, Inc.",real-estate,reit-diversified
+SQFT,"Presidio Property Trust, Inc.",real-estate,reit-diversified
+GIPR,"Generation Income Properties, Inc.",real-estate,reit-diversified
+HHH,Howard Hughes Holdings Inc.,real-estate,real-estate-development
+VTMX,"CorporaciÃ³n Inmobiliaria Vesta, S.A.B. de C.V.",real-estate,real-estate-development
+CCS,"Century Communities, Inc.",real-estate,real-estate-development
+FOR,Forestar Group Inc.,real-estate,real-estate-development
+FPH,"Five Point Holdings, LLC",real-estate,real-estate-development
+SKYH,Sky Harbour Group Corporation,real-estate,real-estate-development
+SDHC,Smith Douglas Homes Corp.,real-estate,real-estate-development
+OZ,"Belpointe PREP, LLC",real-estate,real-estate-development
+AXR,AMREP Corporation,real-estate,real-estate-development
+LPA,Logistic Properties of the Americas,real-estate,real-estate-development
+JFB,JFB Construction Holdings,real-estate,real-estate-development
+AEI,Alset Inc.,real-estate,real-estate-development
+MRNO,Murano Global Investments Plc,real-estate,real-estate-development
+LRE,"Lead Real Estate Co., Ltd",real-estate,real-estate-development
+RENX,RenX Enterprises Corp.,real-estate,real-estate-development
+HST,"Host Hotels & Resorts, Inc.",real-estate,reit-hotel-and-motel
+RHP,"Ryman Hospitality Properties, Inc.",real-estate,reit-hotel-and-motel
+APLE,"Apple Hospitality REIT, Inc.",real-estate,reit-hotel-and-motel
+PK,Park Hotels & Resorts Inc.,real-estate,reit-hotel-and-motel
+DRH,DiamondRock Hospitality Company,real-estate,reit-hotel-and-motel
+SHO,"Sunstone Hotel Investors, Inc.",real-estate,reit-hotel-and-motel
+PEB,Pebblebrook Hotel Trust,real-estate,reit-hotel-and-motel
+XHR,"Xenia Hotels & Resorts, Inc.",real-estate,reit-hotel-and-motel
+RLJ,RLJ Lodging Trust,real-estate,reit-hotel-and-motel
+SVC,Service Properties Trust,real-estate,reit-hotel-and-motel
+INN,"Summit Hotel Properties, Inc.",real-estate,reit-hotel-and-motel
+CLDT,Chatham Lodging Trust,real-estate,reit-hotel-and-motel
+BHR,Braemar Hotels & Resorts Inc.,real-estate,reit-hotel-and-motel
+AHT,"Ashford Hospitality Trust, Inc.",real-estate,reit-hotel-and-motel
+IHT,InnSuites Hospitality Trust,real-estate,reit-hotel-and-motel
+JOE,The St. Joe Company,real-estate,real-estate-diversified
+STRS,Stratus Properties Inc.,real-estate,real-estate-diversified
