@@ -1,1057 +1,1057 @@
 ticker,company_name,sector_name,sub_sector_name
-VRTX,Vertex Pharmaceuticals Incorporated,healthcare,biotechnology
-REGN,"Regeneron Pharmaceuticals, Inc.",healthcare,biotechnology
-ARGX,argenx SE,healthcare,biotechnology
-ALNY,"Alnylam Pharmaceuticals, Inc.",healthcare,biotechnology
-RPRX,Royalty Pharma plc,healthcare,biotechnology
-RVMD,"Revolution Medicines, Inc.",healthcare,biotechnology
-ONC,BeOne Medicines AG,healthcare,biotechnology
-BNTX,BioNTech SE,healthcare,biotechnology
-ROIV,Roivant Sciences Ltd.,healthcare,biotechnology
-INCY,Incyte Corporation,healthcare,biotechnology
-INSM,Insmed Incorporated,healthcare,biotechnology
-MRNA,"Moderna, Inc.",healthcare,biotechnology
-GMAB,Genmab A/S,healthcare,biotechnology
-JAZZ,Jazz Pharmaceuticals plc,healthcare,biotechnology
-EXEL,"Exelixis, Inc.",healthcare,biotechnology
-BBIO,"BridgeBio Pharma, Inc.",healthcare,biotechnology
-ASND,Ascendis Pharma A/S,healthcare,biotechnology
-IONS,"Ionis Pharmaceuticals, Inc.",healthcare,biotechnology
-AXSM,"Axsome Therapeutics, Inc.",healthcare,biotechnology
-SMMT,Summit Therapeutics Inc.,healthcare,biotechnology
-MDGL,"Madrigal Pharmaceuticals, Inc.",healthcare,biotechnology
-BMRN,BioMarin Pharmaceutical Inc.,healthcare,biotechnology
-ARWR,"Arrowhead Pharmaceuticals, Inc.",healthcare,biotechnology
-CYTK,"Cytokinetics, Incorporated",healthcare,biotechnology
-KRYS,"Krystal Biotech, Inc.",healthcare,biotechnology
-HALO,"Halozyme Therapeutics, Inc.",healthcare,biotechnology
-TECH,Bio-Techne Corporation,healthcare,biotechnology
-ABVX,ABIVAX SociÃ©tÃ© Anonyme,healthcare,biotechnology
-CORT,Corcept Therapeutics Incorporated,healthcare,biotechnology
-IBRX,"ImmunityBio, Inc.",healthcare,biotechnology
-NUVL,"Nuvalent, Inc.",healthcare,biotechnology
-PRAX,"Praxis Precision Medicines, Inc.",healthcare,biotechnology
-PCVX,"Vaxcyte, Inc.",healthcare,biotechnology
-APGE,"Apogee Therapeutics, Inc.",healthcare,biotechnology
-SYRE,"Spyre Therapeutics, Inc.",healthcare,biotechnology
-IMVT,"Immunovant, Inc.",healthcare,biotechnology
-PTGX,"Protagonist Therapeutics, Inc.",healthcare,biotechnology
-CNTA,Centessa Pharmaceuticals plc,healthcare,biotechnology
-KYMR,"Kymera Therapeutics, Inc.",healthcare,biotechnology
-LEGN,Legend Biotech Corporation,healthcare,biotechnology
-RYTM,"Rhythm Pharmaceuticals, Inc.",healthcare,biotechnology
-PTCT,"PTC Therapeutics, Inc.",healthcare,biotechnology
-MIRM,"Mirum Pharmaceuticals, Inc.",healthcare,biotechnology
-TGTX,"TG Therapeutics, Inc.",healthcare,biotechnology
-BLTE,"Belite Bio, Inc",healthcare,biotechnology
-SRRK,Scholar Rock Holding Corporation,healthcare,biotechnology
-COGT,"Cogent Biosciences, Inc.",healthcare,biotechnology
-XENE,Xenon Pharmaceuticals Inc.,healthcare,biotechnology
-CRSP,CRISPR Therapeutics AG,healthcare,biotechnology
-LGND,Ligand Pharmaceuticals Incorporated,healthcare,biotechnology
-CGON,"CG Oncology, Inc.",healthcare,biotechnology
-CAI,"Caris Life Sciences, Inc.",healthcare,biotechnology
-DNTH,"Dianthus Therapeutics, Inc.",healthcare,biotechnology
-CELC,Celcuity Inc.,healthcare,biotechnology
-TVTX,"Travere Therapeutics, Inc.",healthcare,biotechnology
-MANE,"Veradermics, Incorporated",healthcare,biotechnology
-EWTX,"Edgewise Therapeutics, Inc.",healthcare,biotechnology
-CPRX,"Catalyst Pharmaceuticals, Inc.",healthcare,biotechnology
-ERAS,"Erasca, Inc.",healthcare,biotechnology
-ACAD,ACADIA Pharmaceuticals Inc.,healthcare,biotechnology
-NAMS,NewAmsterdam Pharma Company N.V.,healthcare,biotechnology
-ORKA,"Oruka Therapeutics, Inc.",healthcare,biotechnology
-CRNX,"Crinetics Pharmaceuticals, Inc.",healthcare,biotechnology
-VKTX,"Viking Therapeutics, Inc.",healthcare,biotechnology
-TLX,Telix Pharmaceuticals Limited,healthcare,biotechnology
-DNLI,Denali Therapeutics Inc.,healthcare,biotechnology
-RLAY,"Relay Therapeutics, Inc.",healthcare,biotechnology
-BEAM,Beam Therapeutics Inc.,healthcare,biotechnology
-TNGX,"Tango Therapeutics, Inc.",healthcare,biotechnology
-RCUS,"Arcus Biosciences, Inc.",healthcare,biotechnology
-DYN,"Dyne Therapeutics, Inc.",healthcare,biotechnology
-GPCR,Structure Therapeutics Inc.,healthcare,biotechnology
-ARQT,"Arcutis Biotherapeutics, Inc.",healthcare,biotechnology
-DFTX,"Definium Therapeutics, Inc.",healthcare,biotechnology
-IRON,"Disc Medicine, Inc.",healthcare,biotechnology
-TARS,"Tarsus Pharmaceuticals, Inc.",healthcare,biotechnology
-KLRA,"Kailera Therapeutics, Inc.",healthcare,biotechnology
-IDYA,"IDEAYA Biosciences, Inc.",healthcare,biotechnology
-ALMS,Alumis Inc.,healthcare,biotechnology
-VERA,"Vera Therapeutics, Inc.",healthcare,biotechnology
-CLDX,"Celldex Therapeutics, Inc.",healthcare,biotechnology
-PHVS,Pharvaris N.V.,healthcare,biotechnology
-RARE,Ultragenyx Pharmaceutical Inc.,healthcare,biotechnology
-ELVN,"Enliven Therapeutics, Inc.",healthcare,biotechnology
-IMNM,"Immunome, Inc.",healthcare,biotechnology
-AUPH,Aurinia Pharmaceuticals Inc.,healthcare,biotechnology
-MLYS,"Mineralys Therapeutics, Inc.",healthcare,biotechnology
-KOD,Kodiak Sciences Inc.,healthcare,biotechnology
-NKTR,Nektar Therapeutics,healthcare,biotechnology
-TRVI,"Trevi Therapeutics, Inc.",healthcare,biotechnology
-NTLA,"Intellia Therapeutics, Inc.",healthcare,biotechnology
-IOVA,"Iovance Biotherapeutics, Inc.",healthcare,biotechnology
-MESO,Mesoblast Limited,healthcare,biotechnology
-STOK,"Stoke Therapeutics, Inc.",healthcare,biotechnology
-ZLAB,Zai Lab Limited,healthcare,biotechnology
-HRMY,"Harmony Biosciences Holdings, Inc.",healthcare,biotechnology
-LKFT,Lakefront Biotherapeutics NV,healthcare,biotechnology
-VCEL,Vericel Corporation,healthcare,biotechnology
-ADMA,"ADMA Biologics, Inc.",healthcare,biotechnology
-NBTX,Nanobiotix S.A.,healthcare,biotechnology
-OCUL,"Ocular Therapeutix, Inc.",healthcare,biotechnology
-RXRX,"Recursion Pharmaceuticals, Inc.",healthcare,biotechnology
-ZYME,Zymeworks Inc.,healthcare,biotechnology
-VRDN,"Viridian Therapeutics, Inc.",healthcare,biotechnology
-RAPP,"Rapport Therapeutics, Inc.",healthcare,biotechnology
-ABCL,AbCellera Biologics Inc.,healthcare,biotechnology
-AGIO,"Agios Pharmaceuticals, Inc.",healthcare,biotechnology
-NUVB,Nuvation Bio Inc.,healthcare,biotechnology
-QURE,uniQure N.V.,healthcare,biotechnology
-SRPT,"Sarepta Therapeutics, Inc.",healthcare,biotechnology
-INVA,"Innoviva, Inc.",healthcare,biotechnology
-GENB,"Generate Biomedicines, Inc.",healthcare,biotechnology
+A,"Agilent Technologies, Inc.",healthcare,life_science
 AAPG,Ascentage Pharma Group International,healthcare,biotechnology
-BHVN,Biohaven Ltd.,healthcare,biotechnology
-SION,"Sionna Therapeutics, Inc.",healthcare,biotechnology
-TYRA,"Tyra Biosciences, Inc.",healthcare,biotechnology
-TSHA,"Taysha Gene Therapies, Inc.",healthcare,biotechnology
-NVAX,"Novavax, Inc.",healthcare,biotechnology
-PVLA,"Palvella Therapeutics, Inc.",healthcare,biotechnology
-CAPR,"Capricor Therapeutics, Inc.",healthcare,biotechnology
-SNDX,"Syndax Pharmaceuticals, Inc.",healthcare,biotechnology
-SLS,"SELLAS Life Sciences Group, Inc.",healthcare,biotechnology
-FTRE,Fortrea Holdings Inc.,healthcare,biotechnology
-NRIX,"Nurix Therapeutics, Inc.",healthcare,biotechnology
-GHRS,GH Research PLC,healthcare,biotechnology
-ANAB,"AnaptysBio, Inc.",healthcare,biotechnology
-VIR,"Vir Biotechnology, Inc.",healthcare,biotechnology
-ATAI,AtaiBeckley Inc.,healthcare,biotechnology
-MBX,"MBX Biosciences, Inc.",healthcare,biotechnology
-IMCR,Immunocore Holdings plc,healthcare,biotechnology
-KALV,"KalVista Pharmaceuticals, Inc.",healthcare,biotechnology
-AVBP,"ArriVent BioPharma, Inc.",healthcare,biotechnology
-SEPN,"Septerna, Inc.",healthcare,biotechnology
-GLUE,"Monte Rosa Therapeutics, Inc.",healthcare,biotechnology
-ARDX,"Ardelyx, Inc.",healthcare,biotechnology
-MAZE,"Maze Therapeutics, Inc.",healthcare,biotechnology
-MLTX,MoonLake Immunotherapeutics,healthcare,biotechnology
-BCAX,Bicara Therapeutics Inc.,healthcare,biotechnology
-IMTX,Immatics N.V.,healthcare,biotechnology
-URGN,UroGen Pharma Ltd.,healthcare,biotechnology
-MRVI,"Maravai LifeSciences Holdings, Inc.",healthcare,biotechnology
-DMRA,"Damora Therapeutics, Inc.",healthcare,biotechnology
-SVRA,Savara Inc.,healthcare,biotechnology
-INBX,"Inhibrx Biosciences, Inc.",healthcare,biotechnology
-PGEN,"Precigen, Inc.",healthcare,biotechnology
-MPLT,"MapLight Therapeutics, Inc.",healthcare,biotechnology
-AVLN,Avalyn Pharma Inc.,healthcare,biotechnology
-COAG,"Hemab Therapeutics Holdings, Inc.",healthcare,biotechnology
-ZBIO,"Zenas BioPharma, Inc.",healthcare,biotechnology
-WVE,Wave Life Sciences Ltd.,healthcare,biotechnology
-MNKD,MannKind Corporation,healthcare,biotechnology
-AKTS,"Aktis Oncology, Inc.",healthcare,biotechnology
-JBIO,"Jade Biosciences, Inc.",healthcare,biotechnology
-ABSI,Absci Corporation,healthcare,biotechnology
-EYPT,"EyePoint, Inc.",healthcare,biotechnology
-DBVT,DBV Technologies S.A.,healthcare,biotechnology
-CRVS,"Corvus Pharmaceuticals, Inc.",healthcare,biotechnology
-PHAR,Pharming Group N.V.,healthcare,biotechnology
-OLMA,"Olema Pharmaceuticals, Inc.",healthcare,biotechnology
-XNCR,"Xencor, Inc.",healthcare,biotechnology
-SPTX,"Seaport Therapeutics, Inc.",healthcare,biotechnology
-ANNX,"Annexon, Inc.",healthcare,biotechnology
-SPRY,"ARS Pharmaceuticals, Inc.",healthcare,biotechnology
-LXRX,"Lexicon Pharmaceuticals, Inc.",healthcare,biotechnology
-DRTS,Alpha Tau Medical Ltd.,healthcare,biotechnology
-TBPH,"Theravance Biopharma, Inc.",healthcare,biotechnology
-ABUS,Arbutus Biopharma Corporation,healthcare,biotechnology
-IVA,Inventiva S.A.,healthcare,biotechnology
-MGTX,MeiraGTx Holdings plc,healthcare,biotechnology
-CGEM,"Cullinan Therapeutics, Inc.",healthcare,biotechnology
-LBRX,LB Pharmaceuticals Inc,healthcare,biotechnology
-JANX,"Janux Therapeutics, Inc.",healthcare,biotechnology
-PHAT,"Phathom Pharmaceuticals, Inc.",healthcare,biotechnology
-REPL,"Replimune Group, Inc.",healthcare,biotechnology
-ORIC,"ORIC Pharmaceuticals, Inc.",healthcare,biotechnology
-KURA,"Kura Oncology, Inc.",healthcare,biotechnology
-ODTX,"Odyssey Therapeutics, Inc.",healthcare,biotechnology
-GERN,Geron Corporation,healthcare,biotechnology
-SANA,"Sana Biotechnology, Inc.",healthcare,biotechnology
-AURA,"Aura Biosciences, Inc.",healthcare,biotechnology
-EVMN,"Evommune, Inc.",healthcare,biotechnology
-VOR,Vor Biopharma Inc.,healthcare,biotechnology
-OMER,Omeros Corporation,healthcare,biotechnology
-AVTX,"Avalo Therapeutics, Inc.",healthcare,biotechnology
-DRUG,Bright Minds Biosciences Inc.,healthcare,biotechnology
-OCS,Oculis Holding AG,healthcare,biotechnology
-DSGN,"Design Therapeutics, Inc.",healthcare,biotechnology
-SLDB,Solid Biosciences Inc.,healthcare,biotechnology
-CRMD,CorMedix Inc.,healthcare,biotechnology
-CTMX,"CytomX Therapeutics, Inc.",healthcare,biotechnology
-ALLO,"Allogene Therapeutics, Inc.",healthcare,biotechnology
-ANRO,"Alto Neuroscience, Inc.",healthcare,biotechnology
-TENX,"Tenax Therapeutics, Inc.",healthcare,biotechnology
-SGP,"SpyGlass Pharma, Inc.",healthcare,biotechnology
-ZVRA,"Zevra Therapeutics, Inc.",healthcare,biotechnology
-BBOT,"BridgeBio Oncology Therapeutics, Inc.",healthcare,biotechnology
-RLMD,"Relmada Therapeutics, Inc.",healthcare,biotechnology
-CADL,"Candel Therapeutics, Inc.",healthcare,biotechnology
-ACRS,"Aclaris Therapeutics, Inc.",healthcare,biotechnology
-CBIO,"Crescent Biopharma, Inc.",healthcare,biotechnology
-TRAX,"First Tracks Biotherapeutics, Inc.",healthcare,biotechnology
-GYRE,"Gyre Therapeutics, Inc.",healthcare,biotechnology
-MDXG,"MiMedx Group, Inc.",healthcare,biotechnology
-RIGL,"Rigel Pharmaceuticals, Inc.",healthcare,biotechnology
-IMMX,"Immix Biopharma, Inc.",healthcare,biotechnology
-PRME,"Prime Medicine, Inc.",healthcare,biotechnology
-TECX,"Tectonic Therapeutic, Inc.",healthcare,biotechnology
-PROK,ProKidney Corp.,healthcare,biotechnology
-DNA,"Ginkgo Bioworks Holdings, Inc.",healthcare,biotechnology
-CABA,"Cabaletta Bio, Inc.",healthcare,biotechnology
-XOMA,XOMA Royalty Corporation,healthcare,biotechnology
-ALT,"Altimmune, Inc.",healthcare,biotechnology
-ACHV,"Achieve Life Sciences, Inc.",healthcare,biotechnology
-VALN,Valneva SE,healthcare,biotechnology
-CLYM,"Climb Bio, Inc.",healthcare,biotechnology
-AGMB,AgomAb Therapeutics NV,healthcare,biotechnology
-EIKN,"Eikon Therapeutics, Inc.",healthcare,biotechnology
-ARVN,"Arvinas, Inc.",healthcare,biotechnology
-PRTA,Prothena Corporation plc,healthcare,biotechnology
-ASMB,"Assembly Biosciences, Inc.",healthcare,biotechnology
-KYTX,"Kyverna Therapeutics, Inc.",healthcare,biotechnology
-FDMT,"4D Molecular Therapeutics, Inc.",healthcare,biotechnology
-OVID,Ovid Therapeutics Inc.,healthcare,biotechnology
-RZLT,"Rezolute, Inc.",healthcare,biotechnology
-OCGN,"Ocugen, Inc.",healthcare,biotechnology
-STRO,"Sutro Biopharma, Inc.",healthcare,biotechnology
-CTNM,"Contineum Therapeutics, Inc.",healthcare,biotechnology
-CCCC,"C4 Therapeutics, Inc.",healthcare,biotechnology
-NGNE,Neurogene Inc.,healthcare,biotechnology
-SGMT,Sagimet Biosciences Inc.,healthcare,biotechnology
-EDIT,"Editas Medicine, Inc.",healthcare,biotechnology
-INDP,"Indaptus Therapeutics, Inc.",healthcare,biotechnology
-AUTL,Autolus Therapeutics plc,healthcare,biotechnology
-FBRX,"Forte Biosciences, Inc.",healthcare,biotechnology
-VTVT,vTv Therapeutics Inc.,healthcare,biotechnology
-MNPR,Monopar Therapeutics Inc.,healthcare,biotechnology
-ANL,Adlai Nortye Ltd.,healthcare,biotechnology
-EPRX,Eupraxia Pharmaceuticals Inc.,healthcare,biotechnology
-CNXU,Conexeu Sciences Inc.,healthcare,biotechnology
-IPSC,"Century Therapeutics, Inc.",healthcare,biotechnology
-UPB,"Upstream Bio, Inc.",healthcare,biotechnology
-PRLD,Prelude Therapeutics Incorporated,healthcare,biotechnology
-CMPX,"Compass Therapeutics, Inc.",healthcare,biotechnology
-VNDA,Vanda Pharmaceuticals Inc.,healthcare,biotechnology
-BNTC,Benitec Biopharma Inc.,healthcare,biotechnology
-XFOR,"X4 Pharmaceuticals, Inc.",healthcare,biotechnology
-OABI,"OmniAb, Inc.",healthcare,biotechnology
-PBYI,"Puma Biotechnology, Inc.",healthcare,biotechnology
-STTK,"Shattuck Labs, Inc.",healthcare,biotechnology
-LXEO,"Lexeo Therapeutics, Inc.",healthcare,biotechnology
-AVIR,"Atea Pharmaceuticals, Inc.",healthcare,biotechnology
-ARTV,"Artiva Biotherapeutics, Inc.",healthcare,biotechnology
-LRMR,"Larimar Therapeutics, Inc.",healthcare,biotechnology
-ENTA,"Enanta Pharmaceuticals, Inc.",healthcare,biotechnology
-GLSI,"Greenwich LifeSciences, Inc.",healthcare,biotechnology
-VSTM,"Verastem, Inc.",healthcare,biotechnology
-ZURA,Zura Bio Limited,healthcare,biotechnology
-RGNX,REGENXBIO Inc.,healthcare,biotechnology
-ABEO,Abeona Therapeutics Inc.,healthcare,biotechnology
-DMAC,DiaMedica Therapeutics Inc.,healthcare,biotechnology
-NAUT,"Nautilus Biotechnology, Inc.",healthcare,biotechnology
-IVVD,"Invivyd, Inc.",healthcare,biotechnology
-FENC,Fennec Pharmaceuticals Inc.,healthcare,biotechnology
-RCKT,"Rocket Pharmaceuticals, Inc.",healthcare,biotechnology
-HUMA,"Humacyte, Inc.",healthcare,biotechnology
-NMRA,"Neumora Therapeutics, Inc.",healthcare,biotechnology
-LCTX,"Lineage Cell Therapeutics, Inc.",healthcare,biotechnology
-BCYC,Bicycle Therapeutics plc,healthcare,biotechnology
-SLN,Silence Therapeutics plc,healthcare,biotechnology
-PALI,"Palisade Bio, Inc.",healthcare,biotechnology
-IRD,"Opus Genetics, Inc.",healthcare,biotechnology
-LYEL,"Lyell Immunopharma, Inc.",healthcare,biotechnology
-IKT,"Inhibikase Therapeutics, Inc.",healthcare,biotechnology
-IMRX,Immuneering Corporation,healthcare,biotechnology
-NAGE,"Niagen Bioscience, Inc.",healthcare,biotechnology
-ARMP,"Armata Pharmaceuticals, Inc.",healthcare,biotechnology
-IFRX,InflaRx N.V.,healthcare,biotechnology
-ELDN,"Eledon Pharmaceuticals, Inc.",healthcare,biotechnology
-ZNTL,"Zentalis Pharmaceuticals, Inc.",healthcare,biotechnology
-SLGL,Sol-Gel Technologies Ltd.,healthcare,biotechnology
-NVCT,"Nuvectis Pharma, Inc.",healthcare,biotechnology
-SRZN,"Surrozen, Inc.",healthcare,biotechnology
-MGNX,"MacroGenics, Inc.",healthcare,biotechnology
-FULC,"Fulcrum Therapeutics, Inc.",healthcare,biotechnology
-ELTX,"Elicio Therapeutics, Inc.",healthcare,biotechnology
-AVXL,Anavex Life Sciences Corp.,healthcare,biotechnology
-SABS,"SAB Biotherapeutics, Inc.",healthcare,biotechnology
-TARA,"Protara Therapeutics, Inc.",healthcare,biotechnology
-OBIO,"Orchestra BioMed Holdings, Inc.",healthcare,biotechnology
-CDXS,"Codexis, Inc.",healthcare,biotechnology
-NERV,"Minerva Neurosciences, Inc.",healthcare,biotechnology
-FATE,"Fate Therapeutics, Inc.",healthcare,biotechnology
-TRDA,"Entrada Therapeutics, Inc.",healthcare,biotechnology
-CHRS,"Coherus Oncology, Inc.",healthcare,biotechnology
-ACIU,AC Immune SA,healthcare,biotechnology
-QTTB,Q32 Bio Inc.,healthcare,biotechnology
-CLLS,Cellectis S.A.,healthcare,biotechnology
-LENZ,"LENZ Therapeutics, Inc.",healthcare,biotechnology
-ADAG,Adagene Inc.,healthcare,biotechnology
-FHTX,Foghorn Therapeutics Inc.,healthcare,biotechnology
-CAMP,Camp4 Therapeutics Corporation,healthcare,biotechnology
-YDES,YD Bio Limited,healthcare,biotechnology
-HELP,Cybin Inc.,healthcare,biotechnology
-ARCT,Arcturus Therapeutics Holdings Inc.,healthcare,biotechnology
-ALXO,ALX Oncology Holdings Inc.,healthcare,biotechnology
-WHWK,"Whitehawk Therapeutics, Inc.",healthcare,biotechnology
-KPTI,Karyopharm Therapeutics Inc.,healthcare,biotechnology
-KROS,"Keros Therapeutics, Inc.",healthcare,biotechnology
-RNA,"Atrium Therapeutics, Inc.",healthcare,biotechnology
-VYGR,"Voyager Therapeutics, Inc.",healthcare,biotechnology
-CGEN,Compugen Ltd.,healthcare,biotechnology
-NGEN,NervGen Pharma Corp.,healthcare,biotechnology
-CRBU,"Caribou Biosciences, Inc.",healthcare,biotechnology
-NBP,NovaBridge Biosciences,healthcare,biotechnology
-EQ,"Equillium, Inc.",healthcare,biotechnology
-UNCY,"Unicycive Therapeutics, Inc.",healthcare,biotechnology
-MDWD,MediWound Ltd.,healthcare,biotechnology
-ALEC,"Alector, Inc.",healthcare,biotechnology
-NKTX,"Nkarta, Inc.",healthcare,biotechnology
-TNXP,Tonix Pharmaceuticals Holding Corp.,healthcare,biotechnology
-IMUX,"Immunic, Inc.",healthcare,biotechnology
-RNAC,"Cartesian Therapeutics, Inc.",healthcare,biotechnology
-ENLV,Enlivex Ltd.,healthcare,biotechnology
-OKUR,"OnKure Therapeutics, Inc.",healthcare,biotechnology
-DTIL,"Precision BioSciences, Inc.",healthcare,biotechnology
-MIST,Milestone Pharmaceuticals Inc.,healthcare,biotechnology
-IPHA,Innate Pharma S.A.,healthcare,biotechnology
-SPRO,"Spero Therapeutics, Inc.",healthcare,biotechnology
-CNTX,Context Therapeutics Inc.,healthcare,biotechnology
-TLSA,Tiziana Life Sciences Ltd,healthcare,biotechnology
-PLX,"Protalix BioTherapeutics, Inc.",healthcare,biotechnology
-PRQR,ProQR Therapeutics N.V.,healthcare,biotechnology
-TNYA,"Tenaya Therapeutics, Inc.",healthcare,biotechnology
-TTRX,Turn Therapeutics Inc.,healthcare,biotechnology
-ABOS,"Acumen Pharmaceuticals, Inc.",healthcare,biotechnology
-KRRO,"Korro Bio, Inc.",healthcare,biotechnology
-GALT,Galectin Therapeutics Inc.,healthcare,biotechnology
-ORMP,Oramed Pharmaceuticals Inc.,healthcare,biotechnology
-MENS,Jyong Biotech Ltd.,healthcare,biotechnology
-NRXP,"NRx Pharmaceuticals, Inc.",healthcare,biotechnology
-MOLN,Molecular Partners AG,healthcare,biotechnology
-CRBP,"Corbus Pharmaceuticals Holdings, Inc.",healthcare,biotechnology
-ANTX,"AN2 Therapeutics, Inc.",healthcare,biotechnology
-CNTB,Connect Biopharma Holdings Limited,healthcare,biotechnology
-SPRB,"Spruce Biosciences, Inc.",healthcare,biotechnology
-AGEN,Agenus Inc.,healthcare,biotechnology
-ADCT,ADC Therapeutics SA,healthcare,biotechnology
-CNTN,"Canton Strategic Holdings, Inc.",healthcare,biotechnology
-GNLX,Genelux Corporation,healthcare,biotechnology
-ACOG,Alpha Cognition Inc.,healthcare,biotechnology
-KZIA,Kazia Therapeutics Limited,healthcare,biotechnology
-HURA,"TuHURA Biosciences, Inc.",healthcare,biotechnology
-ALPS,Alps Group Inc,healthcare,biotechnology
-CGTX,"Cognition Therapeutics, Inc.",healthcare,biotechnology
-BDTX,"Black Diamond Therapeutics, Inc.",healthcare,biotechnology
-PYXS,"Pyxis Oncology, Inc.",healthcare,biotechnology
-NTHI,"NeOnc Technologies Holdings, Inc.",healthcare,biotechnology
-PLYX,"Polaryx Therapeutics, Inc.",healthcare,biotechnology
-ENGN,enGene Therapeutics Inc.,healthcare,biotechnology
-GUTS,"Fractyl Health, Inc.",healthcare,biotechnology
-VRCA,Verrica Pharmaceuticals Inc.,healthcare,biotechnology
-COYA,"Coya Therapeutics, Inc.",healthcare,biotechnology
-CRDF,"Cardiff Oncology, Inc.",healthcare,biotechnology
-KLRS,"Kalaris Therapeutics, Inc.",healthcare,biotechnology
-VANI,"Vivani Medical, Inc.",healthcare,biotechnology
-SEER,"Seer, Inc.",healthcare,biotechnology
-CBUS,"Cibus, Inc.",healthcare,biotechnology
-ALDX,"Aldeyra Therapeutics, Inc.",healthcare,biotechnology
-PEPG,PepGen Inc.,healthcare,biotechnology
-ONCY,Oncolytics Biotech Inc.,healthcare,biotechnology
-CUE,"Cue Biopharma, Inc.",healthcare,biotechnology
-OTLK,"Outlook Therapeutics, Inc.",healthcare,biotechnology
-BMEA,"Biomea Fusion, Inc.",healthcare,biotechnology
-PTHS,Pelthos Therapeutics Inc.,healthcare,biotechnology
-FBIO,"Fortress Biotech, Inc.",healthcare,biotechnology
-RNTX,Rein Therapeutics Inc.,healthcare,biotechnology
-INO,"Inovio Pharmaceuticals, Inc.",healthcare,biotechnology
-ICCC,ImmuCell Corporation,healthcare,biotechnology
-PYPD,PolyPid Ltd.,healthcare,biotechnology
-OKYO,OKYO Pharma Limited,healthcare,biotechnology
-ATRA,"Atara Biotherapeutics, Inc.",healthcare,biotechnology
-RLYB,Rallybio Corporation,healthcare,biotechnology
-HYFT,MindWalk Holdings Corp.,healthcare,biotechnology
-ANIX,"Anixa Biosciences, Inc.",healthcare,biotechnology
-RANI,"Rani Therapeutics Holdings, Inc.",healthcare,biotechnology
-MAIA,"MAIA Biotechnology, Inc.",healthcare,biotechnology
-PMN,"ProMIS Neurosciences, Inc.",healthcare,biotechnology
-LIXT,"Lixte Biotechnology Holdings, Inc.",healthcare,biotechnology
-HRTX,"Heron Therapeutics, Inc.",healthcare,biotechnology
-ANVS,"Annovis Bio, Inc.",healthcare,biotechnology
 AARD,"Aardvark Therapeutics, Inc.",healthcare,biotechnology
-OSTX,OS Therapies Incorporated,healthcare,biotechnology
-EXOZ,"eXoZymes, Inc.",healthcare,biotechnology
-NRXS,"NeurAxis, Inc.",healthcare,biotechnology
-CSBR,"Champions Oncology, Inc.",healthcare,biotechnology
-LONA,"LeonaBio, Inc.",healthcare,biotechnology
-ACET,"Adicet Bio, Inc.",healthcare,biotechnology
-GANX,"Gain Therapeutics, Inc.",healthcare,biotechnology
-XBIT,XBiotech Inc.,healthcare,biotechnology
-PLRX,"Pliant Therapeutics, Inc.",healthcare,biotechnology
-ATHE,Alterity Therapeutics Limited,healthcare,biotechnology
-BYSI,BeyondSpring Inc.,healthcare,biotechnology
-IBIO,"iBio, Inc.",healthcare,biotechnology
-MNOV,"MediciNova, Inc.",healthcare,biotechnology
-MCRB,"Seres Therapeutics, Inc.",healthcare,biotechnology
-TCRX,"TScan Therapeutics, Inc.",healthcare,biotechnology
-FLNA,"Filana Therapeutics, Inc.",healthcare,biotechnology
-IMA,"ImageneBio, Inc.",healthcare,biotechnology
-ACRV,"Acrivon Therapeutics, Inc.",healthcare,biotechnology
-IBO,Impact BioMedical Inc.,healthcare,biotechnology
-PMVP,"PMV Pharmaceuticals, Inc.",healthcare,biotechnology
-CING,Cingulate Inc.,healthcare,biotechnology
-INKT,"MiNK Therapeutics, Inc.",healthcare,biotechnology
-ENTX,Entera Bio Ltd.,healthcare,biotechnology
-PDSB,PDS Biotechnology Corporation,healthcare,biotechnology
-TIL,"Instil Bio, Inc.",healthcare,biotechnology
-VERU,Veru Inc.,healthcare,biotechnology
-RADX,Radiopharm Theranostics Limited,healthcare,biotechnology
-DWTX,"Dogwood Therapeutics, Inc.",healthcare,biotechnology
-IMMP,Immutep Limited,healthcare,biotechnology
-MREO,Mereo BioPharma Group plc,healthcare,biotechnology
-ESLA,"Estrella Immunopharma, Inc.",healthcare,biotechnology
-EDSA,"Edesa Biotech, Inc.",healthcare,biotechnology
-MGX,"Metagenomi Therapeutics, Inc.",healthcare,biotechnology
-GNTA,Genenta Science S.p.A.,healthcare,biotechnology
-ATYR,"aTyr Pharma, Inc.",healthcare,biotechnology
-XLO,"Xilio Therapeutics, Inc.",healthcare,biotechnology
-LTRN,Lantern Pharma Inc.,healthcare,biotechnology
-ACTU,"Actuate Therapeutics, Inc.",healthcare,biotechnology
-TVGN,Tevogen Bio Holdings Inc.,healthcare,biotechnology
-NTRB,Nutriband Inc.,healthcare,biotechnology
-HYPD,"Hyperion DeFi, Inc.",healthcare,biotechnology
-GRDX,GridAI Technologies Corp.,healthcare,biotechnology
-TELO,"Telomir Pharmaceuticals, Inc.",healthcare,biotechnology
-GOSS,"Gossamer Bio, Inc.",healthcare,biotechnology
-RNXT,"RenovoRx, Inc.",healthcare,biotechnology
-ATOS,"Atossa Therapeutics, Inc.",healthcare,biotechnology
-KALA,"KALA BIO, Inc.",healthcare,biotechnology
-PSTV,"Plus Therapeutics, Inc.",healthcare,biotechnology
-GRCE,"Grace Therapeutics, Inc.",healthcare,biotechnology
-ATNM,"Actinium Pharmaceuticals, Inc.",healthcare,biotechnology
-ABVC,"ABVC BioPharma, Inc.",healthcare,biotechnology
-INMB,INmune Bio Inc.,healthcare,biotechnology
-BOLD,"Boundless Bio, Inc.",healthcare,biotechnology
-NNVC,"NanoViricides, Inc.",healthcare,biotechnology
-APLM,"Apollomics, Inc.",healthcare,biotechnology
-ALGS,"Aligos Therapeutics, Inc.",healthcare,biotechnology
-LSTA,"Lisata Therapeutics, Inc.",healthcare,biotechnology
-SNTI,"Senti Biosciences Holdings, Inc.",healthcare,biotechnology
-EVAX,Evaxion A/S,healthcare,biotechnology
-IGC,"IGC Pharma, Inc.",healthcare,biotechnology
-DARE,"DarÃ© Bioscience, Inc.",healthcare,biotechnology
-SER,"Serina Therapeutics, Inc.",healthcare,biotechnology
-QNTM,Quantum BioPharma Ltd.,healthcare,biotechnology
-CRVO,CervoMed Inc.,healthcare,biotechnology
-KYNB,"Kyntra Bio, Inc.",healthcare,biotechnology
-TVRD,"Tvardi Therapeutics, Inc.",healthcare,biotechnology
-BCTX,BriaCell Therapeutics Corp.,healthcare,biotechnology
-BRNS,Barinthus Biotherapeutics plc,healthcare,biotechnology
-NRSN,NeuroSense Therapeutics Ltd.,healthcare,biotechnology
-DYAI,"Dyadic International, Inc.",healthcare,biotechnology
-SKYE,"Skye Bioscience, Inc.",healthcare,biotechnology
-LITS,"Lite Strategy, Inc.",healthcare,biotechnology
-PLUR,Pluri Inc.,healthcare,biotechnology
-CELU,Celularity Inc.,healthcare,biotechnology
-ALLR,"Allarity Therapeutics, Inc.",healthcare,biotechnology
-PLRZ,Polyrizon Ltd.,healthcare,biotechnology
-NEUP,Neuphoria Therapeutics Inc.,healthcare,biotechnology
-PTN,"Palatin Technologies, Inc.",healthcare,biotechnology
-MRKR,"Marker Therapeutics, Inc.",healthcare,biotechnology
-VYNE,VYNE Therapeutics Inc.,healthcare,biotechnology
-VTGN,"Vistagen Therapeutics, Inc.",healthcare,biotechnology
-LGVN,Longeveron Inc.,healthcare,biotechnology
-TRAW,"Traws Pharma, Inc.",healthcare,biotechnology
-CLRB,"Cellectar Biosciences, Inc.",healthcare,biotechnology
-CVM,CEL-SCI Corporation,healthcare,biotechnology
-SNSE,"Sensei Biotherapeutics, Inc.",healthcare,biotechnology
-KTTA,Pasithea Therapeutics Corp.,healthcare,biotechnology
-HOWL,"Werewolf Therapeutics, Inc.",healthcare,biotechnology
-AEON,"AEON Biopharma, Inc.",healthcare,biotechnology
-CRIS,"Curis, Inc.",healthcare,biotechnology
-XCUR,"Exicure, Inc.",healthcare,biotechnology
-TPST,"Tempest Therapeutics, Inc.",healthcare,biotechnology
-PASG,"Passage Bio, Inc.",healthcare,biotechnology
-AKTX,"Akari Therapeutics, Plc",healthcare,biotechnology
-CALC,"CalciMedica, Inc.",healthcare,biotechnology
-QNCX,"Quince Therapeutics, Inc.",healthcare,biotechnology
-LPCN,Lipocine Inc.,healthcare,biotechnology
-LEXX,Lexaria Bioscience Corp.,healthcare,biotechnology
-NCEL,NewcelX Ltd.,healthcare,biotechnology
-GTBP,"GT Biopharma, Inc.",healthcare,biotechnology
-MLEC,Moolec Science SA,healthcare,biotechnology
-CTXR,"Citius Pharmaceuticals, Inc.",healthcare,biotechnology
-GDTC,CytoMed Therapeutics Limited,healthcare,biotechnology
-HIND,"Vyome Holdings, Inc.",healthcare,biotechnology
-INAB,"IN8bio, Inc.",healthcare,biotechnology
-BLRX,BioLineRx Ltd.,healthcare,biotechnology
-JSPR,"Jasper Therapeutics, Inc.",healthcare,biotechnology
-CVKD,"Cadrenal Therapeutics, Inc.",healthcare,biotechnology
-OSRH,"OSR Holdings, Inc.",healthcare,biotechnology
-COCP,"Cocrystal Pharma, Inc.",healthcare,biotechnology
-MTVA,MetaVia Inc.,healthcare,biotechnology
-MBRX,"Moleculin Biotech, Inc.",healthcare,biotechnology
-CMMB,Chemomab Therapeutics Ltd.,healthcare,biotechnology
-CYCN,"Cyclerion Therapeutics, Inc.",healthcare,biotechnology
-PHIO,Phio Pharmaceuticals Corp.,healthcare,biotechnology
-BIVI,BioVie Inc.,healthcare,biotechnology
-ICU,SeaStar Medical Holding Corporation,healthcare,biotechnology
-BCDA,"BioCardia, Inc.",healthcare,biotechnology
-TOVX,"Theriva Biologics, Inc.",healthcare,biotechnology
-HCWB,HCW Biologics Inc.,healthcare,biotechnology
-LNAI,Lunai Bioworks Inc.,healthcare,biotechnology
-KPRX,"Kiora Pharmaceuticals, Inc.",healthcare,biotechnology
-NXTC,"NextCure, Inc.",healthcare,biotechnology
-JUNS,"Jupiter Neurosciences, Inc.",healthcare,biotechnology
-BRTX,"BioRestorative Therapies, Inc.",healthcare,biotechnology
-INTS,"Intensity Therapeutics, Inc.",healthcare,biotechnology
-IMRN,Immuron Limited,healthcare,biotechnology
-KAPA,"Kairos Pharma, Ltd.",healthcare,biotechnology
-ERNA,Ernexa Therapeutics Inc.,healthcare,biotechnology
-APRE,"Aprea Therapeutics, Inc.",healthcare,biotechnology
-BOLT,"Bolt Biotherapeutics, Inc.",healthcare,biotechnology
-CURX,Curanex Pharmaceuticals Inc,healthcare,biotechnology
-ADXN,Addex Therapeutics Ltd,healthcare,biotechnology
-BGMS,"Bio Green Med Solution, Inc.",healthcare,biotechnology
-APM,Aptorum Group Limited,healthcare,biotechnology
-IMNN,"Imunon, Inc.",healthcare,biotechnology
-AIM,AIM ImmunoTech Inc.,healthcare,biotechnology
-NCNA,NuCana plc,healthcare,biotechnology
-QNRX,"Quoin Pharmaceuticals, Ltd.",healthcare,biotechnology
-PBM,Psyence Biomedical Ltd.,healthcare,biotechnology
-CELZ,"Creative Medical Technology Holdings, Inc.",healthcare,biotechnology
-PMCB,"PharmaCyte Biotech, Inc.",healthcare,biotechnology
-CNSP,"CNS Pharmaceuticals, Inc.",healthcare,biotechnology
-PHGE,BiomX Inc.,healthcare,biotechnology
-ACXP,"Acurx Pharmaceuticals, Inc.",healthcare,biotechnology
-XBIO,"Xenetic Biosciences, Inc.",healthcare,biotechnology
-ELAB,PMGC Holdings Inc.,healthcare,biotechnology
-GNPX,"Genprex, Inc.",healthcare,biotechnology
-PCSA,"Processa Pharmaceuticals, Inc.",healthcare,biotechnology
-CANF,Can-Fite BioPharma Ltd.,healthcare,biotechnology
-ENVB,"Enveric Biosciences, Inc.",healthcare,biotechnology
-SPRC,SciSparc Ltd.,healthcare,biotechnology
-PPBT,Purple Biotech Ltd,healthcare,biotechnology
-SILO,"Silo Pharma, Inc.",healthcare,biotechnology
-LIMN,"Liminatus Pharma, Inc.",healthcare,biotechnology
-EVGN,Evogene Ltd.,healthcare,biotechnology
-CDIO,"Cardio Diagnostics Holdings, Inc.",healthcare,biotechnology
-APVO,Aptevo Therapeutics Inc.,healthcare,biotechnology
-FBLG,"FibroBiologics, Inc.",healthcare,biotechnology
-TCRT,"Alaunos Therapeutics, Inc.",healthcare,biotechnology
-BCAB,"BioAtla, Inc.",healthcare,biotechnology
-XTLB,XTL Biopharmaceuticals Ltd.,healthcare,biotechnology
-CLGN,CollPlant Biotechnologies Ltd.,healthcare,biotechnology
-RNAZ,"TransCode Therapeutics, Inc.",healthcare,biotechnology
-MBIO,"Mustang Bio, Inc.",healthcare,biotechnology
-MTNB,"Matinas BioPharma Holdings, Inc.",healthcare,biotechnology
-PULM,"Pulmatrix, Inc.",healthcare,biotechnology
-GOVX,"GeoVax Labs, Inc.",healthcare,biotechnology
-DRMA,"Dermata Therapeutics, Inc.",healthcare,biotechnology
-GLMD,Galmed Pharmaceuticals Ltd.,healthcare,biotechnology
-SNGX,"Soligenix, Inc.",healthcare,biotechnology
-VRAX,Virax Biolabs Group Limited,healthcare,biotechnology
-ALZN,"Alzamend Neuro, Inc.",healthcare,biotechnology
-CMND,Clearmind Medicine Inc.,healthcare,biotechnology
-REVB,"Revelation Biosciences, Inc.",healthcare,biotechnology
-SXTP,"60 Degrees Pharmaceuticals, Inc.",healthcare,biotechnology
-CDT,CDT Equity Inc.,healthcare,biotechnology
-DCOY,Decoy Therapeutics Inc.,healthcare,biotechnology
-VIVS,"VivoSim Labs, Inc.",healthcare,biotechnology
-AZTR,"Azitra, Inc.",healthcare,biotechnology
-ADIL,"Adial Pharmaceuticals, Inc.",healthcare,biotechnology
-GRI,"GRI Bio, Inc.",healthcare,biotechnology
-OGEN,"Oragenics, Inc.",healthcare,biotechnology
-CLDI,"Calidi Biotherapeutics, Inc.",healthcare,biotechnology
-VBIO,"Valion Bio, Inc.",healthcare,biotechnology
-ENSC,"Ensysce Biosciences, Inc.",healthcare,biotechnology
-BBLG,Bone Biologics Corporation,healthcare,biotechnology
-BDRX,Biodexa Pharmaceuticals Plc,healthcare,biotechnology
-SLXN,Silexion Therapeutics Corp,healthcare,biotechnology
-JAGX,"Jaguar Health, Inc.",healthcare,biotechnology
-SCNI,Scinai Immunotherapeutics Ltd.,healthcare,biotechnology
-ARTL,"Artelo Biosciences, Inc.",healthcare,biotechnology
-PPCB,"Propanc Biopharma, Inc.",healthcare,biotechnology
-ASBP,"Aspire Biopharma Holdings, Inc.",healthcare,biotechnology
-ONCO,"Onconetix, Inc.",healthcare,biotechnology
-ADTX,"Aditxt, Inc.",healthcare,biotechnology
+ABBV,AbbVie Inc.,healthcare,pharma
+ABCL,AbCellera Biologics Inc.,healthcare,biotechnology
+ABEO,Abeona Therapeutics Inc.,healthcare,biotechnology
+ABOS,"Acumen Pharmaceuticals, Inc.",healthcare,biotechnology
+ABSI,Absci Corporation,healthcare,biotechnology
 ABT,Abbott Laboratories,healthcare,devices
-SYK,Stryker Corporation,healthcare,devices
-MDT,Medtronic plc,healthcare,devices
-BSX,Boston Scientific Corporation,healthcare,devices
-EW,Edwards Lifesciences Corporation,healthcare,devices
-GEHC,GE HealthCare Technologies Inc.,healthcare,devices
-DXCM,"DexCom, Inc.",healthcare,devices
-PHG,Koninklijke Philips N.V.,healthcare,devices
-STE,STERIS plc,healthcare,devices
-ZBH,"Zimmer Biomet Holdings, Inc.",healthcare,devices
-SNN,Smith & Nephew plc,healthcare,devices
-PEN,"Penumbra, Inc.",healthcare,devices
-GMED,"Globus Medical, Inc.",healthcare,devices
-PODD,Insulet Corporation,healthcare,devices
-MASI,Masimo Corporation,healthcare,devices
-BRKR,Bruker Corporation,healthcare,devices
-BIO,"Bio-Rad Laboratories, Inc.",healthcare,devices
-GKOS,Glaukos Corporation,healthcare,devices
-LIVN,LivaNova PLC,healthcare,devices
-IRTC,"iRhythm Holdings, Inc.",healthcare,devices
-HAE,Haemonetics Corporation,healthcare,devices
-ITGR,Integer Holdings Corporation,healthcare,devices
-TMDX,"TransMedics Group, Inc.",healthcare,devices
-AXGN,"Axogen, Inc.",healthcare,devices
-ESTA,Establishment Labs Holdings Inc.,healthcare,devices
-NVCR,NovoCure Limited,healthcare,devices
-NEOG,Neogen Corporation,healthcare,devices
-UFPT,"UFP Technologies, Inc.",healthcare,devices
-PRCT,PROCEPT BioRobotics Corporation,healthcare,devices
-ENOV,Enovis Corporation,healthcare,devices
-TNDM,"Tandem Diabetes Care, Inc.",healthcare,devices
-IART,Integra LifeSciences Holdings Corporation,healthcare,devices
-AHCO,AdaptHealth Corp.,healthcare,devices
-ATEC,"Alphatec Holdings, Inc.",healthcare,devices
-BFLY,"Butterfly Network, Inc.",healthcare,devices
-IRMD,IRADIMED CORPORATION,healthcare,devices
-INSP,"Inspire Medical Systems, Inc.",healthcare,devices
-AVNS,"Avanos Medical, Inc.",healthcare,devices
-CNMD,CONMED Corporation,healthcare,devices
-QDEL,QuidelOrtho Corporation,healthcare,devices
-AORT,"Artivion, Inc.",healthcare,devices
-INMD,InMode Ltd.,healthcare,devices
-LMRI,"Lumexa Imaging Holdings, Inc.",healthcare,devices
-SSII,"SS Innovations International, Inc.",healthcare,devices
-BVS,Bioventus Inc.,healthcare,devices
-CBLL,"CeriBell, Inc.",healthcare,devices
-SIBN,"SI-BONE, Inc.",healthcare,devices
-BBNX,"Beta Bionics, Inc.",healthcare,devices
-BWAY,BrainsWay Ltd.,healthcare,devices
-TCMD,"Tactile Systems Technology, Inc.",healthcare,devices
-CERS,Cerus Corporation,healthcare,devices
-NPCE,"NeuroPace, Inc.",healthcare,devices
-CTKB,"Cytek Biosciences, Inc.",healthcare,devices
-KIDS,OrthoPediatrics Corp.,healthcare,devices
-PACB,"Pacific Biosciences of California, Inc.",healthcare,devices
-LAB,Standard BioTools Inc.,healthcare,devices
-VREX,Varex Imaging Corporation,healthcare,devices
-MOBI,"Mobia Medical, Inc.",healthcare,devices
-OFIX,Orthofix Medical Inc.,healthcare,devices
-CLPT,"ClearPoint Neuro, Inc.",healthcare,devices
-VMD,"Viemed Healthcare, Inc.",healthcare,devices
-DCTH,"Delcath Systems, Inc.",healthcare,devices
-CV,"CapsoVision, Inc.",healthcare,devices
-SENS,"Senseonics Holdings, Inc.",healthcare,devices
-CATX,"Perspective Therapeutics, Inc.",healthcare,devices
-ELMD,"Electromed, Inc.",healthcare,devices
-MASS,908 Devices Inc.,healthcare,devices
-PROF,Profound Medical Corp.,healthcare,devices
-SGHT,"Sight Sciences, Inc.",healthcare,devices
-QSI,Quantum-Si incorporated,healthcare,devices
-TMCI,"Treace Medical Concepts, Inc.",healthcare,devices
-RXST,"RxSight, Inc.",healthcare,devices
-TLSI,"TriSalus Life Sciences, Inc.",healthcare,devices
-APYX,Apyx Medical Corporation,healthcare,devices
-INFU,"InfuSystem Holdings, Inc.",healthcare,devices
-LUCD,Lucid Diagnostics Inc.,healthcare,devices
-INGN,"Inogen, Inc.",healthcare,devices
-QTRX,Quanterix Corporation,healthcare,devices
-CVRX,"CVRx, Inc.",healthcare,devices
-HYPR,"Hyperfine, Inc.",healthcare,devices
-OWLT,"Owlet, Inc.",healthcare,devices
-NNOX,Nano-X Imaging Ltd.,healthcare,devices
-RCEL,"AVITA Medical, Inc.",healthcare,devices
-SNWV,"SANUWAVE Health, Inc.",healthcare,devices
-MXCT,"MaxCyte, Inc.",healthcare,devices
-RPID,"Rapid Micro Biosystems, Inc.",healthcare,devices
-STIM,"Neuronetics, Inc.",healthcare,devices
-SERA,"Sera Prognostics, Inc.",healthcare,devices
-OM,"Outset Medical, Inc.",healthcare,devices
-ECOR,"electroCore, Inc.",healthcare,devices
-LNSR,"LENSAR, Inc.",healthcare,devices
-LUNG,Pulmonx Corporation,healthcare,devices
-XTNT,"Xtant Medical Holdings, Inc.",healthcare,devices
-MDAI,"Spectral AI, Inc.",healthcare,devices
-COCH,"Envoy Medical, Inc.",healthcare,devices
-QTI,"QT Imaging Holdings, Inc.",healthcare,devices
-MYO,"Myomo, Inc.",healthcare,devices
-SRTS,"Sensus Healthcare, Inc.",healthcare,devices
-NSYS,Nortech Systems Incorporated,healthcare,devices
-ELUT,Elutia Inc.,healthcare,devices
-NSPR,"InspireMD, Inc.",healthcare,devices
-ARAY,Accuray Incorporated,healthcare,devices
-TELA,"TELA Bio, Inc.",healthcare,devices
-PAVM,PAVmed Inc.,healthcare,devices
-BDMD,Baird Medical Investment Holdings Limited,healthcare,devices
-ITOC,iTonic Holdings Ltd.,healthcare,devices
-NMTC,NeuroOne Medical Technologies Corporation,healthcare,devices
-CTSO,Cytosorbents Corporation,healthcare,devices
-PLSM,Pulsenmore Ltd.,healthcare,devices
-MODD,"Modular Medical, Inc.",healthcare,devices
-PMI,"Picard Medical, Inc.",healthcare,devices
-CODX,"Co-Diagnostics, Inc.",healthcare,devices
-LFWD,Lifeward Ltd.,healthcare,devices
-IRIX,IRIDEX Corporation,healthcare,devices
-ADGM,"Adagio Medical Holdings, Inc.",healthcare,devices
-VNRX,VolitionRx Limited,healthcare,devices
-TRIB,Trinity Biotech plc,healthcare,devices
-VVOS,"Vivos Therapeutics, Inc.",healthcare,devices
-ICCM,IceCure Medical Ltd,healthcare,devices
-NXL,"Nexalin Technology, Inc.",healthcare,devices
-POAS,Phaos Technology Holdings (Cayman) Limited,healthcare,devices
-SINT,"Sintx Technologies, Inc.",healthcare,devices
-TNON,"Tenon Medical, Inc.",healthcare,devices
-NVNO,enVVeno Medical Corporation,healthcare,devices
-BMRA,"Biomerica, Inc.",healthcare,devices
-HSCS,HeartSciences Inc.,healthcare,devices
-INBS,Intelligent Bio Solutions Inc.,healthcare,devices
-XAIR,"Beyond Air, Inc.",healthcare,devices
-FEED,"ENvue Medical, Inc.",healthcare,devices
-BJDX,"Bluejay Diagnostics, Inc.",healthcare,devices
-AMIX,"Autonomix Medical, Inc.",healthcare,devices
-AEMD,"Aethlon Medical, Inc.",healthcare,devices
-VTAK,"Catheter Precision, Inc.",healthcare,devices
-IVF,"INVO Fertility, Inc.",healthcare,devices
-PFSA,"Profusa, Inc.",healthcare,devices
-NUWE,"Nuwellis, Inc.",healthcare,devices
-WOK,WORK Medical Technology Group LTD,healthcare,devices
-TAK,Takeda Pharmaceutical Company Limited,healthcare,pharma
-HLN,Haleon plc,healthcare,pharma
-TEVA,Teva Pharmaceutical Industries Limited,healthcare,pharma
-ZTS,Zoetis Inc.,healthcare,pharma
-UTHR,United Therapeutics Corporation,healthcare,pharma
-VTRS,Viatris Inc.,healthcare,pharma
-NBIX,"Neurocrine Biosciences, Inc.",healthcare,pharma
-ELAN,Elanco Animal Health Incorporated,healthcare,pharma
-RDY,Dr. Reddy's Laboratories Limited,healthcare,pharma
-RGC,Regencell Bioscience Holdings Limited,healthcare,pharma
-ALKS,Alkermes plc,healthcare,pharma
-LNTH,"Lantheus Holdings, Inc.",healthcare,pharma
-HIMS,"Hims & Hers Health, Inc.",healthcare,pharma
-LQDA,Liquidia Corporation,healthcare,pharma
-AMRX,"Amneal Pharmaceuticals, Inc.",healthcare,pharma
-KNSA,"Kiniksa Pharmaceuticals International, plc",healthcare,pharma
-SUPN,"Supernus Pharmaceuticals, Inc.",healthcare,pharma
-PBH,Prestige Consumer Healthcare Inc.,healthcare,pharma
-BCRX,"BioCryst Pharmaceuticals, Inc.",healthcare,pharma
-BHC,Bausch Health Companies Inc.,healthcare,pharma
-HCM,HUTCHMED (China) Limited,healthcare,pharma
-ANIP,"ANI Pharmaceuticals, Inc.",healthcare,pharma
-PRGO,Perrigo Company plc,healthcare,pharma
-AMLX,"Amylyx Pharmaceuticals, Inc.",healthcare,pharma
-PAHC,Phibro Animal Health Corporation,healthcare,pharma
-HROW,"Harrow, Inc.",healthcare,pharma
-ALVO,Alvotech,healthcare,pharma
-COLL,"Collegium Pharmaceutical, Inc.",healthcare,pharma
-XERS,"Xeris Biopharma Holdings, Inc.",healthcare,pharma
-CRON,Cronos Group Inc.,healthcare,pharma
-EVO,Evotec SE,healthcare,pharma
-PCRX,"Pacira BioSciences, Inc.",healthcare,pharma
-AMPH,"Amphastar Pharmaceuticals, Inc.",healthcare,pharma
-ESPR,"Esperion Therapeutics, Inc.",healthcare,pharma
-ETON,"Eton Pharmaceuticals, Inc.",healthcare,pharma
-BIOA,"BioAge Labs, Inc.",healthcare,pharma
-TLRY,"Tilray Brands, Inc.",healthcare,pharma
-IRWD,"Ironwood Pharmaceuticals, Inc.",healthcare,pharma
-AQST,"Aquestive Therapeutics, Inc.",healthcare,pharma
-EOLS,"Evolus, Inc.",healthcare,pharma
-KMDA,Kamada Ltd.,healthcare,pharma
-EBS,Emergent BioSolutions Inc.,healthcare,pharma
-CGC,Canopy Growth Corporation,healthcare,pharma
-ORGO,Organogenesis Holdings Inc.,healthcare,pharma
-SIGA,"SIGA Technologies, Inc.",healthcare,pharma
-AKBA,"Akebia Therapeutics, Inc.",healthcare,pharma
-TKNO,"Alpha Teknova, Inc.",healthcare,pharma
-LFCR,"Lifecore Biomedical, Inc.",healthcare,pharma
+ABUS,Arbutus Biopharma Corporation,healthcare,biotechnology
+ABVC,"ABVC BioPharma, Inc.",healthcare,biotechnology
+ABVX,ABIVAX SociÃ©tÃ© Anonyme,healthcare,biotechnology
+ACAD,ACADIA Pharmaceuticals Inc.,healthcare,biotechnology
 ACB,Aurora Cannabis Inc.,healthcare,pharma
-ANIK,"Anika Therapeutics, Inc.",healthcare,pharma
-DERM,Journey Medical Corporation,healthcare,pharma
-ASRT,"Assertio Holdings, Inc.",healthcare,pharma
-OGI,Organigram Global Inc.,healthcare,pharma
-CRDL,Cardiol Therapeutics Inc.,healthcare,pharma
-CPIX,Cumberland Pharmaceuticals Inc.,healthcare,pharma
-CTOR,"Citius Oncology, Inc.",healthcare,pharma
-INCR,InterCure Ltd.,healthcare,pharma
-BGM,BGM Group Ltd.,healthcare,pharma
-SCYX,"SCYNEXIS, Inc.",healthcare,pharma
-TLPH,"Talphera, Inc.",healthcare,pharma
-ZYBT,Zhengye Biotechnology Holding Limited,healthcare,pharma
-IXHL,Incannex Healthcare Inc.,healthcare,pharma
-BTAI,"BioXcel Therapeutics, Inc.",healthcare,pharma
-CPHI,"China Pharma Holdings, Inc.",healthcare,pharma
-OPTH,Optimi Health Corp.,healthcare,pharma
-RMTI,"Rockwell Medical, Inc.",healthcare,pharma
-AYTU,"Aytu BioPharma, Inc.",healthcare,pharma
-TXMD,"TherapeuticsMD, Inc.",healthcare,pharma
-APUS,"Apimeds Pharmaceuticals US, Inc.",healthcare,pharma
-CABR,"Caring Brands, Inc.",healthcare,pharma
-BFRI,Biofrontera Inc.,healthcare,pharma
-SXTC,"China SXT Pharmaceuticals, Inc.",healthcare,pharma
+ACET,"Adicet Bio, Inc.",healthcare,biotechnology
+ACH,"Accendra Health, Inc.",healthcare,services
+ACHC,"Acadia Healthcare Company, Inc.",healthcare,services
+ACHV,"Achieve Life Sciences, Inc.",healthcare,biotechnology
+ACIU,AC Immune SA,healthcare,biotechnology
+ACOG,Alpha Cognition Inc.,healthcare,biotechnology
+ACON,"Aclarion, Inc.",healthcare,life_science
+ACRS,"Aclaris Therapeutics, Inc.",healthcare,biotechnology
+ACRV,"Acrivon Therapeutics, Inc.",healthcare,biotechnology
+ACTU,"Actuate Therapeutics, Inc.",healthcare,biotechnology
+ACXP,"Acurx Pharmaceuticals, Inc.",healthcare,biotechnology
+ADAG,Adagene Inc.,healthcare,biotechnology
+ADCT,ADC Therapeutics SA,healthcare,biotechnology
+ADGM,"Adagio Medical Holdings, Inc.",healthcare,devices
+ADIL,"Adial Pharmaceuticals, Inc.",healthcare,biotechnology
+ADMA,"ADMA Biologics, Inc.",healthcare,biotechnology
+ADPT,Adaptive Biotechnologies Corporation,healthcare,life_science
+ADTX,"Aditxt, Inc.",healthcare,biotechnology
+ADUS,Addus HomeCare Corporation,healthcare,services
+ADVB,Advanced Biomed Inc.,healthcare,life_science
+ADXN,Addex Therapeutics Ltd,healthcare,biotechnology
+AEMD,"Aethlon Medical, Inc.",healthcare,devices
+AEON,"AEON Biopharma, Inc.",healthcare,biotechnology
+AGEN,Agenus Inc.,healthcare,biotechnology
+AGIO,"Agios Pharmaceuticals, Inc.",healthcare,biotechnology
+AGL,"agilon health, inc.",healthcare,services
+AGMB,AgomAb Therapeutics NV,healthcare,biotechnology
+AHCO,AdaptHealth Corp.,healthcare,devices
+AHG,Akso Health Group,healthcare,services
+AIM,AIM ImmunoTech Inc.,healthcare,biotechnology
+AIRS,"AirSculpt Technologies, Inc.",healthcare,services
 AKAN,Akanda Corp.,healthcare,pharma
-YCBD,"cbdMD, Inc.",healthcare,pharma
-INM,InMed Pharmaceuticals Inc.,healthcare,pharma
-GELS,Gelteq Limited,healthcare,pharma
-RDHL,RedHill Biopharma Ltd.,healthcare,pharma
-SBFM,"Sunshine Biopharma, Inc.",healthcare,pharma
-SNOA,"Sonoma Pharmaceuticals, Inc.",healthcare,pharma
-SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",healthcare,pharma
-UPC,Universe Pharmaceuticals INC,healthcare,pharma
-IMCC,IM Cannabis Corp.,healthcare,pharma
-PRFX,PRF Technologies Ltd.,healthcare,pharma
-ISRG,"Intuitive Surgical, Inc.",healthcare,devices
-MDLN,Medline Inc.,healthcare,devices
-BDX,"Becton, Dickinson and Company",healthcare,devices
+AKBA,"Akebia Therapeutics, Inc.",healthcare,pharma
+AKTS,"Aktis Oncology, Inc.",healthcare,biotechnology
+AKTX,"Akari Therapeutics, Plc",healthcare,biotechnology
 ALC,Alcon Inc.,healthcare,devices
-RMD,ResMed Inc.,healthcare,devices
-WST,"West Pharmaceutical Services, Inc.",healthcare,devices
-SOLV,Solventum Corporation,healthcare,devices
-COO,"The Cooper Companies, Inc.",healthcare,devices
+ALDX,"Aldeyra Therapeutics, Inc.",healthcare,biotechnology
+ALEC,"Alector, Inc.",healthcare,biotechnology
 ALGN,"Align Technology, Inc.",healthcare,devices
-BAX,Baxter International Inc.,healthcare,devices
+ALGS,"Aligos Therapeutics, Inc.",healthcare,biotechnology
+ALHC,"Alignment Healthcare, Inc.",healthcare,insurance
+ALKS,Alkermes plc,healthcare,pharma
+ALLO,"Allogene Therapeutics, Inc.",healthcare,biotechnology
+ALLR,"Allarity Therapeutics, Inc.",healthcare,biotechnology
+ALMR,"Alamar Biosciences, Inc.",healthcare,devices
+ALMS,Alumis Inc.,healthcare,biotechnology
+ALNY,"Alnylam Pharmaceuticals, Inc.",healthcare,biotechnology
+ALPS,Alps Group Inc,healthcare,biotechnology
+ALT,"Altimmune, Inc.",healthcare,biotechnology
+ALVO,Alvotech,healthcare,pharma
+ALXO,ALX Oncology Holdings Inc.,healthcare,biotechnology
+ALZN,"Alzamend Neuro, Inc.",healthcare,biotechnology
+AMGN,Amgen Inc.,healthcare,pharma
+AMIX,"Autonomix Medical, Inc.",healthcare,devices
+AMLX,"Amylyx Pharmaceuticals, Inc.",healthcare,pharma
+AMN,"AMN Healthcare Services, Inc.",healthcare,services
+AMPH,"Amphastar Pharmaceuticals, Inc.",healthcare,pharma
+AMRN,Amarin Corporation plc,healthcare,pharma
+AMRX,"Amneal Pharmaceuticals, Inc.",healthcare,pharma
+AMS,American Shared Hospital Services,healthcare,services
+AMWL,American Well Corporation,healthcare,life_science
+ANAB,"AnaptysBio, Inc.",healthcare,biotechnology
+ANGO,"AngioDynamics, Inc.",healthcare,devices
+ANIK,"Anika Therapeutics, Inc.",healthcare,pharma
+ANIP,"ANI Pharmaceuticals, Inc.",healthcare,pharma
+ANIX,"Anixa Biosciences, Inc.",healthcare,biotechnology
+ANL,Adlai Nortye Ltd.,healthcare,biotechnology
+ANNX,"Annexon, Inc.",healthcare,biotechnology
+ANRO,"Alto Neuroscience, Inc.",healthcare,biotechnology
+ANTX,"AN2 Therapeutics, Inc.",healthcare,biotechnology
+ANVS,"Annovis Bio, Inc.",healthcare,biotechnology
+AORT,"Artivion, Inc.",healthcare,devices
+APGE,"Apogee Therapeutics, Inc.",healthcare,biotechnology
+APLM,"Apollomics, Inc.",healthcare,biotechnology
+APM,Aptorum Group Limited,healthcare,biotechnology
+APRE,"Aprea Therapeutics, Inc.",healthcare,biotechnology
+APUS,"Apimeds Pharmaceuticals US, Inc.",healthcare,pharma
+APVO,Aptevo Therapeutics Inc.,healthcare,biotechnology
+APYX,Apyx Medical Corporation,healthcare,devices
+AQST,"Aquestive Therapeutics, Inc.",healthcare,pharma
+ARAY,Accuray Incorporated,healthcare,devices
+ARCT,Arcturus Therapeutics Holdings Inc.,healthcare,biotechnology
+ARDT,"Ardent Health, Inc.",healthcare,services
+ARDX,"Ardelyx, Inc.",healthcare,biotechnology
+ARGX,argenx SE,healthcare,biotechnology
+ARMP,"Armata Pharmaceuticals, Inc.",healthcare,biotechnology
+ARQT,"Arcutis Biotherapeutics, Inc.",healthcare,biotechnology
+ARTL,"Artelo Biosciences, Inc.",healthcare,biotechnology
+ARTV,"Artiva Biotherapeutics, Inc.",healthcare,biotechnology
+ARVN,"Arvinas, Inc.",healthcare,biotechnology
+ARWR,"Arrowhead Pharmaceuticals, Inc.",healthcare,biotechnology
+ASBP,"Aspire Biopharma Holdings, Inc.",healthcare,biotechnology
+ASMB,"Assembly Biosciences, Inc.",healthcare,biotechnology
+ASND,Ascendis Pharma A/S,healthcare,biotechnology
+ASRT,"Assertio Holdings, Inc.",healthcare,pharma
+ASTH,"Astrana Health, Inc.",healthcare,services
+ATAI,AtaiBeckley Inc.,healthcare,biotechnology
+ATEC,"Alphatec Holdings, Inc.",healthcare,devices
+ATHE,Alterity Therapeutics Limited,healthcare,biotechnology
+ATNM,"Actinium Pharmaceuticals, Inc.",healthcare,biotechnology
+ATOS,"Atossa Therapeutics, Inc.",healthcare,biotechnology
 ATR,"AptarGroup, Inc.",healthcare,devices
-RGEN,Repligen Corporation,healthcare,devices
+ATRA,"Atara Biotherapeutics, Inc.",healthcare,biotechnology
+ATRC,"AtriCure, Inc.",healthcare,devices
+ATYR,"aTyr Pharma, Inc.",healthcare,biotechnology
+AUNA,Auna S.A.,healthcare,services
+AUPH,Aurinia Pharmaceuticals Inc.,healthcare,biotechnology
+AURA,"Aura Biosciences, Inc.",healthcare,biotechnology
+AUTL,Autolus Therapeutics plc,healthcare,biotechnology
+AVAH,Aveanna Healthcare Holdings Inc.,healthcare,services
+AVBP,"ArriVent BioPharma, Inc.",healthcare,biotechnology
+AVIR,"Atea Pharmaceuticals, Inc.",healthcare,biotechnology
+AVLN,Avalyn Pharma Inc.,healthcare,biotechnology
+AVNS,"Avanos Medical, Inc.",healthcare,devices
+AVR,Anteris Technologies Global Corp.,healthcare,devices
 AVTR,"Avantor, Inc.",healthcare,devices
-TFX,Teleflex Incorporated,healthcare,devices
+AVTX,"Avalo Therapeutics, Inc.",healthcare,biotechnology
+AVXL,Anavex Life Sciences Corp.,healthcare,biotechnology
+AXGN,"Axogen, Inc.",healthcare,devices
+AXSM,"Axsome Therapeutics, Inc.",healthcare,biotechnology
+AYTU,"Aytu BioPharma, Inc.",healthcare,pharma
+AZN,AstraZeneca PLC,healthcare,pharma
+AZTA,"Azenta, Inc.",healthcare,devices
+AZTR,"Azitra, Inc.",healthcare,biotechnology
+BAX,Baxter International Inc.,healthcare,devices
+BBIO,"BridgeBio Pharma, Inc.",healthcare,biotechnology
+BBLG,Bone Biologics Corporation,healthcare,biotechnology
+BBNX,"Beta Bionics, Inc.",healthcare,devices
+BBOT,"BridgeBio Oncology Therapeutics, Inc.",healthcare,biotechnology
+BCAB,"BioAtla, Inc.",healthcare,biotechnology
+BCAX,Bicara Therapeutics Inc.,healthcare,biotechnology
+BCDA,"BioCardia, Inc.",healthcare,biotechnology
+BCRX,"BioCryst Pharmaceuticals, Inc.",healthcare,pharma
+BCTX,BriaCell Therapeutics Corp.,healthcare,biotechnology
+BCYC,Bicycle Therapeutics plc,healthcare,biotechnology
+BDMD,Baird Medical Investment Holdings Limited,healthcare,devices
+BDRX,Biodexa Pharmaceuticals Plc,healthcare,biotechnology
+BDSX,"Biodesix, Inc.",healthcare,life_science
+BDTX,"Black Diamond Therapeutics, Inc.",healthcare,biotechnology
+BDX,"Becton, Dickinson and Company",healthcare,devices
+BEAM,Beam Therapeutics Inc.,healthcare,biotechnology
+BEAT,"HeartBeam, Inc.",healthcare,life_science
+BFLY,"Butterfly Network, Inc.",healthcare,devices
+BFRG,"Bullfrog AI Holdings, Inc.",healthcare,life_science
+BFRI,Biofrontera Inc.,healthcare,pharma
+BGM,BGM Group Ltd.,healthcare,pharma
+BGMS,"Bio Green Med Solution, Inc.",healthcare,biotechnology
+BHC,Bausch Health Companies Inc.,healthcare,pharma
+BHVN,Biohaven Ltd.,healthcare,biotechnology
+BIAF,"bioAffinity Technologies, Inc.",healthcare,life_science
+BIIB,Biogen Inc.,healthcare,pharma
+BIO,"Bio-Rad Laboratories, Inc.",healthcare,devices
+BIOA,"BioAge Labs, Inc.",healthcare,pharma
+BIVI,BioVie Inc.,healthcare,biotechnology
+BJDX,"Bluejay Diagnostics, Inc.",healthcare,devices
+BKD,Brookdale Senior Living Inc.,healthcare,services
 BLCO,Bausch + Lomb Corporation,healthcare,devices
-STVN,Stevanato Group S.p.A.,healthcare,devices
+BLFS,"BioLife Solutions, Inc.",healthcare,devices
+BLLN,"BillionToOne, Inc.",healthcare,life_science
+BLRX,BioLineRx Ltd.,healthcare,biotechnology
+BLTE,"Belite Bio, Inc",healthcare,biotechnology
+BMEA,"Biomea Fusion, Inc.",healthcare,biotechnology
+BMGL,Basel Medical Group Ltd,healthcare,services
+BMRA,"Biomerica, Inc.",healthcare,devices
+BMRN,BioMarin Pharmaceutical Inc.,healthcare,biotechnology
+BMY,Bristol-Myers Squibb Company,healthcare,pharma
+BNGO,"Bionano Genomics, Inc.",healthcare,devices
+BNR,Burning Rock Biotech Limited,healthcare,life_science
+BNTC,Benitec Biopharma Inc.,healthcare,biotechnology
+BNTX,BioNTech SE,healthcare,biotechnology
+BOLD,"Boundless Bio, Inc.",healthcare,biotechnology
+BOLT,"Bolt Biotherapeutics, Inc.",healthcare,biotechnology
+BRKR,Bruker Corporation,healthcare,devices
+BRNS,Barinthus Biotherapeutics plc,healthcare,biotechnology
+BRTX,"BioRestorative Therapies, Inc.",healthcare,biotechnology
+BSX,Boston Scientific Corporation,healthcare,devices
+BTAI,"BioXcel Therapeutics, Inc.",healthcare,pharma
+BTMD,biote Corp.,healthcare,services
+BTSG,"BrightSpring Health Services, Inc.",healthcare,life_science
+BVS,Bioventus Inc.,healthcare,devices
+BWAY,BrainsWay Ltd.,healthcare,devices
+BYSI,BeyondSpring Inc.,healthcare,biotechnology
+CABA,"Cabaletta Bio, Inc.",healthcare,biotechnology
+CABR,"Caring Brands, Inc.",healthcare,pharma
+CADL,"Candel Therapeutics, Inc.",healthcare,biotechnology
+CAH,"Cardinal Health, Inc.",healthcare,services
+CAI,"Caris Life Sciences, Inc.",healthcare,biotechnology
+CALC,"CalciMedica, Inc.",healthcare,biotechnology
+CAMP,Camp4 Therapeutics Corporation,healthcare,biotechnology
+CANF,Can-Fite BioPharma Ltd.,healthcare,biotechnology
+CAPR,"Capricor Therapeutics, Inc.",healthcare,biotechnology
+CARL,"Carlsmed, Inc.",healthcare,life_science
+CATX,"Perspective Therapeutics, Inc.",healthcare,devices
+CBIO,"Crescent Biopharma, Inc.",healthcare,biotechnology
+CBLL,"CeriBell, Inc.",healthcare,devices
+CBUS,"Cibus, Inc.",healthcare,biotechnology
+CCCC,"C4 Therapeutics, Inc.",healthcare,biotechnology
+CCEL,"Cryo-Cell International, Inc.",healthcare,services
+CCLD,"CareCloud, Inc.",healthcare,life_science
+CCM,Concord Medical Services Holdings Limited,healthcare,services
+CCRN,"Cross Country Healthcare, Inc.",healthcare,services
+CDIO,"Cardio Diagnostics Holdings, Inc.",healthcare,biotechnology
+CDNA,"CareDx, Inc.",healthcare,life_science
+CDT,CDT Equity Inc.,healthcare,biotechnology
+CDXS,"Codexis, Inc.",healthcare,biotechnology
+CELC,Celcuity Inc.,healthcare,biotechnology
+CELU,Celularity Inc.,healthcare,biotechnology
+CELZ,"Creative Medical Technology Holdings, Inc.",healthcare,biotechnology
+CERS,Cerus Corporation,healthcare,devices
+CERT,"Certara, Inc.",healthcare,life_science
+CGC,Canopy Growth Corporation,healthcare,pharma
+CGEM,"Cullinan Therapeutics, Inc.",healthcare,biotechnology
+CGEN,Compugen Ltd.,healthcare,biotechnology
+CGON,"CG Oncology, Inc.",healthcare,biotechnology
+CGTX,"Cognition Therapeutics, Inc.",healthcare,biotechnology
+CHE,Chemed Corporation,healthcare,services
+CHRS,"Coherus Oncology, Inc.",healthcare,biotechnology
+CI,The Cigna Group,healthcare,insurance
+CING,Cingulate Inc.,healthcare,biotechnology
+CLDI,"Calidi Biotherapeutics, Inc.",healthcare,biotechnology
+CLDX,"Celldex Therapeutics, Inc.",healthcare,biotechnology
+CLGN,CollPlant Biotechnologies Ltd.,healthcare,biotechnology
+CLLS,Cellectis S.A.,healthcare,biotechnology
+CLOV,"Clover Health Investments, Corp.",healthcare,insurance
+CLPT,"ClearPoint Neuro, Inc.",healthcare,devices
+CLRB,"Cellectar Biosciences, Inc.",healthcare,biotechnology
+CLYM,"Climb Bio, Inc.",healthcare,biotechnology
+CMMB,Chemomab Therapeutics Ltd.,healthcare,biotechnology
+CMND,Clearmind Medicine Inc.,healthcare,biotechnology
+CMPS,COMPASS Pathways plc,healthcare,services
+CMPX,"Compass Therapeutics, Inc.",healthcare,biotechnology
+CNC,Centene Corporation,healthcare,insurance
+CNMD,CONMED Corporation,healthcare,devices
+CNSP,"CNS Pharmaceuticals, Inc.",healthcare,biotechnology
+CNTA,Centessa Pharmaceuticals plc,healthcare,biotechnology
+CNTB,Connect Biopharma Holdings Limited,healthcare,biotechnology
+CNTN,"Canton Strategic Holdings, Inc.",healthcare,biotechnology
+CNTX,Context Therapeutics Inc.,healthcare,biotechnology
+CNXU,Conexeu Sciences Inc.,healthcare,biotechnology
+COAG,"Hemab Therapeutics Holdings, Inc.",healthcare,biotechnology
+COCH,"Envoy Medical, Inc.",healthcare,devices
+COCP,"Cocrystal Pharma, Inc.",healthcare,biotechnology
+CODX,"Co-Diagnostics, Inc.",healthcare,devices
+COGT,"Cogent Biosciences, Inc.",healthcare,biotechnology
+COLL,"Collegium Pharmaceutical, Inc.",healthcare,pharma
+CON,"Concentra Group Holdings Parent, Inc.",healthcare,services
+COO,"The Cooper Companies, Inc.",healthcare,devices
+COR,"Cencora, Inc.",healthcare,services
+CORT,Corcept Therapeutics Incorporated,healthcare,biotechnology
+COSM,Cosmos Health Inc.,healthcare,services
+COYA,"Coya Therapeutics, Inc.",healthcare,biotechnology
+CPHI,"China Pharma Holdings, Inc.",healthcare,pharma
+CPIX,Cumberland Pharmaceuticals Inc.,healthcare,pharma
+CPRX,"Catalyst Pharmaceuticals, Inc.",healthcare,biotechnology
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",healthcare,biotechnology
+CRBU,"Caribou Biosciences, Inc.",healthcare,biotechnology
+CRDF,"Cardiff Oncology, Inc.",healthcare,biotechnology
+CRDL,Cardiol Therapeutics Inc.,healthcare,pharma
+CRIS,"Curis, Inc.",healthcare,biotechnology
+CRL,"Charles River Laboratories International, Inc.",healthcare,life_science
+CRMD,CorMedix Inc.,healthcare,biotechnology
+CRNX,"Crinetics Pharmaceuticals, Inc.",healthcare,biotechnology
+CRON,Cronos Group Inc.,healthcare,pharma
+CRSP,CRISPR Therapeutics AG,healthcare,biotechnology
+CRVO,CervoMed Inc.,healthcare,biotechnology
+CRVS,"Corvus Pharmaceuticals, Inc.",healthcare,biotechnology
+CSBR,"Champions Oncology, Inc.",healthcare,biotechnology
+CSTL,"Castle Biosciences, Inc.",healthcare,life_science
+CTEV,Claritev Corporation,healthcare,life_science
+CTKB,"Cytek Biosciences, Inc.",healthcare,devices
+CTMX,"CytomX Therapeutics, Inc.",healthcare,biotechnology
+CTNM,"Contineum Therapeutics, Inc.",healthcare,biotechnology
+CTOR,"Citius Oncology, Inc.",healthcare,pharma
+CTSO,Cytosorbents Corporation,healthcare,devices
+CTXR,"Citius Pharmaceuticals, Inc.",healthcare,biotechnology
+CUE,"Cue Biopharma, Inc.",healthcare,biotechnology
+CUPR,Cuprina Holdings (Cayman) Limited,healthcare,devices
+CURX,Curanex Pharmaceuticals Inc,healthcare,biotechnology
+CV,"CapsoVision, Inc.",healthcare,devices
+CVKD,"Cadrenal Therapeutics, Inc.",healthcare,biotechnology
+CVM,CEL-SCI Corporation,healthcare,biotechnology
+CVRX,"CVRx, Inc.",healthcare,devices
+CVS,CVS Health Corporation,healthcare,insurance
+CYCN,"Cyclerion Therapeutics, Inc.",healthcare,biotechnology
+CYH,"Community Health Systems, Inc.",healthcare,services
+CYTK,"Cytokinetics, Incorporated",healthcare,biotechnology
+DARE,"DarÃ© Bioscience, Inc.",healthcare,biotechnology
+DBVT,DBV Technologies S.A.,healthcare,biotechnology
+DCGO,DocGo Inc.,healthcare,services
+DCOY,Decoy Therapeutics Inc.,healthcare,biotechnology
+DCTH,"Delcath Systems, Inc.",healthcare,devices
+DERM,Journey Medical Corporation,healthcare,pharma
+DFTX,"Definium Therapeutics, Inc.",healthcare,biotechnology
+DGX,Quest Diagnostics Incorporated,healthcare,life_science
+DH,Definitive Healthcare Corp.,healthcare,life_science
+DHR,Danaher Corporation,healthcare,life_science
+DMAC,DiaMedica Therapeutics Inc.,healthcare,biotechnology
+DMRA,"Damora Therapeutics, Inc.",healthcare,biotechnology
+DNA,"Ginkgo Bioworks Holdings, Inc.",healthcare,biotechnology
+DNLI,Denali Therapeutics Inc.,healthcare,biotechnology
+DNTH,"Dianthus Therapeutics, Inc.",healthcare,biotechnology
+DOCS,"Doximity, Inc.",healthcare,life_science
+DRIO,DarioHealth Corp.,healthcare,life_science
+DRMA,"Dermata Therapeutics, Inc.",healthcare,biotechnology
+DRTS,Alpha Tau Medical Ltd.,healthcare,biotechnology
+DRUG,Bright Minds Biosciences Inc.,healthcare,biotechnology
+DSGN,"Design Therapeutics, Inc.",healthcare,biotechnology
+DTIL,"Precision BioSciences, Inc.",healthcare,biotechnology
+DVA,DaVita Inc.,healthcare,services
+DWTX,"Dogwood Therapeutics, Inc.",healthcare,biotechnology
+DXCM,"DexCom, Inc.",healthcare,devices
+DXR,Daxor Corporation,healthcare,devices
+DYAI,"Dyadic International, Inc.",healthcare,biotechnology
+DYN,"Dyne Therapeutics, Inc.",healthcare,biotechnology
+EBS,Emergent BioSolutions Inc.,healthcare,pharma
+ECOR,"electroCore, Inc.",healthcare,devices
+EDIT,"Editas Medicine, Inc.",healthcare,biotechnology
+EDSA,"Edesa Biotech, Inc.",healthcare,biotechnology
+EHC,Encompass Health Corporation,healthcare,services
+EIKN,"Eikon Therapeutics, Inc.",healthcare,biotechnology
+ELAB,PMGC Holdings Inc.,healthcare,biotechnology
+ELAN,Elanco Animal Health Incorporated,healthcare,pharma
+ELDN,"Eledon Pharmaceuticals, Inc.",healthcare,biotechnology
+ELMD,"Electromed, Inc.",healthcare,devices
+ELTX,"Elicio Therapeutics, Inc.",healthcare,biotechnology
+ELUT,Elutia Inc.,healthcare,devices
+ELV,"Elevance Health, Inc.",healthcare,insurance
+ELVN,"Enliven Therapeutics, Inc.",healthcare,biotechnology
+EMBC,Embecta Corp.,healthcare,devices
+EMPG,Empro Group Inc.,healthcare,services
+ENGN,enGene Therapeutics Inc.,healthcare,biotechnology
+ENLV,Enlivex Ltd.,healthcare,biotechnology
+ENOV,Enovis Corporation,healthcare,devices
+ENSC,"Ensysce Biosciences, Inc.",healthcare,biotechnology
+ENSG,"The Ensign Group, Inc.",healthcare,services
+ENTA,"Enanta Pharmaceuticals, Inc.",healthcare,biotechnology
+ENTX,Entera Bio Ltd.,healthcare,biotechnology
+ENVB,"Enveric Biosciences, Inc.",healthcare,biotechnology
+EOLS,"Evolus, Inc.",healthcare,pharma
+EPRX,Eupraxia Pharmaceuticals Inc.,healthcare,biotechnology
+EQ,"Equillium, Inc.",healthcare,biotechnology
+ERAS,"Erasca, Inc.",healthcare,biotechnology
+ERNA,Ernexa Therapeutics Inc.,healthcare,biotechnology
+ESLA,"Estrella Immunopharma, Inc.",healthcare,biotechnology
+ESPR,"Esperion Therapeutics, Inc.",healthcare,pharma
+ESTA,Establishment Labs Holdings Inc.,healthcare,devices
+ETON,"Eton Pharmaceuticals, Inc.",healthcare,pharma
+EVAX,Evaxion A/S,healthcare,biotechnology
+EVGN,Evogene Ltd.,healthcare,biotechnology
+EVH,"Evolent Health, Inc.",healthcare,life_science
+EVMN,"Evommune, Inc.",healthcare,biotechnology
+EVO,Evotec SE,healthcare,pharma
+EW,Edwards Lifesciences Corporation,healthcare,devices
+EWTX,"Edgewise Therapeutics, Inc.",healthcare,biotechnology
+EXEL,"Exelixis, Inc.",healthcare,biotechnology
+EXOZ,"eXoZymes, Inc.",healthcare,biotechnology
+EYPT,"EyePoint, Inc.",healthcare,biotechnology
+FATE,"Fate Therapeutics, Inc.",healthcare,biotechnology
+FBIO,"Fortress Biotech, Inc.",healthcare,biotechnology
+FBLG,"FibroBiologics, Inc.",healthcare,biotechnology
+FBRX,"Forte Biosciences, Inc.",healthcare,biotechnology
+FDMT,"4D Molecular Therapeutics, Inc.",healthcare,biotechnology
+FEED,"ENvue Medical, Inc.",healthcare,devices
+FEMY,Femasys Inc.,healthcare,devices
+FENC,Fennec Pharmaceuticals Inc.,healthcare,biotechnology
+FHTX,Foghorn Therapeutics Inc.,healthcare,biotechnology
+FLGT,"Fulgent Genetics, Inc.",healthcare,life_science
+FLNA,"Filana Therapeutics, Inc.",healthcare,biotechnology
+FMS,Fresenius Medical Care AG,healthcare,services
+FTRE,Fortrea Holdings Inc.,healthcare,biotechnology
+FULC,"Fulcrum Therapeutics, Inc.",healthcare,biotechnology
+GALT,Galectin Therapeutics Inc.,healthcare,biotechnology
+GANX,"Gain Therapeutics, Inc.",healthcare,biotechnology
+GCTK,"GlucoTrack, Inc.",healthcare,devices
+GDRX,"GoodRx Holdings, Inc.",healthcare,life_science
+GDTC,CytoMed Therapeutics Limited,healthcare,biotechnology
+GEHC,GE HealthCare Technologies Inc.,healthcare,devices
+GELS,Gelteq Limited,healthcare,pharma
+GENB,"Generate Biomedicines, Inc.",healthcare,biotechnology
+GERN,Geron Corporation,healthcare,biotechnology
+GH,"Guardant Health, Inc.",healthcare,life_science
+GHRS,GH Research PLC,healthcare,biotechnology
+GILD,"Gilead Sciences, Inc.",healthcare,pharma
+GKOS,Glaukos Corporation,healthcare,devices
+GLMD,Galmed Pharmaceuticals Ltd.,healthcare,biotechnology
+GLSI,"Greenwich LifeSciences, Inc.",healthcare,biotechnology
+GLUE,"Monte Rosa Therapeutics, Inc.",healthcare,biotechnology
+GMAB,Genmab A/S,healthcare,biotechnology
+GMED,"Globus Medical, Inc.",healthcare,devices
+GMRS,GMR Solutions Inc.,healthcare,services
+GNLX,Genelux Corporation,healthcare,biotechnology
+GNPX,"Genprex, Inc.",healthcare,biotechnology
+GNTA,Genenta Science S.p.A.,healthcare,biotechnology
+GOSS,"Gossamer Bio, Inc.",healthcare,biotechnology
+GOVX,"GeoVax Labs, Inc.",healthcare,biotechnology
+GPCR,Structure Therapeutics Inc.,healthcare,biotechnology
+GRAL,"GRAIL, Inc.",healthcare,life_science
+GRCE,"Grace Therapeutics, Inc.",healthcare,biotechnology
+GRDN,"Guardian Pharmacy Services, Inc.",healthcare,services
+GRDX,GridAI Technologies Corp.,healthcare,biotechnology
+GRFS,"Grifols, S.A.",healthcare,pharma
+GRI,"GRI Bio, Inc.",healthcare,biotechnology
+GSK,GSK plc,healthcare,pharma
+GTBP,"GT Biopharma, Inc.",healthcare,biotechnology
+GUTS,"Fractyl Health, Inc.",healthcare,biotechnology
+GYRE,"Gyre Therapeutics, Inc.",healthcare,biotechnology
+HAE,Haemonetics Corporation,healthcare,devices
+HALO,"Halozyme Therapeutics, Inc.",healthcare,biotechnology
+HBIO,"Harvard Bioscience, Inc.",healthcare,devices
+HCA,"HCA Healthcare, Inc.",healthcare,services
+HCAT,"Health Catalyst, Inc.",healthcare,life_science
+HCM,HUTCHMED (China) Limited,healthcare,pharma
+HCSG,"Healthcare Services Group, Inc.",healthcare,services
+HCTI,"Healthcare Triangle, Inc.",healthcare,life_science
+HCWB,HCW Biologics Inc.,healthcare,biotechnology
+HELP,Cybin Inc.,healthcare,biotechnology
+HIMS,"Hims & Hers Health, Inc.",healthcare,pharma
+HIND,"Vyome Holdings, Inc.",healthcare,biotechnology
+HITI,High Tide Inc.,healthcare,services
+HKPD,"Cellyan Biotechnology Co., Ltd",healthcare,services
+HLN,Haleon plc,healthcare,pharma
+HNGE,"Hinge Health, Inc.",healthcare,life_science
+HOWL,"Werewolf Therapeutics, Inc.",healthcare,biotechnology
+HQY,"HealthEquity, Inc.",healthcare,life_science
+HRMY,"Harmony Biosciences Holdings, Inc.",healthcare,biotechnology
+HROW,"Harrow, Inc.",healthcare,pharma
+HRTX,"Heron Therapeutics, Inc.",healthcare,biotechnology
+HSCS,HeartSciences Inc.,healthcare,devices
+HSIC,"Henry Schein, Inc.",healthcare,services
+HSTM,"HealthStream, Inc.",healthcare,life_science
+HTFL,"HeartFlow, Inc.",healthcare,life_science
+HUM,Humana Inc.,healthcare,insurance
+HUMA,"Humacyte, Inc.",healthcare,biotechnology
+HURA,"TuHURA Biosciences, Inc.",healthcare,biotechnology
+HYFT,MindWalk Holdings Corp.,healthcare,biotechnology
+HYPD,"Hyperion DeFi, Inc.",healthcare,biotechnology
+HYPR,"Hyperfine, Inc.",healthcare,devices
+IART,Integra LifeSciences Holdings Corporation,healthcare,devices
+IBIO,"iBio, Inc.",healthcare,biotechnology
+IBO,Impact BioMedical Inc.,healthcare,biotechnology
+IBRX,"ImmunityBio, Inc.",healthcare,biotechnology
+ICCC,ImmuCell Corporation,healthcare,biotechnology
+ICCM,IceCure Medical Ltd,healthcare,devices
+ICLR,ICON Public Limited Company,healthcare,life_science
+ICU,SeaStar Medical Holding Corporation,healthcare,biotechnology
+ICUI,"ICU Medical, Inc.",healthcare,devices
+IDXX,"IDEXX Laboratories, Inc.",healthcare,life_science
+IDYA,"IDEAYA Biosciences, Inc.",healthcare,biotechnology
+IFRX,InflaRx N.V.,healthcare,biotechnology
+IGC,"IGC Pharma, Inc.",healthcare,biotechnology
+IKT,"Inhibikase Therapeutics, Inc.",healthcare,biotechnology
+ILMN,"Illumina, Inc.",healthcare,life_science
+IMA,"ImageneBio, Inc.",healthcare,biotechnology
+IMCC,IM Cannabis Corp.,healthcare,pharma
+IMCR,Immunocore Holdings plc,healthcare,biotechnology
+IMDX,Insight Molecular Diagnostics Inc.,healthcare,life_science
+IMMP,Immutep Limited,healthcare,biotechnology
+IMMX,"Immix Biopharma, Inc.",healthcare,biotechnology
+IMNM,"Immunome, Inc.",healthcare,biotechnology
+IMNN,"Imunon, Inc.",healthcare,biotechnology
+IMRN,Immuron Limited,healthcare,biotechnology
+IMRX,Immuneering Corporation,healthcare,biotechnology
+IMTX,Immatics N.V.,healthcare,biotechnology
+IMUX,"Immunic, Inc.",healthcare,biotechnology
+IMVT,"Immunovant, Inc.",healthcare,biotechnology
+INAB,"IN8bio, Inc.",healthcare,biotechnology
+INBS,Intelligent Bio Solutions Inc.,healthcare,devices
+INBX,"Inhibrx Biosciences, Inc.",healthcare,biotechnology
+INCR,InterCure Ltd.,healthcare,pharma
+INCY,Incyte Corporation,healthcare,biotechnology
+INDP,"Indaptus Therapeutics, Inc.",healthcare,biotechnology
+INFU,"InfuSystem Holdings, Inc.",healthcare,devices
+INGN,"Inogen, Inc.",healthcare,devices
+INKT,"MiNK Therapeutics, Inc.",healthcare,biotechnology
+INM,InMed Pharmaceuticals Inc.,healthcare,pharma
+INMB,INmune Bio Inc.,healthcare,biotechnology
+INMD,InMode Ltd.,healthcare,devices
+INNV,InnovAge Holding Corp.,healthcare,services
+INO,"Inovio Pharmaceuticals, Inc.",healthcare,biotechnology
+INSM,Insmed Incorporated,healthcare,biotechnology
+INSP,"Inspire Medical Systems, Inc.",healthcare,devices
+INTS,"Intensity Therapeutics, Inc.",healthcare,biotechnology
+INVA,"Innoviva, Inc.",healthcare,biotechnology
+IONS,"Ionis Pharmaceuticals, Inc.",healthcare,biotechnology
+IOVA,"Iovance Biotherapeutics, Inc.",healthcare,biotechnology
+IPHA,Innate Pharma S.A.,healthcare,biotechnology
+IPSC,"Century Therapeutics, Inc.",healthcare,biotechnology
+IQV,IQVIA Holdings Inc.,healthcare,life_science
+IRD,"Opus Genetics, Inc.",healthcare,biotechnology
+IRIX,IRIDEX Corporation,healthcare,devices
+IRMD,IRADIMED CORPORATION,healthcare,devices
+IRON,"Disc Medicine, Inc.",healthcare,biotechnology
+IRTC,"iRhythm Holdings, Inc.",healthcare,devices
+IRWD,"Ironwood Pharmaceuticals, Inc.",healthcare,pharma
+ISPC,iSpecimen Inc.,healthcare,life_science
+ISRG,"Intuitive Surgical, Inc.",healthcare,devices
+ITGR,Integer Holdings Corporation,healthcare,devices
+ITOC,iTonic Holdings Ltd.,healthcare,devices
+IVA,Inventiva S.A.,healthcare,biotechnology
+IVF,"INVO Fertility, Inc.",healthcare,devices
+IVVD,"Invivyd, Inc.",healthcare,biotechnology
+IXHL,Incannex Healthcare Inc.,healthcare,pharma
+JAGX,"Jaguar Health, Inc.",healthcare,biotechnology
+JANX,"Janux Therapeutics, Inc.",healthcare,biotechnology
+JAZZ,Jazz Pharmaceuticals plc,healthcare,biotechnology
+JBIO,"Jade Biosciences, Inc.",healthcare,biotechnology
+JNJ,Johnson & Johnson,healthcare,pharma
+JSPR,"Jasper Therapeutics, Inc.",healthcare,biotechnology
+JUNS,"Jupiter Neurosciences, Inc.",healthcare,biotechnology
+JYNT,The Joint Corp.,healthcare,services
+KALA,"KALA BIO, Inc.",healthcare,biotechnology
+KALV,"KalVista Pharmaceuticals, Inc.",healthcare,biotechnology
+KAPA,"Kairos Pharma, Ltd.",healthcare,biotechnology
+KIDS,OrthoPediatrics Corp.,healthcare,devices
+KLRA,"Kailera Therapeutics, Inc.",healthcare,biotechnology
+KLRS,"Kalaris Therapeutics, Inc.",healthcare,biotechnology
+KMDA,Kamada Ltd.,healthcare,pharma
+KMTS,"Kestra Medical Technologies, Ltd.",healthcare,devices
+KNSA,"Kiniksa Pharmaceuticals International, plc",healthcare,pharma
+KOD,Kodiak Sciences Inc.,healthcare,biotechnology
+KPRX,"Kiora Pharmaceuticals, Inc.",healthcare,biotechnology
+KPTI,Karyopharm Therapeutics Inc.,healthcare,biotechnology
+KRMD,"KORU Medical Systems, Inc.",healthcare,devices
+KROS,"Keros Therapeutics, Inc.",healthcare,biotechnology
+KRRO,"Korro Bio, Inc.",healthcare,biotechnology
+KRYS,"Krystal Biotech, Inc.",healthcare,biotechnology
+KTTA,Pasithea Therapeutics Corp.,healthcare,biotechnology
+KURA,"Kura Oncology, Inc.",healthcare,biotechnology
+KYMR,"Kymera Therapeutics, Inc.",healthcare,biotechnology
+KYNB,"Kyntra Bio, Inc.",healthcare,biotechnology
+KYTX,"Kyverna Therapeutics, Inc.",healthcare,biotechnology
+KZIA,Kazia Therapeutics Limited,healthcare,biotechnology
+LAB,Standard BioTools Inc.,healthcare,devices
+LBRX,LB Pharmaceuticals Inc,healthcare,biotechnology
+LCTX,"Lineage Cell Therapeutics, Inc.",healthcare,biotechnology
+LEGN,Legend Biotech Corporation,healthcare,biotechnology
+LENZ,"LENZ Therapeutics, Inc.",healthcare,biotechnology
+LEXX,Lexaria Bioscience Corp.,healthcare,biotechnology
+LFCR,"Lifecore Biomedical, Inc.",healthcare,pharma
+LFMD,"LifeMD, Inc.",healthcare,life_science
+LFST,"LifeStance Health Group, Inc.",healthcare,services
+LFWD,Lifeward Ltd.,healthcare,devices
+LGND,Ligand Pharmaceuticals Incorporated,healthcare,biotechnology
+LGVN,Longeveron Inc.,healthcare,biotechnology
+LH,Labcorp Holdings Inc.,healthcare,life_science
+LIMN,"Liminatus Pharma, Inc.",healthcare,biotechnology
+LITS,"Lite Strategy, Inc.",healthcare,biotechnology
+LIVN,LivaNova PLC,healthcare,devices
+LIXT,"Lixte Biotechnology Holdings, Inc.",healthcare,biotechnology
+LKFT,Lakefront Biotherapeutics NV,healthcare,biotechnology
+LLY,Eli Lilly and Company,healthcare,pharma
+LMAT,"LeMaitre Vascular, Inc.",healthcare,devices
+LMRI,"Lumexa Imaging Holdings, Inc.",healthcare,devices
+LNAI,Lunai Bioworks Inc.,healthcare,biotechnology
+LNSR,"LENSAR, Inc.",healthcare,devices
+LNTH,"Lantheus Holdings, Inc.",healthcare,pharma
+LONA,"LeonaBio, Inc.",healthcare,biotechnology
+LPCN,Lipocine Inc.,healthcare,biotechnology
+LQDA,Liquidia Corporation,healthcare,pharma
+LRMR,"Larimar Therapeutics, Inc.",healthcare,biotechnology
+LSTA,"Lisata Therapeutics, Inc.",healthcare,biotechnology
+LTRN,Lantern Pharma Inc.,healthcare,biotechnology
+LUCD,Lucid Diagnostics Inc.,healthcare,devices
+LUCY,"Lucyd, Inc",healthcare,devices
+LUNG,Pulmonx Corporation,healthcare,devices
+LXEO,"Lexeo Therapeutics, Inc.",healthcare,biotechnology
+LXRX,"Lexicon Pharmaceuticals, Inc.",healthcare,biotechnology
+LYEL,"Lyell Immunopharma, Inc.",healthcare,biotechnology
+MAIA,"MAIA Biotechnology, Inc.",healthcare,biotechnology
+MANE,"Veradermics, Incorporated",healthcare,biotechnology
+MASI,Masimo Corporation,healthcare,devices
+MASS,908 Devices Inc.,healthcare,devices
+MAZE,"Maze Therapeutics, Inc.",healthcare,biotechnology
+MBAI,Check-Cap Ltd.,healthcare,life_science
+MBIO,"Mustang Bio, Inc.",healthcare,biotechnology
+MBOT,Microbot Medical Inc.,healthcare,devices
+MBRX,"Moleculin Biotech, Inc.",healthcare,biotechnology
+MBX,"MBX Biosciences, Inc.",healthcare,biotechnology
+MCK,McKesson Corporation,healthcare,services
+MCRB,"Seres Therapeutics, Inc.",healthcare,biotechnology
+MCTA,Charming Medical Limited,healthcare,services
+MD,"Pediatrix Medical Group, Inc.",healthcare,services
+MDAI,"Spectral AI, Inc.",healthcare,devices
+MDCX,Medicus Pharma Ltd.,healthcare,pharma
+MDGL,"Madrigal Pharmaceuticals, Inc.",healthcare,biotechnology
+MDLN,Medline Inc.,healthcare,devices
+MDT,Medtronic plc,healthcare,devices
+MDWD,MediWound Ltd.,healthcare,biotechnology
+MDXG,"MiMedx Group, Inc.",healthcare,biotechnology
+MDXH,MDxHealth SA,healthcare,life_science
+MEDP,"Medpace Holdings, Inc.",healthcare,life_science
+MENS,Jyong Biotech Ltd.,healthcare,biotechnology
+MESO,Mesoblast Limited,healthcare,biotechnology
+MGNX,"MacroGenics, Inc.",healthcare,biotechnology
+MGRX,"Mangoceuticals, Inc.",healthcare,life_science
+MGTX,MeiraGTx Holdings plc,healthcare,biotechnology
+MGX,"Metagenomi Therapeutics, Inc.",healthcare,biotechnology
+MIRA,"MIRA Pharmaceuticals, Inc.",healthcare,pharma
+MIRM,"Mirum Pharmaceuticals, Inc.",healthcare,biotechnology
+MIST,Milestone Pharmaceuticals Inc.,healthcare,biotechnology
+MLEC,Moolec Science SA,healthcare,biotechnology
+MLSS,Milestone Scientific Inc.,healthcare,devices
+MLTX,MoonLake Immunotherapeutics,healthcare,biotechnology
+MLYS,"Mineralys Therapeutics, Inc.",healthcare,biotechnology
 MMED,"MiniMed Group, Inc.",healthcare,devices
 MMSI,"Merit Medical Systems, Inc.",healthcare,devices
-NVST,Envista Holdings Corporation,healthcare,devices
-ICUI,"ICU Medical, Inc.",healthcare,devices
-WRBY,Warby Parker Inc.,healthcare,devices
-LMAT,"LeMaitre Vascular, Inc.",healthcare,devices
-XRAY,DENTSPLY SIRONA Inc.,healthcare,devices
-PLSE,"Pulse Biosciences, Inc.",healthcare,devices
-STAA,STAAR Surgical Company,healthcare,devices
-ALMR,"Alamar Biosciences, Inc.",healthcare,devices
-ATRC,"AtriCure, Inc.",healthcare,devices
-BLFS,"BioLife Solutions, Inc.",healthcare,devices
-KMTS,"Kestra Medical Technologies, Ltd.",healthcare,devices
-AZTA,"Azenta, Inc.",healthcare,devices
-NNNN,Anbio Biotechnology,healthcare,devices
-AVR,Anteris Technologies Global Corp.,healthcare,devices
-ANGO,"AngioDynamics, Inc.",healthcare,devices
-OSUR,"OraSure Technologies, Inc.",healthcare,devices
-UTMD,"Utah Medical Products, Inc.",healthcare,devices
-PDEX,"Pro-Dex, Inc.",healthcare,devices
-SMTI,Sanara MedTech Inc.,healthcare,devices
-EMBC,Embecta Corp.,healthcare,devices
-KRMD,"KORU Medical Systems, Inc.",healthcare,devices
-STXS,"Stereotaxis, Inc.",healthcare,devices
-NYXH,Nyxoah SA,healthcare,devices
-MBOT,Microbot Medical Inc.,healthcare,devices
-POCI,"Precision Optics Corporation, Inc.",healthcare,devices
-ZTEK,Zentek Ltd.,healthcare,devices
-DXR,Daxor Corporation,healthcare,devices
-NEPH,"Nephros, Inc.",healthcare,devices
-MLSS,Milestone Scientific Inc.,healthcare,devices
-HBIO,"Harvard Bioscience, Inc.",healthcare,devices
-RVP,"Retractable Technologies, Inc.",healthcare,devices
-ZJYL,Jin Medical International Ltd.,healthcare,devices
-FEMY,Femasys Inc.,healthcare,devices
-BNGO,"Bionano Genomics, Inc.",healthcare,devices
-RGNT,Regentis Biomaterials Ltd.,healthcare,devices
-CUPR,Cuprina Holdings (Cayman) Limited,healthcare,devices
-LUCY,"Lucyd, Inc",healthcare,devices
-NXGL,"NEXGEL, Inc.",healthcare,devices
-GCTK,"GlucoTrack, Inc.",healthcare,devices
-HCA,"HCA Healthcare, Inc.",healthcare,services
-THC,Tenet Healthcare Corporation,healthcare,services
-DVA,DaVita Inc.,healthcare,services
-FMS,Fresenius Medical Care AG,healthcare,services
-EHC,Encompass Health Corporation,healthcare,services
-ENSG,"The Ensign Group, Inc.",healthcare,services
-UHS,"Universal Health Services, Inc.",healthcare,services
-PACS,"PACS Group, Inc.",healthcare,services
-CHE,Chemed Corporation,healthcare,services
-CON,"Concentra Group Holdings Parent, Inc.",healthcare,services
-OPCH,"Option Care Health, Inc.",healthcare,services
-NHC,National HealthCare Corporation,healthcare,services
-BKD,Brookdale Senior Living Inc.,healthcare,services
-LFST,"LifeStance Health Group, Inc.",healthcare,services
-GRDN,"Guardian Pharmacy Services, Inc.",healthcare,services
-GMRS,GMR Solutions Inc.,healthcare,services
-ACHC,"Acadia Healthcare Company, Inc.",healthcare,services
-SEM,Select Medical Holdings Corporation,healthcare,services
-ASTH,"Astrana Health, Inc.",healthcare,services
-MD,"Pediatrix Medical Group, Inc.",healthcare,services
-SGRY,"Surgery Partners, Inc.",healthcare,services
-ADUS,Addus HomeCare Corporation,healthcare,services
-CMPS,COMPASS Pathways plc,healthcare,services
-AGL,"agilon health, inc.",healthcare,services
-SNDA,"Sonida Senior Living, Inc.",healthcare,services
-AVAH,Aveanna Healthcare Holdings Inc.,healthcare,services
-HCSG,"Healthcare Services Group, Inc.",healthcare,services
-ARDT,"Ardent Health, Inc.",healthcare,services
-AMN,"AMN Healthcare Services, Inc.",healthcare,services
-PNTG,"The Pennant Group, Inc.",healthcare,services
-INNV,InnovAge Holding Corp.,healthcare,services
-USPH,"U.S. Physical Therapy, Inc.",healthcare,services
-NUTX,Nutex Health Inc.,healthcare,services
-MCTA,Charming Medical Limited,healthcare,services
-SRTA,"Strata Critical Medical, Inc.",healthcare,services
-TOI,"The Oncology Institute, Inc.",healthcare,services
-CCRN,"Cross Country Healthcare, Inc.",healthcare,services
-CYH,"Community Health Systems, Inc.",healthcare,services
-AIRS,"AirSculpt Technologies, Inc.",healthcare,services
-AUNA,Auna S.A.,healthcare,services
-WW,"WW International, Inc.",healthcare,services
-JYNT,The Joint Corp.,healthcare,services
-PARK,"Park Dental Partners, Inc.",healthcare,services
-PIII,P3 Health Partners Inc.,healthcare,services
-BTMD,biote Corp.,healthcare,services
-DCGO,DocGo Inc.,healthcare,services
-CCEL,"Cryo-Cell International, Inc.",healthcare,services
-CCM,Concord Medical Services Holdings Limited,healthcare,services
-BMGL,Basel Medical Group Ltd,healthcare,services
-AMS,American Shared Hospital Services,healthcare,services
-NIVF,NewGenIvf Group Limited,healthcare,services
-TMO,Thermo Fisher Scientific Inc.,healthcare,life_science
-DHR,Danaher Corporation,healthcare,life_science
-IDXX,"IDEXX Laboratories, Inc.",healthcare,life_science
-A,"Agilent Technologies, Inc.",healthcare,life_science
-WAT,Waters Corporation,healthcare,life_science
-NTRA,"Natera, Inc.",healthcare,life_science
-IQV,IQVIA Holdings Inc.,healthcare,life_science
-ILMN,"Illumina, Inc.",healthcare,life_science
-MTD,Mettler-Toledo International Inc.,healthcare,life_science
-DGX,Quest Diagnostics Incorporated,healthcare,life_science
-LH,Labcorp Holdings Inc.,healthcare,life_science
-GH,"Guardant Health, Inc.",healthcare,life_science
-MEDP,"Medpace Holdings, Inc.",healthcare,life_science
-ICLR,ICON Public Limited Company,healthcare,life_science
-RVTY,"Revvity, Inc.",healthcare,life_science
-CRL,"Charles River Laboratories International, Inc.",healthcare,life_science
-QGEN,Qiagen N.V.,healthcare,life_science
-BLLN,"BillionToOne, Inc.",healthcare,life_science
-SHC,Sotera Health Company,healthcare,life_science
-TWST,Twist Bioscience Corporation,healthcare,life_science
-RDNT,"RadNet, Inc.",healthcare,life_science
-VCYT,"Veracyte, Inc.",healthcare,life_science
-ADPT,Adaptive Biotechnologies Corporation,healthcare,life_science
-GRAL,"GRAIL, Inc.",healthcare,life_science
-WGS,GeneDx Holdings Corp.,healthcare,life_science
-NEO,"NeoGenomics, Inc.",healthcare,life_science
-CDNA,"CareDx, Inc.",healthcare,life_science
-PSNL,"Personalis, Inc.",healthcare,life_science
-OPK,"OPKO Health, Inc.",healthcare,life_science
-CSTL,"Castle Biosciences, Inc.",healthcare,life_science
-FLGT,"Fulgent Genetics, Inc.",healthcare,life_science
-MYGN,"Myriad Genetics, Inc.",healthcare,life_science
-PRE,Prenetics Global Limited,healthcare,life_science
-IMDX,Insight Molecular Diagnostics Inc.,healthcare,life_science
-BDSX,"Biodesix, Inc.",healthcare,life_science
-XGN,Exagen Inc.,healthcare,life_science
-BNR,Burning Rock Biotech Limited,healthcare,life_science
-PRPO,"Precipio, Inc.",healthcare,life_science
-MDXH,MDxHealth SA,healthcare,life_science
-QUCY,Quantum Cyber N.V.,healthcare,life_science
-XWEL,"XWELL, Inc.",healthcare,life_science
-MBAI,Check-Cap Ltd.,healthcare,life_science
-BIAF,"bioAffinity Technologies, Inc.",healthcare,life_science
-ADVB,Advanced Biomed Inc.,healthcare,life_science
-NOTV,"Inotiv, Inc.",healthcare,life_science
-NDRA,ENDRA Life Sciences Inc.,healthcare,life_science
-ISPC,iSpecimen Inc.,healthcare,life_science
-VEEV,Veeva Systems Inc.,healthcare,life_science
-BTSG,"BrightSpring Health Services, Inc.",healthcare,life_science
-TEM,"Tempus AI, Inc.",healthcare,life_science
-HQY,"HealthEquity, Inc.",healthcare,life_science
-HNGE,"Hinge Health, Inc.",healthcare,life_science
-TXG,"10x Genomics, Inc.",healthcare,life_science
-WAY,Waystar Holding Corp.,healthcare,life_science
-DOCS,"Doximity, Inc.",healthcare,life_science
-PRVA,"Privia Health Group, Inc.",healthcare,life_science
-HTFL,"HeartFlow, Inc.",healthcare,life_science
-OMCL,"Omnicell, Inc.",healthcare,life_science
-TDOC,"Teladoc Health, Inc.",healthcare,life_science
-SDGR,"SchrÃ¶dinger, Inc.",healthcare,life_science
-OMDA,"Omada Health, Inc.",healthcare,life_science
-GDRX,"GoodRx Holdings, Inc.",healthcare,life_science
-TALK,"Talkspace, Inc.",healthcare,life_science
-CERT,"Certara, Inc.",healthcare,life_science
-HSTM,"HealthStream, Inc.",healthcare,life_science
-PHR,"Phreesia, Inc.",healthcare,life_science
-EVH,"Evolent Health, Inc.",healthcare,life_science
-WEAV,"Weave Communications, Inc.",healthcare,life_science
-CTEV,Claritev Corporation,healthcare,life_science
-NRC,NRC Health,healthcare,life_science
-TBRG,"TruBridge, Inc.",healthcare,life_science
-SOPH,SOPHiA GENETICS SA,healthcare,life_science
-SLP,"Simulations Plus, Inc.",healthcare,life_science
-CARL,"Carlsmed, Inc.",healthcare,life_science
-LFMD,"LifeMD, Inc.",healthcare,life_science
-SPOK,"Spok Holdings, Inc.",healthcare,life_science
-SY,So-Young International Inc.,healthcare,life_science
-AMWL,American Well Corporation,healthcare,life_science
-HCAT,"Health Catalyst, Inc.",healthcare,life_science
-DH,Definitive Healthcare Corp.,healthcare,life_science
-CCLD,"CareCloud, Inc.",healthcare,life_science
-OPRX,OptimizeRx Corporation,healthcare,life_science
-DRIO,DarioHealth Corp.,healthcare,life_science
-BEAT,"HeartBeam, Inc.",healthcare,life_science
-ONMD,OneMedNet Corporation,healthcare,life_science
-BFRG,"Bullfrog AI Holdings, Inc.",healthcare,life_science
-ACON,"Aclarion, Inc.",healthcare,life_science
-VSEE,"VSee Health, Inc.",healthcare,life_science
-MGRX,"Mangoceuticals, Inc.",healthcare,life_science
-HCTI,"Healthcare Triangle, Inc.",healthcare,life_science
 MNDR,Mobile-health Network Solutions,healthcare,life_science
-ZCMD,Zhongchao Inc.,healthcare,life_science
-LLY,Eli Lilly and Company,healthcare,pharma
-JNJ,Johnson & Johnson,healthcare,pharma
-ABBV,AbbVie Inc.,healthcare,pharma
-MRK,"Merck & Co., Inc.",healthcare,pharma
-AZN,AstraZeneca PLC,healthcare,pharma
-NVS,Novartis AG,healthcare,pharma
-NVO,Novo Nordisk A/S,healthcare,pharma
-AMGN,Amgen Inc.,healthcare,pharma
-GILD,"Gilead Sciences, Inc.",healthcare,pharma
-PFE,Pfizer Inc.,healthcare,pharma
-BMY,Bristol-Myers Squibb Company,healthcare,pharma
-SNY,Sanofi,healthcare,pharma
-GSK,GSK plc,healthcare,pharma
-BIIB,Biogen Inc.,healthcare,pharma
-GRFS,"Grifols, S.A.",healthcare,pharma
-OGN,Organon & Co.,healthcare,pharma
-AMRN,Amarin Corporation plc,healthcare,pharma
-SCLX,Scilex Holding Company,healthcare,pharma
-MIRA,"MIRA Pharmaceuticals, Inc.",healthcare,pharma
-NSRX,Nasus Pharma Ltd.,healthcare,pharma
-MDCX,Medicus Pharma Ltd.,healthcare,pharma
-MCK,McKesson Corporation,healthcare,services
-COR,"Cencora, Inc.",healthcare,services
-CAH,"Cardinal Health, Inc.",healthcare,services
-HSIC,"Henry Schein, Inc.",healthcare,services
-AHG,Akso Health Group,healthcare,services
-ACH,"Accendra Health, Inc.",healthcare,services
-EMPG,Empro Group Inc.,healthcare,services
-YI,"111, Inc.",healthcare,services
-COSM,Cosmos Health Inc.,healthcare,services
-HKPD,"Cellyan Biotechnology Co., Ltd",healthcare,services
-SNYR,Synergy CHC Corp.,healthcare,services
-UNH,UnitedHealth Group Incorporated,healthcare,insurance
-CVS,CVS Health Corporation,healthcare,insurance
-ELV,"Elevance Health, Inc.",healthcare,insurance
-CI,The Cigna Group,healthcare,insurance
-HUM,Humana Inc.,healthcare,insurance
-CNC,Centene Corporation,healthcare,insurance
+MNKD,MannKind Corporation,healthcare,biotechnology
+MNOV,"MediciNova, Inc.",healthcare,biotechnology
+MNPR,Monopar Therapeutics Inc.,healthcare,biotechnology
+MOBI,"Mobia Medical, Inc.",healthcare,devices
+MODD,"Modular Medical, Inc.",healthcare,devices
 MOH,"Molina Healthcare, Inc.",healthcare,insurance
+MOLN,Molecular Partners AG,healthcare,biotechnology
+MPLT,"MapLight Therapeutics, Inc.",healthcare,biotechnology
+MREO,Mereo BioPharma Group plc,healthcare,biotechnology
+MRK,"Merck & Co., Inc.",healthcare,pharma
+MRKR,"Marker Therapeutics, Inc.",healthcare,biotechnology
+MRNA,"Moderna, Inc.",healthcare,biotechnology
+MRVI,"Maravai LifeSciences Holdings, Inc.",healthcare,biotechnology
+MTD,Mettler-Toledo International Inc.,healthcare,life_science
+MTNB,"Matinas BioPharma Holdings, Inc.",healthcare,biotechnology
+MTVA,MetaVia Inc.,healthcare,biotechnology
+MXCT,"MaxCyte, Inc.",healthcare,devices
+MYGN,"Myriad Genetics, Inc.",healthcare,life_science
+MYO,"Myomo, Inc.",healthcare,devices
+NAGE,"Niagen Bioscience, Inc.",healthcare,biotechnology
+NAMS,NewAmsterdam Pharma Company N.V.,healthcare,biotechnology
+NAUT,"Nautilus Biotechnology, Inc.",healthcare,biotechnology
+NBIX,"Neurocrine Biosciences, Inc.",healthcare,pharma
+NBP,NovaBridge Biosciences,healthcare,biotechnology
+NBTX,Nanobiotix S.A.,healthcare,biotechnology
+NCEL,NewcelX Ltd.,healthcare,biotechnology
+NCNA,NuCana plc,healthcare,biotechnology
+NDRA,ENDRA Life Sciences Inc.,healthcare,life_science
+NEO,"NeoGenomics, Inc.",healthcare,life_science
+NEOG,Neogen Corporation,healthcare,devices
+NEPH,"Nephros, Inc.",healthcare,devices
+NERV,"Minerva Neurosciences, Inc.",healthcare,biotechnology
+NEUP,Neuphoria Therapeutics Inc.,healthcare,biotechnology
+NGEN,NervGen Pharma Corp.,healthcare,biotechnology
+NGNE,Neurogene Inc.,healthcare,biotechnology
+NHC,National HealthCare Corporation,healthcare,services
+NIVF,NewGenIvf Group Limited,healthcare,services
+NKTR,Nektar Therapeutics,healthcare,biotechnology
+NKTX,"Nkarta, Inc.",healthcare,biotechnology
+NMRA,"Neumora Therapeutics, Inc.",healthcare,biotechnology
+NMTC,NeuroOne Medical Technologies Corporation,healthcare,devices
+NNNN,Anbio Biotechnology,healthcare,devices
+NNOX,Nano-X Imaging Ltd.,healthcare,devices
+NNVC,"NanoViricides, Inc.",healthcare,biotechnology
+NOTV,"Inotiv, Inc.",healthcare,life_science
+NPCE,"NeuroPace, Inc.",healthcare,devices
+NRC,NRC Health,healthcare,life_science
+NRIX,"Nurix Therapeutics, Inc.",healthcare,biotechnology
+NRSN,NeuroSense Therapeutics Ltd.,healthcare,biotechnology
+NRXP,"NRx Pharmaceuticals, Inc.",healthcare,biotechnology
+NRXS,"NeurAxis, Inc.",healthcare,biotechnology
+NSPR,"InspireMD, Inc.",healthcare,devices
+NSRX,Nasus Pharma Ltd.,healthcare,pharma
+NSYS,Nortech Systems Incorporated,healthcare,devices
+NTHI,"NeOnc Technologies Holdings, Inc.",healthcare,biotechnology
+NTLA,"Intellia Therapeutics, Inc.",healthcare,biotechnology
+NTRA,"Natera, Inc.",healthcare,life_science
+NTRB,Nutriband Inc.,healthcare,biotechnology
+NUTX,Nutex Health Inc.,healthcare,services
+NUVB,Nuvation Bio Inc.,healthcare,biotechnology
+NUVL,"Nuvalent, Inc.",healthcare,biotechnology
+NUWE,"Nuwellis, Inc.",healthcare,devices
+NVAX,"Novavax, Inc.",healthcare,biotechnology
+NVCR,NovoCure Limited,healthcare,devices
+NVCT,"Nuvectis Pharma, Inc.",healthcare,biotechnology
+NVNO,enVVeno Medical Corporation,healthcare,devices
+NVO,Novo Nordisk A/S,healthcare,pharma
+NVS,Novartis AG,healthcare,pharma
+NVST,Envista Holdings Corporation,healthcare,devices
+NXGL,"NEXGEL, Inc.",healthcare,devices
+NXL,"Nexalin Technology, Inc.",healthcare,devices
+NXTC,"NextCure, Inc.",healthcare,biotechnology
+NYXH,Nyxoah SA,healthcare,devices
+OABI,"OmniAb, Inc.",healthcare,biotechnology
+OBIO,"Orchestra BioMed Holdings, Inc.",healthcare,biotechnology
+OCGN,"Ocugen, Inc.",healthcare,biotechnology
+OCS,Oculis Holding AG,healthcare,biotechnology
+OCUL,"Ocular Therapeutix, Inc.",healthcare,biotechnology
+ODTX,"Odyssey Therapeutics, Inc.",healthcare,biotechnology
+OFIX,Orthofix Medical Inc.,healthcare,devices
+OGEN,"Oragenics, Inc.",healthcare,biotechnology
+OGI,Organigram Global Inc.,healthcare,pharma
+OGN,Organon & Co.,healthcare,pharma
+OKUR,"OnKure Therapeutics, Inc.",healthcare,biotechnology
+OKYO,OKYO Pharma Limited,healthcare,biotechnology
+OLMA,"Olema Pharmaceuticals, Inc.",healthcare,biotechnology
+OM,"Outset Medical, Inc.",healthcare,devices
+OMCL,"Omnicell, Inc.",healthcare,life_science
+OMDA,"Omada Health, Inc.",healthcare,life_science
+OMER,Omeros Corporation,healthcare,biotechnology
+ONC,BeOne Medicines AG,healthcare,biotechnology
+ONCO,"Onconetix, Inc.",healthcare,biotechnology
+ONCY,Oncolytics Biotech Inc.,healthcare,biotechnology
+ONMD,OneMedNet Corporation,healthcare,life_science
+OPCH,"Option Care Health, Inc.",healthcare,services
+OPK,"OPKO Health, Inc.",healthcare,life_science
+OPRX,OptimizeRx Corporation,healthcare,life_science
+OPTH,Optimi Health Corp.,healthcare,pharma
+ORGO,Organogenesis Holdings Inc.,healthcare,pharma
+ORIC,"ORIC Pharmaceuticals, Inc.",healthcare,biotechnology
+ORKA,"Oruka Therapeutics, Inc.",healthcare,biotechnology
+ORMP,Oramed Pharmaceuticals Inc.,healthcare,biotechnology
 OSCR,"Oscar Health, Inc.",healthcare,insurance
-ALHC,"Alignment Healthcare, Inc.",healthcare,insurance
-PGNY,"Progyny, Inc.",healthcare,insurance
-CLOV,"Clover Health Investments, Corp.",healthcare,insurance
-HITI,High Tide Inc.,healthcare,services
+OSRH,"OSR Holdings, Inc.",healthcare,biotechnology
+OSTX,OS Therapies Incorporated,healthcare,biotechnology
+OSUR,"OraSure Technologies, Inc.",healthcare,devices
+OTLK,"Outlook Therapeutics, Inc.",healthcare,biotechnology
+OVID,Ovid Therapeutics Inc.,healthcare,biotechnology
+OWLT,"Owlet, Inc.",healthcare,devices
+PACB,"Pacific Biosciences of California, Inc.",healthcare,devices
+PACS,"PACS Group, Inc.",healthcare,services
+PAHC,Phibro Animal Health Corporation,healthcare,pharma
+PALI,"Palisade Bio, Inc.",healthcare,biotechnology
+PARK,"Park Dental Partners, Inc.",healthcare,services
+PASG,"Passage Bio, Inc.",healthcare,biotechnology
+PAVM,PAVmed Inc.,healthcare,devices
+PBH,Prestige Consumer Healthcare Inc.,healthcare,pharma
+PBM,Psyence Biomedical Ltd.,healthcare,biotechnology
+PBYI,"Puma Biotechnology, Inc.",healthcare,biotechnology
+PCRX,"Pacira BioSciences, Inc.",healthcare,pharma
+PCSA,"Processa Pharmaceuticals, Inc.",healthcare,biotechnology
+PCVX,"Vaxcyte, Inc.",healthcare,biotechnology
+PDEX,"Pro-Dex, Inc.",healthcare,devices
+PDSB,PDS Biotechnology Corporation,healthcare,biotechnology
+PEN,"Penumbra, Inc.",healthcare,devices
+PEPG,PepGen Inc.,healthcare,biotechnology
 PETS,"PetMed Express, Inc.",healthcare,services
-SCNX,"Scienture Holdings, Inc.",healthcare,services
+PFE,Pfizer Inc.,healthcare,pharma
+PFSA,"Profusa, Inc.",healthcare,devices
+PGEN,"Precigen, Inc.",healthcare,biotechnology
+PGNY,"Progyny, Inc.",healthcare,insurance
+PHAR,Pharming Group N.V.,healthcare,biotechnology
+PHAT,"Phathom Pharmaceuticals, Inc.",healthcare,biotechnology
+PHG,Koninklijke Philips N.V.,healthcare,devices
+PHGE,BiomX Inc.,healthcare,biotechnology
+PHIO,Phio Pharmaceuticals Corp.,healthcare,biotechnology
+PHR,"Phreesia, Inc.",healthcare,life_science
+PHVS,Pharvaris N.V.,healthcare,biotechnology
+PIII,P3 Health Partners Inc.,healthcare,services
+PLRX,"Pliant Therapeutics, Inc.",healthcare,biotechnology
+PLRZ,Polyrizon Ltd.,healthcare,biotechnology
+PLSE,"Pulse Biosciences, Inc.",healthcare,devices
+PLSM,Pulsenmore Ltd.,healthcare,devices
+PLUR,Pluri Inc.,healthcare,biotechnology
+PLX,"Protalix BioTherapeutics, Inc.",healthcare,biotechnology
+PLYX,"Polaryx Therapeutics, Inc.",healthcare,biotechnology
+PMCB,"PharmaCyte Biotech, Inc.",healthcare,biotechnology
+PMI,"Picard Medical, Inc.",healthcare,devices
+PMN,"ProMIS Neurosciences, Inc.",healthcare,biotechnology
+PMVP,"PMV Pharmaceuticals, Inc.",healthcare,biotechnology
+PNTG,"The Pennant Group, Inc.",healthcare,services
+POAS,Phaos Technology Holdings (Cayman) Limited,healthcare,devices
+POCI,"Precision Optics Corporation, Inc.",healthcare,devices
+PODD,Insulet Corporation,healthcare,devices
 POM,Pomdoctor Limited,healthcare,services
-WGRX,"Wellgistics Health, Inc.",healthcare,services
+PPBT,Purple Biotech Ltd,healthcare,biotechnology
+PPCB,"Propanc Biopharma, Inc.",healthcare,biotechnology
+PRAX,"Praxis Precision Medicines, Inc.",healthcare,biotechnology
+PRCT,PROCEPT BioRobotics Corporation,healthcare,devices
+PRE,Prenetics Global Limited,healthcare,life_science
+PRFX,PRF Technologies Ltd.,healthcare,pharma
+PRGO,Perrigo Company plc,healthcare,pharma
+PRLD,Prelude Therapeutics Incorporated,healthcare,biotechnology
+PRME,"Prime Medicine, Inc.",healthcare,biotechnology
+PROF,Profound Medical Corp.,healthcare,devices
+PROK,ProKidney Corp.,healthcare,biotechnology
+PRPO,"Precipio, Inc.",healthcare,life_science
+PRQR,ProQR Therapeutics N.V.,healthcare,biotechnology
+PRTA,Prothena Corporation plc,healthcare,biotechnology
+PRVA,"Privia Health Group, Inc.",healthcare,life_science
+PSNL,"Personalis, Inc.",healthcare,life_science
+PSTV,"Plus Therapeutics, Inc.",healthcare,biotechnology
+PTCT,"PTC Therapeutics, Inc.",healthcare,biotechnology
+PTGX,"Protagonist Therapeutics, Inc.",healthcare,biotechnology
+PTHS,Pelthos Therapeutics Inc.,healthcare,biotechnology
+PTN,"Palatin Technologies, Inc.",healthcare,biotechnology
+PULM,"Pulmatrix, Inc.",healthcare,biotechnology
+PVLA,"Palvella Therapeutics, Inc.",healthcare,biotechnology
+PYPD,PolyPid Ltd.,healthcare,biotechnology
+PYXS,"Pyxis Oncology, Inc.",healthcare,biotechnology
+QDEL,QuidelOrtho Corporation,healthcare,devices
+QGEN,Qiagen N.V.,healthcare,life_science
+QNCX,"Quince Therapeutics, Inc.",healthcare,biotechnology
+QNRX,"Quoin Pharmaceuticals, Ltd.",healthcare,biotechnology
+QNTM,Quantum BioPharma Ltd.,healthcare,biotechnology
+QSI,Quantum-Si incorporated,healthcare,devices
+QTI,"QT Imaging Holdings, Inc.",healthcare,devices
+QTRX,Quanterix Corporation,healthcare,devices
+QTTB,Q32 Bio Inc.,healthcare,biotechnology
+QUCY,Quantum Cyber N.V.,healthcare,life_science
+QURE,uniQure N.V.,healthcare,biotechnology
+RADX,Radiopharm Theranostics Limited,healthcare,biotechnology
+RANI,"Rani Therapeutics Holdings, Inc.",healthcare,biotechnology
+RAPP,"Rapport Therapeutics, Inc.",healthcare,biotechnology
+RARE,Ultragenyx Pharmaceutical Inc.,healthcare,biotechnology
+RCEL,"AVITA Medical, Inc.",healthcare,devices
+RCKT,"Rocket Pharmaceuticals, Inc.",healthcare,biotechnology
+RCUS,"Arcus Biosciences, Inc.",healthcare,biotechnology
 RDGT,"Ridgetech, Inc.",healthcare,services
+RDHL,RedHill Biopharma Ltd.,healthcare,pharma
+RDNT,"RadNet, Inc.",healthcare,life_science
+RDY,Dr. Reddy's Laboratories Limited,healthcare,pharma
+REGN,"Regeneron Pharmaceuticals, Inc.",healthcare,biotechnology
+REPL,"Replimune Group, Inc.",healthcare,biotechnology
+REVB,"Revelation Biosciences, Inc.",healthcare,biotechnology
+RGC,Regencell Bioscience Holdings Limited,healthcare,pharma
+RGEN,Repligen Corporation,healthcare,devices
+RGNT,Regentis Biomaterials Ltd.,healthcare,devices
+RGNX,REGENXBIO Inc.,healthcare,biotechnology
+RIGL,"Rigel Pharmaceuticals, Inc.",healthcare,biotechnology
+RLAY,"Relay Therapeutics, Inc.",healthcare,biotechnology
+RLMD,"Relmada Therapeutics, Inc.",healthcare,biotechnology
+RLYB,Rallybio Corporation,healthcare,biotechnology
+RMD,ResMed Inc.,healthcare,devices
+RMTI,"Rockwell Medical, Inc.",healthcare,pharma
+RNA,"Atrium Therapeutics, Inc.",healthcare,biotechnology
+RNAC,"Cartesian Therapeutics, Inc.",healthcare,biotechnology
+RNAZ,"TransCode Therapeutics, Inc.",healthcare,biotechnology
+RNTX,Rein Therapeutics Inc.,healthcare,biotechnology
+RNXT,"RenovoRx, Inc.",healthcare,biotechnology
+ROIV,Roivant Sciences Ltd.,healthcare,biotechnology
+RPID,"Rapid Micro Biosystems, Inc.",healthcare,devices
+RPRX,Royalty Pharma plc,healthcare,biotechnology
+RVMD,"Revolution Medicines, Inc.",healthcare,biotechnology
+RVP,"Retractable Technologies, Inc.",healthcare,devices
+RVTY,"Revvity, Inc.",healthcare,life_science
+RXRX,"Recursion Pharmaceuticals, Inc.",healthcare,biotechnology
+RXST,"RxSight, Inc.",healthcare,devices
+RYTM,"Rhythm Pharmaceuticals, Inc.",healthcare,biotechnology
+RZLT,"Rezolute, Inc.",healthcare,biotechnology
+SABS,"SAB Biotherapeutics, Inc.",healthcare,biotechnology
+SANA,"Sana Biotechnology, Inc.",healthcare,biotechnology
+SBFM,"Sunshine Biopharma, Inc.",healthcare,pharma
+SCLX,Scilex Holding Company,healthcare,pharma
+SCNI,Scinai Immunotherapeutics Ltd.,healthcare,biotechnology
+SCNX,"Scienture Holdings, Inc.",healthcare,services
+SCYX,"SCYNEXIS, Inc.",healthcare,pharma
+SDGR,"SchrÃ¶dinger, Inc.",healthcare,life_science
+SEER,"Seer, Inc.",healthcare,biotechnology
+SEM,Select Medical Holdings Corporation,healthcare,services
+SENS,"Senseonics Holdings, Inc.",healthcare,devices
+SEPN,"Septerna, Inc.",healthcare,biotechnology
+SER,"Serina Therapeutics, Inc.",healthcare,biotechnology
+SERA,"Sera Prognostics, Inc.",healthcare,devices
+SGHT,"Sight Sciences, Inc.",healthcare,devices
+SGMT,Sagimet Biosciences Inc.,healthcare,biotechnology
+SGP,"SpyGlass Pharma, Inc.",healthcare,biotechnology
+SGRY,"Surgery Partners, Inc.",healthcare,services
+SHC,Sotera Health Company,healthcare,life_science
+SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",healthcare,pharma
+SIBN,"SI-BONE, Inc.",healthcare,devices
+SIGA,"SIGA Technologies, Inc.",healthcare,pharma
+SILO,"Silo Pharma, Inc.",healthcare,biotechnology
+SINT,"Sintx Technologies, Inc.",healthcare,devices
+SION,"Sionna Therapeutics, Inc.",healthcare,biotechnology
+SKYE,"Skye Bioscience, Inc.",healthcare,biotechnology
+SLDB,Solid Biosciences Inc.,healthcare,biotechnology
+SLGL,Sol-Gel Technologies Ltd.,healthcare,biotechnology
+SLN,Silence Therapeutics plc,healthcare,biotechnology
+SLP,"Simulations Plus, Inc.",healthcare,life_science
+SLS,"SELLAS Life Sciences Group, Inc.",healthcare,biotechnology
+SLXN,Silexion Therapeutics Corp,healthcare,biotechnology
+SMMT,Summit Therapeutics Inc.,healthcare,biotechnology
+SMTI,Sanara MedTech Inc.,healthcare,devices
+SNDA,"Sonida Senior Living, Inc.",healthcare,services
+SNDX,"Syndax Pharmaceuticals, Inc.",healthcare,biotechnology
+SNGX,"Soligenix, Inc.",healthcare,biotechnology
+SNN,Smith & Nephew plc,healthcare,devices
+SNOA,"Sonoma Pharmaceuticals, Inc.",healthcare,pharma
+SNSE,"Sensei Biotherapeutics, Inc.",healthcare,biotechnology
+SNTI,"Senti Biosciences Holdings, Inc.",healthcare,biotechnology
+SNWV,"SANUWAVE Health, Inc.",healthcare,devices
+SNY,Sanofi,healthcare,pharma
+SNYR,Synergy CHC Corp.,healthcare,services
+SOLV,Solventum Corporation,healthcare,devices
+SOPH,SOPHiA GENETICS SA,healthcare,life_science
+SPOK,"Spok Holdings, Inc.",healthcare,life_science
+SPRB,"Spruce Biosciences, Inc.",healthcare,biotechnology
+SPRC,SciSparc Ltd.,healthcare,biotechnology
+SPRO,"Spero Therapeutics, Inc.",healthcare,biotechnology
+SPRY,"ARS Pharmaceuticals, Inc.",healthcare,biotechnology
+SPTX,"Seaport Therapeutics, Inc.",healthcare,biotechnology
+SRPT,"Sarepta Therapeutics, Inc.",healthcare,biotechnology
+SRRK,Scholar Rock Holding Corporation,healthcare,biotechnology
+SRTA,"Strata Critical Medical, Inc.",healthcare,services
+SRTS,"Sensus Healthcare, Inc.",healthcare,devices
+SRZN,"Surrozen, Inc.",healthcare,biotechnology
+SSII,"SS Innovations International, Inc.",healthcare,devices
+STAA,STAAR Surgical Company,healthcare,devices
+STE,STERIS plc,healthcare,devices
+STIM,"Neuronetics, Inc.",healthcare,devices
+STOK,"Stoke Therapeutics, Inc.",healthcare,biotechnology
+STRO,"Sutro Biopharma, Inc.",healthcare,biotechnology
+STTK,"Shattuck Labs, Inc.",healthcare,biotechnology
+STVN,Stevanato Group S.p.A.,healthcare,devices
+STXS,"Stereotaxis, Inc.",healthcare,devices
+SUPN,"Supernus Pharmaceuticals, Inc.",healthcare,pharma
+SVRA,Savara Inc.,healthcare,biotechnology
+SXTC,"China SXT Pharmaceuticals, Inc.",healthcare,pharma
+SXTP,"60 Degrees Pharmaceuticals, Inc.",healthcare,biotechnology
+SY,So-Young International Inc.,healthcare,life_science
+SYK,Stryker Corporation,healthcare,devices
+SYRE,"Spyre Therapeutics, Inc.",healthcare,biotechnology
+TAK,Takeda Pharmaceutical Company Limited,healthcare,pharma
+TALK,"Talkspace, Inc.",healthcare,life_science
+TARA,"Protara Therapeutics, Inc.",healthcare,biotechnology
+TARS,"Tarsus Pharmaceuticals, Inc.",healthcare,biotechnology
+TBPH,"Theravance Biopharma, Inc.",healthcare,biotechnology
+TBRG,"TruBridge, Inc.",healthcare,life_science
+TCMD,"Tactile Systems Technology, Inc.",healthcare,devices
+TCRT,"Alaunos Therapeutics, Inc.",healthcare,biotechnology
+TCRX,"TScan Therapeutics, Inc.",healthcare,biotechnology
+TDOC,"Teladoc Health, Inc.",healthcare,life_science
+TECH,Bio-Techne Corporation,healthcare,biotechnology
+TECX,"Tectonic Therapeutic, Inc.",healthcare,biotechnology
+TELA,"TELA Bio, Inc.",healthcare,devices
+TELO,"Telomir Pharmaceuticals, Inc.",healthcare,biotechnology
+TEM,"Tempus AI, Inc.",healthcare,life_science
+TENX,"Tenax Therapeutics, Inc.",healthcare,biotechnology
+TEVA,Teva Pharmaceutical Industries Limited,healthcare,pharma
+TFX,Teleflex Incorporated,healthcare,devices
+TGTX,"TG Therapeutics, Inc.",healthcare,biotechnology
+THC,Tenet Healthcare Corporation,healthcare,services
+TIL,"Instil Bio, Inc.",healthcare,biotechnology
+TKNO,"Alpha Teknova, Inc.",healthcare,pharma
+TLPH,"Talphera, Inc.",healthcare,pharma
+TLRY,"Tilray Brands, Inc.",healthcare,pharma
+TLSA,Tiziana Life Sciences Ltd,healthcare,biotechnology
+TLSI,"TriSalus Life Sciences, Inc.",healthcare,devices
+TLX,Telix Pharmaceuticals Limited,healthcare,biotechnology
+TMCI,"Treace Medical Concepts, Inc.",healthcare,devices
+TMDX,"TransMedics Group, Inc.",healthcare,devices
+TMO,Thermo Fisher Scientific Inc.,healthcare,life_science
+TNDM,"Tandem Diabetes Care, Inc.",healthcare,devices
+TNGX,"Tango Therapeutics, Inc.",healthcare,biotechnology
+TNON,"Tenon Medical, Inc.",healthcare,devices
+TNXP,Tonix Pharmaceuticals Holding Corp.,healthcare,biotechnology
+TNYA,"Tenaya Therapeutics, Inc.",healthcare,biotechnology
+TOI,"The Oncology Institute, Inc.",healthcare,services
+TOVX,"Theriva Biologics, Inc.",healthcare,biotechnology
+TPST,"Tempest Therapeutics, Inc.",healthcare,biotechnology
+TRAW,"Traws Pharma, Inc.",healthcare,biotechnology
+TRAX,"First Tracks Biotherapeutics, Inc.",healthcare,biotechnology
+TRDA,"Entrada Therapeutics, Inc.",healthcare,biotechnology
+TRIB,Trinity Biotech plc,healthcare,devices
+TRVI,"Trevi Therapeutics, Inc.",healthcare,biotechnology
+TSHA,"Taysha Gene Therapies, Inc.",healthcare,biotechnology
+TTRX,Turn Therapeutics Inc.,healthcare,biotechnology
+TVGN,Tevogen Bio Holdings Inc.,healthcare,biotechnology
+TVRD,"Tvardi Therapeutics, Inc.",healthcare,biotechnology
+TVTX,"Travere Therapeutics, Inc.",healthcare,biotechnology
+TWST,Twist Bioscience Corporation,healthcare,life_science
+TXG,"10x Genomics, Inc.",healthcare,life_science
+TXMD,"TherapeuticsMD, Inc.",healthcare,pharma
+TYRA,"Tyra Biosciences, Inc.",healthcare,biotechnology
+UFPT,"UFP Technologies, Inc.",healthcare,devices
+UHS,"Universal Health Services, Inc.",healthcare,services
+UNCY,"Unicycive Therapeutics, Inc.",healthcare,biotechnology
+UNH,UnitedHealth Group Incorporated,healthcare,insurance
+UPB,"Upstream Bio, Inc.",healthcare,biotechnology
+UPC,Universe Pharmaceuticals INC,healthcare,pharma
+URGN,UroGen Pharma Ltd.,healthcare,biotechnology
+USPH,"U.S. Physical Therapy, Inc.",healthcare,services
+UTHR,United Therapeutics Corporation,healthcare,pharma
+UTMD,"Utah Medical Products, Inc.",healthcare,devices
+VALN,Valneva SE,healthcare,biotechnology
+VANI,"Vivani Medical, Inc.",healthcare,biotechnology
+VBIO,"Valion Bio, Inc.",healthcare,biotechnology
+VCEL,Vericel Corporation,healthcare,biotechnology
+VCYT,"Veracyte, Inc.",healthcare,life_science
+VEEV,Veeva Systems Inc.,healthcare,life_science
+VERA,"Vera Therapeutics, Inc.",healthcare,biotechnology
+VERU,Veru Inc.,healthcare,biotechnology
+VIR,"Vir Biotechnology, Inc.",healthcare,biotechnology
+VIVS,"VivoSim Labs, Inc.",healthcare,biotechnology
+VKTX,"Viking Therapeutics, Inc.",healthcare,biotechnology
+VMD,"Viemed Healthcare, Inc.",healthcare,devices
+VNDA,Vanda Pharmaceuticals Inc.,healthcare,biotechnology
+VNRX,VolitionRx Limited,healthcare,devices
+VOR,Vor Biopharma Inc.,healthcare,biotechnology
+VRAX,Virax Biolabs Group Limited,healthcare,biotechnology
+VRCA,Verrica Pharmaceuticals Inc.,healthcare,biotechnology
+VRDN,"Viridian Therapeutics, Inc.",healthcare,biotechnology
+VREX,Varex Imaging Corporation,healthcare,devices
+VRTX,Vertex Pharmaceuticals Incorporated,healthcare,biotechnology
+VSEE,"VSee Health, Inc.",healthcare,life_science
+VSTM,"Verastem, Inc.",healthcare,biotechnology
+VTAK,"Catheter Precision, Inc.",healthcare,devices
+VTGN,"Vistagen Therapeutics, Inc.",healthcare,biotechnology
+VTRS,Viatris Inc.,healthcare,pharma
+VTVT,vTv Therapeutics Inc.,healthcare,biotechnology
+VVOS,"Vivos Therapeutics, Inc.",healthcare,devices
+VYGR,"Voyager Therapeutics, Inc.",healthcare,biotechnology
+VYNE,VYNE Therapeutics Inc.,healthcare,biotechnology
+WAT,Waters Corporation,healthcare,life_science
+WAY,Waystar Holding Corp.,healthcare,life_science
+WEAV,"Weave Communications, Inc.",healthcare,life_science
+WGRX,"Wellgistics Health, Inc.",healthcare,services
+WGS,GeneDx Holdings Corp.,healthcare,life_science
+WHWK,"Whitehawk Therapeutics, Inc.",healthcare,biotechnology
+WOK,WORK Medical Technology Group LTD,healthcare,devices
+WRBY,Warby Parker Inc.,healthcare,devices
+WST,"West Pharmaceutical Services, Inc.",healthcare,devices
+WVE,Wave Life Sciences Ltd.,healthcare,biotechnology
+WW,"WW International, Inc.",healthcare,services
+XAIR,"Beyond Air, Inc.",healthcare,devices
+XBIO,"Xenetic Biosciences, Inc.",healthcare,biotechnology
+XBIT,XBiotech Inc.,healthcare,biotechnology
+XCUR,"Exicure, Inc.",healthcare,biotechnology
+XENE,Xenon Pharmaceuticals Inc.,healthcare,biotechnology
+XERS,"Xeris Biopharma Holdings, Inc.",healthcare,pharma
+XFOR,"X4 Pharmaceuticals, Inc.",healthcare,biotechnology
+XGN,Exagen Inc.,healthcare,life_science
+XLO,"Xilio Therapeutics, Inc.",healthcare,biotechnology
+XNCR,"Xencor, Inc.",healthcare,biotechnology
+XOMA,XOMA Royalty Corporation,healthcare,biotechnology
+XRAY,DENTSPLY SIRONA Inc.,healthcare,devices
+XTLB,XTL Biopharmaceuticals Ltd.,healthcare,biotechnology
+XTNT,"Xtant Medical Holdings, Inc.",healthcare,devices
+XWEL,"XWELL, Inc.",healthcare,life_science
+YCBD,"cbdMD, Inc.",healthcare,pharma
+YDES,YD Bio Limited,healthcare,biotechnology
+YI,"111, Inc.",healthcare,services
+ZBH,"Zimmer Biomet Holdings, Inc.",healthcare,devices
+ZBIO,"Zenas BioPharma, Inc.",healthcare,biotechnology
+ZCMD,Zhongchao Inc.,healthcare,life_science
+ZJYL,Jin Medical International Ltd.,healthcare,devices
+ZLAB,Zai Lab Limited,healthcare,biotechnology
+ZNTL,"Zentalis Pharmaceuticals, Inc.",healthcare,biotechnology
+ZTEK,Zentek Ltd.,healthcare,devices
+ZTS,Zoetis Inc.,healthcare,pharma
+ZURA,Zura Bio Limited,healthcare,biotechnology
+ZVRA,"Zevra Therapeutics, Inc.",healthcare,biotechnology
+ZYBT,Zhengye Biotechnology Holding Limited,healthcare,pharma
+ZYME,Zymeworks Inc.,healthcare,biotechnology

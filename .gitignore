@@ -1,8 +1,13 @@
 converted/
-dividends/
 downloaded/
 info/
 quotes/
+fundamentals/
+closing_prices/
+downloaded_closing_prices/
+sector-stocks/energy/closing_prices/*
+sector-stocks/healthcare/closing_prices/*
+
 
 technology_analysis.ipynb
 industrials_analysis.ipynb
@@ -11,3 +16,4 @@ Untitled.ipynb
 token.txt
 token.ipynb
 token-checkpoint.ipynb
+
